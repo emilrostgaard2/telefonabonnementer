@@ -5,7 +5,7 @@
   "logo": "telmore",
   "network": "TDC NET",
   "owner": "TDC Group (Nuuday)",
-  "url": "https://on.telmore.dk/t/t?a=1721073357&as=2098496514&t=2&tk=1",
+  "url": "https://on.telmore.dk/t/t?a=1721073357&as=2102885611&t=2&tk=1",
   "verify": false,
   "site": "https://www.telmore.dk/mobilabonnement",
   "founded": 1995,
@@ -17,12 +17,12 @@
    "fleksibilitet": 9.0,
    "service": 8.6
   },
-  "short": "Danmarks største lavprisselskab på TDC NET – stærk dækning, gode kampagner og eSIM.",
+  "short": "Danmarks største lavprisselskab på TDC NET – stærk dækning, gode introtilbud og eSIM.",
   "pros": [
    "Kører på TDC NET med landets bedste dækningsscore",
-   "Ofte stærke introtilbud (fx 26 kr. i 2 mdr.)",
+   "Stærke introtilbud (fx 50 GB til 69 kr./md. i 3 mdr.)",
    "Ingen binding og 0 kr. i oprettelse",
-   "eSIM og op til 3 ekstra datakort"
+   "eSIM og streamingpakker med op til 9 tjenester"
   ],
   "cons": [
    "Normalpriserne ligger over discountselskaberne",
@@ -36,7 +36,7 @@
   "network": "TT-netværket (Telenor/Norlys)",
   "owner": "Lebara Group (Waterland Private Equity)",
   "url": "https://go.adt228.com/t/t?a=1873806342&as=2102885611&t=2&tk=1",
-  "verify": true,
+  "verify": false,
   "site": "https://www.lebara.dk",
   "founded": 2001,
   "esim": true,
@@ -47,23 +47,23 @@
    "fleksibilitet": 9.0,
    "service": 6.4
   },
-  "short": "Prisvinder på store datamængder – 40 GB og fri tale for 49 kr. og gratis udlandsminutter.",
+  "short": "Prisvinder på store datamængder – 70 GB og fri tale for 59 kr. og op til 10 timers opkald til 60+ lande.",
   "pros": [
-   "Markedets laveste pris pr. GB",
-   "Fri tale fra 49 kr./md.",
-   "Inkluderede minutter til udlandet",
-   "Ingen binding, eSIM og WiFi-opkald"
+   "Fri tale og 70 GB for 59 kr./md.",
+   "Billigste abonnement fra 19 kr./md.",
+   "Inkluderede timer til opkald til 60+ lande",
+   "Ingen binding, eSIM og tilfredshedsgaranti"
   ],
   "cons": [
-   "Flere abonnementer er kun 4G",
-   "Mindre EU-data end konkurrenterne",
+   "Abonnementerne kører på 4G",
+   "Kun 20 GB EU-data på de store pakker",
    "Kundeservice primært online"
   ]
  },
  "lyca": {
   "name": "Lyca Mobile",
   "logo": "lyca-mobile",
-  "network": "TDC NET",
+  "network": "TT-netværket (Telenor/Norlys)",
   "owner": "Lyca Group",
   "url": "https://on.lycamobile.dk/t/t?a=1816729297&as=2102885611&t=2&tk=1",
   "verify": false,
@@ -77,16 +77,16 @@
    "fleksibilitet": 8.6,
    "service": 6.4
   },
-  "short": "Billige 30-dages pakker med 5G på TDC NET og opkald til 50+ lande – oplagt hvis du ringer til udlandet.",
+  "short": "Billige pakker på Norlys/Telenor-nettet med opkald til udlandet og stærke introtilbud.",
   "pros": [
-   "Pakker fra 19 kr. med 5G",
-   "Opkald til EU/USA inkluderet",
-   "Op til 500 GB data",
-   "Ingen binding"
+   "Abonnementer fra 19 kr./md.",
+   "200 GB og fri tale for 59 kr./md. i 6 mdr.",
+   "Inkluderede minutter til udlandet",
+   "Ingen binding og eSIM"
   ],
   "cons": [
+   "Kører på 4G",
    "Fri tale først fra 99 kr.-pakken",
-   "Pakkestruktur kan være uoverskuelig",
    "Begrænset fysisk service"
   ]
  },
@@ -95,8 +95,8 @@
   "logo": "oister-internet",
   "network": "3 (Hi3G)",
   "owner": "Hi3G Denmark",
-  "url": "https://go.adt256.com/t/t?a=1667317668&as=2098496514&t=2&tk=1",
-  "verify": true,
+  "url": "https://go.adt284.net/t/t?a=1666103641&as=2102885611&t=2&tk=1",
+  "verify": false,
   "site": "https://www.oister.dk/mobilabonnement",
   "founded": 2010,
   "esim": true,
@@ -107,17 +107,17 @@
    "fleksibilitet": 9.2,
    "service": 8.4
   },
-  "short": "3's lavprisbrand med 5G på alt, introrabat i 6 måneder og data-deling via 'Gi' en GiGA'.",
+  "short": "3's lavprisbrand med 5G på alt, introrabat i 6 måneder og Oister+ fordelsklub.",
   "pros": [
    "5G på alle abonnementer",
-   "100 GB fra 79 kr./md. de første 6 mdr.",
-   "Gratis eSIM og ingen oprettelse",
-   "Streaming-pakker med Disney+, Viaplay m.fl."
+   "100 GB for 79 kr./md. de første 6 mdr.",
+   "Fri data med 50 GB EU-data",
+   "Gratis eSIM og ingen oprettelse"
   ],
   "cons": [
    "Prisen stiger efter 6 måneder",
    "3's net har lavere dækningsscore i landområder",
-   "Fri data koster 199 kr. efter intro"
+   "Fri data koster 189 kr. efter intro"
   ]
  },
  "yousee": {
@@ -125,9 +125,8 @@
   "logo": "yousee",
   "network": "TDC NET",
   "owner": "TDC Group (Nuuday)",
-  "url": "https://yousee.dk/mobil/abonnementer",
+  "url": "https://at.yousee.dk/t/t?a=1697234454&as=2102885611&t=2&tk=1",
   "verify": false,
-  "noaffiliate": true,
   "site": "https://yousee.dk/mobil/abonnementer",
   "founded": 2007,
   "esim": true,
@@ -148,7 +147,7 @@
   "cons": [
    "Blandt markedets dyreste normalpriser",
    "Fri data koster 299 kr./md.",
-   "99 kr. i oprettelse i butik"
+   "Mindste abonnement kun 3 GB for 99 kr."
   ]
  },
  "flexii": {
@@ -157,7 +156,7 @@
   "network": "3 (Hi3G)",
   "owner": "Hi3G Denmark",
   "url": "https://go.adt256.com/t/t?a=1751759538&as=2102885611&t=2&tk=1",
-  "verify": true,
+  "verify": false,
   "site": "https://www.flexii.dk/mobilabonnement",
   "founded": 2016,
   "esim": true,
@@ -170,10 +169,10 @@
   },
   "short": "Billigste fri data i Danmark – 129 kr./md. det første år og byg-selv-abonnement.",
   "pros": [
-   "Fri data fra 129 kr./md. (første år)",
+   "Fri data fra 129 kr./md. (første år, 5G)",
    "Vælg mellem 4G- og 5G-pris",
-   "Billige børneabonnementer fra 17 kr.",
-   "14 dages returret, ingen binding"
+   "Byg-selv-abonnement fra 19 kr./md. i 3 mdr.",
+   "Ingen binding og gratis oprettelse"
   ],
   "cons": [
    "Ingen telefonsupport – kun chat",
@@ -184,10 +183,10 @@
  "greentel": {
   "name": "Greentel",
   "logo": "greentel",
-  "network": "TT-netværket (Norlys/Telenor)",
+  "network": "TT-netværket (Telenor/Norlys)",
   "owner": "Uafhængigt dansk selskab",
-  "url": "https://go.adt284.net/t/t?a=1666103641&as=2039465708&t=2&tk=1",
-  "verify": true,
+  "url": "https://go.adt256.com/t/t?a=1667317668&as=2102885611&t=2&tk=1",
+  "verify": false,
   "site": "https://www.greentel.dk/mobilabonnement",
   "founded": 2009,
   "esim": true,
@@ -198,17 +197,17 @@
    "fleksibilitet": 8.4,
    "service": 8.6
   },
-  "short": "Dansk og uafhængigt selskab med 5G på alle abonnementer og et klimafokus.",
+  "short": "Dansk og uafhængigt selskab på Norlys/Telenor-nettet med abonnementer fra 29 kr. og 5G på de større pakker.",
   "pros": [
-   "5G inkluderet på alle abonnementer",
-   "1000 GB for 189 kr./md.",
-   "Rabat for Ældre Sagen-medlemmer",
+   "Basis-abonnement fra 29 kr./md.",
+   "5G på abonnementerne fra 30 GB",
+   "Norlys/Telenor-nettet med høj dækningsscore",
    "Ingen binding og gratis oprettelse"
   ],
   "cons": [
-   "Betalingsservice koster 10 kr./md. ekstra",
-   "Ikke de laveste priser på små pakker",
-   "Mindre kendt brand"
+   "Små abonnementer kører på 4G",
+   "Lidt EU-data på 50 GB-pakken (15 GB)",
+   "Ikke de laveste priser på mellemstore pakker"
   ]
  },
  "duka": {
@@ -228,17 +227,75 @@
    "fleksibilitet": 8.8,
    "service": 8.2
   },
-  "short": "Dansk selskab med 5G, fri tale på alt og 'World'-abonnementer der dækker USA, Thailand og Tyrkiet.",
+  "short": "Dansk selskab med 5G og fri tale på næsten alt – og 200 GB for 79 kr./md. frem til 31.3.2027.",
   "pros": [
-   "Fri tale og 5G på alle abonnementer",
-   "30 GB for 55 kr./md. (kampagne)",
-   "World-abonnementer til rejser uden for EU",
-   "Ingen gebyrer for oprettelse"
+   "200 GB + fri tale for 79 kr./md. til 31.3.2027",
+   "5G på abonnementer med fri tale",
+   "Op til 75 GB EU-data",
+   "1000 GB for 179 kr./md."
   ],
   "cons": [
    "Ingen børne- eller familieabonnementer",
    "Fri data koster 199 kr./md.",
-   "Kampagner er tidsbegrænsede"
+   "Mindste abonnement er 4G med 6 timers tale"
+  ]
+ },
+ "cbb": {
+  "name": "CBB",
+  "logo": "cbb",
+  "network": "TT-netværket (Telenor/Norlys)",
+  "owner": "Telenor Danmark",
+  "url": "https://on.cbb.dk/t/t?a=1700024858&as=2102885611&t=2&tk=1",
+  "verify": false,
+  "site": "https://www.cbb.dk/shop/mobilabonnementer/",
+  "esim": true,
+  "score": 8.4,
+  "scores": {
+   "pris": 7.8,
+   "net": 8.8,
+   "fleksibilitet": 9.0,
+   "service": 8.4
+  },
+  "short": "Telenors lavprisbrand med 5G på alt og meget skarpe introtilbud – fx 39 kr./md. de første 2 måneder.",
+  "pros": [
+   "5G på alle abonnementer",
+   "Introtilbud fra 39 kr./md. i 2 mdr.",
+   "Kører på TT-netværket (Telenor/Norlys)",
+   "Streamingpakker med CBB Mix"
+  ],
+  "cons": [
+   "Normalpriserne er høje efter introperioden",
+   "Fri data koster 219 kr./md.",
+   "Streaming kræver CBB Mix"
+  ]
+ },
+ "eesy": {
+  "name": "eesy",
+  "logo": "eesy",
+  "network": "TDC NET",
+  "owner": "TDC Group (Nuuday)",
+  "url": "https://on.eesy.dk/t/t?a=1700040947&as=2102885611&t=2&tk=1",
+  "verify": false,
+  "site": "https://eesy.dk/",
+  "esim": true,
+  "score": 8.4,
+  "scores": {
+   "pris": 7.6,
+   "net": 9.4,
+   "fleksibilitet": 9.0,
+   "service": 7.8
+  },
+  "short": "TDC-koncernens digitale lavprisbrand på TDC NET – ingen gebyrer, ingen binding og introtilbud fra 35 kr./md.",
+  "pros": [
+   "Kører på TDC NET med landets bedste dækningsscore",
+   "Introtilbud fra 35 kr./md. i 2 mdr.",
+   "Ingen gebyrer og ingen binding",
+   "Fri data med 50 GB EU-data"
+  ],
+  "cons": [
+   "Normalpriserne stiger markant efter 2 måneder",
+   "Kun tre abonnementer at vælge imellem",
+   "Primært digital kundeservice"
   ]
  }
 }

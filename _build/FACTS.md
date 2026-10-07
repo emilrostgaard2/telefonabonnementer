@@ -50,7 +50,7 @@ Brug KUN tal herfra (eller fra data/plans.json + data/providers.json). Opfind ik
 
 ## eSIM
 - Apple liste over danske eSIM-selskaber: https://support.apple.com/da-dk/101569
-- Alle 8 udbydere vi dækker tilbyder eSIM (tjek udbyderens side).
+- Alle udbydere vi dækker tilbyder eSIM (tjek udbyderens side).
 
 ## Udbydere vi dækker (se providers.json for net/ejer/fordele): Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel, Duka.
 Andre brands du må nævne (uden link): CBB (Telenor), Eesy (TDC), Norlys, 3, Telenor, Call me, Relatel.

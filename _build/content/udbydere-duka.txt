@@ -1,11 +1,11 @@
 ---
 slug: udbydere/duka
 title: Duka mobilabonnement → Fra {fra:udbyder-duka} kr. + test ({mdkort})
-desc: Duka anmeldelse: fri tale + 30 GB for 55 kr./md. til 31.3.2027, 5G på alt og World-abonnement til USA og Thailand. Se alle priser og vores karakter 8,6.
+desc: Duka anmeldelse: fri tale + 200 GB for {intro:dk-200} kr./md. til 31.3.2027, 1000 GB for {pris:dk-1000} kr. og 5G på TT-netværket. Se alle priser og vores karakter 8,6.
 h1: Duka anmeldelse og priser
 kicker: Opdateret {maaned} · Priser tjekket 7. oktober 2026
-answer: Vi giver Duka 8,6 ud af 10. Duka er et uafhængigt dansk selskab på TT-netværket med fri tale og 5G på alle abonnementer, fri tale + 30 GB for 55 kr./md. (kampagne til 31.3.2027, derefter 99 kr.) og 1000 GB for 179 kr. Duka passer bedst til dig, der vil have meget data på et stærkt net, og til dig, der rejser uden for EU og kan bruge World-abonnementet.
-lead: Vi har gennemgået alle Dukas abonnementer, kampagnen, World-løsningen til rejser, nettet og vilkårene – og sammenlignet med de nærmeste alternativer.
+answer: Vi giver Duka 8,6 ud af 10. Duka er et uafhængigt dansk selskab på TT-netværket med 5G på alle abonnementer med fri tale, fri tale + {gb:dk-200} for {introtekst:dk-200} (derefter {pris:dk-200} kr.) og {gb:dk-1000} for {pris:dk-1000} kr. Duka passer bedst til dig, der vil have meget data på et stærkt net og op til 75 GB EU-data på rejser.
+lead: Vi har gennemgået alle Dukas abonnementer, kampagnen på 200 GB, EU-data til rejser, nettet og vilkårene – og sammenlignet med de nærmeste alternativer.
 crumb: Duka
 section: udbydere
 provider: duka
@@ -14,16 +14,17 @@ related: udbydere/greentel, mobilabonnement-udlandet, mobilabonnement-tilbud, fr
 [[udbyderkort:duka]]
 
 <h2>Alle Duka-abonnementer og priser</h2>
-<p>Duka har syv abonnementer, og de har alle fri tale og 5G. Du vælger ud fra datamængden – 6 GB, 30 GB, 120 GB, 200 GB, 1000 GB eller fri data – og så er der World-abonnementet med 30 GB, der også kan bruges i en række lande uden for EU. Priserne er tjekket på Dukas egen side den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
+<p>Duka har ni abonnementer. Det mindste har {gb:dk-6} og 6 timers tale på 4G, og de otte andre har fri tale og 5G. Du vælger ud fra datamængden – 30 GB, 50 GB, 55 GB, 75 GB, 120 GB, 200 GB, 1000 GB eller fri data – og nogle af pakkerne er bygget til rejser med ekstra meget EU-data. Priserne er tjekket mod Dukas egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
 
 [[tabel:udbyder-duka]]
 
-<p>Det mest iøjnefaldende er kampagnen på fri tale + 30 GB: 55 kr./md. frem til 31. marts 2027, derefter 99 kr. Det er et af de billigste abonnementer med 5G og fri tale på markedet lige nu – se også vores side med aktuelle <a href="/mobilabonnement-tilbud/">mobilabonnement-tilbud</a>. Lige så interessant er de store pakker: 200 GB for 129 kr. og 1000 GB for 179 kr. 1000 GB-pakken er den laveste pris pr. GB i vores sammenligning, og ved 200 GB er det kun Lyca Mobile (119 kr.), der er billigere med 5G.</p>
-<p>Dukas prisstige er i øvrigt usædvanligt flad. Fra 120 GB til 1000 GB stiger prisen kun med 60 kr., mens datamængden bliver over otte gange større. Bruger du meget data, er det derfor sjældent en god idé at vælge 120 GB for at spare 10 kr. i forhold til 200 GB.</p>
+<p>Det mest iøjnefaldende er kampagnen på fri tale + {gb:dk-200}: {introtekst:dk-200}, derefter {pris:dk-200} kr. 200 GB med 5G for {intro:dk-200} kr. er et af de bedste tilbud på markedet lige nu – se også vores side med aktuelle <a href="/mobilabonnement-tilbud/">mobilabonnement-tilbud</a>. Lige så interessant er {gb:dk-1000} for {pris:dk-1000} kr., som er den laveste pris pr. GB i vores sammenligning. Lyca Mobile har 200 GB for {pris:ly-200} kr. til normalpris, men kun på 4G.</p>
+<p>Midt i sortimentet er der lidt overlap: {gb:dk-30} og {gb:dk-50} koster begge {pris:dk-30} kr., og {gb:dk-55} og {gb:dk-120} koster begge {pris:dk-55} kr. Forskellen ligger i EU-dataen: 30 GB-pakken giver {eu:dk-30} GB i EU mod {eu:dk-50} GB på 50 GB, og 55 GB-pakken giver {eu:dk-55} GB i EU mod {eu:dk-120} GB på 120 GB. Rejser du meget, vælger du altså den mindre pakke med mere EU-data – ellers den større.</p>
+<p>Dukas prisstige er i øvrigt usædvanligt flad. Fra 120 GB til 1000 GB stiger prisen kun med 60 kr., mens datamængden bliver over otte gange større. Bruger du meget data, er det derfor sjældent en god idé at vælge 120 GB for at spare 10 kr. i forhold til 200 GB – og med kampagnen er 200 GB endda 40 kr. billigere end 120 GB frem til 31. marts 2027.</p>
 
 <h3>Hvad koster Duka over to år? Et regneeksempel</h3>
-<p>Kampagnen er god, men den har en udløbsdato. Starter du på fri tale + 30 GB i oktober 2026, betaler du 55 kr. i cirka seks måneder (330 kr.) og derefter 99 kr. i 18 måneder (1.782 kr.) – i alt 2.112 kr. over to år, eller 88 kr. i gennemsnit pr. måned. Til sammenligning koster Greentels fri tale + 30 GB 89 kr. fast, altså 2.136 kr. over to år. Det er næsten det samme, men hos Duka betaler du mindst nu.</p>
-<p>Bruger du meget data, er regnestykket endnu mere interessant: 1000 GB hos Duka koster 179 kr. × 12 = 2.148 kr. om året. Fri data hos YouSee koster 3.588 kr. om året, og hos Telmore 2.988 kr. Selv i forhold til Dukas egen fri data (199 kr.) sparer du 240 kr. om året med 1000 GB – og de færreste bruger mere end 1000 GB om måneden. Danskerne brugte i gennemsnit 26,9 GB pr. abonnement pr. måned i andet halvår 2024<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
+<p>Kampagnen er god, men den har en udløbsdato. Starter du på fri tale + 200 GB i oktober 2026, betaler du 79 kr. i cirka seks måneder (474 kr.) og derefter 129 kr. i 18 måneder (2.322 kr.) – i alt 2.796 kr. over to år, eller ca. 117 kr. i gennemsnit pr. måned. Til sammenligning koster Telmores fri tale + 200 GB 159 kr. fast, altså 3.816 kr. over to år – over 1.000 kr. mere for samme datamængde.</p>
+<p>Bruger du meget data, er regnestykket endnu mere interessant: 1000 GB hos Duka koster 179 kr. × 12 = 2.148 kr. om året. Fri data hos YouSee koster 3.588 kr. om året, og hos Telmore 2.988 kr. Selv i forhold til Dukas egen fri data ({pris:dk-fri} kr.) sparer du 240 kr. om året med 1000 GB – og de færreste bruger mere end 1000 GB om måneden. Danskerne brugte i gennemsnit 26,9 GB pr. abonnement pr. måned i andet halvår 2024<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
 
 [[simo:Er du i tvivl mellem Dukas 1000 GB og fri data? Tag 1000 GB. Det svarer til over 300 timers Netflix i HD om måneden, og du sparer 20 kr./md.]]
 
@@ -34,54 +35,54 @@ related: udbydere/greentel, mobilabonnement-udlandet, mobilabonnement-tilbud, fr
 <p>I praksis betyder det, at du med Duka får et net, der også fungerer godt uden for byerne. Det er en vigtig forskel i forhold til de billige selskaber på 3's net, hvis du bor på landet eller ofte er i sommerhus. Tjek altid din adresse på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a>, og læs vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
 
 <h2>Duka 5G og hastighed</h2>
-<p>Alle Dukas abonnementer har 5G, også det mindste med 6 GB. Det samme gælder Greentel og Oister. Hos Lebara, der kører på samme TT-netværk, er flere abonnementer kun 4G, og hos Flexii betaler du ekstra for 5G-prisen. Hos Duka skal du altså ikke tænke over det.</p>
+<p>Alle Dukas abonnementer med fri tale har 5G. Undtagelsen er det mindste med {gb:dk-6} og 6 timers tale, som kører på 4G – og med 6 GB om måneden mærker du ikke forskellen. Hos Lebara og Lyca Mobile, der kører på samme TT-netværk, er alle abonnementer 4G, og hos Greentel har kun 30 og 50 GB 5G. Hos Flexii betaler du ekstra for 5G-prisen.</p>
 <p>5G er især relevant på Dukas store pakker. Med 1000 GB eller fri data kan du bruge telefonen som hotspot til computeren eller endda som erstatning for internet i et sommerhus, og her gør 5G's højere kapacitet en reel forskel. 85,8 % af alle danske standardabonnementer havde 5G i andet halvår 2024, og 5G bar 41,2 % af al mobiltrafik<sup class="ref"><a href="#kilde-5">5</a></sup>. Læs mere i vores guides til <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a> og <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
 
-<h2>Duka i EU og udlandet: Hvad er Duka World?</h2>
-<p>Her skiller Duka sig mest ud fra konkurrenterne. Ud over almindelig EU-roaming har Duka et World-abonnement til 139 kr./md. med fri tale og 30 GB, hvor data også kan bruges i 10 lande uden for EU – bl.a. USA, Canada, Thailand og Tyrkiet samt dele af Balkan<sup class="ref"><a href="#kilde-1">1</a></sup>. Blandt de otte selskaber, vi sammenligner, er det det eneste abonnement med data uden for EU inkluderet i prisen – andre, som Telmore, sælger det som tillæg.</p>
-<p>Regnestykket er enkelt: World-abonnementet koster 40 kr. mere om måneden end normalprisen på 30 GB-abonnementet. Rejser du til USA eller Thailand blot et par gange om året, kan det hurtigt betale sig frem for at købe et lokalt SIM-kort eller betale udlandstakster. Og da der ikke er binding, kan du skifte til World før en rejse og tilbage igen bagefter – tjek blot Dukas regler for skift mellem abonnementer.</p>
+<h2>Duka i EU og udlandet: Hvor meget EU-data får du?</h2>
+<p>Her skiller Duka sig mest ud fra konkurrenterne. Tre af abonnementerne giver lige så meget data i EU som herhjemme: {gb:dk-30} for {pris:dk-30} kr. ({eu:dk-30} GB i EU), {gb:dk-55} for {pris:dk-55} kr. ({eu:dk-55} GB i EU) og {gb:dk-75} for {pris:dk-75} kr. ({eu:dk-75} GB i EU)<sup class="ref"><a href="#kilde-1">1</a></sup>. 75 GB i EU er det højeste blandt de almindelige abonnementer i vores sammenligning – kun Telmores dyre streamingabonnementer giver mere.</p>
+<p>Regnestykket er enkelt: Bruger du 2 GB om dagen på en fire ugers sommerferie i Frankrig, skal du bruge ca. 56 GB. Med {gb:dk-75} har du det hele dækket. Med et abonnement med 20 GB i EU kan de sidste 36 GB koste op til 36 × 1,30 € ≈ 350 kr. ekstra. Og da der ikke er binding, kan du skifte til en rejsepakke før sommerferien og tilbage igen bagefter – tjek blot Dukas regler for skift mellem abonnementer.</p>
 
-<h3>EU-data hos Duka</h3>
-<p>I EU får du 6 GB på det mindste abonnement, 30 GB på 30 GB-, 120 GB- og 200 GB-abonnementerne, 35 GB på 1000 GB og 40 GB på fri data. 30 GB på de mellemstore abonnementer er generøst – Greentel giver fx 18 GB på sit 30 GB-abonnement.</p>
-<p>Reglerne følger EU's "Roam like at home"-forordning, der gælder til 30. juni 2032 og dækker EU, Norge, Island og Liechtenstein samt Ukraine og Moldova fra 1. januar 2026<sup class="ref"><a href="#kilde-6">6</a></sup>. Storbritannien og Schweiz er ikke omfattet. Fair use-minimum ved fri data er to gange månedsprisen ekskl. moms divideret med 1,30 € pr. GB: For 199 kr. (159,20 kr. ekskl. moms, ca. 21 €) giver det ca. 33 GB – Dukas 40 GB ligger over. Se vores <a href="/mobilabonnement-udlandet/">guide til mobil i udlandet</a>.</p>
+<h3>EU-data på de øvrige Duka-abonnementer</h3>
+<p>På resten af sortimentet får du {eu:dk-6} GB i EU på det mindste abonnement, {eu:dk-50} GB på 50 GB, {eu:dk-120} GB på 120 GB og 200 GB, {eu:dk-1000} GB på 1000 GB og {eu:dk-fri} GB på fri data. Det er generøst – Greentel giver fx {eu:gt-30} GB på sit 30 GB-abonnement. Duka har derimod ikke et abonnement med data uden for EU inkluderet, så rejser du til USA eller Asien, skal du købe et tillæg eller et lokalt SIM-kort.</p>
+<p>Reglerne følger EU's "Roam like at home"-forordning, der gælder til 30. juni 2032 og dækker EU, Norge, Island og Liechtenstein samt Ukraine og Moldova fra 1. januar 2026<sup class="ref"><a href="#kilde-6">6</a></sup>. Storbritannien og Schweiz er ikke omfattet. Fair use-minimum ved fri data er to gange månedsprisen ekskl. moms divideret med 1,30 € pr. GB: For {pris:dk-fri} kr. (159,20 kr. ekskl. moms, ca. 21 €) giver det ca. 33 GB – Dukas {eu:dk-fri} GB ligger over. Se vores <a href="/mobilabonnement-udlandet/">guide til mobil i udlandet</a>.</p>
 
 [[vaerktoej:roaming]]
 
 <h2>eSIM og opstart hos Duka</h2>
 <p>Duka tilbyder eSIM og har ingen gebyrer for oprettelse. Apple har en oversigt over danske selskaber med eSIM<sup class="ref"><a href="#kilde-8">8</a></sup>. Bestillingen foregår online, hvor du vælger abonnement, SIM-type og om du vil tage dit nummer med. Med eSIM kan du typisk være i gang samme dag uden at vente på posten.</p>
-<p>Husk, at kampagneprisen på 30 GB-abonnementet gælder til 31. marts 2027. Sæt en påmindelse i kalenderen, så du kan vurdere, om du skal blive, skifte abonnement hos Duka eller skifte selskab, når prisen stiger til 99 kr. Se vores <a href="/esim/">eSIM-guide</a>, hvis du er ny med eSIM.</p>
+<p>Husk, at kampagneprisen på 200 GB-abonnementet gælder til 31. marts 2027. Sæt en påmindelse i kalenderen, så du kan vurdere, om du skal blive, skifte abonnement hos Duka eller skifte selskab, når prisen stiger til {pris:dk-200} kr. Se vores <a href="/esim/">eSIM-guide</a>, hvis du er ny med eSIM.</p>
 
 <h2>Kundeservice og vilkår hos Duka</h2>
 <p>Duka får 8,2 i vores servicekarakter – et solidt niveau for et lavprisselskab og højere end Flexii (7,6), Lebara (6,4) og Lyca Mobile (6,4). Som et mindre dansk selskab er Duka forholdsvis let at komme i kontakt med, men der er ingen fysiske butikker.</p>
 <p>Der er ingen binding og ingen oprettelsesgebyr. Som hos alle danske selskaber skal prisændringer varsles mindst én måned før, og du kan opsige uden omkostninger, hvis vilkårene ændres til din ulempe<sup class="ref"><a href="#kilde-7">7</a></sup>. Duka skal også mindst én gang om året fortælle dig om det bedste tilbud til dit forbrug.</p>
-<p>En ulempe er, at Duka ikke har børne- eller familieabonnementer. Vil du samle familien med datadeling eller ekstra SIM-kort, skal du kigge på fx Telmore, Oister eller YouSee. Et barn kan selvfølgelig godt få et almindeligt Duka-abonnement – fri tale + 6 GB koster 59 kr. – men det er dyrere end Flexiis børneabonnement fra 35 kr. Se vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.</p>
+<p>En ulempe er, at Duka ikke har børne- eller familieabonnementer. Vil du samle familien med datadeling eller ekstra SIM-kort, skal du kigge på fx Telmore, Oister eller YouSee. Et barn kan selvfølgelig godt få et almindeligt Duka-abonnement – {gb:dk-6} og 6 timers tale koster {pris:dk-6} kr. – men det er dyrere end fx Greentels Basic til {pris:gt-5} kr. eller Flexiis byg-selv med 10 GB til {pris:fx-k10} kr. Se vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.</p>
 
 <h2>Hvem ejer Duka? Ejerskab og historie</h2>
-<p>Duka blev grundlagt i 2011 og er et uafhængigt dansk selskab. Det står uden for de tre store koncerner – TDC (YouSee, Telmore, Eesy), Hi3G (3, Oister, Flexii) og Norlys (Norlys Mobil, Call me)<sup class="ref"><a href="#kilde-9">9</a></sup>. Duka er en tjenesteudbyder, der lejer kapacitet på TT-netværket og selv står for priser, produkter og kundeservice.</p>
-<p>Det uafhængige ejerskab giver Duka frihed til at lave produkter som World-abonnementet og aggressive kampagner. Ulempen er, at Duka ikke kan bundle mobil med internet og tv, som YouSee kan, og at brandet ikke er lige så kendt. For din daglige brug er det dog nettet, der betyder mest – og det er det samme, som Telenors og Norlys' egne kunder bruger.</p>
+<p>Duka blev grundlagt i 2011 og er et uafhængigt dansk selskab. Det står uden for de tre store koncerner – TDC (YouSee, Telmore, eesy), Hi3G (3, Oister, Flexii) og Norlys (Norlys Mobil, Call me)<sup class="ref"><a href="#kilde-9">9</a></sup>. Duka er en tjenesteudbyder, der lejer kapacitet på TT-netværket og selv står for priser, produkter og kundeservice.</p>
+<p>Det uafhængige ejerskab giver Duka frihed til at lave produkter som rejsepakkerne med op til 75 GB EU-data og aggressive kampagner. Ulempen er, at Duka ikke kan bundle mobil med internet og tv, som YouSee kan, og at brandet ikke er lige så kendt. For din daglige brug er det dog nettet, der betyder mest – og det er det samme, som Telenors og Norlys' egne kunder bruger.</p>
 
 [[cta:duka]]
 
 <h2>Duka vs. alternativer</h2>
-<p>Duka konkurrerer især med Greentel (samme net og 5G på alt) og med Flexii og Oister på pris.</p>
+<p>Duka konkurrerer især med Greentel og Lebara (samme net) og med Flexii og Oister på pris.</p>
 <table>
-<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 30 GB</th><th>Store data</th><th>Fri data</th><th>Vores karakter</th></tr></thead>
+<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 30-70 GB</th><th>Store data</th><th>Fri data</th><th>Vores karakter</th></tr></thead>
 <tbody>
-<tr><td>Duka</td><td>TT-netværket</td><td>99 kr. (55 kr. til 31.3.2027)</td><td>1000 GB: 179 kr.</td><td>199 kr.</td><td>8,6</td></tr>
-<tr><td><a href="/udbydere/greentel/">Greentel</a></td><td>TT-netværket</td><td>89 kr.</td><td>1000 GB: 189 kr.</td><td>–</td><td>8,4</td></tr>
-<tr><td><a href="/udbydere/lebara/">Lebara</a></td><td>TT-netværket</td><td>40 GB: 49 kr. (4G)</td><td>200 GB: 159 kr. (4G)</td><td>–</td><td>8,5</td></tr>
-<tr><td><a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>20 GB: 69 kr. (59 kr. første år)</td><td>150 GB: 109 kr.</td><td>149 kr. (129 kr. første år)</td><td>8,9</td></tr>
-<tr><td><a href="/udbydere/oister/">Oister</a></td><td>3</td><td>40 GB: 99 kr. (69 kr. i 6 mdr.)</td><td>100 GB: 109 kr.</td><td>199 kr. (139 kr. i 6 mdr.)</td><td>8,8</td></tr>
+<tr><td>Duka</td><td>TT-netværket</td><td>{gb:dk-30}: {pris:dk-30} kr.</td><td>200 GB: {pris:dk-200} kr. ({introtekst:dk-200}); 1000 GB: {pris:dk-1000} kr.</td><td>{pris:dk-fri} kr.</td><td>8,6</td></tr>
+<tr><td><a href="/udbydere/greentel/">Greentel</a></td><td>TT-netværket</td><td>{gb:gt-30}: {pris:gt-30} kr.</td><td>Maks. 50 GB: {pris:gt-50} kr.</td><td>–</td><td>8,4</td></tr>
+<tr><td><a href="/udbydere/lebara/">Lebara</a></td><td>TT-netværket</td><td>{gb:lb-70}: {pris:lb-70} kr. (4G)</td><td>160 GB: {pris:lb-160} kr. (4G)</td><td>–</td><td>8,5</td></tr>
+<tr><td><a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>{gb:fx-50-4g} (4G): {pris:fx-50-4g} kr. ({introtekst:fx-50-4g})</td><td>150 GB (5G): {pris:fx-150} kr.</td><td>{pris:fx-fri-4g} kr. ({introtekst:fx-fri-4g})</td><td>8,9</td></tr>
+<tr><td><a href="/udbydere/oister/">Oister</a></td><td>3</td><td>{gb:oi-40}: {pris:oi-40} kr. ({introtekst:oi-40})</td><td>100 GB: {pris:oi-100} kr.</td><td>{pris:oi-fri} kr. ({introtekst:oi-fri})</td><td>8,8</td></tr>
 </tbody>
 </table>
-<p>Duka er det bedste valg for store datamængder på TT-netværket: 1000 GB for 179 kr. slår Greentel med 10 kr., og Lebaras 200 GB koster 30 kr. mere end Dukas – og er uden 5G. Vil du have ubegrænset data billigst muligt, er Flexii stadig billigere – men på 3's net med lavere dækningsscore. Duka vinder desuden klart, hvis du rejser uden for EU.</p>
+<p>Duka er det bedste valg for store datamængder på TT-netværket: Greentel stopper ved 50 GB, og Lebaras største pakke er 160 GB på 4G, mens Duka har 200 GB for {introtekst:dk-200} og 1000 GB for {pris:dk-1000} kr. med 5G. Vil du have fri tale billigst muligt, er Lebara billigere med {gb:lb-70} for {pris:lb-70} kr. Vil du have ubegrænset data billigst muligt, er Flexii billigere – men på 3's net med lavere dækningsscore. Duka vinder desuden klart på EU-data.</p>
 
 <h2>Hvem passer Duka til – og hvem ikke?</h2>
 <h3>Duka passer godt til dig, der</h3>
 <ul>
 <li>vil have fri tale og 5G på et stærkt net til en lav pris.</li>
 <li>bruger meget data og vil have 200 eller 1000 GB billigt.</li>
-<li>rejser til USA, Canada, Thailand eller Tyrkiet og kan bruge World-abonnementet.</li>
+<li>rejser meget i EU og vil have op til 75 GB EU-data.</li>
 <li>bor på landet eller i et område, hvor 3's net er svagt.</li>
 <li>vil udnytte en god kampagne og er klar til at vurdere igen i foråret 2027.</li>
 </ul>
@@ -90,19 +91,20 @@ related: udbydere/greentel, mobilabonnement-udlandet, mobilabonnement-tilbud, fr
 <li>skal have børne- eller familieabonnementer med datadeling.</li>
 <li>vil have den billigste fri data – den har Flexii.</li>
 <li>ringer meget lidt og kun har brug for et billigt taleabonnement.</li>
+<li>rejser ofte uden for EU og vil have data med i abonnementet.</li>
 <li>vil kunne gå i en butik.</li>
 </ul>
 
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Fri tale og 5G på alle abonnementer</li><li>30 GB for 55 kr./md. til 31.3.2027</li><li>1000 GB for 179 kr./md. – laveste pris pr. GB i vores sammenligning</li><li>World-abonnement med data i USA, Thailand m.fl.</li><li>TT-netværket med stærk dækning (9,2/10)</li><li>Ingen binding og ingen oprettelsesgebyrer</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen børne- eller familieabonnementer</li><li>Fri data koster 199 kr./md.</li><li>Kampagnen er tidsbegrænset – derefter 99 kr.</li><li>Ingen fysiske butikker</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>5G på alle abonnementer med fri tale</li><li>200 GB for {introtekst:dk-200}</li><li>1000 GB for {pris:dk-1000} kr./md. – laveste pris pr. GB i vores sammenligning</li><li>Op til 75 GB EU-data</li><li>TT-netværket med stærk dækning (9,2/10)</li><li>Ingen binding og ingen oprettelsesgebyrer</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen børne- eller familieabonnementer</li><li>Fri data koster {pris:dk-fri} kr./md.</li><li>Mindste abonnement er 4G med 6 timers tale</li><li>Kampagnen er tidsbegrænset – derefter {pris:dk-200} kr.</li><li>Ingen fysiske butikker</li></ul></div></div>
 
 <h2>Sådan skifter du til Duka</h2>
 <p>Duka klarer opsigelsen af dit gamle abonnement, når du flytter nummeret. Sådan gør du:</p>
 <ol class="steps">
 <li><strong>Find din datamængde.</strong> Brug vores <a href="/guides/hvor-meget-data/">guide til dataforbrug</a>. Er du over 120 GB, så overvej at gå direkte til 200 eller 1000 GB.</li>
-<li><strong>Overvej World.</strong> Rejser du uden for EU, så sammenlign World til 139 kr. med det almindelige abonnement.</li>
+<li><strong>Overvej EU-data.</strong> Rejser du meget i EU, så sammenlign 30, 55 og 75 GB-pakkerne, hvor EU-data svarer til datamængden herhjemme.</li>
 <li><strong>Vælg SIM-kort eller eSIM.</strong> eSIM kan aktiveres hurtigt uden post.</li>
 <li><strong>Flyt dit nummer.</strong> Ifølge teleloven skal nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag, og det koster ikke ekstra<sup class="ref"><a href="#kilde-10">10</a></sup>.</li>
-<li><strong>Sæt en påmindelse.</strong> Skriv 31. marts 2027 i kalenderen, hvis du tager kampagnen på 30 GB.</li>
+<li><strong>Sæt en påmindelse.</strong> Skriv 31. marts 2027 i kalenderen, hvis du tager kampagnen på 200 GB.</li>
 <li><strong>Test nettet.</strong> Du har 14 dages fortrydelsesret ved køb online.</li>
 </ol>
 <p>Læs hele vores <a href="/guides/skift-mobilabonnement/">guide til at skifte mobilabonnement</a>.</p>
@@ -112,24 +114,24 @@ related: udbydere/greentel, mobilabonnement-udlandet, mobilabonnement-tilbud, fr
 <h2>Vores samlede vurdering af Duka</h2>
 <p>Duka får 8,6 ud af 10. Karakteren består af pris (8,6), fleksibilitet (8,8), net (8,6) og service (8,2). Duka har ingen store svagheder – det er de manglende familieabonnementer og den relativt dyre fri data, der holder karakteren nede under Flexii og Oister. Se hvordan vi vægter i <a href="/metode/">vores metode</a>.</p>
 
-<blockquote class="expert"><p>Duka er det selskab, jeg anbefaler, når nogen siger: "Jeg vil have meget data, men jeg bor ikke i byen." Du får TT-netværket, 5G og fri tale på alt, og 1000 GB for 179 kr. er en af markedets bedste handler. World-abonnementet er et sjældent og reelt godt produkt for dem, der rejser til USA eller Asien. Mit eneste forbehold er kampagnen på 30 GB: Den er glimrende, men husk, at prisen næsten fordobles i april 2027.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Duka er det selskab, jeg anbefaler, når nogen siger: "Jeg vil have meget data, men jeg bor ikke i byen." Du får TT-netværket, 5G og fri tale, og 1000 GB for 179 kr. er en af markedets bedste handler. Rejsepakkerne med lige så meget EU-data som data herhjemme er et sjældent og reelt godt produkt for dem, der rejser meget i Europa. Mit eneste forbehold er kampagnen på 200 GB: Den er glimrende, men husk, at prisen stiger med 50 kr. i april 2027.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 ===FAQ===
 Q: Hvilket net bruger Duka?
 A: Duka kører på TT-netværket, som Telenor og Norlys ejer i fællesskab. Opensignal giver Telenor og Norlys 9,2 ud af 10 i dækningsoplevelse, og Norlys har den højeste downloadhastighed i Danmark (118,8 Mbit/s).
-Q: Hvad er Duka World?
-A: Duka World er et abonnement til 139 kr./md. med fri tale og 30 GB, hvor data også kan bruges i 10 lande uden for EU, bl.a. USA, Canada, Thailand og Tyrkiet. Se flere muligheder i vores guide til <a href="/mobilabonnement-udlandet/">mobil i udlandet</a>.
-Q: Hvor længe gælder Dukas tilbud på 30 GB til 55 kr.?
-A: Kampagneprisen på 55 kr./md. gælder til 31. marts 2027. Derefter koster abonnementet 99 kr./md. Der er ingen binding, så du kan skifte, når prisen stiger.
+Q: Hvilket Duka-abonnement giver mest EU-data?
+A: {gb:dk-75} for {pris:dk-75} kr./md. giver {eu:dk-75} GB i EU, og {gb:dk-55} for {pris:dk-55} kr. giver {eu:dk-55} GB. Duka har ikke et abonnement med data uden for EU inkluderet. Se flere muligheder i vores guide til <a href="/mobilabonnement-udlandet/">mobil i udlandet</a>.
+Q: Hvor længe gælder Dukas tilbud på 200 GB til {intro:dk-200} kr.?
+A: Kampagneprisen på {intro:dk-200} kr./md. gælder til 31. marts 2027. Derefter koster abonnementet {pris:dk-200} kr./md. Der er ingen binding, så du kan skifte, når prisen stiger.
 Q: Har Duka 5G?
-A: Ja, alle Dukas abonnementer har 5G og fri tale – også det mindste med 6 GB.
+A: Ja, alle Dukas abonnementer med fri tale har 5G. Kun det mindste med {gb:dk-6} og 6 timers tale kører på 4G.
 Q: Har Duka børneabonnementer?
-A: Nej, Duka har ikke særlige børne- eller familieabonnementer. Se i stedet vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>, hvor Flexii og Oister har billige løsninger.
+A: Nej, Duka har ikke særlige børne- eller familieabonnementer. Se i stedet vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>, hvor Flexii og Greentel har billige løsninger.
 Q: Koster det noget at oprette et abonnement hos Duka?
 A: Nej, Duka har ingen gebyrer for oprettelse, og der er ingen binding.
 Q: Skal jeg vælge Duka 1000 GB eller fri data?
-A: For næsten alle er 1000 GB nok. Det koster 179 kr. mod 199 kr. for fri data, så du sparer 240 kr. om året. Fri data giver kun mening, hvis du bruger telefonen som fast internet og har et meget højt forbrug.
+A: For næsten alle er 1000 GB nok. Det koster {pris:dk-1000} kr. mod {pris:dk-fri} kr. for fri data, så du sparer 240 kr. om året. Fri data giver kun mening, hvis du bruger telefonen som fast internet og har et meget højt forbrug.
 Q: Er Duka og Greentel det samme?
-A: Nej, de er to forskellige uafhængige danske selskaber, men begge kører på TT-netværket med 5G på alt. Se vores <a href="/udbydere/greentel/">Greentel-anmeldelse</a> for en sammenligning.
+A: Nej, de er to forskellige uafhængige danske selskaber, men begge kører på TT-netværket. Duka har 5G på alle abonnementer med fri tale og større datapakker, mens Greentel kun har 5G på 30 og 50 GB. Se vores <a href="/udbydere/greentel/">Greentel-anmeldelse</a> for en sammenligning.
 ===KILDER===
 Duka – mobilabonnementer og priser | https://www.dukatale.dk/mobilabonnementer
 Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience

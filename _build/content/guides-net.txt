@@ -4,7 +4,7 @@ title: Bedste mobilnet i Danmark → Test og dækning ({aar})
 desc: Hvilket mobilnet er bedst? Se Opensignals 2026-tal for TDC, Norlys, Telenor og 3, hvilke selskaber kører på hvilket net, og tjek dækningen på din adresse.
 h1: Bedste mobilnet i Danmark
 kicker: Opdateret {maaned} · Opensignal og Teknologisk Institut
-answer: Der er ingen entydig vinder: I Opensignals rapport fra februar 2026 har Norlys den højeste downloadhastighed (118,8 Mbit/s), mens TDC NET har den bedste dækningsoplevelse (9,3 af 10) tæt fulgt af Telenor og Norlys (9,2). 3 er hurtig (112,2 Mbit/s), men scorer lavest på dækning (7,3). Telmore, YouSee og Lyca Mobile kører på TDC NET, Oister og Flexii på 3, og Lebara, Greentel og Duka på TT-netværket.
+answer: Der er ingen entydig vinder: I Opensignals rapport fra februar 2026 har Norlys den højeste downloadhastighed (118,8 Mbit/s), mens TDC NET har den bedste dækningsoplevelse (9,3 af 10) tæt fulgt af Telenor og Norlys (9,2). 3 er hurtig (112,2 Mbit/s), men scorer lavest på dækning (7,3). Telmore, YouSee og eesy kører på TDC NET, Oister og Flexii på 3, og Lebara, Lyca Mobile, Greentel, Duka og CBB på TT-netværket.
 lead: Vi gennemgår de fire danske mobilnet med de nyeste uafhængige målinger, viser hvilke selskaber der bruger hvilket net, og forklarer hvordan du finder det net, der virker bedst præcis der, hvor du bor.
 crumb: Bedste mobilnet
 section: guides
@@ -57,12 +57,12 @@ related: 5g-mobilabonnement, udbydere, udbydere/telmore, udbydere/oister, billig
 <table>
 <thead><tr><th>Net</th><th>Selskaber vi sammenligner</th><th>Andre brands på nettet</th><th>Billigste normalpris hos os</th></tr></thead>
 <tbody>
-<tr><td>TDC NET</td><td><a href="/udbydere/telmore/">Telmore</a>, <a href="/udbydere/yousee/">YouSee</a>, <a href="/udbydere/lyca-mobile/">Lyca Mobile</a></td><td>Eesy, Relatel</td><td>19 kr./md. (Lyca 5 GB)</td></tr>
-<tr><td>TT-netværket (Telenor/Norlys)</td><td><a href="/udbydere/lebara/">Lebara</a>, <a href="/udbydere/greentel/">Greentel</a>, <a href="/udbydere/duka/">Duka</a></td><td>Telenor, CBB, Norlys, Call me</td><td>19 kr./md. (Lebara 5 GB)</td></tr>
-<tr><td>3 (Hi3G)</td><td><a href="/udbydere/oister/">Oister</a>, <a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>69 kr./md. (Flexii 20 GB og Oister 12 GB)</td></tr>
+<tr><td>TDC NET</td><td><a href="/udbydere/telmore/">Telmore</a>, <a href="/udbydere/yousee/">YouSee</a>, <a href="/udbydere/eesy/">eesy</a></td><td>Relatel</td><td>{pris:tm-3} kr./md. (Telmore 3 GB)</td></tr>
+<tr><td>TT-netværket (Telenor/Norlys)</td><td><a href="/udbydere/lebara/">Lebara</a>, <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>, <a href="/udbydere/greentel/">Greentel</a>, <a href="/udbydere/duka/">Duka</a>, <a href="/udbydere/cbb/">CBB</a></td><td>Telenor, Norlys, Call me</td><td>{pris:lb-5} kr./md. (Lebara og Lyca 5 GB)</td></tr>
+<tr><td>3 (Hi3G)</td><td><a href="/udbydere/oister/">Oister</a>, <a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>{pris:fx-k10} kr./md. (Flexii 10 GB, 4G)</td></tr>
 </tbody>
 </table>
-<p>Interessant er, at prisniveauet er meget forskelligt på de tre net. I vores datasæt med 45 abonnementer er medianprisen 99 kr./md. på 3's net og 109 kr./md. på TT-netværket, mens den er 154 kr./md. på TDC NET. Du betaler altså typisk mere for at være på det net, der scorer højest på dækning. Om det er pengene værd, afhænger af, hvor du bor.</p>
+<p>Interessant er, at prisniveauet er meget forskelligt på de tre net. I vores datasæt med {antal} abonnementer er medianprisen 89 kr./md. på 3's net og 99 kr./md. på TT-netværket, mens den er 249 kr./md. på TDC NET, hvor Telmores streamingabonnementer trækker op. Du betaler altså typisk mere for at være på det net, der scorer højest på dækning. Om det er pengene værd, afhænger af, hvor du bor.</p>
 [[simo:Er du glad for dækningen i dag, så skift til et billigere selskab på samme net. Så får du samme forbindelse – bare billigere.]]
 <h3>Norlys og Telia – hvad skete der?</h3>
 <p>Norlys købte Telia Danmark for 6,25 mia. kr., og handlen blev gennemført i april 2024. Telia Mobil skiftede navn til Norlys Mobil den 5. maj 2025. Derfor ser du stadig nogle steder Telia nævnt i ældre målinger og artikler – det er det samme net, som i dag hedder Norlys.</p>
@@ -111,8 +111,8 @@ related: 5g-mobilabonnement, udbydere, udbydere/telmore, udbydere/oister, billig
 <li><strong>Er du i tvivl:</strong> Vælg et abonnement uden binding, og test nettet i et par uger. Du kan altid <a href="/guides/skift-mobilabonnement/">skifte og beholde dit nummer</a>.</li>
 </ol>
 <h3>Regneeksempel: Hvad koster dækningen?</h3>
-<p>Vil du have fri tale og cirka 100 GB på TDC NET, koster det 249 kr./md. hos YouSee – eller 99 kr./md. hos Lyca Mobile, der også kører på TDC NET. På TT-netværket får du fri tale og 100 GB hos Lebara for 99 kr./md., og på 3's net får du 100 GB hos Oister for 79 kr. de første seks måneder og derefter 109 kr. Forskellen mellem YouSee og Lebara/Lyca er 150 kr. om måneden – 1.800 kr. om året. Prisforskellen handler altså mere om selskab og service end om net.</p>
-<div class="proscons"><div class="pros"><h4>Fordele ved TDC NET</h4><ul><li>Højeste dækningsscore i begge målinger</li><li>Stabil forbindelse i landområder</li><li>Bredt udvalg hos Telmore, YouSee og Lyca Mobile</li></ul></div><div class="cons"><h4>Ulemper ved TDC NET</h4><ul><li>Højere medianpris end på de andre net</li><li>Lavest downloadhastighed hos Opensignal</li><li>Færre lavprisselskaber at vælge imellem end på TT-netværket</li></ul></div></div>
+<p>Vil du have fri tale og cirka 100 GB på TDC NET, koster det {pris:ys-100} kr./md. hos YouSee – eller {pris:tm-200} kr./md. for hele 200 GB hos Telmore. På TT-netværket får du fri tale og 100 GB hos Lebara eller Lyca Mobile for {pris:lb-100} kr./md. (dog kun 4G), og på 3's net får du 100 GB med 5G hos Oister for {intro:oi-100} kr. de første seks måneder og derefter {pris:oi-100} kr. Forskellen mellem YouSee og Lebara/Lyca er 150 kr. om måneden – 1.800 kr. om året. Prisforskellen handler altså mere om selskab og service end om net.</p>
+<div class="proscons"><div class="pros"><h4>Fordele ved TDC NET</h4><ul><li>Højeste dækningsscore i begge målinger</li><li>Stabil forbindelse i landområder</li><li>5G på næsten alle abonnementer hos Telmore og YouSee</li></ul></div><div class="cons"><h4>Ulemper ved TDC NET</h4><ul><li>Højere medianpris end på de andre net</li><li>Lavest downloadhastighed hos Opensignal</li><li>Færre lavprisselskaber at vælge imellem end på TT-netværket</li></ul></div></div>
 <p>Vil du se alle selskaber samlet med net og karakterer, så se vores <a href="/udbydere/">oversigt over mobilselskaber</a>. Og vil du finde de billigste abonnementer uanset net, finder du dem på <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
 
 <h2>Sådan har vi sammenlignet mobilnettene</h2>
@@ -123,9 +123,9 @@ A: Ifølge Opensignal (februar 2026) har TDC NET den bedste dækningsoplevelse m
 Q: Hvilket mobilnet er hurtigst?
 A: I Opensignals rapport fra februar 2026 har Norlys den højeste gennemsnitlige downloadhastighed med 118,8 Mbit/s, fulgt af 3 med 112,2, Telenor med 107,4 og TDC med 103,1 Mbit/s.
 Q: Hvilket net bruger Lebara?
-A: Lebara bruger TT-netværket, som Telenor og Norlys deler. Det samme gør Greentel og Duka, mens Lyca Mobile – ligesom Telmore og YouSee – kører på TDC NET.
+A: Lebara bruger TT-netværket, som Telenor og Norlys deler. Det samme gør Lyca Mobile, Greentel og Duka. Både Lebaras og Lyca Mobiles abonnementer kører på 4G.
 Q: Hvilket net bruger Telmore og YouSee?
-A: Både Telmore og YouSee kører på TDC NET, som de deler med blandt andet Eesy og Relatel. Alle er en del af TDC-koncernen.
+A: Både Telmore og YouSee kører på TDC NET, som de deler med blandt andet eesy og Relatel. Alle er en del af TDC-koncernen.
 Q: Hvilket net bruger Oister og Flexii?
 A: Oister og Flexii er begge ejet af Hi3G og kører på 3's mobilnet.
 Q: Hvordan tjekker jeg dækningen på min adresse?

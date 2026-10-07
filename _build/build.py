@@ -7,7 +7,8 @@ import json, re, os, html, shutil, datetime, hashlib, glob
 from urllib.parse import quote
 
 B = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(B)
+REPO = os.path.dirname(B)
+ROOT = os.environ.get("OUT_DIR") or os.path.join(REPO, "public")  # færdigt site bygges hertil
 SITE = "https://telefonabonnementer.dk"
 BRAND = "Telefonabonnementer.dk"
 KEEP = {"_build", ".github", ".git", "README.md", ".gitignore", "LICENSE"}
@@ -23,7 +24,7 @@ PD = json.load(open(f"{B}/data/plans.json", encoding="utf-8"))
 PLANS = PD["plans"]
 CHECKED = datetime.date.fromisoformat(PD["checked"])
 MODIFIED = max(CHECKED, datetime.date.fromisoformat(PD.get("content_updated", PD["checked"])))  # vises som "Opdateret" – ændres kun når priser/indhold faktisk ændres
-ENDS = {"tm-45": "2026-10-18", "tm-60m": "2026-10-18", "dk-30": "2027-03-31"}
+ENDS = {p["id"]: p["ends"] for p in PLANS if p.get("ends")}
 NETKEY = {"TDC NET": "tdc", "3 (Hi3G)": "3"}
 
 def netkey(p): return NETKEY.get(PROV[p]["network"], "tt")
@@ -100,7 +101,7 @@ def sc_table(arg, opts):
         cls = (best[:-1] + extra + '"') if best else (f' class="{extra.strip()}"' if extra else "")
         badge = '<span class="badge">Billigst</span>' if best else ""
         sub = f'{talktxt(p)} · {netshort(p["p"])} · ' + ('<span class=yes>5G</span>' if p["g5"] else '4G') + (f' · {E(p["extra"])}' if p.get("extra") else "")
-        specs = f'<b>{gbtxt(p)}</b> · EU-data {p["eu"] if p["eu"] else "–"} GB'
+        specs = f'<b>{gbtxt(p)}</b> · EU-data {(str(p["eu"]) + " GB") if p["eu"] else "–"}'
         rows.append(
             f'<tr{cls} data-price="{p["price"]}" data-gb="{gbv(p)}" data-eu="{p["eu"] or 0}" data-net="{netkey(p["p"])}" data-fri="{1 if p["talk"]=="fri" else 0}" data-g5="{1 if p["g5"] else 0}">'
             f'<td class="c-prov">{logo(p["p"])}</td>'
@@ -160,7 +161,7 @@ def sc_pcard(arg, opts, self_page=False):
     fd = [p for p in ps if p["gb"] is None]
     facts = [("Mobilnet", v["network"]), ("Ejer", v["owner"]), ("Billigste abonnement", kr(min(p["price"] for p in ps)) + "/md."),
              ("Fri data", (kr(min(p["price"] for p in fd)) + "/md.") if fd else "Tilbydes ikke"), ("5G", "Ja" if any(p["g5"] for p in ps) else "Primært 4G"),
-             ("eSIM", "Ja" if v["esim"] else "Nej"), ("Binding", "Ingen"), ("Grundlagt", str(v["founded"]))]
+             ("eSIM", "Ja" if v["esim"] else "Nej"), ("Binding", "Ingen")] + ([("Grundlagt", str(v["founded"]))] if v.get("founded") else [])
     pros = "".join(f"<li>{E(x)}</li>" for x in v["pros"]); cons = "".join(f"<li>{E(x)}</li>" for x in v["cons"])
     rev = "" if self_page else f'<a class="btn btn-ghost btn-sm" href="/udbydere/{slug}/">Læs hele anmeldelsen</a>'
     return (f'<div class="pcard"><div class="pcard-head"><div class="ring" style="--v:{v["score"]*10}" role="img" aria-label="Samlet karakter {v["score"]} ud af 10"><span>{str(v["score"]).replace(".", ",")}<small>/ 10</small></span></div>'
@@ -265,6 +266,20 @@ def parse(path):
 def ph(s):
     s = s.replace("{maaned}", MAANED).replace("{aar}", str(TODAY.year)).replace("{mdkort}", f"{MONTHS[TODAY.month-1][:3]}. {TODAY.year}").replace("{tjekket}", dk_short(CHECKED))
     s = re.sub(r"\{fra:([a-z0-9\-]+)\}", lambda m: str(fra(m.group(1))), s)
+    PI = {p["id"]: p for p in PLANS}
+    def _pl(m):
+        k, i = m.group(1), m.group(2)
+        p = PI.get(i)
+        if not p: return m.group(0)
+        if k == "pris": return str(p["price"])
+        if k == "intro": return str(p.get("intro") if p.get("intro") is not None else p["price"])
+        if k == "introtekst": return p.get("intro_txt") or f'{p["price"]} kr./md.'
+        if k == "gb": return gbtxt(p)
+        if k == "eu": return str(p["eu"] or "–")
+        if k == "navn": return f'{PROV[p["p"]]["name"]} {p["name"]}'
+        return m.group(0)
+    s = re.sub(r"\{(pris|intro|introtekst|gb|eu|navn):([a-z0-9\-]+)\}", _pl, s)
+    s = s.replace("{antal}", str(len(PLANS))).replace("{antal_udbydere}", str(len(PROV)))
     return s
 
 def slugify(t):
@@ -290,7 +305,7 @@ TYPE_ICON = {"billigste-mobilabonnement": "💸", "mobilabonnement-fri-data": "�
              "mobilabonnement-udlandet": "✈️", "mobilabonnement-streaming": "🎬", "mobilt-bredbaand": "📶", "taletidskort": "💳",
              "mobilabonnement-uden-data": "☎️", "mobilabonnement-uden-binding": "🔓", "esim": "📲", "erhvervsabonnement": "💼"}
 MENU_TYPES = TYPES[:10]
-PSLUG = {"telmore": "telmore", "lebara": "lebara", "lyca": "lyca-mobile", "oister": "oister", "yousee": "yousee", "flexii": "flexii", "greentel": "greentel", "duka": "duka"}
+PSLUG = {"telmore": "telmore", "lebara": "lebara", "lyca": "lyca-mobile", "oister": "oister", "yousee": "yousee", "flexii": "flexii", "greentel": "greentel", "duka": "duka", "cbb": "cbb", "eesy": "eesy"}
 GUIDES = [("guides/skift-mobilabonnement", "Skift mobilabonnement"), ("guides/hvor-meget-data", "Hvor meget data skal jeg bruge?"),
           ("guides/bedste-mobilnet", "Bedste mobilnet i Danmark"), ("guides/opsig-mobilabonnement", "Opsig dit mobilabonnement"),
           ("guides/mobilpriser-statistik", "Mobilpriser i tal (statistik)")]
@@ -313,10 +328,21 @@ def header():
             + '</ul><div class="nav-cta"><button class="btn btn-go btn-sm" type="button" data-quiz>Find mit abonnement</button></div></nav></div></header>')
 
 def ticker():
-    ids = ["lb-40", "tm-45", "fx-fri", "dk-30", "oi-100", "dk-1000", "ly-200", "gt-1000", "dk-200", "lb-5"]
+    adult = [p for p in PLANS if not is_kid(p)]
+    ids = []
+    def add(p):
+        if p and p["id"] not in ids: ids.append(p["id"])
+    add(min((p for p in adult if p["talk"] == "fri"), key=lambda p: p["price"], default=None))
+    for p in sorted((p for p in adult if p.get("intro") and "streaming" not in p["tags"]), key=lambda p: p["intro"]): add(p)
+    add(min((p for p in adult if p["gb"] is None), key=lambda p: p.get("intro") or p["price"], default=None))
+    add(min((p for p in adult if (p["gb"] or 0) >= 1000), key=lambda p: p["price"], default=None))
+    add(min(adult, key=lambda p: p["price"]))
+    ids = ids[:10]
     items = []
     for i in ids:
-        p = next(x for x in PLANS if x["id"] == i); v = PROV[p["p"]]
+        p = next((x for x in PLANS if x["id"] == i), None)
+        if not p: continue
+        v = PROV[p["p"]]
         offer = f'<b>{E(p["intro_txt"])}</b> (derefter {p["price"]} kr.)' if p.get("intro") else f'<b>{p["price"]} kr./md.</b>'
         rel = "nofollow noopener" if v.get("noaffiliate") else "sponsored nofollow noopener"
         items.append(f'<a href="{go(p["p"])}" rel="{rel}" target="_blank" >{E(v["name"])} {E(p["name"])}: {offer}</a>')
@@ -391,8 +417,15 @@ def author_box():
             '<p>Redaktør og stifter af telefonabonnementer.dk. Emil gennemgår priser, vilkår og netværksdata hos de danske mobilselskaber og opdaterer siden, når priserne ændrer sig. Alle tal er kontrolleret mod udbydernes egne prissider og officielle kilder som Digitaliseringsstyrelsen og Danmarks Statistik.</p>'
             '<div class="links"><a href="/forfatter/emil-rostgaard-clausen/">Om Emil</a><a href="/metode/">Sådan tester vi</a><a href="https://www.linkedin.com/in/emil-rostgaard-702809195/" rel="noopener me" target="_blank">LinkedIn</a><a href="/redaktionel-politik/">Redaktionel politik</a></div></div></aside>')
 
-HERO_TIPS = [f"Hej! Jeg er <b>Simo</b> 👋 Alle priser er tjekket {dk_short(CHECKED)}.", "Fri tale + 40 GB koster kun <b>49 kr.</b> hos Lebara.",
-             "Nummerflytning er <b>gratis</b> og tager max 2 hverdage.", "Alle abonnementer her er <b>uden binding</b>.", "Fri data starter ved <b>129 kr.</b> hos Flexii (år 1)."]
+def _tips():
+    adult = [p for p in PLANS if not is_kid(p)]
+    f = min((p for p in adult if p["talk"] == "fri"), key=lambda p: p["price"])
+    fd = min((p for p in adult if p["gb"] is None), key=lambda p: p.get("intro") or p["price"])
+    return [f"Hej! Jeg er <b>Simo</b> 👋 Alle priser er tjekket {dk_short(CHECKED)}.",
+            f"Fri tale + {gbtxt(f)} koster kun <b>{f['price']} kr.</b> hos {PROV[f['p']]['name']}.",
+            "Nummerflytning er <b>gratis</b> og tager max 2 hverdage.", "Alle abonnementer her er <b>uden binding</b>.",
+            f"Fri data fra <b>{fd.get('intro') or fd['price']} kr.</b> hos {PROV[fd['p']]['name']}" + (f" ({fd['intro_txt'].split(' ', 2)[-1]})." if fd.get('intro') else ".")]
+HERO_TIPS = _tips()
 
 def hero(page, crumbs, home=False):
     cr = ""
@@ -517,6 +550,7 @@ def crumbs_for(page):
 def prep(page):
     for k in ("title", "desc", "h1", "kicker", "answer", "lead"):
         page["_" + k] = ph(page.get(k, ""))
+    page["faq"] = [[ph(q), ph(a)] for q, a in page["faq"]]
     if not page["_kicker"]: page["_kicker"] = f"Opdateret {MAANED}"
     page["_tags"] = re.findall(r"\[\[(?:tabel|top3):([a-z0-9\-]+)", page["body"])[:1]
     page["_wc"] = words(re.sub(r"\[\[.*?\]\]", "", ph(page["body"]), flags=re.S)) + sum(words(q) + words(a) for q, a in page["faq"])
@@ -563,8 +597,17 @@ def render(page):
 def render_home(page):
     url = SITE + "/"
     crumbs = [("Forside", "/")]
-    picks = [("Billigst med fri tale", "lb-40", " "), ("Bedst i test 2026", "fx-fri", " win"), ("Mest data for pengene", "dk-200", ""), ("Bedste dækning", "tm-45", "")]
-    cards = "".join(card(b, next(p for p in PLANS if p["id"] == i), c) for b, i, c in picks)
+    adult = [p for p in PLANS if not is_kid(p) and "streaming" not in p["tags"]]
+    fri = [p for p in adult if p["talk"] == "fri"]
+    pk1 = min((p for p in fri if gbv(p) >= 20), key=lambda p: (p["price"], -gbv(p)))
+    fd = [p for p in adult if p["gb"] is None]
+    pk2 = min(fd, key=lambda p: (not p["g5"], -PROV[p["p"]]["score"], p["price"]))
+    big = [p for p in fri if (p["gb"] or 0) >= 100 and p["id"] not in (pk1["id"], pk2["id"])]
+    pk3 = min(big, key=lambda p: (p.get("intro") or p["price"]) / p["gb"])
+    tdc = [p for p in fri if PROV[p["p"]]["network"] == "TDC NET" and gbv(p) >= 30]
+    pk4 = min(tdc, key=lambda p: p.get("intro") or p["price"])
+    picks = [("Billigst med fri tale", pk1, ""), ("Bedst i test " + str(TODAY.year), pk2, " win"), ("Mest data for pengene", pk3, ""), ("Bedste dækning", pk4, "")]
+    cards = "".join(card(b, p, c) for b, p, c in picks)
     pgrid = "".join(f'<a href="/udbydere/{PSLUG[k]}/" class="rv">{logo(k, 26)}<span class="sc">{str(PROV[k]["score"]).replace(".", ",")}/10</span><b>fra {fra("udbyder-"+k)} kr.</b><small>{E(PROV[k]["short"])}</small></a>' for k in sorted(PSLUG, key=lambda k: -PROV[k]["score"]))
     tgrid = "".join(f'<a href="/{u}/"><span class="ic" aria-hidden="true">{TYPE_ICON[u]}</span><span><strong>{E(t)}</strong>{(f"<em>fra {fra(tag)} kr./md.</em>") if tag else "<small>Guide og sammenligning</small>"}</span></a>' for u, t, tag in TYPES)
     logos = "".join(f'<a href="/udbydere/{PSLUG[k]}/" title="{E(PROV[k]["name"])} anmeldelse">{logo(k, 28)}</a>' for k in PSLUG)
@@ -700,10 +743,8 @@ def write(path, s):
 PAGES = {}
 def main():
     global CSS, PDATA, JSV
-    for name in os.listdir(ROOT):
-        if name in KEEP: continue
-        p = os.path.join(ROOT, name)
-        shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
+    if os.path.isdir(ROOT): shutil.rmtree(ROOT)
+    os.makedirs(ROOT)
     build_images()
     CSS = minify_css(open(f"{B}/assets/style.css", encoding="utf-8").read())
     js = minify_js(open(f"{B}/assets/app.js", encoding="utf-8").read())

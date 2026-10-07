@@ -1,0 +1,178 @@
+---
+slug: udbydere/eesy
+provider: eesy
+title: eesy mobilabonnement → Fra {fra:udbyder-eesy} kr. + test ({mdkort})
+desc: eesy anmeldelse {maaned}: Fri tale + {gb:ee-30} til {introtekst:ee-30}, TDC NET og ingen gebyrer. Se priser, årspris og eesy mod Telmore.
+h1: eesy anmeldelse og priser
+kicker: Opdateret {maaned} · 3 eesy-abonnementer gennemgået
+answer: eesy får 8,4 ud af 10 i vores test. Du får TDC NET med landets bedste dækningsscore (9,3/10 hos Opensignal), 5G, eSIM og ingen gebyrer eller binding. Fri tale + {gb:ee-30} koster {introtekst:ee-30} og derefter {pris:ee-30} kr./md., {gb:ee-80} koster {pris:ee-80} kr., og fri data koster {pris:ee-fri} kr. eesy er den billigste vej til fri data på TDC NET, men på 30 og 80 GB giver Telmore mere data for næsten samme pris.
+lead: Vi har gennemgået eesys tre abonnementer, nettet, EU-data, eSIM og vilkår – og regnet på, hvad du betaler det første år og året efter sammenlignet med Telmore og YouSee på samme net.
+crumb: eesy
+section: udbydere
+related: udbydere/telmore, udbydere/yousee, mobilabonnement-fri-data, guides/bedste-mobilnet, mobilabonnement-tilbud
+---
+[[udbyderkort:eesy]]
+
+<div class="callout"><p><strong>Kort sagt:</strong> eesy er TDC-koncernens mest enkle lavprisbrand: tre abonnementer, ingen gebyrer, ingen binding og TDC NET. Introtilbuddene de første to måneder er billige, og fri data er billigere end hos både Telmore og YouSee. Til gengæld stiger prisen markant efter introperioden, og vil du have 30 eller 80 GB, er der bedre køb på samme net.</p></div>
+
+<h2>Alle eesy-abonnementer og priser</h2>
+<p>eesy har i {maaned} tre mobilabonnementer: fri tale med {gb:ee-30}, fri tale med {gb:ee-80} og fri tale med fri data. Alle tre har 5G og en intropris de første to måneder. Det er et af de mindste sortimenter blandt de selskaber, vi sammenligner, og det er bevidst – eesy satser på enkelhed frem for valgmuligheder. Vi har tjekket priserne mod eesys egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
+
+[[tabel:udbyder-eesy]]
+
+<p>Fri tale + {gb:ee-30} koster {introtekst:ee-30} og derefter {pris:ee-30} kr./md. Fri tale + {gb:ee-80} koster {introtekst:ee-80} og derefter {pris:ee-80} kr., og fri data koster {introtekst:ee-fri} og derefter {pris:ee-fri} kr./md. Introtilbuddene ligger altså en del under en fjerdedel af normalprisen, og det gør eesy til et af de billigste steder at starte på TDC NET.</p>
+<p>Men der er et stort spring fra intropris til normalpris. På 30 GB-abonnementet går du fra {intro:ee-30} til {pris:ee-30} kr. – næsten en firdobling. Det er normalprisen, du skal vurdere abonnementet på, for den betaler du i ti af årets tolv måneder og i alle måneder derefter.</p>
+
+<h3>Hvad koster eesy det første år og året efter?</h3>
+<p>Vi har regnet årsprisen ud som intropris × 2 + normalpris × 10 for det første år, og 12 × normalpris for året efter.</p>
+<table>
+<thead><tr><th>Abonnement</th><th>Intro / normal pr. md.</th><th>Første år</th><th>Andet år</th></tr></thead>
+<tbody>
+<tr><td>Fri tale + {gb:ee-30}</td><td>{intro:ee-30} / {pris:ee-30} kr.</td><td>1.360 kr.</td><td>1.548 kr.</td></tr>
+<tr><td>Fri tale + {gb:ee-80}</td><td>{intro:ee-80} / {pris:ee-80} kr.</td><td>1.580 kr.</td><td>1.788 kr.</td></tr>
+<tr><td>Fri tale + fri data</td><td>{intro:ee-fri} / {pris:ee-fri} kr.</td><td>2.300 kr.</td><td>2.628 kr.</td></tr>
+</tbody>
+</table>
+<p>Tag fri tale + 30 GB som eksempel: 2 × 35 kr. + 10 × 129 kr. = 1.360 kr. det første år. Fra år to betaler du 12 × 129 kr. = 1.548 kr. Introtilbuddet sparer dig 188 kr. Det er en fin velkomstrabat, men den ændrer ikke på, at {gb:ee-30} til {pris:ee-30} kr. er dyrt, når du ser på resten af markedet.</p>
+
+[[simo:Tager du et eesy-introtilbud, så sæt en påmindelse i kalenderen efter halvanden måned. Så kan du nå at vurdere, om normalprisen på {pris:ee-30} kr. stadig giver mening, før den første fulde regning kommer.]]
+
+<h3>Ingen gebyrer – hvad betyder det?</h3>
+<p>eesy markedsfører sig med "ingen gebyrer eller binding". I praksis betyder det, at du ikke skal betale for oprettelse, og at du kan opsige, når du vil, med den løbende opsigelsesperiode, der står i vilkårene. Det præcise indhold af gebyrpolitikken – fx om der er særlige betalingsformer eller ydelser, der koster ekstra – fremgår af eesys vilkår på hjemmesiden, og dem bør du læse, før du bestiller. Vi har ikke fundet gebyrer i prisdataene for de tre abonnementer.</p>
+
+<h2>Netværk og dækning: Hvilket net bruger eesy?</h2>
+<p>eesy kører på TDC NET – det samme mobilnet som Telmore og YouSee. TDC NET er et af fire fysiske mobilnet i Danmark. De andre er Telenor, Norlys og 3, hvor Telenor og Norlys deler radionettet i det såkaldte TT-netværk. Dækningen hos eesy er derfor præcis den samme som hos Telmore og YouSee.</p>
+<p>I Opensignals rapport fra februar 2026, baseret på målinger fra oktober til december 2025, fik TDC den højeste score for dækningsoplevelse i Danmark med 9,3 ud af 10. Telenor og Norlys fik 9,2, mens 3 lå på 7,3<sup class="ref"><a href="#kilde-2">2</a></sup>. Dækningsoplevelse måler, hvor godt nettet fungerer de steder, brugerne faktisk færdes – også på landevejen, i sommerhuset og i tog.</p>
+
+<div class="stat-grid"><div class="stat"><b>9,3/10</b><span>Dækningsoplevelse for TDC (Opensignal, højest i DK)</span></div><div class="stat"><b>103,1 Mbit/s</b><span>Gns. download på TDC (lavest af de fire net)</span></div><div class="stat"><b>3</b><span>Abonnementer hos eesy – alle med 5G</span></div><div class="stat"><b>100 %</b><span>5G-befolkningsdækning i Danmark</span></div></div>
+
+<p>En måling fra Teknologisk Institut i februar-marts 2026 gav også TDC den højeste samlede kvalitet med 96 % mod Norlys 94 %, Telenor 93 % og 3 91 %<sup class="ref"><a href="#kilde-3">3</a></sup>. Målingen er bestilt af TDC NET selv, så vi vægter Opensignals uafhængige tal højest, men de to peger i samme retning.</p>
+<p>Uanset landsgennemsnit bør du tjekke dækningen på din egen adresse på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup>, før du skifter. Vil du vide mere om forskellen på nettene, kan du læse vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet i Danmark</a>.</p>
+
+<h2>Hastighed og 5G hos eesy</h2>
+<p>Alle tre eesy-abonnementer har 5G. Med kun tre abonnementer at vælge imellem er der ingen 4G-versioner at falde i, sådan som det fx sker hos Lebara og Lyca Mobile, hvor alt er 4G.</p>
+<p>TDC NET er ikke det hurtigste net målt på gennemsnitlig download. Opensignal målte 103,1 Mbit/s hos TDC mod 118,8 Mbit/s hos Norlys, 112,2 hos 3 og 107,4 hos Telenor<sup class="ref"><a href="#kilde-2">2</a></sup>. I hverdagen er forskellen lille: 100 Mbit/s er rigeligt til alt, hvad de fleste bruger en telefon til. Netflix i 4K bruger op til 7 GB i timen, hvilket svarer til omkring 16 Mbit/s. TDC NET's styrke er dækningen, ikke tophastigheden. 5G-tilgængeligheden lå mellem 92,7 % og 94,1 % hos alle fire net i samme rapport.</p>
+<p>Ifølge Digitaliseringsstyrelsens telestatistik har 85,8 % af alle standardabonnementer i Danmark nu 5G<sup class="ref"><a href="#kilde-5">5</a></sup>. 5G er med andre ord blevet standard, og det er godt, at eesy følger med. Læs mere på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+
+<h2>eesy i EU og udlandet</h2>
+<p>eesy giver {eu:ee-30} GB i EU med 30 GB-abonnementet – altså hele datamængden – {eu:ee-80} GB med 80 GB-abonnementet og {eu:ee-fri} GB med fri data. Det er på niveau med eller over Telmore i samme prisklasse, hvor fri data giver {eu:tm-fri} GB.</p>
+<p>EU's "Roam like at home"-regler betyder, at du betaler det samme i EU, Norge, Island og Liechtenstein som herhjemme. Fra 1. januar 2026 er Ukraine og Moldova også med. Har du fri data, må selskabet sætte et fair use-loft, men det skal være mindst to gange månedsprisen uden moms divideret med engrosloftet på 1,30 € pr. GB<sup class="ref"><a href="#kilde-8">8</a></sup>.</p>
+<p><strong>Regneeksempel:</strong> eesys fri data koster {pris:ee-fri} kr./md. Uden moms er det 175,20 kr. Med en kurs omkring 7,46 kr. pr. euro er engrosloftet ca. 9,70 kr. pr. GB. 175,20 / 9,70 × 2 = cirka 36 GB. eesy giver {eu:ee-fri} GB – altså markant mere end minimumskravet.</p>
+
+[[vaerktoej:roaming]]
+
+<p>Storbritannien, Schweiz og lande uden for Europa er ikke omfattet af EU-reglerne. Her afhænger prisen af eesys egne udlandspriser, som du finder på eesys side. Rejser du ofte uden for EU, kan du se vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+
+<h2>eSIM og opstart hos eesy</h2>
+<p>eesy tilbyder eSIM, og der er ingen oprettelsesgebyr. Har du en nyere telefon, kan du altså være i gang uden at vente på et SIM-kort med posten. Apple har en oversigt over danske selskaber med eSIM, hvor du kan se, hvordan aktiveringen fungerer på iPhone<sup class="ref"><a href="#kilde-10">10</a></sup>.</p>
+<ol class="steps">
+<li><strong>Tjek din telefon.</strong> Se under Indstillinger, om din telefon understøtter eSIM. De fleste iPhones og Android-telefoner fra de seneste år gør.</li>
+<li><strong>Vælg abonnement og eSIM.</strong> Vælg et af de tre abonnementer på eesys side, og vælg eSIM som SIM-type.</li>
+<li><strong>Vælg nummer.</strong> Vil du beholde dit nuværende nummer, sørger eesy for nummerflytningen.</li>
+<li><strong>Aktivér eSIM.</strong> Følg eesys vejledning – typisk via en QR-kode eller app. Hav WiFi klar.</li>
+<li><strong>Test.</strong> Ring et opkald, og slå mobildata til, når nummeret er flyttet.</li>
+</ol>
+<p>Læs mere om fordele og faldgruber i vores <a href="/esim/">guide til eSIM</a>.</p>
+
+<h2>Vilkår og kundeservice hos eesy</h2>
+<p>eesy har ingen binding på mobilabonnementerne. Som forbruger kan du højst blive bundet i 6 måneder ifølge slutbrugerbekendtgørelsen<sup class="ref"><a href="#kilde-6">6</a></sup>, men det er altså ikke et spørgsmål hos eesy. Det gør introtilbuddet risikofrit: Du kan prøve TDC NET i to måneder til lav pris og skifte videre, hvis normalprisen ikke passer dig. Hold blot øje med opsigelsesperioden i vilkårene.</p>
+<p>Ændrer eesy prisen eller vilkårene, skal du varsles mindst én måned før, og du kan opsige uden omkostninger. eesy skal også mindst én gang om året oplyse dig om det bedste tilbud til dit forbrug<sup class="ref"><a href="#kilde-6">6</a></sup>.</p>
+<p>eesy er et digitalt brand, hvor bestilling, ændringer og opsigelse primært foregår online. Der er ingen butikker. Hvilke kontaktmuligheder der er, og hvornår kundeservice har åbent, fremgår af eesys hjemmeside – vi har ikke selvstændige tal for svartider. Vi giver eesy 7,8 ud af 10 for service, lavere end Telmore (8,6), fordi den personlige service er mere begrænset. Har du brug for at tale med nogen ansigt til ansigt, er YouSee med fysiske butikker et bedre valg på samme net.</p>
+
+<div class="callout warn"><p><strong>Vær opmærksom:</strong> Introprisen gælder kun i to måneder. Herefter koster {gb:ee-30} {pris:ee-30} kr./md. – mere end Telmores {gb:tm-50} på intro og kun 20 kr. mindre end Telmores normalpris for {gb:tm-50}. Regn altid på normalprisen.</p></div>
+
+[[cta:eesy]]
+
+<h2>Hvem ejer eesy?</h2>
+<p>eesy er en del af TDC-koncernen, som ifølge Digitaliseringsstyrelsens udbyderliste for 2025 også står bag YouSee, Telmore og Relatel<sup class="ref"><a href="#kilde-4">4</a></sup>. TDC/Nuuday har samlet mere end 2,9 mio. mobilkunder ifølge iNPUT (juli 2025), hvilket gør koncernen til Danmarks største på mobil<sup class="ref"><a href="#kilde-11">11</a></sup>. Tallet dækker alle koncernens brands og ikke eesy alene.</p>
+<p>Ejerskabet betyder, at eesy kører på koncernens eget net, TDC NET, uden mellemled. Inden for koncernen har de tre mobilbrands forskellige roller: YouSee er det fulde brand med butikker og familie-SIM, Telmore er det store lavprisbrand med mange abonnementer og streamingpakker, og eesy er det helt skrabede brand med få abonnementer og fokus på "ingen gebyrer". Det forklarer, hvorfor eesys priser ligger tæt på Telmores – de konkurrerer primært om kunder uden for koncernen.</p>
+
+<h2>eesy vs. Telmore og YouSee på TDC NET</h2>
+<p>Fordi eesy, Telmore og YouSee bruger samme net, er dækning og hastighed den samme. Valget handler om pris, data og service. Her er de tre side om side:</p>
+<table>
+<thead><tr><th>Selskab</th><th>Fri tale + 25-50 GB</th><th>Fri tale + 80-200 GB</th><th>Fri data</th><th>EU-data (fri data)</th></tr></thead>
+<tbody>
+<tr><td>eesy</td><td>{gb:ee-30}: {pris:ee-30} kr. ({introtekst:ee-30})</td><td>{gb:ee-80}: {pris:ee-80} kr. ({introtekst:ee-80})</td><td>{pris:ee-fri} kr. ({introtekst:ee-fri})</td><td>{eu:ee-fri} GB</td></tr>
+<tr><td>Telmore</td><td>{gb:tm-50}: {pris:tm-50} kr. ({introtekst:tm-50})</td><td>{gb:tm-200}: {pris:tm-200} kr.</td><td>{pris:tm-fri} kr.</td><td>{eu:tm-fri} GB</td></tr>
+<tr><td>YouSee</td><td>{gb:ys-25}: {pris:ys-25} kr. / {gb:ys-50}: {pris:ys-50} kr.</td><td>{gb:ys-100}: {pris:ys-100} kr.</td><td>{pris:ys-fri} kr.</td><td>{eu:ys-fri} GB</td></tr>
+</tbody>
+</table>
+<p>Lad os regne på et helt år for hver kategori:</p>
+<ul>
+<li><strong>Omkring 30-50 GB:</strong> eesy 30 GB koster 1.360 kr. det første år og 1.548 kr. året efter. Telmore 50 GB koster 3 × 69 + 9 × 149 = 1.548 kr. det første år og 1.788 kr. året efter. eesy er 240 kr. billigere om året på normalpris, men du får 20 GB mindre. YouSee 25 GB koster 2.148 kr. om året.</li>
+<li><strong>Omkring 80-200 GB:</strong> eesy 80 GB koster 1.580 kr. det første år og 1.788 kr. året efter. Telmore 200 GB koster 12 × 159 = 1.908 kr. om året. For 120 kr. mere om året – 10 kr. om måneden – får du 120 GB ekstra hos Telmore. Her er Telmore det klart bedste køb.</li>
+<li><strong>Fri data:</strong> eesy koster 2.300 kr. det første år og 2.628 kr. året efter. Telmore koster 12 × 249 = 2.988 kr. og YouSee 12 × 299 = 3.588 kr. eesy sparer dig 688 kr. det første år og 360 kr. om året derefter i forhold til Telmore – og 960 kr. om året i forhold til YouSee.</li>
+</ul>
+<p>Konklusionen er klar: Vil du have fri data på TDC NET, er eesy det billigste valg i vores sammenligning. Vil du have et abonnement med en fast datamængde, er Telmores 200 GB et bedre køb end eesys 80 GB. Kan du leve med et andet net, er der langt billigere fri data at finde – Flexii koster fra {pris:fx-fri-4g} kr./md. på 3's net, og Duka {pris:dk-fri} kr. på TT-netværket. Se alle på vores side om <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>, og læs anmeldelserne af <a href="/udbydere/telmore/">Telmore</a> og <a href="/udbydere/yousee/">YouSee</a>.</p>
+
+<blockquote class="expert"><p>eesy er det, navnet lover: et let abonnement uden dikkedarer på et af landets bedste net. Fri data til {pris:ee-fri} kr. er det mest interessante, for det slår både Telmore og YouSee på samme net, og {eu:ee-fri} GB EU-data er generøst. På 30 og 80 GB er eesy derimod svært at anbefale efter introperioden – her giver Telmores 200 GB langt mere for pengene. Brug introtilbuddet til at prøve TDC NET af, og regn på normalprisen, før de to måneder er gået.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Hvem passer eesy til – og hvem bør vælge noget andet?</h2>
+<h3>eesy passer til dig, der</h3>
+<ul>
+<li>vil have fri data på TDC NET til den laveste pris</li>
+<li>bor eller færdes uden for byerne, hvor TDC NET's dækning gør en forskel</li>
+<li>foretrækker få, enkle valg og ingen gebyrer</li>
+<li>rejser i EU og vil have {eu:ee-fri} GB EU-data med fri data</li>
+<li>gerne vil prøve TDC NET billigt i to måneder</li>
+</ul>
+<h3>eesy passer ikke til dig, der</h3>
+<ul>
+<li>vil have mest mulig data for pengene på 30-200 GB – Telmore 200 GB er bedre</li>
+<li>har brug for et lille taleabonnement – eesy har intet under {gb:ee-30}</li>
+<li>gerne vil kunne gå i en butik eller have personlig service</li>
+<li>vil have den laveste pris uanset net – Lebara, Duka og Flexii er billigere</li>
+</ul>
+
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>TDC NET med landets bedste dækningsscore (9,3/10)</li><li>Introtilbud fra {intro:ee-30} kr./md. i 2 mdr.</li><li>Ingen gebyrer og ingen binding</li><li>Billigste fri data på TDC NET med {eu:ee-fri} GB EU-data</li><li>5G og eSIM</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Normalpriserne stiger markant efter 2 måneder</li><li>Kun tre abonnementer at vælge imellem</li><li>Primært digital kundeservice</li><li>80 GB er dårligere køb end Telmores 200 GB</li><li>Intet billigt taleabonnement</li></ul></div></div>
+
+<h2>Sådan vælger du det rigtige eesy-abonnement</h2>
+<p>Danskerne brugte i gennemsnit 26,9 GB pr. abonnement om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-5">5</a></sup>. Ligger du på eller under gennemsnittet, rækker eesys {gb:ee-30} for de fleste måneder. Er du tæt på grænsen, er det værd at overveje, om det er eesy, du skal vælge – 80 GB koster {pris:ee-80} kr., og for 10 kr. mere får du 200 GB hos Telmore på samme net.</p>
+<p>Fri data giver mening, hvis du bruger telefonen som hotspot til computeren, streamer meget på farten eller ikke har fast internet derhjemme. Her er eesy et stærkt valg på TDC NET. Er du i tvivl om dit forbrug, så tjek mobildata under telefonens indstillinger for de seneste måneder, læs vores <a href="/guides/hvor-meget-data/">guide til, hvor meget data du har brug for</a>, eller brug beregneren herunder.</p>
+
+[[vaerktoej:databeregner]]
+
+<p>Sådan har vi vurderet: Vi vurderer alle selskaber på pris, net, fleksibilitet og service. eesy får 7,6 for pris, 9,4 for net, 9,0 for fleksibilitet og 7,8 for service – i alt 8,4. Nettet og den manglende binding trækker op, mens normalpriserne og den begrænsede service trækker ned. Læs mere om vores <a href="/metode/">metode</a>.</p>
+
+<h2>Sådan skifter du til eesy</h2>
+<p>Det er nemt at skifte, og du beholder dit nummer. Efter teleloven skal dit nummer flyttes senest ved udgangen af næstfølgende arbejdsdag, flytningen koster ikke noget særskilt, og du skal ikke selv opsige dit gamle abonnement<sup class="ref"><a href="#kilde-7">7</a></sup>.</p>
+<ol class="steps">
+<li><strong>Tjek din binding.</strong> Se, om du har binding hos dit nuværende selskab. Du kan flytte nummeret alligevel, men du betaler resten af bindingsperioden.</li>
+<li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk og se TDC NET's dækning.</li>
+<li><strong>Bestil hos eesy.</strong> Vælg abonnement, SIM eller eSIM, og vælg at beholde dit nummer.</li>
+<li><strong>Vent på flytningen.</strong> eesy sørger for nummerflytningen og opsigelsen af dit gamle abonnement.</li>
+<li><strong>Aktivér og test.</strong> Indsæt SIM-kortet eller aktivér eSIM, når du får besked om, at nummeret er flyttet.</li>
+<li><strong>Sæt en påmindelse.</strong> Skriv i kalenderen, hvornår introperioden slutter, så du kan tage stilling til normalprisen.</li>
+</ol>
+<p>Du har 14 dages fortrydelsesret, når du køber online. Læs hele vejledningen i vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>.</p>
+
+[[cta:eesy]]
+===FAQ===
+Q: Hvilket net bruger eesy?
+A: eesy kører på TDC NET – det samme net som Telmore og YouSee. TDC fik den højeste score for dækningsoplevelse i Opensignals rapport fra februar 2026 med 9,3 ud af 10. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.
+Q: Hvad koster eesy om måneden?
+A: eesys tre abonnementer koster {pris:ee-30} kr. (fri tale + {gb:ee-30}), {pris:ee-80} kr. ({gb:ee-80}) og {pris:ee-fri} kr. (fri data) på normalpris. De første to måneder koster de {intro:ee-30}, {intro:ee-80} og {intro:ee-fri} kr./md.
+Q: Hvem ejer eesy?
+A: eesy er en del af TDC-koncernen, som også ejer YouSee, Telmore og Relatel ifølge Digitaliseringsstyrelsens udbyderliste for 2025.
+Q: Har eesy binding eller gebyrer?
+A: Nej. eesy markedsfører sig med ingen gebyrer og ingen binding. Du betaler ikke for oprettelse og kan opsige med den løbende opsigelsesperiode i vilkårene.
+Q: Er eesy billigere end Telmore?
+A: Det afhænger af abonnementet. Fri data koster {pris:ee-fri} kr. hos eesy mod {pris:tm-fri} kr. hos Telmore, så her er eesy billigst. Men eesys {gb:ee-80} til {pris:ee-80} kr. er et dårligere køb end Telmores {gb:tm-200} til {pris:tm-200} kr. på samme net.
+Q: Har eesy eSIM?
+A: Ja, eesy tilbyder eSIM. Du vælger det, når du bestiller, og aktiverer det typisk via en QR-kode. Se vores <a href="/esim/">guide til eSIM</a>.
+Q: Hvor meget data får jeg i EU med eesy?
+A: {eu:ee-30} GB med 30 GB-abonnementet, {eu:ee-80} GB med 80 GB og {eu:ee-fri} GB med fri data. Det gælder i EU, Norge, Island og Liechtenstein samt Ukraine og Moldova.
+Q: Har eesy 5G?
+A: Ja, alle tre eesy-abonnementer har 5G på TDC NET. Se flere abonnementer med 5G på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.
+===KILDER===
+eesy – mobilabonnementer og priser | https://eesy.dk/
+Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Teknologisk Institut – Måling af mobilnetværksoplevelse (bestilt af TDC NET), april 2026 | https://tdcnet.dk/media/1geazoql/maaling-af-mobilnetvaerksoplevelse-rapport-30-04-2026.pdf
+Udbyderliste og koncerner 2025, Digitaliseringsstyrelsen | https://digst.dk/media/f2lbwqjn/udbyderliste-og-koncerncer-2025.pdf
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Your Europe – Roamingafgifter i EU | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Tjek dit net – dækning på din adresse | https://tjekditnet.dk
+Apple – Danske udbydere med eSIM | https://support.apple.com/da-dk/101569
+iNPUT – Teleselskabet 3 er nu Danmarks andetstørste | https://www.inputmag.dk/teleselskabet-3-er-nu-danmarks-andetstoerste/

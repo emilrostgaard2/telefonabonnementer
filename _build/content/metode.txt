@@ -4,44 +4,46 @@ title: Sådan sammenligner vi mobilabonnementer → Metode {aar}
 desc: Se præcis hvordan vi finder priser, beregner pris pr. GB og 12-måneders totalpris og giver karakterer: pris 40 %, net 25 %, vilkår 20 % og service 15 %.
 h1: Sådan sammenligner og bedømmer vi
 kicker: Opdateret {maaned} · Priser tjekket 7. oktober 2026
-answer: Vi henter alle priser fra udbydernes egne prissider (senest tjekket 7. oktober 2026) og giver hver udbyder en karakter fra 1 til 10, hvor pris vægter 40 %, net og dækning 25 %, fleksibilitet og vilkår 20 % og service 15 %. Vi viser altid normalprisen som fra-pris og kampagnepriser separat, og provision påvirker hverken karakterer eller rækkefølge.
+answer: Vi henter priser og abonnementsdata automatisk hver nat fra udbydernes officielle prisfeed via Adtraction og supplerer med stikprøver på udbydernes egne prissider. Hver udbyder får en karakter fra 1 til 10, hvor pris vægter 40 %, net og dækning 25 %, fleksibilitet og vilkår 20 % og service 15 %. Vi sorterer efter normalpris, og provision påvirker hverken karakterer eller rækkefølge.
 lead: Her kan du se, hvor vores tal kommer fra, hvordan vi regner, og hvordan karaktererne bliver til – så du selv kan vurdere, om du er enig i vores konklusioner.
 crumb: Metode
 section: om
 related: redaktionel-politik, annoncoeroplysning, forfatter/emil-rostgaard-clausen, guides/bedste-mobilnet
 ---
 <h2>Kort fortalt: sådan sammenligner vi</h2>
-<p>Når du sammenligner mobilabonnementer på telefonabonnementer.dk, ser du data, som vi selv har samlet ind og regnet på. Vi sammenligner i øjeblikket 45 abonnementer fra otte udbydere: Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka. Udvalget dækker alle fire danske mobilnet og både de store mærker og de mindre lavprisselskaber.</p>
+<p>Når du sammenligner mobilabonnementer på telefonabonnementer.dk, ser du data, som vi selv har samlet ind og regnet på. Vi sammenligner i øjeblikket {antal} abonnementer fra {antal_udbydere} udbydere: Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel, Duka, CBB og eesy. Udvalget dækker alle fire danske mobilnet og både de store mærker og de mindre lavprisselskaber.</p>
 <div class="keypoints"><h3>Det vigtigste</h3><ul>
-<li>Priser hentes fra udbydernes egne prissider og blev senest gennemgået samlet 7. oktober 2026.</li>
+<li>Priser og abonnementsdata hentes automatisk hver nat fra udbydernes officielle prisfeed via Adtraction – det er udbyderne selv, der leverer dataene – og vi tager stikprøver på udbydernes egne prissider.</li>
 <li>Karakteren består af fire delkarakterer: pris (40 %), net og dækning (25 %), fleksibilitet og vilkår (20 %) og service (15 %).</li>
 <li>Fra-prisen er altid normalprisen. Kampagnepriser vises separat med tydelig tekst om, hvor længe de gælder.</li>
 <li>Vi regner pris pr. GB og 12-måneders totalpris, så kampagner og normalpriser kan sammenlignes fair.</li>
-<li>Ingen udbyder kan betale sig til en bedre karakter eller placering.</li>
+<li>Alle {antal_udbydere} udbydere er samarbejdspartnere, men ingen udbyder kan betale sig til en bedre karakter eller placering. Vi sorterer efter pris.</li>
 </ul></div>
 
 <h2>Hvor kommer priserne fra?</h2>
-<h3>Udbydernes egne prissider</h3>
-<p>Den primære kilde til alle priser er udbydernes egne sider, hvor de sælger abonnementerne til private kunder. Det er de priser, du møder, når du bestiller, og dermed også de priser, der er juridisk relevante for dig. For hvert abonnement noterer vi månedspris, datamængde, EU-data, taletid, om abonnementet har 5G, eventuelle oprettelsesgebyrer samt kampagnepris og kampagnens varighed.</p>
-<p>Den seneste fulde gennemgang af alle abonnementer blev lavet 7. oktober 2026. For Lebara og Lyca Mobile blev priserne ved denne gennemgang krydstjekket via en offentlig sammenligningstjeneste, fordi selskabernes egne sider viste priserne forskelligt afhængigt af kampagnevisning. Den slags afvigelser fra hovedreglen noterer vi internt, så vi ved, hvor der skal tjekkes ekstra grundigt næste gang.</p>
+<h3>Udbydernes officielle prisfeed via Adtraction</h3>
+<p>Den primære kilde til alle priser og abonnementsdata er udbydernes officielle prisfeed, som vi henter automatisk hver nat via affiliatenetværket Adtraction. Det er udbyderne selv, der leverer og vedligeholder dataene i feedet, og det er de samme abonnementer og priser, de sælger til private kunder på deres egne sider. For hvert abonnement henter vi månedspris, datamængde, EU-data, taletid, om abonnementet har 5G eller 4G, hvilket net det kører på, samt kampagnepris og kampagnens varighed.</p>
+<p>Den natlige opdatering betyder, at en prisændring hos udbyderen som regel slår igennem hos os inden for et døgn. Forsvinder et abonnement fra feedet, fjernes det også fra vores tabeller, så du ikke ser udgåede tilbud. Den seneste samlede kontrol af alle abonnementer blev lavet 7. oktober 2026.</p>
+<h3>Stikprøver på udbydernes egne prissider</h3>
+<p>Et feed er kun så godt som de data, der lægges i det. Derfor supplerer vi med stikprøver, hvor vi sammenholder feedets oplysninger med udbydernes egne prissider. Det er priserne på udbyderens side, du møder, når du bestiller, og dermed også dem, der er juridisk relevante for dig. Finder vi en afvigelse, er det udbyderens egen side, der gælder, og vi giver udbyderen besked, så feedet kan blive rettet.</p>
 <h3>Løbende opdatering</h3>
 <p>Priserne på mobilmarkedet ændrer sig ofte. Kampagner starter og slutter, og normalpriser bliver justeret – ifølge Danmarks Statistik steg priserne på mobilkommunikation 8,6 % fra august 2025 til august 2026.<sup class="ref"><a href="#kilde-1">1</a></sup> Derfor opdaterer vi løbende:</p>
 <ul>
-<li>Når en kampagne har en fast slutdato – fx Telmores tilbud på 26 kr./md. i 2 måneder, der gælder til 18.10.2026 – noterer vi datoen og tjekker prisen igen, når den passerer.</li>
-<li>Vi gennemgår alle abonnementer samlet med jævne mellemrum, og datoen for seneste gennemgang står øverst på siderne.</li>
+<li>Priser og abonnementer opdateres automatisk hver nat fra udbydernes prisfeed, så nye kampagner, prisjusteringer og udgåede abonnementer slår hurtigt igennem.</li>
+<li>Når en kampagne har en fast slutdato – fx Dukas tilbud på 200 GB til 79 kr./md., der gælder til 31.3.2027 – noterer vi datoen og tjekker prisen igen, når den passerer.</li>
 <li>Får vi besked fra en læser eller en udbyder om en ændret pris, tjekker vi den hos udbyderen selv, før vi retter.</li>
 </ul>
-<h3>Produktfeeds fra samarbejdspartnere</h3>
-<p>For en del af udbyderne har vi adgang til produktfeeds via netværket Adtraction eller direkte fra udbyderen. Feeds er praktiske, fordi de kan vise ændringer hurtigt, men de er ikke altid opdaterede eller fuldstændige. Vi bruger dem derfor kun som et signal om, at noget har ændret sig. Den pris, vi viser, skal kunne genfindes på udbyderens egen side.</p>
+<h3>Alle udbydere er partnere – men det styrer ikke sorteringen</h3>
+<p>Alle {antal_udbydere} udbydere, vi sammenligner, er i dag samarbejdspartnere via Adtraction – også YouSee. Det er netop samarbejdet, der giver os adgang til de officielle prisfeeds. Det ændrer ikke på, hvordan vi sammenligner: Tabellerne sorteres efter pris, og karaktererne beregnes efter de faste kriterier nedenfor. Den provision, vi modtager, indgår hverken i sorteringen eller i karaktererne.</p>
 <h3>Hvad med udbydere, vi ikke dækker?</h3>
-<p>Der findes flere selskaber på det danske marked end dem, vi sammenligner – fx CBB, Eesy, Norlys, 3, Telenor, Call me og Relatel. Vi arbejder på at udvide udvalget. Indtil da nævner vi dem, hvor det giver mening, men vi giver dem ikke karakterer, fordi vi ikke har gennemgået deres priser og vilkår efter samme metode.</p>
+<p>Der findes flere selskaber på det danske marked end dem, vi sammenligner – fx Norlys, 3, Telenor, Call me og Relatel. Vi arbejder på at udvide udvalget. Indtil da nævner vi dem, hvor det giver mening, men vi giver dem ikke karakterer, fordi vi ikke har gennemgået deres priser og vilkår efter samme metode.</p>
 
 <h2>Hvordan beregner vi karakteren?</h2>
 <p>Hver udbyder får en samlet karakter på en skala fra 1 til 10. Karakteren er et vægtet gennemsnit af fire delkarakterer. Vægtningen afspejler, hvad der betyder mest for de fleste danske forbrugere: Prisen er det, du mærker hver måned, mens nettet er det, du mærker, når det ikke virker.</p>
 <table>
 <thead><tr><th>Kriterie</th><th>Vægt</th><th>Hvad vi kigger på</th><th>Primære kilder</th></tr></thead>
 <tbody>
-<tr><td>Pris</td><td>40 %</td><td>Normalpris i forhold til data og tale, pris pr. GB, 12-måneders totalpris, gebyrer</td><td>Udbydernes prissider</td></tr>
+<tr><td>Pris</td><td>40 %</td><td>Normalpris i forhold til data og tale, pris pr. GB, 12-måneders totalpris, gebyrer</td><td>Udbydernes prisfeed og prissider</td></tr>
 <tr><td>Net og dækning</td><td>25 %</td><td>Hvilket mobilnet udbyderen bruger, målt hastighed, dækningsoplevelse, 5G-adgang</td><td>Opensignal, Teknologisk Institut, tjekditnet.dk</td></tr>
 <tr><td>Fleksibilitet og vilkår</td><td>20 %</td><td>Binding, opsigelsesvarsel, oprettelse, eSIM, ekstra datakort, EU-data, betalingsformer</td><td>Udbydernes vilkår og prissider</td></tr>
 <tr><td>Service</td><td>15 %</td><td>Kontaktmuligheder, selvbetjening, åbningstider, hvor let det er at bestille og opsige</td><td>Udbydernes sider og vores egne gennemgange</td></tr>
@@ -55,13 +57,13 @@ related: redaktionel-politik, annoncoeroplysning, forfatter/emil-rostgaard-claus
 <h3>Pris (40 %)</h3>
 <p>Prisdelkarakteren bygger på udbyderens normalpriser på tværs af hele sortimentet – ikke kun det billigste abonnement. En udbyder, der har et lokketilbud til 19 kr. men dyre abonnementer i mellemklassen, får ikke automatisk en høj karakter. Vi ser på pris pr. GB i forskellige størrelser, prisen på fri tale og fri data, og hvad abonnementet koster over 12 måneder. Kampagner giver en lille bonus, hvis de er reelle og gennemskuelige, men normalprisen vejer tungest, fordi det er den, du betaler længst.</p>
 <h3>Net og dækning (25 %)</h3>
-<p>Oister og Flexii hører til 3-koncernen, og Telmore og YouSee hører til TDC-koncernen, mens Lyca Mobile lejer sig ind på TDC NET, og Lebara, Greentel og Duka lejer sig ind på TT-netværket. I Danmark er der fire fysiske net: TDC NET, Telenor, Norlys og 3, hvor Telenor og Norlys deler radionettet (TT-netværket).<sup class="ref"><a href="#kilde-4">4</a></sup> Udbyderens karakter for net afhænger derfor først og fremmest af, hvilket net den kører på.</p>
+<p>Oister og Flexii hører til 3-koncernen, Telmore, YouSee og eesy hører til TDC-koncernen, og CBB hører til Telenor, mens Lebara, Lyca Mobile, Greentel og Duka lejer sig ind på TT-netværket (Norlys/Telenor). I Danmark er der fire fysiske net: TDC NET, Telenor, Norlys og 3, hvor Telenor og Norlys deler radionettet (TT-netværket).<sup class="ref"><a href="#kilde-4">4</a></sup> Udbyderens karakter for net afhænger derfor først og fremmest af, hvilket net den kører på.</p>
 <p>Vi bruger to typer målinger:</p>
 <ul>
 <li><strong>Opensignal</strong> (rapport februar 2026, data fra oktober-december 2025), der bygger på målinger fra almindelige brugeres telefoner. Her lå Norlys højest på downloadhastighed med 118,8 Mbit/s, mens TDC fik den højeste score for dækningsoplevelse med 9,3 ud af 10. 3 fik 7,3 i dækningsoplevelse.<sup class="ref"><a href="#kilde-2">2</a></sup></li>
 <li><strong>Teknologisk Instituts måling</strong> fra februar-marts 2026, hvor TDC fik 96 % i samlet kvalitet, Norlys 94 %, Telenor 93 % og 3 91 %. Målingen er bestilt af TDC NET, hvilket vi altid oplyser, og derfor vægter vi den ikke tungere end Opensignal.<sup class="ref"><a href="#kilde-3">3</a></sup></li>
 </ul>
-<p>Udbydere på samme net kan få lidt forskellige netkarakterer, fx hvis den ene giver adgang til 5G på alle abonnementer, og den anden kun på nogle. Ifølge Forbrugerrådet Tænk er flere af Lebaras abonnementer kun 4G, og det trækker ned.<sup class="ref"><a href="#kilde-5">5</a></sup> Landsdækkende tal siger dog ikke alt om din adresse. Derfor anbefaler vi altid at tjekke dækningen på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a>, før du skifter. Læs mere i guiden til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
+<p>Udbydere på samme net kan få lidt forskellige netkarakterer, fx hvis den ene giver adgang til 5G på alle abonnementer, og den anden kun på nogle. Ifølge udbydernes egne data kører alle Lebaras og Lyca Mobiles abonnementer på 4G, og det trækker ned – noget Forbrugerrådet Tænk også har påpeget for Lebara.<sup class="ref"><a href="#kilde-5">5</a></sup> Landsdækkende tal siger dog ikke alt om din adresse. Derfor anbefaler vi altid at tjekke dækningen på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a>, før du skifter. Læs mere i guiden til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
 <h3>Fleksibilitet og vilkår (20 %)</h3>
 <p>Som forbruger kan du højst blive bundet i 6 måneder.<sup class="ref"><a href="#kilde-6">6</a></sup> Alle de udbydere, vi sammenligner, tilbyder abonnementer uden binding, så forskellene ligger andre steder: Er der oprettelsesgebyr? Kan du få eSIM? Kan du få ekstra datakort? Hvor meget af din data kan du bruge i EU? Koster det ekstra at betale via Betalingsservice (hos Greentel er det fx 10 kr./md.)? Kan du skifte abonnement op og ned fra måned til måned? Alt dette samler vi i fleksibilitetskarakteren. Du kan læse mere om reglerne på siden om <a href="/mobilabonnement-uden-binding/">mobilabonnement uden binding</a>.</p>
 <h3>Service (15 %)</h3>
@@ -71,7 +73,7 @@ related: redaktionel-politik, annoncoeroplysning, forfatter/emil-rostgaard-claus
 <p>Mange udbydere reklamerer med en lav pris de første måneder. Det er lovligt og kan være en god handel, men det gør det svært at sammenligne. Vi har derfor faste regler:</p>
 <ul>
 <li><strong>Fra-prisen er altid en normalpris.</strong> Når der står "fra 19 kr./md." i en overskrift eller tabel, er det den laveste normalpris blandt de abonnementer, siden handler om. Det er den pris, du betaler, når kampagnen er slut.</li>
-<li><strong>Kampagnepriser vises separat.</strong> En intropris står ved siden af normalprisen sammen med en tekst om, hvor længe den gælder – fx "69 kr./md. i 6 mdr." eller "129 kr./md. første år".</li>
+<li><strong>Kampagnepriser vises separat.</strong> En intropris står ved siden af normalprisen sammen med en tekst om, hvor længe den gælder – fx "79 kr./md. i 6 mdr." eller "129 kr./md. første år".</li>
 <li><strong>Sortering sker efter normalpris.</strong> Når du sorterer efter pris i vores tabeller, bruges normalprisen, så et abonnement med en kort kampagne ikke snyder sig foran.</li>
 <li><strong>Udløbsdatoer noteres.</strong> Har en kampagne en slutdato, står den i teksten, og vi fjerner kampagnen, når den er udløbet.</li>
 </ul>
@@ -82,10 +84,10 @@ related: redaktionel-politik, annoncoeroplysning, forfatter/emil-rostgaard-claus
 <table>
 <thead><tr><th>Abonnement</th><th>Normalpris/md.</th><th>Data</th><th>Pris pr. GB</th></tr></thead>
 <tbody>
-<tr><td>Lebara 5 GB / 5 timer</td><td>19 kr.</td><td>5 GB</td><td>3,80 kr.</td></tr>
-<tr><td>Lebara 40 GB + fri tale</td><td>49 kr.</td><td>40 GB</td><td>1,23 kr.</td></tr>
-<tr><td>Lyca Mobile 200 GB + fri tale</td><td>119 kr.</td><td>200 GB</td><td>0,60 kr.</td></tr>
-<tr><td>Duka 1000 GB + fri tale</td><td>179 kr.</td><td>1000 GB</td><td>0,18 kr.</td></tr>
+<tr><td>Lebara 5 GB / 5 timer</td><td>{pris:lb-5} kr.</td><td>5 GB</td><td>3,80 kr.</td></tr>
+<tr><td>Lebara 70 GB + fri tale</td><td>{pris:lb-70} kr.</td><td>70 GB</td><td>0,84 kr.</td></tr>
+<tr><td>Lyca Mobile 200 GB + fri tale</td><td>{pris:ly-200} kr.</td><td>200 GB</td><td>0,60 kr.</td></tr>
+<tr><td>Duka 1000 GB + fri tale</td><td>{pris:dk-1000} kr.</td><td>1000 GB</td><td>0,18 kr.</td></tr>
 </tbody>
 </table>
 <p>Tabellen viser, hvorfor pris pr. GB ikke kan stå alene: De store pakker er altid billigst pr. GB, men hvis du kun bruger 10 GB om måneden, betaler du for data, du ikke får brug for. Danskerne brugte i gennemsnit 26,9 GB pr. abonnement om måneden i andet halvår 2024.<sup class="ref"><a href="#kilde-7">7</a></sup> Vi bruger derfor pris pr. GB som ét af flere mål og kombinerer det med en vurdering af, hvad der passer til et normalt forbrug. Brug guiden <a href="/guides/hvor-meget-data/">hvor meget data har du brug for</a>, hvis du er i tvivl om dit eget forbrug.</p>
@@ -96,20 +98,20 @@ related: redaktionel-politik, annoncoeroplysning, forfatter/emil-rostgaard-claus
 <table>
 <thead><tr><th>Abonnement</th><th>Beregning</th><th>12 måneder i alt</th></tr></thead>
 <tbody>
-<tr><td>Telmore Fri tale + 45 GB</td><td>2 × 26 kr. + 10 × 149 kr.</td><td>1.542 kr.</td></tr>
-<tr><td>Flexii Fri tale + fri data</td><td>12 × 129 kr. (første år)</td><td>1.548 kr.</td></tr>
-<tr><td>Oister Fri tale + fri data</td><td>6 × 139 kr. + 6 × 199 kr.</td><td>2.028 kr.</td></tr>
-<tr><td>Duka Fri tale + 30 GB</td><td>6 × 55 kr. + 6 × 99 kr. (start oktober 2026, kampagne til 31.3.2027)</td><td>924 kr.</td></tr>
+<tr><td>Telmore Fri tale + 50 GB</td><td>3 × 69 kr. + 9 × 149 kr.</td><td>1.548 kr.</td></tr>
+<tr><td>Flexii Fri tale + fri data (5G)</td><td>12 × 129 kr. (første år)</td><td>1.548 kr.</td></tr>
+<tr><td>Oister Fri tale + fri data</td><td>6 × 129 kr. + 6 × 189 kr.</td><td>1.908 kr.</td></tr>
+<tr><td>Duka Fri tale + 200 GB</td><td>6 × 79 kr. + 6 × 129 kr. (start oktober 2026, kampagne til 31.3.2027)</td><td>1.248 kr.</td></tr>
 </tbody>
 </table>
-<p>Eksemplet viser, at Telmores kampagne på 26 kr./md. ender med at koste stort set det samme over et år som Flexiis fri data-abonnement – men du får 45 GB i stedet for fri data. Det er præcis den slags forskel, vi vil gøre synlig. Du kan lave samme beregning med din nuværende pris, når du <a href="/">sammenligner telefonabonnementer</a> på forsiden.</p>
+<p>Eksemplet viser, at Telmores kampagne på 69 kr./md. i tre måneder ender med at koste præcis det samme over et år som Flexiis fri data-abonnement – men du får 50 GB i stedet for fri data. Det er præcis den slags forskel, vi vil gøre synlig. Du kan lave samme beregning med din nuværende pris, når du <a href="/">sammenligner telefonabonnementer</a> på forsiden.</p>
 
 <h2>Hvad gør vi ikke?</h2>
 <p>Vi tjener penge, når nogle læsere skifter abonnement via vores links. Derfor er det lige så vigtigt at fortælle, hvad vi ikke gør:</p>
 <ul>
 <li><strong>Vi sælger ikke placeringer.</strong> Ingen udbyder kan betale for at komme øverst i en tabel eller få en bedre karakter.</li>
-<li><strong>Provision påvirker ikke karakterer.</strong> Karaktererne beregnes ud fra kriterierne ovenfor. Hvor meget vi tjener på en udbyder, indgår ikke.</li>
-<li><strong>Vi udelader ikke gode tilbud.</strong> Er et abonnement billigst, står det øverst, også selvom vi ikke har et samarbejde med udbyderen. YouSee er fx med i vores sammenligninger, selvom vi ikke modtager provision derfra.</li>
+<li><strong>Provision påvirker ikke karakterer eller sortering.</strong> Karaktererne beregnes ud fra kriterierne ovenfor, og tabellerne sorteres efter pris. Hvor meget vi tjener på en udbyder, indgår ikke.</li>
+<li><strong>Vi udelader ikke gode tilbud.</strong> Er et abonnement billigst, står det øverst – uanset hvor stor provisionen er. Alle {antal_udbydere} udbydere er partnere, men provisionssatserne er forskellige, og det har ingen betydning for, hvor et abonnement står.</li>
 <li><strong>Vi bruger ikke opdigtede anmeldelser.</strong> Vi viser ingen kundecitater eller stjernevurderinger, vi ikke kan dokumentere.</li>
 <li><strong>Vi giver ikke udbyderne mulighed for at godkende tekster.</strong> Udbydere kan gøre os opmærksom på faktuelle fejl, men de kan ikke ændre vores vurderinger.</li>
 </ul>
@@ -130,17 +132,17 @@ related: redaktionel-politik, annoncoeroplysning, forfatter/emil-rostgaard-claus
 [[simo:Brug karaktererne som et udgangspunkt – men tjek altid dækningen på din egen adresse og regn på hele året, før du skifter.]]
 ===FAQ===
 Q: Hvor ofte opdaterer I priserne?
-A: Priserne opdateres løbende, når udbyderne ændrer dem, og alle abonnementer gennemgås samlet med jævne mellemrum. Den seneste samlede gennemgang var 7. oktober 2026. Kampagner med en slutdato tjekkes igen, når datoen passerer.
+A: Priser og abonnementsdata hentes automatisk hver nat fra udbydernes officielle prisfeed via Adtraction, og vi tager stikprøver på udbydernes egne prissider. Den seneste samlede kontrol var 7. oktober 2026. Kampagner med en slutdato tjekkes igen, når datoen passerer.
 Q: Hvorfor vægter pris 40 % i karakteren?
 A: Fordi prisen er det, flest forbrugere mærker hver måned, og fordi forskellen mellem udbyderne er stor. Nettet vægter 25 %, da alle danske net har høj dækning, men der er forskelle i hastighed og dækningsoplevelse.
 Q: Påvirker provision jeres karakterer?
-A: Nej. Karaktererne beregnes ud fra fire faste kriterier, og provision indgår ikke. Vi sammenligner også udbydere, vi ikke har et samarbejde med, fx YouSee.
+A: Nej. Alle {antal_udbydere} udbydere er partnere, men karaktererne beregnes ud fra fire faste kriterier, og provision indgår ikke. Tabellerne sorteres efter pris, ikke efter provision.
 Q: Hvad er forskellen på fra-pris og intropris?
-A: Fra-prisen er den laveste normalpris – det, du betaler efter en kampagne. Introprisen er en midlertidig rabat, fx 69 kr./md. i 6 måneder. Vi viser altid begge og sorterer efter normalprisen.
+A: Fra-prisen er den laveste normalpris – det, du betaler efter en kampagne. Introprisen er en midlertidig rabat, fx 79 kr./md. i 6 måneder hos Oister. Vi viser altid begge og sorterer efter normalprisen.
 Q: Hvorfor bruger I en måling, som TDC NET har bestilt?
 A: Teknologisk Instituts måling er en af de få nye danske målinger af alle fire net, og den supplerer Opensignals brugerbaserede data. Vi oplyser altid, hvem der har bestilt den, og vægter den ikke højere end andre kilder.
 Q: Hvordan beregner I 12-måneders totalpris?
-A: Vi lægger kampagneperioden og den efterfølgende normalpris sammen og tillægger eventuelle oprettelsesgebyrer. Fx koster Telmore Fri tale + 45 GB 2 × 26 kr. + 10 × 149 kr. = 1.542 kr. det første år.
+A: Vi lægger kampagneperioden og den efterfølgende normalpris sammen og tillægger eventuelle oprettelsesgebyrer. Fx koster Telmore Fri tale + 50 GB 3 × 69 kr. + 9 × 149 kr. = 1.548 kr. det første år.
 Q: Kan en udbyder få rettet en karakter?
 A: Udbydere kan gøre os opmærksom på faktuelle fejl, som vi retter, hvis de kan dokumenteres. De kan ikke få ændret en vurdering, som bygger på korrekte oplysninger.
 ===KILDER===

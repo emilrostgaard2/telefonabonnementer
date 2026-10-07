@@ -1,21 +1,21 @@
 ---
 slug: mobilabonnement-boern
 title: Mobilabonnement til børn → Fra {fra:boern} kr. ({maaned})
-desc: Find det bedste mobilabonnement til børn i {maaned}. Børneabonnement fra 17 kr./md., fri tale, ingen binding og spærring af køb. Sammenlign og spar her.
+desc: Find det bedste mobilabonnement til børn i {maaned}. Fra {fra:boern} kr./md., fri tale fra {intro:fx-k10} kr., ingen binding og spærring af køb. Sammenlign og spar her.
 h1: Mobilabonnement til børn
-kicker: Opdateret {maaned} · 5 børneabonnementer sammenlignet
-answer: Det billigste mobilabonnement til børn koster i {maaned} 19 kr./md. hos Lebara og Lyca Mobile (5 GB og 5 timers tale). Vil du have fri tale, giver Flexiis børneabonnement 5 GB for 35 kr./md. (17 kr./md. de første 3 måneder) eller 10 GB for 39 kr./md. (19 kr. i 3 mdr.), mens Oister har 12 GB og 12 timer for 69 kr./md. med 5G.
+kicker: Opdateret {maaned} · Abonnementer til børn sammenlignet
+answer: Det billigste mobilabonnement til børn koster i {maaned} {pris:lb-5} kr./md. hos Lebara og Lyca Mobile ({gb:lb-5} og 5 timers tale). Vil du have fri tale, giver Flexiis byg-selv-abonnement {gb:fx-k10} for {pris:fx-k10} kr./md. ({introtekst:fx-k10}), mens Oister har fri tale og {gb:oi-12} for {pris:oi-12} kr./md. med 5G.
 lead: Første telefon til barnet? Her får du vores sammenligning af børneabonnementer, et realistisk bud på hvor meget data et barn bruger, og en tjekliste til spærringer, sikkerhed og forældrekontrol.
 crumb: Børn
 section: typer
 related: billigste-mobilabonnement, familieabonnement, mobilabonnement-unge, esim, guides/hvor-meget-data
 ---
 <h2>Hvad er det bedste mobilabonnement til børn?</h2>
-<p>Et godt børneabonnement er billigt, uden binding og med et loft over, hvor meget barnet kan bruge. Det lyder enkelt, men forskellen mellem det billigste og det dyreste abonnement til et barn er stor. Tager du et almindeligt voksenabonnement hos et af de store selskaber, kan du let ende med at betale 150-180 kr. om måneden for noget, barnet bruger en brøkdel af. Vælger du i stedet et af de abonnementer, der er bygget til børn eller til et lille forbrug, kommer du ned på 19-39 kr. om måneden.</p>
+<p>Et godt børneabonnement er billigt, uden binding og med et loft over, hvor meget barnet kan bruge. Det lyder enkelt, men forskellen mellem det billigste og det dyreste abonnement til et barn er stor. Tager du et almindeligt voksenabonnement hos et af de store selskaber, kan du let ende med at betale 150-180 kr. om måneden for noget, barnet bruger en brøkdel af. Vælger du i stedet et af de abonnementer, der er bygget til børn eller til et lille forbrug, kommer du ned på {pris:lb-5}-{pris:fx-k10} kr. om måneden.</p>
 <p>Tabellen nedenfor viser de abonnementer, vi vurderer passer bedst til børn i alderen ca. 7-12 år. Priserne er normalpriser tjekket 7. oktober 2026, og eventuelle intropriser står ved det enkelte abonnement.</p>
 [[tabel:boern]]
-<div class="callout"><p><strong>Kort sagt:</strong> Skal barnet mest ringe og skrive hjem, er Lebara eller Lyca Mobile til 19 kr./md. det billigste. Vil du undgå at taletiden løber tør, er Flexiis børneabonnement med fri tale og 5 GB til 35 kr./md. vores anbefaling. Oister er det oplagte valg, hvis du vil have 5G og mere data.</p></div>
-<p>Alle fem abonnementer er uden binding, så du kan skifte, når barnet vokser fra det. Det er en vigtig pointe: Det, der passer til en 8-årig, passer sjældent til en 13-årig. Læs også vores side om <a href="/mobilabonnement-unge/">mobilabonnement til unge</a>, når barnet når teenageårene.</p>
+<div class="callout"><p><strong>Kort sagt:</strong> Skal barnet mest ringe og skrive hjem, er Lebara eller Lyca Mobile til {pris:lb-5} kr./md. det billigste. Vil du undgå at taletiden løber tør, er Flexiis byg-selv-abonnement med fri tale og {gb:fx-k10} til {pris:fx-k10} kr./md. ({introtekst:fx-k10}) vores anbefaling. Oister er det oplagte valg, hvis du vil have 5G, fri tale og lidt mere data.</p></div>
+<p>Alle abonnementerne i tabellen er uden binding, så du kan skifte, når barnet vokser fra det. Det er en vigtig pointe: Det, der passer til en 8-årig, passer sjældent til en 13-årig. Læs også vores side om <a href="/mobilabonnement-unge/">mobilabonnement til unge</a>, når barnet når teenageårene.</p>
 
 <h2>Hvornår skal et barn have sin første telefon?</h2>
 <p>Der findes ingen lovbestemt alder for, hvornår et barn må have en mobiltelefon eller et abonnement. I praksis er det abonnementet, der står i forælderens navn, og forælderen er den juridiske kunde. Det betyder, at du som voksen bestemmer, hvad abonnementet kan, og du hæfter for regningen.</p>
@@ -48,31 +48,34 @@ related: billigste-mobilabonnement, familieabonnement, mobilabonnement-unge, esi
 <p>Vil du se flere tal, har vi en hel guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</p>
 
 <h2>Hvad koster et børneabonnement? Priser og regneeksempler</h2>
-<p>Et mobilabonnement til børn koster fra 19 kr. om måneden. Til den pris får du 5 GB data og 5 timers tale hos både Lebara og Lyca Mobile. Det er de billigste abonnementer på markedet overhovedet, og de passer godt til et barn med et lille forbrug.</p>
-<p>Flexii er det eneste af de selskaber, vi dækker, der har rigtige børneabonnementer med deres egen pris: fri tale og 5 GB for 35 kr./md. eller fri tale og 10 GB for 39 kr./md. Lige nu koster de henholdsvis 17 og 19 kr./md. de første tre måneder. Oister har et mindre abonnement med 12 timers tale og 12 GB til 69 kr./md., som mange forældre bruger til børn, fordi det har 5G og et fast loft over taletiden.</p>
+<p>Et mobilabonnement til børn koster fra {pris:lb-5} kr. om måneden. Til den pris får du {gb:lb-5} data og 5 timers tale hos både Lebara og Lyca Mobile. Det er de billigste abonnementer på markedet overhovedet, og de passer godt til et barn med et lille forbrug. Greentels Basic med {gb:gt-5} og 1 times tale til {pris:gt-5} kr./md. er et dansk alternativ på Norlys/Telenor-nettet.</p>
+<p>Ingen af de {antal_udbydere} selskaber, vi dækker, har lige nu et decideret børneabonnement i deres officielle prisdata. Det tætteste, du kommer, er Flexiis byg-selv-abonnement med fri tale og {gb:fx-k10} for {pris:fx-k10} kr./md. – lige nu {introtekst:fx-k10}. Oister har fri tale og {gb:oi-12} til {pris:oi-12} kr./md., som mange forældre bruger til børn, fordi det har 5G og et fornuftigt loft over data. Greentel har fri tale og {gb:gt-10} til samme pris på 4G.</p>
 <h3>Regneeksempel: Hvad sparer du om året?</h3>
-<p>Lad os sige, at barnet i dag har et voksenabonnement hos YouSee med fri tale og 25 GB til 179 kr./md. Skifter du til Flexiis børneabonnement med 5 GB, ser regnestykket sådan ud:</p>
+<p>Lad os sige, at barnet i dag har et voksenabonnement hos YouSee med fri tale og {gb:ys-25} til {pris:ys-25} kr./md. Skifter du til Flexiis byg-selv-abonnement med fri tale og {gb:fx-k10}, ser regnestykket sådan ud:</p>
 <table>
 <thead><tr><th>Abonnement</th><th>Pris pr. md.</th><th>Pris første år</th><th>Pris pr. år (normal)</th></tr></thead>
 <tbody>
-<tr><td>YouSee Fri tale + 25 GB</td><td>179 kr.</td><td>2.148 kr.</td><td>2.148 kr.</td></tr>
-<tr><td>Oister 12 timer + 12 GB</td><td>69 kr.</td><td>828 kr.</td><td>828 kr.</td></tr>
-<tr><td>Flexii Børn: fri tale + 5 GB</td><td>35 kr. (17 kr. i 3 mdr.)</td><td>366 kr.</td><td>420 kr.</td></tr>
-<tr><td>Lebara 5 GB / 5 timer</td><td>19 kr.</td><td>228 kr.</td><td>228 kr.</td></tr>
+<tr><td>{navn:ys-25}</td><td>{pris:ys-25} kr.</td><td>2.148 kr.</td><td>2.148 kr.</td></tr>
+<tr><td>{navn:oi-12}</td><td>{pris:oi-12} kr.</td><td>828 kr.</td><td>828 kr.</td></tr>
+<tr><td>{navn:fx-k10}</td><td>{pris:fx-k10} kr. ({introtekst:fx-k10})</td><td>408 kr.</td><td>468 kr.</td></tr>
+<tr><td>{navn:gt-5}</td><td>{pris:gt-5} kr.</td><td>348 kr.</td><td>348 kr.</td></tr>
+<tr><td>{navn:lb-5}</td><td>{pris:lb-5} kr.</td><td>228 kr.</td><td>228 kr.</td></tr>
 </tbody>
 </table>
-<p>Fra YouSee til Flexii sparer du altså 1.782 kr. det første år og 1.728 kr. hvert år derefter. Går du hele vejen ned til Lebara, er besparelsen 1.920 kr. om året. Har du to børn, kan du gange med to. Det er penge, der rækker til en ny telefon til barnet.</p>
+<p>Fra YouSee til Flexii sparer du altså 1.740 kr. det første år og 1.680 kr. hvert år derefter – og barnet beholder fri tale. Går du hele vejen ned til Lebara, er besparelsen 1.920 kr. om året. Har du to børn, kan du gange med to. Det er penge, der rækker til en ny telefon til barnet.</p>
 [[vaerktoej:sparberegner]]
 <p>Er du på jagt efter det absolut laveste niveau for hele familien, så se vores oversigt over det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a> lige nu.</p>
 
 <h2>Forældrekontrol: Hvilke børneabonnementer har styr på det?</h2>
 <p>Forældrekontrol på et mobilabonnement handler om to ting: hvad abonnementet kan (tale, data, betaling), og hvad telefonen kan (apps, skærmtid, indhold). Det er vigtigt at skelne, for abonnementet kan kun styre det første.</p>
-<h3>Flexiis børneabonnementer</h3>
-<p>Flexii har to abonnementer, der er lavet specifikt til børn: 5 GB eller 10 GB, begge med fri tale. Fri tale er en fordel, fordi du ikke risikerer, at barnet løber tør for minutter midt i måneden og ikke kan ringe hjem. Datamængden er samtidig begrænset, så barnet ikke kan streame løs. Bemærk, at Flexii kun har kundeservice på chat, og at børneabonnementerne kører på 4G og ikke 5G. Til et barn betyder 4G sjældent noget i praksis.</p>
+<h3>Flexiis byg-selv-abonnement</h3>
+<p>Flexii havde tidligere et 5 GB-børneabonnement, men det findes ikke længere i Flexiis prisdata. I dag er det mindste abonnement byg-selv med fri tale og {gb:fx-k10} til {pris:fx-k10} kr./md. ({introtekst:fx-k10}). Fri tale er en fordel, fordi du ikke risikerer, at barnet løber tør for minutter midt i måneden og ikke kan ringe hjem. Datamængden er samtidig begrænset, så barnet ikke kan streame løs. Bemærk, at Flexii kun har kundeservice på chat, og at abonnementet kører på 4G og ikke 5G. Til et barn betyder 4G sjældent noget i praksis.</p>
 <h3>Oister</h3>
-<p>Oister har ikke et decideret børneabonnement i vores sammenligning, men abonnementet med 12 timer og 12 GB til 69 kr./md. passer godt til et barn. Fordelen er 5G, Oisters stærke prisfokus og et fast loft over taletiden. Tjek altid på Oisters egen side, præcis hvilke spærringer og funktioner der følger med det konkrete abonnement, når du bestiller, da indholdet kan ændre sig.</p>
+<p>Oister har ikke et decideret børneabonnement i vores sammenligning, men abonnementet med fri tale og {gb:oi-12} til {pris:oi-12} kr./md. passer godt til et barn. Fordelen er 5G, Oisters stærke prisfokus og et fast loft over data. Tjek altid på Oisters egen side, præcis hvilke spærringer og funktioner der følger med det konkrete abonnement, når du bestiller, da indholdet kan ændre sig.</p>
 <h3>Lebara og Lyca Mobile</h3>
-<p>De to billigste har ikke egne børneabonnementer, men deres 19-kr.-pakker fungerer i praksis som et børneabonnement: 5 GB og 5 timer, og når det er brugt, er det brugt. Lyca Mobile har 5G på sin 19-kr.-pakke, Lebara har ikke.</p>
+<p>De to billigste har ikke egne børneabonnementer, men deres {pris:lb-5}-kr.-pakker fungerer i praksis som et børneabonnement: {gb:lb-5} og 5 timer, og når det er brugt, er det brugt. Begge kører på 4G på TT-netværket (Norlys/Telenor), hvilket er rigeligt til et barns forbrug.</p>
+<h3>Greentel</h3>
+<p>Greentel er et dansk selskab på samme net. Basic-abonnementet med {gb:gt-5} og 1 times tale til {pris:gt-5} kr./md. er lavet til et lille forbrug, og vil du have fri tale, koster {gb:gt-10} {pris:gt-10} kr./md. Begge kører på 4G.</p>
 <h3>Forældrekontrol på selve telefonen</h3>
 <p>Det meste af forældrekontrollen sidder på telefonen. På iPhone hedder det Skærmtid, og på Android hedder det Google Family Link. Her kan du sætte tidsgrænser, godkende app-køb, filtrere indhold og se, hvor barnet er. Det er gratis og virker uanset hvilket teleselskab du vælger.</p>
 
@@ -109,20 +112,20 @@ related: billigste-mobilabonnement, familieabonnement, mobilabonnement-unge, esi
 
 <h2>eSIM og smartwatch til børn</h2>
 <p>Til de yngste børn vælger flere familier et smartwatch med SIM i stedet for en telefon. Uret kan ringe til et par faste numre, sende korte beskeder og dele placering, men det giver ikke adgang til sociale medier og videoapps. Det kan være et godt mellemtrin, fra barnet er 6-8 år.</p>
-<p>Der findes overordnet to slags ure. Den ene slags er bygget til børn og har en almindelig SIM-kortplads, hvor du kan bruge et billigt abonnement som Lebara eller Lyca til 19 kr./md. Den anden slags er almindelige smartwatches med eSIM, som typisk kobles til en forælders telefon og kræver, at teleselskabet understøtter eSIM til ure. Det er ikke alle selskaber og alle abonnementer, der gør det, så tjek det, før du køber uret.</p>
-<p>Alle otte udbydere, vi dækker, tilbyder eSIM til telefoner. Fordelen ved eSIM til et barn er, at der ikke er et fysisk kort, der kan blive væk, og at du kan aktivere abonnementet med det samme. Læs mere på vores side om <a href="/esim/">eSIM</a>, hvor du også finder Apples liste over danske selskaber med eSIM.</p>
+<p>Der findes overordnet to slags ure. Den ene slags er bygget til børn og har en almindelig SIM-kortplads, hvor du kan bruge et billigt abonnement som Lebara eller Lyca til {pris:lb-5} kr./md. Den anden slags er almindelige smartwatches med eSIM, som typisk kobles til en forælders telefon og kræver, at teleselskabet understøtter eSIM til ure. Det er ikke alle selskaber og alle abonnementer, der gør det, så tjek det, før du køber uret.</p>
+<p>Alle {antal_udbydere} udbydere, vi dækker, tilbyder eSIM til telefoner. Fordelen ved eSIM til et barn er, at der ikke er et fysisk kort, der kan blive væk, og at du kan aktivere abonnementet med det samme. Læs mere på vores side om <a href="/esim/">eSIM</a>, hvor du også finder Apples liste over danske selskaber med eSIM.</p>
 
 <h2>Hvilket net er bedst til børn?</h2>
-<p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys og 3. Telenor og Norlys deler radionettet, det såkaldte TT-netværk<sup class="ref"><a href="#kilde-4">4</a></sup>. Lebara kører på TT-netværket, Flexii og Oister på 3's net, mens Lyca Mobile – ligesom Telmore og YouSee – kører på TDC NET.</p>
+<p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys og 3. Telenor og Norlys deler radionettet, det såkaldte TT-netværk<sup class="ref"><a href="#kilde-4">4</a></sup>. Lebara, Lyca Mobile, Greentel, Duka og CBB kører på TT-netværket (Norlys/Telenor), Flexii og Oister på 3's net, mens Telmore, YouSee og eesy kører på TDC NET.</p>
 <p>For et barn, der primært færdes mellem hjem, skole og fritidsaktiviteter, er nettets dækning på netop de adresser vigtigere end hastigheden. Tjek dækningen på jeres adresser på tjekditnet.dk, før du vælger. Har I sommerhus eller bor i et område med svag dækning hos et bestemt net, så vælg et selskab på et andet net. Vores guide til det <a href="/guides/bedste-mobilnet/">bedste mobilnet</a> gennemgår målingerne.</p>
 
 <h2>Fordele og ulemper ved et børneabonnement</h2>
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Lav pris: fra 17-19 kr./md.</li><li>Fast loft over data og tale, så regningen ikke stikker af</li><li>Ingen binding, så du kan skifte, når barnet vokser</li><li>Kan styres fra forælderens login</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kun få selskaber har decideret børneabonnementer</li><li>Intropriser stiger efter få måneder</li><li>Små pakker kan løbe tør, hvis barnet ser video uden wifi</li><li>Flexii har kun chat-support og 4G på børneabonnementerne</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Lav pris: fra {fra:boern} kr./md.</li><li>Fast loft over data og tale, så regningen ikke stikker af</li><li>Ingen binding, så du kan skifte, når barnet vokser</li><li>Kan styres fra forælderens login</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen af de store lavprisselskaber har lige nu et decideret børneabonnement</li><li>Intropriser stiger efter få måneder</li><li>Små pakker kan løbe tør, hvis barnet ser video uden wifi</li><li>De billigste pakker kører på 4G, og Flexii har kun chat-support</li></ul></div></div>
 
 <h2>Sådan vælger du det rigtige mobilabonnement til dit barn</h2>
 <ol class="steps">
 <li><strong>Afklar forbruget.</strong> Skal barnet kun ringe hjem, er 5 GB og 5 timer rigeligt. Skal der chattes og ses lidt video, så gå efter 10-12 GB.</li>
-<li><strong>Vælg fri tale eller fast loft.</strong> Fri tale (Flexii) giver tryghed, fordi barnet altid kan ringe. Et fast antal timer (Lebara, Lyca, Oister) giver mere kontrol.</li>
+<li><strong>Vælg fri tale eller fast loft.</strong> Fri tale (Flexii, Oister, Greentel) giver tryghed, fordi barnet altid kan ringe. Et fast antal timer (Lebara, Lyca, Greentel Basic) giver mere kontrol.</li>
 <li><strong>Tjek dækningen.</strong> Se dækningen på hjem, skole og fritidsadresser, og vælg net derefter.</li>
 <li><strong>Bestil i dit eget navn.</strong> Brug dit eget MitID, og saml gerne familiens abonnementer under ét login.</li>
 <li><strong>Lav spærringerne med det samme.</strong> Overtakserede numre, betaling via mobilregningen og køb i app-butikken.</li>
@@ -133,20 +136,20 @@ related: billigste-mobilabonnement, familieabonnement, mobilabonnement-unge, esi
 <blockquote class="expert"><p>Vores erfaring er, at forældre ofte køber for meget. Et barn på 9 år har sjældent brug for mere end 5 GB, hvis telefonen er sat til at bruge wifi hjemme og i skolen. Start med det mindste abonnement uden binding, og opgrader først, når I kan se et reelt behov i forbruget.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sådan har vi sammenlignet børneabonnementerne</h2>
-<p>Vi har gennemgået prissiderne hos alle otte udbydere, vi dækker, og udvalgt de abonnementer, der passer til et barns forbrug: lav pris, begrænset data og ingen binding. Priserne er tjekket 7. oktober 2026. Vi vurderer abonnementerne på pris, net, fleksibilitet og service, og vi lægger vægt på, om introrabatter skjuler en høj normalpris. Du kan læse hele fremgangsmåden på vores side om <a href="/metode/">metode</a>. Vil du se alle abonnementer på markedet, kan du bruge den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
+<p>Vi har gennemgået prissiderne hos alle {antal_udbydere} udbydere, vi dækker, og udvalgt de abonnementer, der passer til et barns forbrug: lav pris, begrænset data og ingen binding. Priserne er tjekket 7. oktober 2026. Vi vurderer abonnementerne på pris, net, fleksibilitet og service, og vi lægger vægt på, om introrabatter skjuler en høj normalpris. Du kan læse hele fremgangsmåden på vores side om <a href="/metode/">metode</a>. Vil du se alle abonnementer på markedet, kan du bruge den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
 ===FAQ===
 Q: Hvad er det billigste mobilabonnement til børn?
-A: De billigste er Lebara og Lyca Mobile med 5 GB og 5 timers tale til 19 kr./md. Flexiis børneabonnement med fri tale og 5 GB koster 35 kr./md., men kun 17 kr./md. de første tre måneder. Alle er uden binding.
+A: De billigste er Lebara og Lyca Mobile med {gb:lb-5} og 5 timers tale til {pris:lb-5} kr./md. Med fri tale er Flexiis byg-selv-abonnement med {gb:fx-k10} billigst: {pris:fx-k10} kr./md., men {introtekst:fx-k10}. Alle er uden binding.
 Q: Hvor meget data skal et barn have på sin mobil?
 A: De fleste børn under 12 år klarer sig med 5 GB om måneden, hvis telefonen bruger wifi hjemme og i skolen. Ser barnet meget video uden wifi, kan forbruget hurtigt komme op på 10-30 GB. Brug vores <a href="/guides/hvor-meget-data/">dataguide</a> til at finde det rette niveau.
 Q: Kan mit barn få et mobilabonnement uden MitID?
 A: Ja. Abonnementet oprettes i forælderens navn med forælderens MitID, og barnet er blot bruger af SIM-kortet. Så har du som forælder fuld kontrol over forbrug, spærringer og opsigelse.
 Q: Hvordan spærrer jeg for køb på mit barns mobilabonnement?
 A: Bed teleselskabet om at spærre for overtakserede numre og betaling via mobilregningen, typisk via selvbetjeningen eller kundeservice. Slå desuden køb med godkendelse til i telefonens forældrekontrol, så barnet ikke kan købe i app-butikken uden din accept.
-Q: Er Flexii børneabonnement godt?
-A: Flexiis børneabonnementer er blandt de billigste med fri tale: 5 GB for 35 kr./md. eller 10 GB for 39 kr./md., med intropris på 17 og 19 kr. de første tre måneder. Ulempen er, at de kører på 4G, og at Flexii kun har kundeservice på chat. Se <a href="/udbydere/flexii/">vores anmeldelse af Flexii</a>.
+Q: Har Flexii stadig et børneabonnement?
+A: Flexiis tidligere 5 GB-børneabonnement findes ikke længere i Flexiis prisdata. Det mindste abonnement er nu byg-selv med fri tale og {gb:fx-k10} til {pris:fx-k10} kr./md. ({introtekst:fx-k10}), som passer fint til et barn. Ulempen er, at det kører på 4G, og at Flexii kun har kundeservice på chat. Se <a href="/udbydere/flexii/">vores anmeldelse af Flexii</a>.
 Q: Kan jeg bruge et almindeligt mobilabonnement til mit barns smartwatch?
-A: Har uret en almindelig SIM-kortplads, kan du bruge et billigt abonnement som Lebara eller Lyca til 19 kr./md. Bruger uret eSIM koblet til din telefon, skal teleselskabet understøtte eSIM til ure, og det gør ikke alle. Tjek det inden køb.
+A: Har uret en almindelig SIM-kortplads, kan du bruge et billigt abonnement som Lebara eller Lyca til {pris:lb-5} kr./md. Bruger uret eSIM koblet til din telefon, skal teleselskabet understøtte eSIM til ure, og det gør ikke alle. Tjek det inden køb.
 Q: Kan mit barn bruge mobilen på ferie i udlandet?
 A: Ja, i EU og EØS kan barnet bruge abonnementet som hjemme, inden for selskabets EU-datagrænse. Uden for EU kan det blive dyrt, så spær gerne for roaming uden for EU, eller vælg en løsning som beskrevet på vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement i udlandet</a>.
 Q: Er der binding på børneabonnementer?

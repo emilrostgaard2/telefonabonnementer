@@ -1,24 +1,24 @@
 ---
 slug: billigste-mobilabonnement
 title: Billigste mobilabonnement → Fra {fra:billig} kr./md. ({maaned})
-desc: Find Danmarks billigste mobilabonnement i {maaned}. Fra 19 kr./md., fri tale fra 49 kr. og 5G fra 19 kr. Se pris pr. GB og spar op til 2.000 kr. om året.
+desc: Find Danmarks billigste mobilabonnement i {maaned}. Fra {fra:billig} kr./md., fri tale og 70 GB for {pris:lb-70} kr. og 5G fra {fra:5g} kr. Se pris pr. GB og spar 1.000+ kr./år.
 h1: Billigste mobilabonnement
-kicker: Opdateret {maaned} · 45 abonnementer sammenlignet
-answer: Det billigste mobilabonnement i Danmark koster i {maaned} 19 kr./md. (Lebara og Lyca Mobile med 5 GB og 5 timers tale – Lyca med 5G). Vil du have fri tale, er Lebara billigst med 40 GB for 49 kr./md., og den laveste pris pr. GB får du hos Duka med 1000 GB og fri tale for 179 kr./md. (0,18 kr. pr. GB).
-lead: Vi har regnet alle 45 abonnementer igennem og fundet det billigste til hvert behov: billigst overhovedet, billigst med fri tale, billigst pr. GB og billigst med 5G. Du får også de skjulte gebyrer og et regneeksempel på, hvad et skifte er værd om året.
+kicker: Opdateret {maaned} · {antal} abonnementer sammenlignet
+answer: Det billigste mobilabonnement i Danmark koster i {maaned} {pris:lb-5} kr./md. (Lebara og Lyca Mobile med 5 GB og 5 timers tale, begge 4G). Med fri tale giver Lebara {gb:lb-70} for {pris:lb-70} kr./md., og den laveste pris pr. GB får du hos Duka med 1000 GB og fri tale for {pris:dk-1000} kr./md. (0,18 kr. pr. GB).
+lead: Vi har regnet alle {antal} abonnementer igennem og fundet det billigste til hvert behov: billigst overhovedet, billigst med fri tale, billigst pr. GB og billigst med 5G. Du får også de skjulte gebyrer og et regneeksempel på, hvad et skifte er værd om året.
 crumb: Billigste
 section: typer
 related: mobilabonnement-tilbud, fri-tale, mobilabonnement-fri-data, 5g-mobilabonnement, udbydere/lebara
 ---
 <h2>Hvad er det billigste mobilabonnement lige nu?</h2>
-<p>Det korte svar er 19 kr. om måneden. Både Lebara og Lyca Mobile sælger et abonnement med 5 GB data og 5 timers tale til den pris, og det er det laveste månedlige beløb, vi har fundet, da vi gennemgik udbydernes prissider 7. oktober 2026. Men "billigst" er sjældent det samme som "bedst for pengene". Bruger du mere end 5 GB, eller ringer du mere end fem timer om måneden, bliver det hurtigt dyrere at vælge den mindste pakke og købe ekstra oveni.</p>
+<p>Det korte svar er {pris:lb-5} kr. om måneden. Både Lebara og Lyca Mobile sælger et abonnement med 5 GB data og 5 timers tale til den pris, og det er det laveste månedlige beløb i vores sammenligning, da vi gennemgik udbydernes egne prisdata og prissider 7. oktober 2026. Lige efter kommer Greentels Basic med 5 GB og 1 times tale for {pris:gt-5} kr. Men "billigst" er sjældent det samme som "bedst for pengene". Bruger du mere end 5 GB, eller ringer du mere end fem timer om måneden, bliver det hurtigt dyrere at vælge den mindste pakke og købe ekstra oveni.</p>
 <p>Derfor har vi delt siden op efter behov. Først den samlede oversigt over de billigste abonnementer, derefter de billigste i hver kategori, og til sidst de gebyrer og intropriser, der kan få et billigt abonnement til at blive dyrt.</p>
 [[tabel:billig|sort=price|limit=8|titel=De billigste mobilabonnementer i {maaned}]]
-<div class="keypoints"><h3>Det vigtigste</h3><ul><li>Billigst overhovedet: Lebara og Lyca Mobile, 5 GB og 5 timer for 19 kr./md.</li><li>Billigst med fri tale: Lebara, 40 GB for 49 kr./md. (4G)</li><li>Billigst med fri tale og 5G: Duka, 6 GB for 59 kr./md. – eller 30 GB for 55 kr./md. i kampagne til 31.3.2027</li><li>Lavest pris pr. GB: Duka 1000 GB for 179 kr./md. = 0,18 kr. pr. GB</li><li>Ingen af de otte udbydere, vi dækker, binder dig ud over lovens maksimum, og de fleste har ingen binding overhovedet</li></ul></div>
+<div class="keypoints"><h3>Det vigtigste</h3><ul><li>Billigst overhovedet: Lebara og Lyca Mobile, 5 GB og 5 timer for {pris:lb-5} kr./md.</li><li>Billigst med fri tale: Flexiis byg-selv-abonnement med {gb:fx-k10} for {pris:fx-k10} kr./md. ({introtekst:fx-k10})</li><li>Mest for pengene med fri tale: Lebara, {gb:lb-70} for {pris:lb-70} kr./md. (4G)</li><li>Billigst med fri tale og 5G: Oister {gb:oi-12} eller Flexii {gb:fx-20} for {pris:fx-20} kr./md. – Flexii koster {introtekst:fx-20}</li><li>Lavest pris pr. GB: Duka 1000 GB for {pris:dk-1000} kr./md. = 0,18 kr. pr. GB</li><li>Ingen af de {antal_udbydere} udbydere, vi dækker, har binding på deres abonnementer</li></ul></div>
 <p>Vil du hellere have det hele på én gang med filtre, kan du bruge vores <a href="/">sammenligning af alle telefonabonnementer</a>. Herunder går vi i dybden med hver kategori.</p>
 
-<h2>Billigst overhovedet: hvad får du for 19 kr.?</h2>
-<p>For 19 kr. om måneden får du hos både Lebara og Lyca Mobile 5 GB data og 5 timers tale i Danmark. Forskellen ligger i detaljerne. Lycas pakke kører med 5G og har 4 GB til brug i EU, mens Lebaras udgave har 3 GB i EU og kun kører på 4G. Lebara bruger TT-netværket, som Telenor og Norlys driver i fællesskab, mens Lyca kører på TDC NET ligesom Telmore og YouSee – så tjek, hvilket net der dækker bedst hos dig. Lyca sælger sine abonnementer som 30-dages pakker, der minder om et forudbetalt kort, mens Lebara fungerer som et almindeligt løbende abonnement.</p>
+<h2>Billigst overhovedet: hvad får du for {pris:lb-5} kr.?</h2>
+<p>For {pris:lb-5} kr. om måneden får du hos både Lebara og Lyca Mobile 5 GB data og 5 timers tale i Danmark. Forskellen ligger i detaljerne. Lycas pakke har {eu:ly-5} GB til brug i EU, mens Lebaras udgave har {eu:lb-5} GB i EU. Begge kører på 4G, og begge bruger TT-netværket, som Telenor og Norlys driver i fællesskab – så dækningen er i praksis den samme. Lyca sælger sine abonnementer som 30-dages pakker, der minder om et forudbetalt kort, mens Lebara fungerer som et almindeligt løbende abonnement. Lebara lægger desuden inkluderede timer til opkald til mere end 60 lande oveni.</p>
 <p>Fem timers tale lyder af lidt, men det svarer til omkring 10 minutters samtale hver dag. For mange, der primært skriver beskeder og ringer over WiFi via apps, er det rigeligt. Fem GB data rækker til e-mail, kort, beskeder og lidt sociale medier, men ikke til ret meget video. Til sammenligning brugte et gennemsnitligt dansk mobilabonnement 26,9 GB om måneden i andet halvår af 2024<sup class="ref"><a href="#kilde-1">1</a></sup>. Er du en typisk bruger, er 5 GB altså for lidt, og så er et af de billige fri tale-abonnementer længere nede på siden et bedre køb.</p>
 <h3>Hvem passer den billigste pakke til?</h3>
 <ul>
@@ -27,104 +27,106 @@ related: mobilabonnement-tilbud, fri-tale, mobilabonnement-fri-data, 5g-mobilabo
 <li>Folk med en ekstra telefon, et nødnummer eller en arbejdstelefon ved siden af hovednummeret.</li>
 <li>Dig, der næsten altid er på WiFi hjemme og på arbejdet.</li>
 </ul>
-<p>Har du næsten intet forbrug, kan et taletidskort eller et mobilabonnement uden data også være værd at kigge på. Telmore Go koster for eksempel 39 kr./md. og opkræver 0,59 kr. pr. minut, men husk de 99 kr. i oprettelse, som vi vender tilbage til under skjulte omkostninger.</p>
+<p>Vil du have lidt mere tale, er Greentels Basic til {pris:gt-5} kr. med 5 GB og 1 time et alternativ, og Duka har 6 GB og 6 timer for {pris:dk-6} kr. Har du næsten intet forbrug, kan et taletidskort eller et mobilabonnement uden data også være værd at kigge på. Telmore Go koster for eksempel 39 kr./md. og opkræver 0,59 kr. pr. minut, men husk de 99 kr. i oprettelse, som vi vender tilbage til under skjulte omkostninger.</p>
 
 <h2>Billigste mobilabonnement med fri tale</h2>
-<p>Fri tale er blevet standard i de fleste prisklasser, og det er her, du kan spare mest i forhold til de store selskaber. Det billigste fri tale-abonnement, vi har fundet, er Lebaras 40 GB for 49 kr. om måneden. Det inkluderer også 2 timers opkald til udlandet. Til gengæld er det et 4G-abonnement, og du får 6 GB til brug i EU.</p>
+<p>Fri tale er blevet standard i de fleste prisklasser, og det er her, du kan spare mest i forhold til de store selskaber. Det billigste fri tale-abonnement på papiret er Flexiis byg-selv-abonnement med {gb:fx-k10} for {pris:fx-k10} kr. om måneden ({introtekst:fx-k10}). Men det abonnement, der giver mest for pengene, er Lebaras {gb:lb-70} med fri tale for {pris:lb-70} kr. Det inkluderer også timer til opkald til mere end 60 lande og {eu:lb-70} GB til brug i EU. Til gengæld kører det på 4G.</p>
 <table>
 <thead><tr><th>Abonnement</th><th>Data</th><th>EU-data</th><th>5G</th><th>Normalpris</th><th>Kampagne</th></tr></thead>
 <tbody>
-<tr><td>Lebara 40 GB + fri tale</td><td>40 GB</td><td>6 GB</td><td>Nej</td><td>49 kr.</td><td>–</td></tr>
-<tr><td>Lebara 70 GB + fri tale</td><td>70 GB</td><td>10 GB</td><td>Nej</td><td>59 kr.</td><td>1. måned gratis</td></tr>
-<tr><td>Duka fri tale + 6 GB</td><td>6 GB</td><td>6 GB</td><td>Ja</td><td>59 kr.</td><td>–</td></tr>
-<tr><td>Flexii fri tale + 20 GB</td><td>20 GB</td><td>20 GB</td><td>Ja</td><td>69 kr.</td><td>59 kr. første år</td></tr>
-<tr><td>Greentel fri tale + 10 GB</td><td>10 GB</td><td>10 GB</td><td>Ja</td><td>69 kr.</td><td>–</td></tr>
-<tr><td>Duka fri tale + 30 GB</td><td>30 GB</td><td>30 GB</td><td>Ja</td><td>99 kr.</td><td>55 kr. til 31.3.2027</td></tr>
-<tr><td>Oister fri tale + 40 GB</td><td>40 GB</td><td>30 GB</td><td>Ja</td><td>99 kr.</td><td>69 kr. i 6 mdr.</td></tr>
+<tr><td>Flexii byg-selv fri tale + 10 GB</td><td>10 GB</td><td>–</td><td>Nej</td><td>{pris:fx-k10} kr.</td><td>{introtekst:fx-k10}</td></tr>
+<tr><td>Lebara fri tale + 70 GB</td><td>70 GB</td><td>{eu:lb-70} GB</td><td>Nej</td><td>{pris:lb-70} kr.</td><td>–</td></tr>
+<tr><td>Flexii fri tale + 20 GB (4G)</td><td>20 GB</td><td>{eu:fx-20-4g} GB</td><td>Nej</td><td>{pris:fx-20-4g} kr.</td><td>{introtekst:fx-20-4g}</td></tr>
+<tr><td>Flexii fri tale + 20 GB (5G)</td><td>20 GB</td><td>{eu:fx-20} GB</td><td>Ja</td><td>{pris:fx-20} kr.</td><td>{introtekst:fx-20}</td></tr>
+<tr><td>Oister fri tale + 12 GB</td><td>12 GB</td><td>{eu:oi-12} GB</td><td>Ja</td><td>{pris:oi-12} kr.</td><td>–</td></tr>
+<tr><td>Greentel fri tale + 10 GB</td><td>10 GB</td><td>{eu:gt-10} GB</td><td>Nej</td><td>{pris:gt-10} kr.</td><td>–</td></tr>
+<tr><td>Flexii fri tale + 50 GB (4G)</td><td>50 GB</td><td>{eu:fx-50-4g} GB</td><td>Nej</td><td>{pris:fx-50-4g} kr.</td><td>{introtekst:fx-50-4g}</td></tr>
+<tr><td>Oister fri tale + 40 GB</td><td>40 GB</td><td>{eu:oi-40} GB</td><td>Ja</td><td>{pris:oi-40} kr.</td><td>{introtekst:oi-40}</td></tr>
+<tr><td>Greentel fri tale + 30 GB</td><td>30 GB</td><td>{eu:gt-30} GB</td><td>Ja</td><td>{pris:gt-30} kr.</td><td>–</td></tr>
 </tbody>
 </table>
-<p>Læg mærke til, at Lebaras 70 GB-abonnement kun koster 10 kr. mere end 40 GB-udgaven. Du får 75 % mere data for 20 % højere pris, og første måned er gratis. Bruger du blot lidt over 40 GB, er 70 GB-pakken den bedste handel i den lave ende.</p>
-<p>Lige nu er Dukas kampagne med 30 GB, fri tale og 5G for 55 kr. om måneden svær at slå, hvis du vil have 5G. Prisen gælder til 31. marts 2027, og derefter koster abonnementet 99 kr. Flexii giver 20 GB og 5G for 59 kr. det første år. Begge dele er solide valg, men regn med normalprisen, når kampagnen udløber. Vi har samlet flere af disse kampagner på siden om <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a>, og du kan læse meget mere om fri tale på vores side om <a href="/fri-tale/">mobilabonnement med fri tale</a>.</p>
-[[simo:Vælg ikke automatisk den mindste pakke. Hos Lebara koster 70 GB kun 10 kr. mere end 40 GB – det er ofte de sidste 10 kroner, der giver mest data for pengene.]]
+<p>Læg mærke til, at Lebaras 70 GB kun koster 20 kr. mere end Flexiis byg-selv med 10 GB på normalpris – men giver syv gange så meget data. Flexii 20 GB på 4G koster det samme som Lebara 70 GB på normalpris, så her vinder Lebara klart på data. Bruger du mere end 20 GB om måneden, er Lebaras 70 GB-pakke den bedste handel i den lave ende.</p>
+<p>Vil du have 5G, er Oisters {gb:oi-40} til {introtekst:oi-40} (derefter {pris:oi-40} kr.) og Flexiis {gb:fx-20} med 5G til {introtekst:fx-20} de stærkeste kampagner. Har du ikke brug for 5G, giver Lyca Mobile fri tale og 200 GB for {introtekst:ly-200} – derefter {pris:ly-200} kr. Regn altid med normalprisen, når kampagnen udløber. Vi har samlet flere af disse kampagner på siden om <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a>, og du kan læse meget mere om fri tale på vores side om <a href="/fri-tale/">mobilabonnement med fri tale</a>.</p>
+[[simo:Vælg ikke automatisk den mindste pakke. Hos Lebara koster 70 GB med fri tale kun {pris:lb-70} kr. – det er ofte de sidste 10-20 kroner, der giver mest data for pengene.]]
 
 <h2>Billigst pr. GB: her får du mest data for pengene</h2>
-<p>Den mest retfærdige måde at sammenligne abonnementer med meget data på er at regne prisen pr. GB ud. Vi har taget normalprisen for hvert abonnement i vores database og divideret den med antallet af GB. Abonnementer med fri data er ikke med, fordi de ikke har et fast loft (Flexii har dog en fair use-grænse på 2 TB). Tabellen er sorteret efter laveste pris pr. GB.</p>
+<p>Den mest retfærdige måde at sammenligne abonnementer med meget data på er at regne prisen pr. GB ud. Vi har taget normalprisen for hvert abonnement i vores database og divideret den med antallet af GB. Abonnementer med fri data er ikke med, fordi de ikke har et fast loft. Tabellen er sorteret efter laveste pris pr. GB.</p>
 <table>
 <thead><tr><th>#</th><th>Abonnement</th><th>Data</th><th>Pris/md.</th><th>Pris pr. GB</th><th>5G</th></tr></thead>
 <tbody>
-<tr><td>1</td><td>Duka fri tale + 1000 GB</td><td>1000 GB</td><td>179 kr.</td><td>0,18 kr.</td><td>Ja</td></tr>
-<tr><td>2</td><td>Greentel fri tale + 1000 GB</td><td>1000 GB</td><td>189 kr.</td><td>0,19 kr.</td><td>Ja</td></tr>
-<tr><td>3</td><td>Lyca 200 GB + fri tale</td><td>200 GB</td><td>119 kr.</td><td>0,60 kr.</td><td>Ja</td></tr>
-<tr><td>4</td><td>Lyca 500 GB + fri tale</td><td>500 GB</td><td>299 kr.</td><td>0,60 kr.</td><td>Ja</td></tr>
-<tr><td>5</td><td>Duka fri tale + 200 GB</td><td>200 GB</td><td>129 kr.</td><td>0,65 kr.</td><td>Ja</td></tr>
-<tr><td>6</td><td>Flexii fri tale + 150 GB</td><td>150 GB</td><td>109 kr.</td><td>0,73 kr.</td><td>Ja</td></tr>
-<tr><td>7</td><td>Lebara 160 GB + fri tale</td><td>160 GB</td><td>119 kr.</td><td>0,74 kr.</td><td>Nej</td></tr>
-<tr><td>8</td><td>Lebara 200 GB + fri tale</td><td>200 GB</td><td>159 kr.</td><td>0,80 kr.</td><td>Nej</td></tr>
-<tr><td>9</td><td>Lebara 70 GB + fri tale</td><td>70 GB</td><td>59 kr.</td><td>0,84 kr.</td><td>Nej</td></tr>
-<tr><td>10</td><td>Lyca 100 GB + fri tale</td><td>100 GB</td><td>99 kr.</td><td>0,99 kr.</td><td>Ja</td></tr>
-<tr><td>11</td><td>Lebara 100 GB + fri tale</td><td>100 GB</td><td>99 kr.</td><td>0,99 kr.</td><td>Nej</td></tr>
-<tr><td>12</td><td>Duka fri tale + 120 GB</td><td>120 GB</td><td>119 kr.</td><td>0,99 kr.</td><td>Ja</td></tr>
-<tr><td>13</td><td>Oister fri tale + 100 GB</td><td>100 GB</td><td>109 kr.</td><td>1,09 kr.</td><td>Ja</td></tr>
-<tr><td>–</td><td>Lebara/Lyca 5 GB / 5 timer</td><td>5 GB</td><td>19 kr.</td><td>3,80 kr.</td><td>Lyca ja</td></tr>
-<tr><td>–</td><td>YouSee 3 timer + 3 GB</td><td>3 GB</td><td>99 kr.</td><td>33,00 kr.</td><td>Ja</td></tr>
+<tr><td>1</td><td>Duka fri tale + 1000 GB</td><td>1000 GB</td><td>{pris:dk-1000} kr.</td><td>0,18 kr.</td><td>Ja</td></tr>
+<tr><td>2</td><td>Lyca 200 GB + fri tale</td><td>200 GB</td><td>{pris:ly-200} kr.</td><td>0,60 kr.</td><td>Nej</td></tr>
+<tr><td>3</td><td>Lyca 500 GB + fri tale</td><td>500 GB</td><td>{pris:ly-500} kr.</td><td>0,60 kr.</td><td>Nej</td></tr>
+<tr><td>4</td><td>Duka fri tale + 200 GB</td><td>200 GB</td><td>{pris:dk-200} kr.</td><td>0,65 kr.</td><td>Ja</td></tr>
+<tr><td>5</td><td>Flexii fri tale + 150 GB (4G)</td><td>150 GB</td><td>{pris:fx-150-4g} kr.</td><td>0,66 kr.</td><td>Nej</td></tr>
+<tr><td>6</td><td>Flexii fri tale + 150 GB (5G)</td><td>150 GB</td><td>{pris:fx-150} kr.</td><td>0,73 kr.</td><td>Ja</td></tr>
+<tr><td>7</td><td>Lebara 160 GB + fri tale</td><td>160 GB</td><td>{pris:lb-160} kr.</td><td>0,74 kr.</td><td>Nej</td></tr>
+<tr><td>8</td><td>Telmore fri tale + 200 GB</td><td>200 GB</td><td>{pris:tm-200} kr.</td><td>0,80 kr.</td><td>Ja</td></tr>
+<tr><td>9</td><td>Lebara 70 GB + fri tale</td><td>70 GB</td><td>{pris:lb-70} kr.</td><td>0,84 kr.</td><td>Nej</td></tr>
+<tr><td>10</td><td>Lyca 100 GB + fri tale</td><td>100 GB</td><td>{pris:ly-100} kr.</td><td>0,99 kr.</td><td>Nej</td></tr>
+<tr><td>11</td><td>Lebara 100 GB + fri tale</td><td>100 GB</td><td>{pris:lb-100} kr.</td><td>0,99 kr.</td><td>Nej</td></tr>
+<tr><td>12</td><td>Duka fri tale + 120 GB</td><td>120 GB</td><td>{pris:dk-120} kr.</td><td>0,99 kr.</td><td>Ja</td></tr>
+<tr><td>13</td><td>Oister fri tale + 100 GB</td><td>100 GB</td><td>{pris:oi-100} kr.</td><td>1,09 kr.</td><td>Ja</td></tr>
+<tr><td>–</td><td>Lebara/Lyca 5 GB / 5 timer</td><td>5 GB</td><td>{pris:lb-5} kr.</td><td>3,80 kr.</td><td>Nej</td></tr>
+<tr><td>–</td><td>YouSee 3 timer + 3 GB</td><td>3 GB</td><td>{pris:ys-3} kr.</td><td>33,00 kr.</td><td>Nej</td></tr>
 </tbody>
 </table>
-<p>Tabellen viser tydeligt, hvor skævt det kan gå. Det billigste abonnement i kroner (19 kr.) koster 3,80 kr. pr. GB, mens 1000 GB-abonnementerne fra Duka og Greentel koster under 20 øre pr. GB. Og i den modsatte ende af skalaen betaler man hos YouSee 33 kr. pr. GB for det mindste abonnement. Pris pr. GB er selvfølgelig kun interessant, hvis du faktisk bruger dataene. Ingen sparer penge på at købe 1000 GB, hvis de bruger 15.</p>
-<p>Et godt tommelfingerprincip er at finde det abonnement, der dækker dit forbrug med en buffer på 20-30 %, og derefter vælge det med laveste pris pr. GB i den størrelse. Ved et forbrug omkring 50 GB er Lebaras 70 GB (0,84 kr./GB) et oplagt valg; omkring 150 GB er Lyca 200 GB og Duka 200 GB stærke. Ved et meget stort forbrug er 1000 GB ofte billigere end fri data, og det forklarer vi på siden om <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
+<p>Tabellen viser tydeligt, hvor skævt det kan gå. Det billigste abonnement i kroner (19 kr.) koster 3,80 kr. pr. GB, mens Dukas 1000 GB-abonnement koster under 20 øre pr. GB. Og i den modsatte ende af skalaen betaler man hos YouSee 33 kr. pr. GB for det mindste abonnement. Pris pr. GB er selvfølgelig kun interessant, hvis du faktisk bruger dataene. Ingen sparer penge på at købe 1000 GB, hvis de bruger 15.</p>
+<p>Et godt tommelfingerprincip er at finde det abonnement, der dækker dit forbrug med en buffer på 20-30 %, og derefter vælge det med laveste pris pr. GB i den størrelse. Ved et forbrug omkring 50 GB er Lebaras 70 GB (0,84 kr./GB) et oplagt valg; omkring 150 GB er Lyca 200 GB og Duka 200 GB stærke – og Duka koster {introtekst:dk-200}. Ved et meget stort forbrug er 1000 GB ofte billigere end fri data, og det forklarer vi på siden om <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
 <p>Ved du ikke, hvor meget du bruger? Tjek dit forbrug i telefonens indstillinger for de seneste måneder, eller brug guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>.</p>
 
 <h2>Billigste mobilabonnement med 5G</h2>
-<p>5G er ikke længere et dyrt tilvalg. 36 af de 45 abonnementer i vores sammenligning har 5G, og det billigste er Lycas 5 GB-pakke til 19 kr. Ser du efter fri tale med 5G, starter prisen ved 59 kr. hos Duka (6 GB), mens Dukas kampagne med 30 GB til 55 kr. er billigst lige nu. Uden for kampagnerne er Flexiis 20 GB til 69 kr. (59 kr. første år) og Greentels 10 GB til 69 kr. de billigste 5G-abonnementer med fri tale.</p>
-<p>Duka, Greentel, Oister og Lyca har 5G på alle abonnementer i vores data. Lebaras abonnementer er derimod uden 5G, og Forbrugerrådet Tænk har også påpeget, at flere af Lebaras abonnementer kun kører 4G<sup class="ref"><a href="#kilde-3">3</a></sup>. Er det et problem? Ikke nødvendigvis. 4G-nettet er udbygget over hele landet, og til beskeder, opkald og almindelig streaming mærker de fleste ikke forskellen. Men har du en ny telefon og bor i et område med god 5G-dækning, kan det være 10-20 kr. værd om måneden at få den med. Læs mere i guiden til <a href="/5g-mobilabonnement/">5G mobilabonnement</a>.</p>
+<p>5G er ikke længere et dyrt tilvalg, men de allerbilligste pakker kører på 4G. 40 af de {antal} abonnementer i vores sammenligning har 5G, og det billigste starter ved {fra:5g} kr.: Oisters {gb:oi-12} med fri tale og Flexiis {gb:fx-20} med fri tale ({introtekst:fx-20}). Telmores 3 GB og 3 timer til {pris:tm-3} kr. har også 5G. Vil du have mere data med 5G, giver Oister {gb:oi-40} for {introtekst:oi-40} og Greentel {gb:gt-30} for {pris:gt-30} kr.</p>
+<p>Oister og Telmore har 5G på alle abonnementer, og Duka har det på alle abonnementer med fri tale. Flexii lader dig vælge mellem en 4G- og en lidt dyrere 5G-pris (typisk 10 kr. mere om måneden), og Greentel har 5G på 30 GB- og 50 GB-pakkerne. Lebaras og Lyca Mobiles abonnementer er alle 4G, og Forbrugerrådet Tænk har også påpeget, at flere af Lebaras abonnementer kun kører 4G<sup class="ref"><a href="#kilde-3">3</a></sup>. Er det et problem? Ikke nødvendigvis. 4G-nettet er udbygget over hele landet, og til beskeder, opkald og almindelig streaming mærker de fleste ikke forskellen. Men har du en ny telefon og bor i et område med god 5G-dækning, kan det være 10-20 kr. værd om måneden at få den med. Læs mere i guiden til <a href="/5g-mobilabonnement/">5G mobilabonnement</a>.</p>
 
 <h2>Skjulte omkostninger: det skal du holde øje med</h2>
-<p>Månedsprisen er kun en del af regningen. Da vi gennemgik vilkårene hos de otte udbydere, fandt vi fire typer ekstraomkostninger, der går igen. De er alle lovlige og står i prislisterne, men de bliver sjældent nævnt på forsiden.</p>
+<p>Månedsprisen er kun en del af regningen. Da vi gennemgik vilkårene hos de {antal_udbydere} udbydere, fandt vi fire typer ekstraomkostninger, der går igen. De er alle lovlige og står i prislisterne, men de bliver sjældent nævnt på forsiden.</p>
 <h3>Betalingsservice og fakturagebyr</h3>
-<p>Greentel opkræver 10 kr. ekstra om måneden, hvis du betaler via Betalingsservice. Det er 120 kr. om året, og det gør Greentels fri tale + 10 GB til 69 kr. reelt til 79 kr. Løsningen er som regel at tilmelde et betalingskort, som de fleste lavprisselskaber foretrækker. Tjek altid, hvilken betalingsform der er gratis, før du bestiller.</p>
+<p>Greentel opkræver 10 kr. ekstra om måneden, hvis du betaler via Betalingsservice. Det er 120 kr. om året, og det gør Greentels fri tale + 10 GB til {pris:gt-10} kr. reelt 10 kr. dyrere. Løsningen er som regel at tilmelde et betalingskort, som de fleste lavprisselskaber foretrækker. Tjek altid, hvilken betalingsform der er gratis, før du bestiller.</p>
 <h3>Oprettelse og startgebyrer</h3>
 <p>De fleste lavprisselskaber har 0 kr. i oprettelse, men ikke alle. YouSee tager 99 kr. i oprettelse, hvis du køber i butik, og Telmore Go koster 99 kr. at oprette. På et abonnement til 39 kr. om måneden svarer det til to en halv måneds betaling. Spreder du det over et år, lægger det godt 8 kr. oven i hver måned.</p>
 <h3>Intropriser, der stiger</h3>
-<p>Den største fælde er intropriserne. Oisters fri data koster 139 kr. i seks måneder og derefter 199 kr. Flexiis fri data koster 129 kr. det første år og derefter 149 kr. Telmore tilbyder fri tale + 45 GB for 26 kr. i to måneder, men normalprisen er 149 kr. Der er intet galt i at bruge kampagnerne, men sammenlign altid prisen over 12 måneder og sæt en påmindelse i kalenderen til den dag, prisen stiger. Udbyderen skal varsle prisændringer mindst en måned i forvejen, og du kan altid opsige uden omkostninger, hvis vilkårene ændres<sup class="ref"><a href="#kilde-4">4</a></sup>.</p>
+<p>Den største fælde er intropriserne. Oisters fri data koster {introtekst:oi-fri} og derefter {pris:oi-fri} kr. Flexiis fri data med 5G koster {introtekst:fx-fri} og derefter {pris:fx-fri} kr. Telmore tilbyder fri tale + {gb:tm-50} for {introtekst:tm-50}, men normalprisen er {pris:tm-50} kr. Der er intet galt i at bruge kampagnerne, men sammenlign altid prisen over 12 måneder og sæt en påmindelse i kalenderen til den dag, prisen stiger. Udbyderen skal varsle prisændringer mindst en måned i forvejen, og du kan altid opsige uden omkostninger, hvis vilkårene ændres<sup class="ref"><a href="#kilde-4">4</a></sup>.</p>
 <h3>Forbrug uden for pakken</h3>
 <p>Ekstra data, opkald til udlandet og roaming uden for EU kan koste mere end selve abonnementet. Inden for EU må du bruge dit abonnement som hjemme (inden for fair use), men lande som Storbritannien og Schweiz er ikke omfattet af reglerne<sup class="ref"><a href="#kilde-5">5</a></sup>. Rejser du meget, så læs vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>, før du vælger det billigste.</p>
-<div class="callout warn"><p><strong>Pas på:</strong> Et abonnement til 49 kr. med 10 kr. i Betalingsservice-gebyr og 99 kr. i oprettelse koster 807 kr. det første år – ikke 588 kr. Regn altid hele årets pris ud.</p></div>
+<div class="callout warn"><p><strong>Pas på:</strong> Et abonnement til 59 kr. med 10 kr. i Betalingsservice-gebyr og 99 kr. i oprettelse koster 927 kr. det første år – ikke 708 kr. Regn altid hele årets pris ud.</p></div>
 
 <h2>Regneeksempel: hvor meget kan du spare om året?</h2>
 <p>Mange betaler stadig for et abonnement, de tegnede for flere år siden. Priserne på mobiltelefoni er steget 8,6 % fra august 2025 til august 2026 ifølge Danmarks Statistik<sup class="ref"><a href="#kilde-2">2</a></sup>, men forskellen mellem de dyre og de billige selskaber er stadig stor. Her er tre typiske eksempler, regnet på normalpriser:</p>
 <table>
 <thead><tr><th>Fra</th><th>Til</th><th>Besparelse/md.</th><th>Besparelse/år</th></tr></thead>
 <tbody>
-<tr><td>YouSee fri tale + 25 GB (179 kr.)</td><td>Lebara 40 GB + fri tale (49 kr.)</td><td>130 kr.</td><td>1.560 kr.</td></tr>
-<tr><td>YouSee fri tale + 100 GB (249 kr.)</td><td>Duka fri tale + 200 GB (129 kr.)</td><td>120 kr.</td><td>1.440 kr.</td></tr>
-<tr><td>YouSee fri tale + fri data (299 kr.)</td><td>Flexii fri tale + fri data (149 kr.)</td><td>150 kr.</td><td>1.800 kr.</td></tr>
-<tr><td>Telmore fri tale + 45 GB (149 kr.)</td><td>Flexii fri tale + 50 GB (89 kr.)</td><td>60 kr.</td><td>720 kr.</td></tr>
+<tr><td>YouSee fri tale + 25 GB ({pris:ys-25} kr.)</td><td>Lebara 70 GB + fri tale ({pris:lb-70} kr.)</td><td>120 kr.</td><td>1.440 kr.</td></tr>
+<tr><td>YouSee fri tale + 100 GB ({pris:ys-100} kr.)</td><td>Duka fri tale + 200 GB ({pris:dk-200} kr.)</td><td>120 kr.</td><td>1.440 kr.</td></tr>
+<tr><td>YouSee fri tale + fri data ({pris:ys-fri} kr.)</td><td>Flexii fri tale + fri data, 5G ({pris:fx-fri} kr.)</td><td>150 kr.</td><td>1.800 kr.</td></tr>
+<tr><td>Telmore fri tale + 50 GB ({pris:tm-50} kr.)</td><td>Flexii fri tale + 50 GB, 5G ({pris:fx-50} kr.)</td><td>60 kr.</td><td>720 kr.</td></tr>
 </tbody>
 </table>
-<p>I det tredje eksempel bliver besparelsen endnu større det første år, fordi Flexii koster 129 kr. de første 12 måneder. Så sparer du 170 kr. om måneden, eller 2.040 kr. det første år. Og i alle eksemplerne får du mindst lige så meget data som før. En familie med fire telefoner kan gange tallene op, og så taler vi hurtigt om 5.000-7.000 kr. om året. Se også vores side om <a href="/familieabonnement/">familieabonnement</a>.</p>
+<p>I det tredje eksempel bliver besparelsen endnu større det første år, fordi Flexii koster 129 kr. de første 12 måneder. Så sparer du 170 kr. om måneden, eller 2.040 kr. det første år. Og i alle eksemplerne får du mindst lige så meget data som før – i det første eksempel næsten tre gange så meget. En familie med fire telefoner kan gange tallene op, og så taler vi hurtigt om 5.000-7.000 kr. om året. Se også vores side om <a href="/familieabonnement/">familieabonnement</a>.</p>
 <p>Det er værd at nævne, hvad du eventuelt giver afkald på. YouSee har fysiske butikker, familie-SIM og musiktjeneste inkluderet, og mange sætter pris på det. Men betaler du 1.500 kr. ekstra om året for noget, du ikke bruger, er det penge ud af vinduet. Prøv selv med dine egne tal i beregneren herunder.</p>
 [[vaerktoej:sparberegner]]
 
 <h2>Er billige mobilabonnementer dårligere?</h2>
-<p>Det er det spørgsmål, vi oftest får. Svaret er nej, ikke når det gælder selve forbindelsen. Der findes kun fire fysiske mobilnet i Danmark: TDC NET, Telenor, Norlys og 3. Telenor og Norlys deler radionettet i det såkaldte TT-netværk<sup class="ref"><a href="#kilde-6">6</a></sup>. Alle lavprisselskaber lejer sig ind på et af disse net. Lebara, Greentel og Duka kører på TT-netværket, Oister og Flexii på 3's net, mens Lyca Mobile – ligesom Telmore og YouSee – kører på TDC NET. Et abonnement til 49 kr. bruger altså de samme master som et til 299 kr. på samme net.</p>
+<p>Det er det spørgsmål, vi oftest får. Svaret er nej, ikke når det gælder selve forbindelsen. Der findes kun fire fysiske mobilnet i Danmark: TDC NET, Telenor, Norlys og 3. Telenor og Norlys deler radionettet i det såkaldte TT-netværk<sup class="ref"><a href="#kilde-6">6</a></sup>. Alle lavprisselskaber lejer sig ind på et af disse net. Lebara, Lyca Mobile, Greentel, Duka og CBB kører på TT-netværket, Oister og Flexii på 3's net, mens Telmore, YouSee og eesy kører på TDC NET. Et abonnement til 59 kr. bruger altså de samme master som et til 299 kr. på samme net.</p>
 <p>Forskellen ligger i service og ekstra ydelser. De billigste selskaber har typisk kun chat eller online-support, ingen butikker og færre fordele som musiktjenester eller familierabat. Flexii har for eksempel ingen telefonsupport, og Lebaras kundeservice er primært online. Til gengæld får du ofte samme data og samme net. Vil du se, hvordan de fire net klarer sig i målinger, kan du læse vores guide om <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
-<div class="proscons"><div class="pros"><h4>Fordele ved et billigt abonnement</h4><ul><li>Samme mobilnet som de dyre selskaber</li><li>Ingen eller kort binding</li><li>Ofte mere data for pengene</li><li>eSIM hos alle otte udbydere, vi dækker</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ofte kun chat- eller e-mailsupport</li><li>Få eller ingen butikker</li><li>Nogle billige pakker er kun 4G</li><li>Mindre EU-data på de små pakker</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele ved et billigt abonnement</h4><ul><li>Samme mobilnet som de dyre selskaber</li><li>Ingen eller kort binding</li><li>Ofte mere data for pengene</li><li>eSIM hos alle {antal_udbydere} udbydere, vi dækker</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ofte kun chat- eller e-mailsupport</li><li>Få eller ingen butikker</li><li>Nogle billige pakker er kun 4G</li><li>Mindre EU-data på de små pakker</li></ul></div></div>
 <blockquote class="expert"><p>Vi ser igen og igen, at folk betaler for meget, fordi de aldrig har tjekket deres faktiske forbrug. Brug fem minutter på at se, hvor mange GB du brugte de sidste tre måneder, og vælg ud fra det. Det er den nemmeste besparelse, du finder i husholdningsbudgettet.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sådan vælger du det billigste mobilabonnement til dig</h2>
 <ol class="steps">
 <li><strong>Tjek dit dataforbrug.</strong> Find det i telefonens indstillinger under mobildata, og se på gennemsnittet for de seneste tre måneder.</li>
 <li><strong>Vurder, hvor meget du ringer.</strong> Ringer du mere end en time om ugen, er fri tale næsten altid billigere end en pakke med få timer.</li>
-<li><strong>Tænk på rejser.</strong> Rejser du i EU, så tjek EU-dataen. Lebaras 40 GB-pakke har kun 6 GB i EU, mens Duka og Flexii har 20-30 GB på tilsvarende abonnementer.</li>
+<li><strong>Tænk på rejser.</strong> Rejser du i EU, så tjek EU-dataen. Lebaras 70 GB-pakke har {eu:lb-70} GB i EU, mens Duka giver hele {eu:dk-55} GB i EU på 55 GB-abonnementet.</li>
 <li><strong>Beslut, om du vil have 5G.</strong> Har din telefon 5G, kan det være værd at vælge et abonnement med det – det koster ofte kun få kroner ekstra.</li>
 <li><strong>Regn 12 måneders pris.</strong> Læg intropris og normalpris sammen, og husk gebyrer for betaling og oprettelse.</li>
 <li><strong>Skift uden at miste nummeret.</strong> Bestil det nye abonnement, og bed om nummerflytning. Nummeret flyttes senest ved udgangen af næste arbejdsdag, og du behøver ikke opsige det gamle selv<sup class="ref"><a href="#kilde-7">7</a></sup>. Se trin for trin i guiden <a href="/guides/skift-mobilabonnement/">skift mobilabonnement</a>.</li>
 </ol>
-[[simo:Bestil dit nye abonnement som eSIM, så er du kørende på få minutter. Alle de otte udbydere, vi sammenligner, tilbyder eSIM.]]
+[[simo:Bestil dit nye abonnement som eSIM, så er du kørende på få minutter. Alle de {antal_udbydere} udbydere, vi sammenligner, tilbyder eSIM.]]
 <p>Vil du hellere have en hurtig anbefaling? Tag vores quiz, så finder vi det billigste abonnement til dit forbrug på cirka 30 sekunder.</p>
 [[vaerktoej:quiz]]
 
 <h2>Billigste mobilabonnement til unge, børn og familier</h2>
-<p>Skal du finde et billigt abonnement til flere i husstanden, er det ikke altid de samme navne, der vinder. Til børn er Flexiis børneabonnement med fri tale og 5 GB for 35 kr. (17 kr. i de første tre måneder) blandt de billigste, og Oister har 12 timer og 12 GB for 69 kr. Til unge, der streamer meget, giver Lebaras 70 GB for 59 kr. og Flexiis 50 GB med 5G for 89 kr. (79 kr. første år) god værdi. Se mere på siderne om <a href="/mobilabonnement-unge/">mobilabonnement til unge</a> og mobilabonnement til børn.</p>
+<p>Skal du finde et billigt abonnement til flere i husstanden, er det ikke altid de samme navne, der vinder. Til børn er Flexiis byg-selv-abonnement med fri tale og {gb:fx-k10} for {pris:fx-k10} kr. ({introtekst:fx-k10}) blandt de billigste, Greentel har 5 GB og 1 times tale for {pris:gt-5} kr., og Oister har fri tale og {gb:oi-12} med 5G for {pris:oi-12} kr. Til unge, der streamer meget, giver Lebaras 70 GB for {pris:lb-70} kr. og Flexiis 50 GB med 5G for {pris:fx-50} kr. ({introtekst:fx-50}) god værdi. Se mere på siderne om <a href="/mobilabonnement-unge/">mobilabonnement til unge</a> og mobilabonnement til børn.</p>
 <p>YouSee har et familie-SIM til 129 kr. om måneden med dobbelt data, og YouSee er 30 kr. billigere om måneden, hvis du også har internet hos dem. Det kan gøre YouSee konkurrencedygtig for familier, der i forvejen er kunder, selvom de enkelte abonnementer er dyrere end hos lavprisselskaberne.</p>
 
 <h2>Binding og opsigelse: kan det billige abonnement låse dig fast?</h2>
@@ -132,14 +134,14 @@ related: mobilabonnement-tilbud, fri-tale, mobilabonnement-fri-data, 5g-mobilabo
 <p>Før du bestiller, kan det betale sig at tjekke dækningen på din adresse på tjekditnet.dk. Forbrugerrådet Tænk konkluderede i september 2026, at man ikke behøver betale over 100 kr. om måneden for markedets bedste abonnementer<sup class="ref"><a href="#kilde-3">3</a></sup>, men et billigt abonnement er kun billigt, hvis forbindelsen virker der, hvor du bruger telefonen.</p>
 
 <h2>Sådan har vi fundet de billigste abonnementer</h2>
-<p>Vi har gennemgået 45 abonnementer fra Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka og noteret normalpris, kampagnepris, data, EU-data, tale og 5G. Priserne er tjekket 7. oktober 2026. Pris pr. GB er beregnet af os ud fra normalprisen. Vi rangerer ikke efter, hvem der betaler for at blive vist, og vores vurderinger følger den samme faste model for alle udbydere. Du kan læse hele fremgangsmåden på siden <a href="/metode/">sådan sammenligner vi</a> og i vores redaktionelle politik.</p>
+<p>Vi har gennemgået {antal} abonnementer fra Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel, Duka, CBB og eesy og noteret normalpris, kampagnepris, data, EU-data, tale og 5G. Priserne kommer fra udbydernes egne prisdata (via deres officielle prisfeed) og prissider og er tjekket 7. oktober 2026. Pris pr. GB er beregnet af os ud fra normalprisen. Vi rangerer ikke efter, hvem der betaler for at blive vist, og vores vurderinger følger den samme faste model for alle udbydere. Du kan læse hele fremgangsmåden på siden <a href="/metode/">sådan sammenligner vi</a> og i vores redaktionelle politik.</p>
 ===FAQ===
 Q: Hvad er det billigste mobilabonnement i Danmark?
-A: Det billigste mobilabonnement koster 19 kr./md. hos både Lebara og Lyca Mobile og giver 5 GB data og 5 timers tale. Lycas version har 5G og 4 GB EU-data, mens Lebaras kører på 4G med 3 GB i EU.
+A: Det billigste mobilabonnement koster {pris:lb-5} kr./md. hos både Lebara og Lyca Mobile og giver 5 GB data og 5 timers tale. Lycas version har {eu:ly-5} GB EU-data og Lebaras {eu:lb-5} GB, og begge kører på 4G på TT-netværket.
 Q: Hvad er det billigste mobilabonnement med fri tale?
-A: Lebara har det billigste med fri tale: 40 GB for 49 kr./md. inklusive 2 timers opkald til udlandet. Vil du have 5G, er Dukas 30 GB for 55 kr./md. (kampagne til 31.3.2027) og Duka 6 GB for 59 kr. de billigste.
+A: Flexiis byg-selv-abonnement med fri tale og 10 GB koster {pris:fx-k10} kr./md. ({introtekst:fx-k10}). Mest data for pengene får du hos Lebara: fri tale og {gb:lb-70} for {pris:lb-70} kr./md. Vil du have 5G, er Oister {gb:oi-12} og Flexii {gb:fx-20} for {pris:fx-20} kr. de billigste.
 Q: Hvilket mobilabonnement har den laveste pris pr. GB?
-A: Dukas fri tale + 1000 GB til 179 kr./md. giver den laveste pris med 0,18 kr. pr. GB, tæt fulgt af Greentels 1000 GB til 189 kr. (0,19 kr. pr. GB). Blandt de mellemstore pakker er Lyca 200 GB til 119 kr. billigst pr. GB.
+A: Dukas fri tale + 1000 GB til {pris:dk-1000} kr./md. giver den laveste pris med 0,18 kr. pr. GB. Blandt de mellemstore pakker er Lyca 200 GB til {pris:ly-200} kr. billigst pr. GB (0,60 kr.), og Lyca koster {introtekst:ly-200}.
 Q: Er billige mobilabonnementer på et dårligere net?
 A: Nej. Alle lavprisselskaber lejer sig ind på et af de fire danske mobilnet (TDC NET, Telenor, Norlys og 3). Forskellen er service og ekstra ydelser, ikke selve forbindelsen. Se vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.
 Q: Koster det noget at skifte til et billigere mobilabonnement?
@@ -147,9 +149,9 @@ A: Nummerflytning er gratis, og nummeret flyttes senest ved udgangen af næste a
 Q: Hvorfor stiger prisen på mit billige abonnement efter nogle måneder?
 A: Mange selskaber lokker med intropriser, fx Oister i 6 måneder eller Flexii i 12 måneder. Derefter gælder normalprisen. Udbyderen skal varsle prisstigninger på eksisterende vilkår mindst en måned før, og så kan du opsige uden omkostninger.
 Q: Hvor meget kan jeg spare ved at skifte mobilabonnement?
-A: Det afhænger af dit nuværende abonnement, men skifter du fra YouSees fri data til 299 kr. til Flexiis fri data til 149 kr., sparer du 1.800 kr. om året på normalpris og 2.040 kr. det første år. Prøv <a href="/guides/skift-mobilabonnement/">vores guide til at skifte</a>.
+A: Det afhænger af dit nuværende abonnement, men skifter du fra YouSees fri data til {pris:ys-fri} kr. til Flexiis fri data med 5G til {pris:fx-fri} kr., sparer du 1.800 kr. om året på normalpris og 2.040 kr. det første år. Prøv <a href="/guides/skift-mobilabonnement/">vores guide til at skifte</a>.
 Q: Kan man få et billigt mobilabonnement med eSIM?
-A: Ja. Alle de otte udbydere, vi sammenligner, tilbyder eSIM, også de billigste som Lebara og Lyca Mobile. Læs mere på vores side om <a href="/esim/">eSIM</a>.
+A: Ja. Alle de {antal_udbydere} udbydere, vi sammenligner, tilbyder eSIM, også de billigste som Lebara og Lyca Mobile. Læs mere på vores side om <a href="/esim/">eSIM</a>.
 ===KILDER===
 Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
 PRIS01: Forbrugerprisindeks – Mobilkommunikationstjenester, Danmarks Statistik | https://www.statistikbanken.dk/PRIS01
@@ -160,3 +162,4 @@ Norlys og Telenor udbygger deres fælles mobilnetværk, Ritzau | https://via.rit
 Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
 Priser og abonnementer, Lebara | https://www.lebara.dk
 Priser og abonnementer, Duka | https://www.dukatale.dk/mobilabonnementer
+Priser og abonnementer, Lyca Mobile | https://www.lycamobile.dk

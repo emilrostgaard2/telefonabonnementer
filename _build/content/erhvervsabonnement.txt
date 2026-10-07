@@ -1,10 +1,10 @@
 ---
 slug: erhvervsabonnement
 title: Erhvervsabonnement mobil → Fra {fra:fri-tale} kr. ({maaned})
-desc: Find det rigtige erhvervsabonnement til firmatelefonen i {maaned}. Fri tale fra 49 kr., regler om binding, skat og moms forklaret. Sammenlign og spar.
+desc: Find det rigtige erhvervsabonnement til firmatelefonen i {maaned}. Fri tale fra {fra:fri-tale} kr., regler om binding, skat og moms forklaret. Sammenlign og spar.
 h1: Erhvervsabonnement til mobil
 kicker: Opdateret {maaned} · til selvstændige og små virksomheder
-answer: Et erhvervsabonnement er et mobilabonnement oprettet på virksomhedens CVR-nummer. For selvstændige og små virksomheder er et lavprisabonnement ofte nok: fri tale og 40 GB koster fra 49 kr./md. hos Lebara, og fri tale med 30 GB og 5G koster 55 kr./md. hos Duka i en kampagne. En firmatelefon er som udgangspunkt skattefri for medarbejderen, efter at multimediebeskatningen blev afskaffet i 2020.
+answer: Et erhvervsabonnement er et mobilabonnement oprettet på virksomhedens CVR-nummer. For selvstændige og små virksomheder er et lavprisabonnement ofte nok: fri tale og {gb:lb-70} koster {pris:lb-70} kr./md. hos Lebara, og fri tale med {gb:dk-200} og 5G koster {introtekst:dk-200} hos Duka (derefter {pris:dk-200} kr.). En firmatelefon er som udgangspunkt skattefri for medarbejderen, efter at multimediebeskatningen blev afskaffet i 2020.
 lead: Vi gennemgår forskellen på erhvervs- og privatabonnementer, reglerne om binding, skat og moms, og hvornår et billigt privatabonnement er det bedste valg for en lille virksomhed.
 crumb: Erhverv
 section: typer
@@ -14,7 +14,7 @@ related: fri-tale, mobilabonnement-fri-data, esim, mobilabonnement-uden-binding,
 <p>For de fleste selvstændige og små virksomheder er det bedste erhvervsabonnement ikke en dyr erhvervsløsning med lang binding, men et almindeligt mobilabonnement med fri tale, nok data og godt net – oprettet på virksomhedens CVR-nummer, hvis selskabet tilbyder det. De store erhvervsløsninger med omstilling, fælles datapulje og kontaktperson giver først mening, når virksomheden har mange medarbejdere eller særlige krav.</p>
 <p>Tabellen viser de abonnementer med fri tale, vi sammenligner, sorteret efter pris. Priserne er privatpriser inklusive moms, tjekket den 7. oktober 2026. Erhvervspriser oplyses typisk uden moms, så husk at dividere med 1,25, når du sammenligner.</p>
 [[tabel:fri-tale|sort=price|limit=10|titel=Billigste abonnementer med fri tale]]
-<div class="callout"><p><strong>Kort sagt:</strong> Har du en enkeltmandsvirksomhed eller få ansatte, kan du komme langt med et lavprisabonnement fra 49-99 kr./md. Vælg net efter, hvor du og dine kunder befinder jer, og vælg et abonnement uden lang binding. Skal virksomheden have mange linjer, faste kontaktpersoner og garanteret svartid, kan en egentlig erhvervsaftale være pengene værd.</p></div>
+<div class="callout"><p><strong>Kort sagt:</strong> Har du en enkeltmandsvirksomhed eller få ansatte, kan du komme langt med et lavprisabonnement til {pris:lb-70}-{pris:dk-30} kr./md. Vælg net efter, hvor du og dine kunder befinder jer, og vælg et abonnement uden lang binding. Skal virksomheden have mange linjer, faste kontaktpersoner og garanteret svartid, kan en egentlig erhvervsaftale være pengene værd.</p></div>
 <p>Hvordan vi har vurderet pris, net og vilkår, kan du se på siden <a href="/metode/">Sådan har vi sammenlignet</a>.</p>
 
 <h2>Erhvervsabonnement eller privatabonnement – hvad er forskellen?</h2>
@@ -60,20 +60,21 @@ related: fri-tale, mobilabonnement-fri-data, esim, mobilabonnement-uden-binding,
 </ul>
 <p>Udover momsen kan selve udgiften til abonnementet normalt fratrækkes som en driftsudgift i virksomhedens regnskab, i det omfang den vedrører virksomheden. Reglerne er generelle, og der kan være undtagelser, så brug skat.dk eller din revisor som facit<sup class="ref"><a href="#kilde-3">3</a></sup>.</p>
 <h3>Regneeksempel: hvad koster abonnementet reelt?</h3>
-<p>Et abonnement med fri tale og 30 GB koster 99 kr./md. inklusive moms hos Duka (normalpris)<sup class="ref"><a href="#kilde-9">9</a></sup>. Uden moms er det 99 ÷ 1,25 = 79,20 kr. Kan virksomheden fradrage hele momsen, er den reelle udgift 79,20 kr./md. eller ca. 950 kr. om året. Sammenlignet med en erhvervsløsning til fx 200 kr./md. ekskl. moms sparer virksomheden ca. 1.450 kr. om året pr. medarbejder. Har virksomheden fem medarbejdere, er det over 7.000 kr. om året – hvis det billige abonnement dækker jeres behov.</p>
+<p>Et abonnement med fri tale og {gb:dk-30} koster {pris:dk-30} kr./md. inklusive moms hos Duka (normalpris, ingen kampagne)<sup class="ref"><a href="#kilde-9">9</a></sup>. Uden moms er det 99 ÷ 1,25 = 79,20 kr. Kan virksomheden fradrage hele momsen, er den reelle udgift 79,20 kr./md. eller ca. 950 kr. om året. Sammenlignet med en erhvervsløsning til fx 200 kr./md. ekskl. moms sparer virksomheden ca. 1.450 kr. om året pr. medarbejder. Har virksomheden fem medarbejdere, er det over 7.000 kr. om året – hvis det billige abonnement dækker jeres behov.</p>
 <table>
 <thead><tr><th>Abonnement</th><th>Pris inkl. moms</th><th>Pris ekskl. moms</th><th>Pr. år ekskl. moms</th></tr></thead>
 <tbody>
-<tr><td>Lebara 40 GB + fri tale</td><td>49 kr.</td><td>39,20 kr.</td><td>470 kr.</td></tr>
-<tr><td>Flexii Fri tale + 20 GB (5G)</td><td>69 kr.</td><td>55,20 kr.</td><td>662 kr.</td></tr>
-<tr><td>Greentel Fri tale + 30 GB</td><td>89 kr.</td><td>71,20 kr.</td><td>854 kr.</td></tr>
-<tr><td>Duka Fri tale + 30 GB</td><td>99 kr.</td><td>79,20 kr.</td><td>950 kr.</td></tr>
-<tr><td>Telmore Fri tale + 45 GB</td><td>149 kr.</td><td>119,20 kr.</td><td>1.430 kr.</td></tr>
-<tr><td>Flexii Fri tale + fri data</td><td>149 kr.</td><td>119,20 kr.</td><td>1.430 kr.</td></tr>
-<tr><td>YouSee Fri tale + fri data</td><td>299 kr.</td><td>239,20 kr.</td><td>2.870 kr.</td></tr>
+<tr><td>{navn:lb-70}</td><td>{pris:lb-70} kr.</td><td>47,20 kr.</td><td>566 kr.</td></tr>
+<tr><td>{navn:fx-20}</td><td>{pris:fx-20} kr.</td><td>55,20 kr.</td><td>662 kr.</td></tr>
+<tr><td>{navn:gt-30}</td><td>{pris:gt-30} kr.</td><td>71,20 kr.</td><td>854 kr.</td></tr>
+<tr><td>{navn:dk-30}</td><td>{pris:dk-30} kr.</td><td>79,20 kr.</td><td>950 kr.</td></tr>
+<tr><td>{navn:dk-200}</td><td>{pris:dk-200} kr.</td><td>103,20 kr.</td><td>1.238 kr.</td></tr>
+<tr><td>{navn:fx-fri}</td><td>{pris:fx-fri} kr.</td><td>119,20 kr.</td><td>1.430 kr.</td></tr>
+<tr><td>{navn:tm-50}</td><td>{pris:tm-50} kr.</td><td>119,20 kr.</td><td>1.430 kr.</td></tr>
+<tr><td>{navn:ys-fri}</td><td>{pris:ys-fri} kr.</td><td>239,20 kr.</td><td>2.870 kr.</td></tr>
 </tbody>
 </table>
-<p>Tabellen viser normalpriser. Flere af selskaberne har introrabatter, fx Flexii, hvor 20 GB koster 59 kr. det første år. Se de aktuelle kampagner på <a href="/mobilabonnement-tilbud/">vores side med tilbud</a>.</p>
+<p>Tabellen viser normalpriser. Flere af selskaberne har introrabatter, fx Flexii, hvor 20 GB med 5G koster {introtekst:fx-20}, Duka, hvor 200 GB koster {introtekst:dk-200}, og Telmore, hvor 50 GB koster {introtekst:tm-50}. Se de aktuelle kampagner på <a href="/mobilabonnement-tilbud/">vores side med tilbud</a>.</p>
 
 <h2>Enkeltmandsvirksomhed: kan jeg bruge et privatabonnement?</h2>
 <p>Ja. Mange selvstændige med en enkeltmandsvirksomhed har deres mobilabonnement på eget CPR-nummer og bruger telefonen både privat og i virksomheden. Det er helt almindeligt og ofte den billigste løsning. Fordelen er, at du som privatperson har forbrugerbeskyttelsen: højst 6 måneders binding, 14 dages fortrydelsesret og ret til at klage til Teleankenævnet<sup class="ref"><a href="#kilde-4">4</a></sup>.</p>
@@ -83,7 +84,7 @@ related: fri-tale, mobilabonnement-fri-data, esim, mobilabonnement-uden-binding,
 [[simo:Opretter du abonnementet på CVR, så gem fakturaerne i dit bogføringssystem hver måned. Så har du styr på momsen, når kvartalet skal afregnes.]]
 
 <h2>eSIM og dual SIM: arbejde og privat på én telefon</h2>
-<p>Den mest praktiske løsning for mange selvstændige er at have to numre på samme telefon: et privatnummer og et arbejdsnummer. Det kan lade sig gøre med eSIM, fordi de fleste nyere telefoner kan have to aktive linjer – et fysisk SIM og et eSIM eller to eSIM. Alle otte selskaber, vi dækker, tilbyder eSIM, og Apple har en liste over danske selskaber, der understøtter det<sup class="ref"><a href="#kilde-6">6</a></sup>.</p>
+<p>Den mest praktiske løsning for mange selvstændige er at have to numre på samme telefon: et privatnummer og et arbejdsnummer. Det kan lade sig gøre med eSIM, fordi de fleste nyere telefoner kan have to aktive linjer – et fysisk SIM og et eSIM eller to eSIM. Alle {antal_udbydere} selskaber, vi dækker, tilbyder eSIM, og Apple har en liste over danske selskaber, der understøtter det<sup class="ref"><a href="#kilde-6">6</a></sup>.</p>
 <ul>
 <li><strong>Adskilte regninger:</strong> Arbejdsnummeret kan ligge på CVR, privatnummeret på CPR.</li>
 <li><strong>Arbejdsfri tid:</strong> Du kan slå arbejdslinjen fra efter fyraften eller i ferien.</li>
@@ -92,7 +93,7 @@ related: fri-tale, mobilabonnement-fri-data, esim, mobilabonnement-uden-binding,
 </ul>
 <p>Et eSIM sættes typisk op på få minutter via selskabets app eller en QR-kode. Vær opmærksom på, at du skal vælge, hvilken linje der bruges til mobildata, og hvilken der er standard til opkald. Se trin for trin på vores side om <a href="/esim/">eSIM</a>.</p>
 <h3>Hvilket abonnement til arbejdsnummeret?</h3>
-<p>Bruges arbejdsnummeret mest til opkald, kan et billigt abonnement med fri tale og lidt data være nok – fx Duka Fri tale + 6 GB til 59 kr./md. eller Greentel Fri tale + 10 GB til 69 kr./md. Skal du arbejde mobilt med hotspot til computeren, så kig på større pakker eller <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
+<p>Bruges arbejdsnummeret mest til opkald, kan et billigt abonnement med fri tale og lidt data være nok – fx Flexii Fri tale + {gb:fx-k10} til {pris:fx-k10} kr./md. ({introtekst:fx-k10}) eller Greentel Fri tale + {gb:gt-10} til {pris:gt-10} kr./md. Skal du arbejde mobilt med hotspot til computeren, så kig på større pakker eller <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
 
 <h2>Hvad betyder kundeservice og SLA for en virksomhed?</h2>
 <p>SLA står for Service Level Agreement – en aftale om, hvor hurtigt selskabet reagerer og løser fejl. For en privatperson er det irriterende, hvis telefonen ikke virker en dag. For en håndværker, der får ordrer over telefonen, kan det koste omsætning.</p>
@@ -119,16 +120,16 @@ related: fri-tale, mobilabonnement-fri-data, esim, mobilabonnement-uden-binding,
 <li><strong>Afklar skat og moms.</strong> Tjek reglerne på skat.dk, især ved blandet brug.</li>
 <li><strong>Tænk eSIM ind.</strong> To numre på én telefon kan spare en ekstra enhed.</li>
 </ol>
-<div class="proscons"><div class="pros"><h4>Fordele ved lavprisabonnement til virksomheden</h4><ul><li>Fri tale fra 49 kr./md. inkl. moms</li><li>Kort eller ingen binding</li><li>Samme net som de dyre selskaber</li><li>Nemt at skifte, når behovet ændrer sig</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Sjældent fast kontaktperson eller SLA</li><li>Ingen fælles datapulje eller omstilling</li><li>Ikke alle tilbyder fakturering på CVR</li><li>Kundeservice kan være online-only</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele ved lavprisabonnement til virksomheden</h4><ul><li>Fri tale fra {fra:fri-tale} kr./md. inkl. moms</li><li>Kort eller ingen binding</li><li>Samme net som de dyre selskaber</li><li>Nemt at skifte, når behovet ændrer sig</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Sjældent fast kontaktperson eller SLA</li><li>Ingen fælles datapulje eller omstilling</li><li>Ikke alle tilbyder fakturering på CVR</li><li>Kundeservice kan være online-only</li></ul></div></div>
 <blockquote class="expert"><p>For de fleste selvstændige er den bedste firmatelefon et godt lavprisabonnement på det rigtige net. Betal først for erhvervsservice, når nedetid koster mere end prisforskellen.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Skal virksomheden have udland, data og flere linjer?</h2>
 <h3>Rejser du i EU for virksomheden?</h3>
-<p>Med EU's roamingregler bruger du dit abonnement i hele EU til danske priser, men abonnementer med fri data har et loft over EU-data. Telmore Fri data giver 49 GB i EU, YouSee 70 GB. Rejser du til USA eller Asien, så se vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement med udlandet</a>.</p>
+<p>Med EU's roamingregler bruger du dit abonnement i hele EU til danske priser, men abonnementer med fri data har et loft over EU-data. Telmore Fri data giver {eu:tm-fri} GB i EU, YouSee {eu:ys-fri} GB og Oister {eu:oi-fri} GB, mens Dukas {gb:dk-75} giver hele {eu:dk-75} GB i EU. Rejser du til USA eller Asien, så se vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement med udlandet</a>.</p>
 <h3>Skal I bruge meget data?</h3>
 <p>Arbejder du med videomøder fra bilen eller byggepladsen, bruger et Zoom-gruppeopkald i 720p ca. 0,8 GB ned og 1,2 GB op pr. time<sup class="ref"><a href="#kilde-10">10</a></sup>. Har du fem timers møder om ugen, er det godt 40 GB om måneden alene til møder. Se vores sammenligning af <a href="/mobilabonnement-fri-data/">abonnementer med fri data</a>.</p>
 <h3>Regneeksempel: fem medarbejdere</h3>
-<p>En virksomhed med fem medarbejdere, der skifter fra en erhvervsaftale til 200 kr./md. ekskl. moms pr. linje til Greentel Fri tale + 30 GB (71,20 kr. ekskl. moms), sparer ca. 128,80 kr. pr. linje om måneden. Det giver 5 × 128,80 × 12 = ca. 7.700 kr. om året. Mister virksomheden ikke noget vigtigt på service, er det penge lige ned på bundlinjen. Se hvordan du skifter i guiden <a href="/guides/skift-mobilabonnement/">Sådan skifter du mobilabonnement</a> – nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag<sup class="ref"><a href="#kilde-8">8</a></sup>.</p>
+<p>En virksomhed med fem medarbejdere, der skifter fra en erhvervsaftale til 200 kr./md. ekskl. moms pr. linje til Greentel Fri tale + {gb:gt-30} med 5G (71,20 kr. ekskl. moms), sparer ca. 128,80 kr. pr. linje om måneden. Det giver 5 × 128,80 × 12 = ca. 7.700 kr. om året. Mister virksomheden ikke noget vigtigt på service, er det penge lige ned på bundlinjen. Se hvordan du skifter i guiden <a href="/guides/skift-mobilabonnement/">Sådan skifter du mobilabonnement</a> – nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag<sup class="ref"><a href="#kilde-8">8</a></sup>.</p>
 [[cta:greentel]]
 ===FAQ===
 Q: Hvad er forskellen på et erhvervsabonnement og et privatabonnement?
@@ -140,11 +141,11 @@ A: Er virksomheden momsregistreret, og bruges abonnementet kun erhvervsmæssigt,
 Q: Hvor lang binding må et erhvervsabonnement have?
 A: For forbrugere er grænsen 6 måneder. For mikro- og små virksomheder er bindingen efter vores læsning af reglerne som udgangspunkt højst 24 måneder, medmindre virksomheden har givet afkald. Større virksomheder kan aftale andre vilkår. Læs altid aftalen grundigt.
 Q: Kan jeg have arbejds- og privatnummer på samme telefon?
-A: Ja, med eSIM og dual SIM kan de fleste nyere telefoner have to aktive numre. Alle otte selskaber, vi dækker, tilbyder eSIM. Læs mere på vores side om <a href="/esim/">eSIM</a>.
+A: Ja, med eSIM og dual SIM kan de fleste nyere telefoner have to aktive numre. Alle {antal_udbydere} selskaber, vi dækker, tilbyder eSIM. Læs mere på vores side om <a href="/esim/">eSIM</a>.
 Q: Kan jeg bruge et privatabonnement i min enkeltmandsvirksomhed?
 A: Ja, det er meget almindeligt og ofte billigst. Du beholder forbrugerbeskyttelsen, men fakturaen står i dit navn, og fordelingen mellem privat og erhvervsmæssig brug skal håndteres i regnskabet.
 Q: Hvad er det billigste mobilabonnement til en virksomhed?
-A: Blandt de abonnementer, vi sammenligner, er Lebara 40 GB + fri tale billigst med 49 kr./md. inkl. moms (39,20 kr. ekskl. moms). Vil du have 5G, giver Duka fri tale og 30 GB for 55 kr./md. i kampagnen til 31. marts 2027. Se flere på siden om <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.
+A: Blandt de abonnementer, vi sammenligner, er Lebara {gb:lb-70} + fri tale det billigste med fri tale: {pris:lb-70} kr./md. inkl. moms (47,20 kr. ekskl. moms). Vil du have 5G, giver Flexii fri tale og 20 GB for {pris:fx-20} kr. ({introtekst:fx-20}), og Duka giver 200 GB for {introtekst:dk-200}. Se flere på siden om <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.
 Q: Hvad er en SLA på et erhvervsabonnement?
 A: SLA (Service Level Agreement) er en aftale om, hvor hurtigt selskabet reagerer og løser fejl. Den findes typisk i større erhvervsaftaler, mens lavprisselskaber sjældent tilbyder det.
 ===KILDER===

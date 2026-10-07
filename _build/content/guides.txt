@@ -32,7 +32,7 @@ related: guides/skift-mobilabonnement, guides/hvor-meget-data, guides/bedste-mob
 <p>Læs guiden: <a href="/guides/opsig-mobilabonnement/">Sådan opsiger du dit mobilabonnement</a></p>
 
 <h2>Mobilpriser i tal: Statistik og prisindeks</h2>
-<p>Hvad koster et mobilabonnement i gennemsnit, og hvordan har priserne udviklet sig? Vi har beregnet vores eget prisindeks på 45 abonnementer og samlet Danmarks Statistiks prisudvikling siden 2015, telestatistikkens tal for abonnementer og dataforbrug samt kundetal for de største koncerner. Tallene må gerne citeres med kildeangivelse.</p>
+<p>Hvad koster et mobilabonnement i gennemsnit, og hvordan har priserne udviklet sig? Vi har beregnet vores eget prisindeks på {antal} abonnementer og samlet Danmarks Statistiks prisudvikling siden 2015, telestatistikkens tal for abonnementer og dataforbrug samt kundetal for de største koncerner. Tallene må gerne citeres med kildeangivelse.</p>
 <p>Læs guiden: <a href="/guides/mobilpriser-statistik/">Mobilpriser i Danmark – statistik</a></p>
 <div class="stat-grid">
 <div class="stat"><b>109 kr.</b><span>medianpris for et mobilabonnement (okt. 2026)</span></div>
@@ -51,11 +51,11 @@ related: guides/skift-mobilabonnement, guides/hvor-meget-data, guides/bedste-mob
 <h3>Kan jeg opsige, hvis prisen stiger?</h3>
 <p>Ja. Selskabet skal varsle en prisstigning mindst 1 måned før, og du kan opsige uden omkostninger – også i binding. Se <a href="/guides/opsig-mobilabonnement/">guiden til opsigelse</a>.</p>
 <h3>Hvad er det billigste mobilabonnement?</h3>
-<p>Det billigste koster 19 kr. om måneden for 5 GB og 5 timers tale hos Lebara og Lyca Mobile. Se den fulde liste over <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a>.</p>
+<p>Det billigste koster {pris:lb-5} kr. om måneden for 5 GB og 5 timers tale hos Lebara og Lyca Mobile. Se den fulde liste over <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a>.</p>
 <h3>Er fri data pengene værd?</h3>
-<p>Kun hvis du bruger meget data. Fri data koster fra 149 kr. om måneden, mens 100 GB fås fra 99 kr. Se <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
+<p>Kun hvis du bruger meget data. Fri data koster fra {fra:fri-data} kr. om måneden, mens 100 GB fås fra {pris:lb-100} kr. Se <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
 <h3>Kan jeg få eSIM?</h3>
-<p>Ja, alle otte selskaber, vi sammenligner, tilbyder eSIM. Læs om fordele og ulemper på siden om <a href="/esim/">eSIM</a>.</p>
+<p>Ja, alle {antal_udbydere} selskaber, vi sammenligner, tilbyder eSIM. Læs om fordele og ulemper på siden om <a href="/esim/">eSIM</a>.</p>
 
 <h2>Sådan arbejder vi med guiderne</h2>
 <p>Vores guides opdateres, når lovgivningen ændres, når der kommer nye officielle tal, og når priserne i markedet flytter sig. Vi skriver altid, hvor tallene kommer fra, og vi oplyser det, hvis en måling er bestilt af et af selskaberne. Læs mere om vores <a href="/metode/">metode</a> og <a href="/redaktionel-politik/">redaktionelle politik</a>, eller se hvem der står bag på siden <a href="/om-os/">om os</a>. Er du klar til at finde et nyt abonnement, så start med vores <a href="/">sammenligning af telefonabonnementer</a>.</p>

@@ -1,7 +1,7 @@
 ---
 slug: guides/hvor-meget-data
 title: Hvor meget data har jeg brug for? → Beregner ({maaned})
-desc: Find ud af, hvor meget mobildata du bruger. Se GB pr. time for Netflix, YouTube, Spotify og Zoom, beregn dit behov og find et abonnement der passer fra 19 kr.
+desc: Find ud af, hvor meget mobildata du bruger. Se GB pr. time for Netflix, YouTube, Spotify og Zoom, beregn dit behov og find et abonnement der passer fra {fra:alle} kr.
 h1: Hvor meget data har jeg brug for?
 kicker: Opdateret {maaned} · Med databeregner
 answer: De fleste har nok i 20-40 GB om måneden: Den gennemsnitlige danske mobilkunde brugte 26,9 GB pr. måned i 2. halvår 2024. Bruger du primært mail, beskeder og lidt musik, rækker 5-10 GB, mens du ved daglig video eller streaming på mobilen bør gå efter 60-100 GB eller fri data.
@@ -58,20 +58,20 @@ related: mobilabonnement-fri-data, billigste-mobilabonnement, mobilabonnement-st
 <table>
 <thead><tr><th>Profil</th><th>Typisk forbrug</th><th>Eksempel på brug uden WiFi</th><th>Billigste eksempel (normalpris)</th></tr></thead>
 <tbody>
-<tr><td>Let bruger</td><td>5-10 GB</td><td>Beskeder, mail, kort, lidt musik, nyheder</td><td>Lebara eller Lyca 5 GB: 19 kr./md.</td></tr>
-<tr><td>Middel bruger</td><td>20-40 GB</td><td>Sociale medier dagligt, podcasts, lidt YouTube</td><td>Lebara 40 GB + fri tale: 49 kr./md.</td></tr>
-<tr><td>Tung bruger</td><td>60-100+ GB</td><td>Streaming på farten, video-feeds, hotspot</td><td>Lebara 70 GB + fri tale: 59 kr./md.</td></tr>
-<tr><td>Fri data</td><td>Ubegrænset</td><td>Mobilen som eneste internet, meget hotspot</td><td>Flexii fri data (5G): 149 kr./md.</td></tr>
+<tr><td>Let bruger</td><td>5-10 GB</td><td>Beskeder, mail, kort, lidt musik, nyheder</td><td>Lebara eller Lyca 5 GB: {pris:lb-5} kr./md.</td></tr>
+<tr><td>Middel bruger</td><td>20-40 GB</td><td>Sociale medier dagligt, podcasts, lidt YouTube</td><td>Lyca 30 GB + 15 timer: {pris:ly-30} kr./md.</td></tr>
+<tr><td>Tung bruger</td><td>60-100+ GB</td><td>Streaming på farten, video-feeds, hotspot</td><td>Lebara 70 GB + fri tale: {pris:lb-70} kr./md.</td></tr>
+<tr><td>Fri data</td><td>Ubegrænset</td><td>Mobilen som eneste internet, meget hotspot</td><td>Flexii fri data (4G): {pris:fx-fri-4g} kr./md.</td></tr>
 </tbody>
 </table>
 <h3>Let bruger: 5-10 GB</h3>
-<p>Du bruger telefonen til opkald, SMS, beskeder på Messenger og WhatsApp, mail, MitID og måske lidt musik i bilen. Du er på WiFi derhjemme og på arbejdet. Her er 5-10 GB rigeligt, og du kan få et abonnement fra 19 kr. om måneden. Ringer du meget, så se efter et abonnement med <a href="/fri-tale/">fri tale</a> og få GB. Ældre brugere kan også finde gode bud på vores side om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
+<p>Du bruger telefonen til opkald, SMS, beskeder på Messenger og WhatsApp, mail, MitID og måske lidt musik i bilen. Du er på WiFi derhjemme og på arbejdet. Her er 5-10 GB rigeligt, og du kan få et abonnement fra {pris:lb-5} kr. om måneden. Ringer du meget, så se efter et abonnement med <a href="/fri-tale/">fri tale</a> og få GB. Ældre brugere kan også finde gode bud på vores side om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
 <h3>Middel bruger: 20-40 GB</h3>
-<p>Det er her, de fleste danskere ligger. Du scroller Instagram og Facebook, hører podcasts på vej til arbejde og ser et par YouTube-klip om dagen. Gennemsnittet på 26,9 GB placerer sig lige midt i dette interval. Lebara giver 40 GB og fri tale for 49 kr., mens Duka giver 30 GB med 5G for 55 kr. i en kampagne frem til 31. marts 2027 (normalpris 99 kr.).</p>
+<p>Det er her, de fleste danskere ligger. Du scroller Instagram og Facebook, hører podcasts på vej til arbejde og ser et par YouTube-klip om dagen. Gennemsnittet på 26,9 GB placerer sig lige midt i dette interval. Lyca Mobile giver 30 GB og 15 timers tale for {pris:ly-30} kr. ({introtekst:ly-30} de første måneder), mens Greentel giver fri tale og 30 GB med 5G for {pris:gt-30} kr. Vil du have fri tale og lidt luft, giver Lebara 70 GB for {pris:lb-70} kr. – den billigste fri tale-pakke i vores sammenligning.</p>
 <h3>Tung bruger: 60-100+ GB</h3>
-<p>Du ser serier i toget, bruger TikTok eller Reels flere timer dagligt eller deler internet til din computer. Her bliver prisen pr. GB meget lav: Lebara giver 70 GB for 59 kr. og 100 GB for 99 kr., og Oister giver 100 GB for 79 kr. de første seks måneder (derefter 109 kr.).</p>
+<p>Du ser serier i toget, bruger TikTok eller Reels flere timer dagligt eller deler internet til din computer. Her bliver prisen pr. GB meget lav: Lebara giver 70 GB for {pris:lb-70} kr. og 100 GB for {pris:lb-100} kr., og Oister giver 100 GB med 5G for {intro:oi-100} kr. de første seks måneder (derefter {pris:oi-100} kr.).</p>
 <h3>Fri data: når du ikke vil tænke over det</h3>
-<p>Bruger du mobilen som dit eneste internet, eller vil du bare aldrig se en advarsel om, at din data er ved at slippe op, så er <a href="/mobilabonnement-fri-data/">fri data</a> løsningen. Flexii er billigst med 149 kr./md. (129 kr. det første år), og her er en fair use-grænse på 2 TB. Husk at fri data i Danmark ikke betyder fri data i EU – læs om fair use på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+<p>Bruger du mobilen som dit eneste internet, eller vil du bare aldrig se en advarsel om, at din data er ved at slippe op, så er <a href="/mobilabonnement-fri-data/">fri data</a> løsningen. Flexii er billigst med {pris:fx-fri-4g} kr./md. på 4G ({intro:fx-fri-4g} kr. det første år) og {pris:fx-fri} kr./md. med 5G, og her er en fair use-grænse på 2 TB. Husk at fri data i Danmark ikke betyder fri data i EU – læs om fair use på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
 
 <h2>Sådan tjekker du dit dataforbrug på iPhone og Android</h2>
 <p>Den mest præcise måde at finde dit behov på er at se, hvad du faktisk har brugt. Her er, hvordan du gør.</p>
@@ -94,9 +94,9 @@ related: mobilabonnement-fri-data, billigste-mobilabonnement, mobilabonnement-st
 <h2>Hvor meget data bruger forskellige aktiviteter om måneden?</h2>
 <p>Timetal er abstrakte, så lad os regne på en almindelig hverdag. Forestil dig en pendler, der hver arbejdsdag bruger 40 minutter i toget og 20 minutter i frokostpausen på telefonen uden WiFi – i alt en time om dagen, 22 dage om måneden.</p>
 <h3>Regneeksempel 1: Musik og nyheder</h3>
-<p>Hører pendleren Spotify i normal kvalitet hele timen, bruger det ca. 43 MB om dagen. Over 22 arbejdsdage giver det knap 1 GB om måneden. Læg nyheder, mail og beskeder oveni, og vi lander stadig under 5 GB. Her er et abonnement til 19 kr./md. rigeligt.</p>
+<p>Hører pendleren Spotify i normal kvalitet hele timen, bruger det ca. 43 MB om dagen. Over 22 arbejdsdage giver det knap 1 GB om måneden. Læg nyheder, mail og beskeder oveni, og vi lander stadig under 5 GB. Her er et abonnement til {pris:lb-5} kr./md. rigeligt.</p>
 <h3>Regneeksempel 2: Sociale medier med video</h3>
-<p>Bruger pendleren i stedet timen på TikTok eller Reels, ligger forbruget efter vores skøn på 0,5-1,5 GB om dagen. Over 22 dage bliver det 11-33 GB om måneden – plus weekender. Her passer et abonnement på 30-40 GB, fx Lebara med 40 GB for 49 kr./md.</p>
+<p>Bruger pendleren i stedet timen på TikTok eller Reels, ligger forbruget efter vores skøn på 0,5-1,5 GB om dagen. Over 22 dage bliver det 11-33 GB om måneden – plus weekender. Her passer et abonnement på 30-40 GB, fx Lyca Mobile med 30 GB for {pris:ly-30} kr./md. eller Lebara med 70 GB og fri tale for {pris:lb-70} kr./md.</p>
 <h3>Regneeksempel 3: Serier i HD</h3>
 <p>Ser pendleren Netflix i HD hele timen, bruger det ca. 3 GB om dagen eller 66 GB om måneden alene på arbejdsdage. Her skal der et abonnement på 100 GB eller mere til. Sætter pendleren i stedet kvaliteten ned til "Middel" (ca. 0,7 GB i timen), falder forbruget til ca. 15 GB om måneden. Den lille indstilling kan altså flytte dig fra et abonnement til 99 kr. til et til 49 kr. – en forskel på 600 kr. om året.</p>
 
@@ -128,18 +128,18 @@ related: mobilabonnement-fri-data, billigste-mobilabonnement, mobilabonnement-st
 <ol class="steps">
 <li><strong>Tag dit højeste forbrug de seneste tre måneder.</strong> Ikke gennemsnittet – så undgår du at løbe tør i de travle måneder.</li>
 <li><strong>Læg 20-30 % oveni.</strong> Forbruget stiger år for år; i 2024 med 20,8 %.</li>
-<li><strong>Rund op til nærmeste pakke.</strong> Ofte er spring i data billige: Hos Lebara koster 70 GB kun 10 kr. mere end 40 GB.</li>
+<li><strong>Rund op til nærmeste pakke.</strong> Ofte er spring i data billige: Hos Duka koster 50 GB med fri tale det samme som 30 GB ({pris:dk-50} kr.).</li>
 <li><strong>Sammenlign normalprisen.</strong> Introtilbud er gode, men regn på hele året.</li>
 <li><strong>Tjek EU-data, hvis du rejser.</strong> Det kan ændre, hvilken pakke der reelt er bedst.</li>
 </ol>
-<div class="proscons"><div class="pros"><h4>Fordele ved meget data</h4><ul><li>Du løber aldrig tør</li><li>Lav pris pr. GB</li><li>Kan erstatte bredbånd i perioder</li></ul></div><div class="cons"><h4>Ulemper ved meget data</h4><ul><li>Du betaler for data, du måske ikke bruger</li><li>Fair use begrænser EU-data</li><li>Fri data koster fra 149 kr./md.</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele ved meget data</h4><ul><li>Du løber aldrig tør</li><li>Lav pris pr. GB</li><li>Kan erstatte bredbånd i perioder</li></ul></div><div class="cons"><h4>Ulemper ved meget data</h4><ul><li>Du betaler for data, du måske ikke bruger</li><li>Fair use begrænser EU-data</li><li>Fri data koster fra {fra:fri-data} kr./md.</li></ul></div></div>
 <p>Skal du bruge data til en computer eller en router derhjemme, så kig også på <a href="/mobilt-bredbaand/">mobilt bredbånd</a>. Og streamer du meget, kan et abonnement med streamingtjenester inkluderet være billigere samlet – se <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
 
 <h2>Sådan har vi beregnet tallene</h2>
 <p>Dataforbruget pr. time er omregnet fra de bitrates, som Netflix, Google, Spotify og Zoom selv oplyser. Gennemsnitsforbruget kommer fra Digitaliseringsstyrelsens telestatistik. Priserne er normalpriser tjekket på selskabernes sider den 7. oktober 2026. Læs mere om, hvordan vi arbejder, under <a href="/metode/">vores metode</a>.</p>
 ===FAQ===
 Q: Er 10 GB data nok til en måned?
-A: Ja, hvis du primært bruger telefonen til beskeder, mail, kort og musik og er på WiFi derhjemme. Ser du video på mobilnettet, rækker 10 GB kun til omkring 3 timers Netflix i HD. Du kan få 10 GB og fri tale fra 69 kr./md.
+A: Ja, hvis du primært bruger telefonen til beskeder, mail, kort og musik og er på WiFi derhjemme. Ser du video på mobilnettet, rækker 10 GB kun til omkring 3 timers Netflix i HD. Du kan få 10 GB og fri tale fra {pris:fx-k10} kr./md. hos Flexii ({introtekst:fx-k10}).
 Q: Hvor mange GB bruger en gennemsnitlig dansker?
 A: Ifølge Digitaliseringsstyrelsens telestatistik brugte et gennemsnitligt mobilabonnement 26,9 GB om måneden i andet halvår 2024. Det var 20,8 % mere end året før.
 Q: Hvor meget data bruger en time Netflix?
@@ -149,7 +149,7 @@ A: Omkring 43 MB i timen i normal kvalitet og op til ca. 144 MB i timen i meget 
 Q: Bruger opkald over WhatsApp eller Messenger meget data?
 A: Taleopkald bruger meget lidt data, mens videoopkald bruger væsentligt mere. Et Zoom-gruppeopkald i 720p bruger ifølge Zoom ca. 0,8 GB ned og 1,2 GB op pr. time, og videoopkald i andre apps ligger typisk i samme størrelsesorden.
 Q: Er det billigere at vælge fri data?
-A: Kun hvis du bruger meget. Fri data koster fra 149 kr./md. hos Flexii, mens 100 GB fås fra 99 kr. hos Lebara. Bruger du under 100 GB, er et abonnement med fast datamængde næsten altid billigere.
+A: Kun hvis du bruger meget. Fri data koster fra {fra:fri-data} kr./md. hos Flexii, mens 100 GB fås fra {pris:lb-100} kr. hos Lebara. Bruger du under 100 GB, er et abonnement med fast datamængde næsten altid billigere.
 Q: Hvordan ser jeg mit dataforbrug på iPhone?
 A: Gå til Indstillinger, Mobildata, og se under "Aktuel periode". Nulstil statistikken nederst på siden én gang om måneden, hvis du vil følge dit månedlige forbrug.
 Q: Bruger 5G mere data end 4G?

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Kvalitetstjek af det byggede site: links, h-tags, meta, schema, billeder, rester af shortcodes."""
 import os, re, json, glob, html
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.environ.get("OUT_DIR") or os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "public")
 pages = [p for p in glob.glob(f"{ROOT}/**/index.html", recursive=True) if "/go/" not in p and "/_build/" not in p]
 existing = {"/" + os.path.relpath(os.path.dirname(p), ROOT).replace(".", "").strip("/") + "/" for p in pages}
 existing = {e.replace("//", "/") for e in existing}
@@ -24,7 +24,7 @@ for p in sorted(pages):
     for a, b in zip(heads, heads[1:]):
         if b > a + 1: bad(rel, f"h-spring h{a}->h{b}"); break
     if s.count("<h2") < 3 and rel not in ("/kontakt/", "/cookies/"): bad(rel, "få h2")
-    for leftover in ("[[", "]]", "{maaned}", "{fra:", "{aar}"):
+    for leftover in ("[[", "]]", "{maaned}", "{fra:", "{aar}", "{pris:", "{intro:", "{introtekst:", "{gb:", "{eu:", "{navn:", "{antal"):
         if leftover in s: bad(rel, f"rest: {leftover}")
     ids = re.findall(r' id="([^"]+)"', s)
     dup = {i for i in ids if ids.count(i) > 1}

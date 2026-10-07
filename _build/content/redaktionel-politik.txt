@@ -4,7 +4,7 @@ title: Redaktionel politik → Kilder, rettelser og uafhængighed
 desc: Læs vores redaktionelle politik: hvilke kilder vi bruger, hvor ofte vi opdaterer priser, hvordan vi retter fejl, håndterer interessekonflikter og bruger AI.
 h1: Redaktionel politik
 kicker: Gælder alt indhold på telefonabonnementer.dk
-answer: Alt indhold på telefonabonnementer.dk bygger på udbydernes egne prissider og officielle kilder, gennemlæses og faktatjekkes af ansvarshavende redaktør Emil Rostgaard Clausen og opdateres løbende. Bekræftede fejl rettes hurtigst muligt, og provision fra udbydere påvirker aldrig vores vurderinger.
+answer: Alt indhold på telefonabonnementer.dk bygger på udbydernes officielle prisfeed (hentet automatisk hver nat via Adtraction), stikprøver på udbydernes prissider og officielle kilder, gennemlæses og faktatjekkes af ansvarshavende redaktør Emil Rostgaard Clausen og opdateres løbende. Bekræftede fejl rettes hurtigst muligt, og selvom alle {antal_udbydere} udbydere er partnere, påvirker provision aldrig vores vurderinger eller sorteringen.
 lead: Her beskriver vi de regler, redaktionen arbejder efter – så du ved, hvad du kan forvente af det, du læser hos os.
 crumb: Redaktionel politik
 section: om
@@ -18,7 +18,7 @@ related: metode, annoncoeroplysning, forfatter/emil-rostgaard-clausen, om-os
 <p>Vi skriver kun tal, vi kan dokumentere. Kilderne vægtes i denne rækkefølge:</p>
 <ol>
 <li><strong>Love og myndigheder.</strong> Retsinformation, Digitaliseringsstyrelsen, Danmarks Statistik, Teleankenævnet og EU's officielle sider. Bruges til regler, statistik og markedstal.</li>
-<li><strong>Udbydernes egne prissider og vilkår.</strong> Den primære kilde til priser, datamængder og abonnementsvilkår.</li>
+<li><strong>Udbydernes officielle prisfeed og egne prissider.</strong> Den primære kilde til priser, datamængder og abonnementsdata er udbydernes officielle prisfeed, som vi henter automatisk hver nat via affiliatenetværket Adtraction – det er udbyderne selv, der leverer dataene. Vi supplerer med stikprøver på udbydernes egne prissider og vilkår, og ved uoverensstemmelser er udbyderens egen side afgørende.</li>
 <li><strong>Uafhængige målinger og forbrugerorganisationer.</strong> Fx Opensignal og Forbrugerrådet Tænk.</li>
 <li><strong>Bestilte målinger.</strong> Målinger, som er betalt af en part i markedet – fx Teknologisk Instituts måling af mobilnettene, som er bestilt af TDC NET – bruges kun med tydelig oplysning om, hvem der har bestilt dem.</li>
 </ol>
@@ -27,7 +27,7 @@ related: metode, annoncoeroplysning, forfatter/emil-rostgaard-clausen, om-os
 <h2>Opdateringsfrekvens</h2>
 <p>Priserne på mobilmarkedet ændrer sig hurtigt, så vores sider skal følge med:</p>
 <ul>
-<li><strong>Priser</strong> opdateres løbende, når udbyderne ændrer dem. Alle abonnementer gennemgås samlet med jævne mellemrum – seneste fulde gennemgang var 7. oktober 2026.</li>
+<li><strong>Priser</strong> og abonnementsdata opdateres automatisk hver nat fra udbydernes prisfeed. Udgåede abonnementer forsvinder fra tabellerne, når de fjernes fra feedet. Vi tager desuden stikprøver på udbydernes prissider – seneste samlede kontrol var 7. oktober 2026.</li>
 <li><strong>Kampagner</strong> med en slutdato tjekkes igen, når datoen passerer, og fjernes, når de er udløbet.</li>
 <li><strong>Statistik og målinger</strong> opdateres, når der kommer nye tal fra kilden – fx når Digitaliseringsstyrelsen udgiver ny telestatistik, eller Opensignal udgiver en ny rapport.</li>
 <li><strong>Regler</strong> følges løbende, og sider opdateres, når lovgivningen ændres.</li>
@@ -48,7 +48,7 @@ related: metode, annoncoeroplysning, forfatter/emil-rostgaard-clausen, om-os
 <ul>
 <li>Karakterer beregnes ud fra faste kriterier: pris 40 %, net og dækning 25 %, fleksibilitet og vilkår 20 % og service 15 %. Provision indgår ikke.</li>
 <li>Vi sælger ikke placeringer, sponsorerede omtaler eller "bedst i test"-titler.</li>
-<li>Vi sammenligner også udbydere, vi ikke tjener penge på.</li>
+<li>Alle {antal_udbydere} udbydere, vi sammenligner, er partnere via Adtraction – også YouSee – men tabellerne sorteres efter pris, og provisionens størrelse har ingen betydning for placering eller karakter.</li>
 <li>Udbydere kan ikke læse eller godkende tekster før udgivelse.</li>
 <li>Redaktionen modtager ikke gaver eller gratis abonnementer fra udbydere, som kan påvirke vurderingen. Får vi et testabonnement stillet til rådighed, oplyser vi det.</li>
 </ul>

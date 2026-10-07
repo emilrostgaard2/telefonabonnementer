@@ -1,38 +1,38 @@
 ---
 slug: home
 title: Sammenlign telefonabonnementer → Fra {fra:alle} kr. ({maaned})
-desc: Sammenlign 45 telefonabonnementer fra 8 selskaber: fri tale fra 49 kr., fri data fra 149 kr. og 5G – alle uden binding. Priser tjekket {tjekket}.
+desc: Sammenlign {antal} telefonabonnementer fra {antal_udbydere} selskaber: fri tale fra {fra:fri-tale} kr., fri data fra {fra:fri-data} kr. og 5G – alle uden binding. Priser tjekket {tjekket}.
 h1: Sammenlign telefonabonnementer
-kicker: Opdateret {maaned} · 45 abonnementer fra 8 selskaber
-answer: Vi sammenligner 45 telefonabonnementer fra 8 danske selskaber, tjekket {tjekket}. Billigst er <strong>19 kr./md.</strong> (Lebara og Lyca Mobile, 5 GB), fri tale fås fra <strong>49 kr./md.</strong> (Lebara 40 GB), 5G med fri tale fra 69 kr. (Flexii) og fri data fra 149 kr./md. (Flexii, 129 kr. første år). Alle er uden binding, og nummerflytning er gratis og sker på højst to hverdage.
-lead: Vi har tjekket priser, data, EU-roaming, 5G og mobilnet hos Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka – så du kan finde det billigste telefonabonnement til dit forbrug på under et minut.
+kicker: Opdateret {maaned} · {antal} abonnementer fra {antal_udbydere} selskaber
+answer: Vi sammenligner {antal} telefonabonnementer fra {antal_udbydere} danske selskaber, tjekket {tjekket}. Billigst er <strong>{pris:lb-5} kr./md.</strong> (Lebara og Lyca Mobile, 5 GB), fri tale og {gb:lb-70} koster <strong>{pris:lb-70} kr./md.</strong> hos Lebara, 5G med fri tale fås fra {pris:fx-20} kr. (Flexii, {introtekst:fx-20}) og fri data fra {pris:fx-fri-4g} kr./md. (Flexii 4G, {introtekst:fx-fri-4g}). Alle er uden binding, og nummerflytning er gratis og sker på højst to hverdage.
+lead: Vi har tjekket priser, data, EU-roaming, 5G og mobilnet hos Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel, Duka, CBB og eesy – så du kan finde det billigste telefonabonnement til dit forbrug på under et minut.
 crumb: Forside
 section: home
 ---
 <h2>Hvad koster et telefonabonnement i {aar}?</h2>
-<p>Et telefonabonnement med fri tale og nok data til en almindelig bruger koster i dag mellem 49 og 120 kr. om måneden, hvis du vælger et af lavprisselskaberne. Medianprisen på de 45 abonnementer, vi følger, er 109 kr. om måneden, mens gennemsnittet er 128 kr. – trukket op af premiumabonnementer som YouSee Fri Data til 299 kr. og Telmore Play til 399 kr.<sup class="ref"><a href="#kilde-1">1</a></sup></p>
-<p>Forbrugerrådet Tænk konkluderede i september 2026, at du ikke behøver at betale over 100 kr. om måneden for at få et af markedets bedste mobilabonnementer<sup class="ref"><a href="#kilde-2">2</a></sup>. Det stemmer med vores egne tal: For under 100 kr. kan du i dag få fri tale og alt fra 40 til 100 GB data – 1,5 til næsten 4 gange så meget, som danskerne i gennemsnit bruger.</p>
+<p>Et telefonabonnement med fri tale og nok data til en almindelig bruger koster i dag mellem 59 og 120 kr. om måneden, hvis du vælger et af lavprisselskaberne. Medianprisen på de {antal} abonnementer, vi følger, er 109 kr. om måneden, mens gennemsnittet er 149 kr. – trukket op af premiumabonnementer som YouSee Fri Data til {pris:ys-fri} kr. og Telmores streamingpakker til {pris:tm-play}-{pris:tm-fri-3} kr.<sup class="ref"><a href="#kilde-1">1</a></sup></p>
+<p>Forbrugerrådet Tænk konkluderede i september 2026, at du ikke behøver at betale over 100 kr. om måneden for at få et af markedets bedste mobilabonnementer<sup class="ref"><a href="#kilde-2">2</a></sup>. Det stemmer med vores egne tal: For under 100 kr. kan du i dag få fri tale og alt fra 70 til 150 GB data – mellem 2,6 og 5,6 gange så meget, som danskerne i gennemsnit bruger.</p>
 <div class="tbl"><table><thead><tr><th>Prisniveau pr. måned</th><th>Det får du typisk</th><th>Eksempel (normalpris)</th><th>Passer til</th></tr></thead><tbody>
-<tr><td><strong>Under 50 kr.</strong></td><td>5-40 GB, 5 timers tale eller fri tale</td><td>Lebara 40 GB + fri tale: 49 kr.</td><td>Børn, seniorer, prisbevidste</td></tr>
-<tr><td><strong>50-100 kr.</strong></td><td>Fri tale og 20-100 GB, ofte 5G</td><td>Flexii 50 GB 5G: 89 kr. · Greentel 30 GB: 89 kr.</td><td>De fleste voksne</td></tr>
-<tr><td><strong>100-150 kr.</strong></td><td>Fri tale og 100-200 GB eller fri data i introperioden</td><td>Duka 200 GB: 129 kr. · Flexii fri data: 149 kr.</td><td>Streaming, hotspot, storforbrugere</td></tr>
-<tr><td><strong>Over 150 kr.</strong></td><td>Fri data, meget EU-data, streaming og butikker</td><td>Duka 1000 GB: 179 kr. · YouSee fri data: 299 kr.</td><td>Dem der vil have alt inkluderet</td></tr>
+<tr><td><strong>Under 50 kr.</strong></td><td>2-30 GB og 1-15 timers tale, enkelte med fri tale</td><td>Lebara 5 GB: {pris:lb-5} kr. · Greentel 5 GB: {pris:gt-5} kr. · Lyca 30 GB: {pris:ly-30} kr.</td><td>Børn, seniorer, prisbevidste</td></tr>
+<tr><td><strong>50-100 kr.</strong></td><td>Fri tale og 10-150 GB, ofte 5G</td><td>Lebara 70 GB: {pris:lb-70} kr. · Flexii 50 GB 5G: {pris:fx-50} kr. · Greentel 30 GB 5G: {pris:gt-30} kr.</td><td>De fleste voksne</td></tr>
+<tr><td><strong>100-150 kr.</strong></td><td>Fri tale og 100-200 GB eller fri data i introperioden</td><td>Duka 200 GB: {pris:dk-200} kr. · Flexii fri data 4G: {pris:fx-fri-4g} kr.</td><td>Streaming, hotspot, storforbrugere</td></tr>
+<tr><td><strong>Over 150 kr.</strong></td><td>Fri data, meget EU-data, streaming og butikker</td><td>Duka 1000 GB: {pris:dk-1000} kr. · YouSee fri data: {pris:ys-fri} kr.</td><td>Dem der vil have alt inkluderet</td></tr>
 </tbody></table></div>
-<p>Vær opmærksom på, at mange selskaber annoncerer med en intropris. Oister giver fx fri tale og 100 GB for 79 kr. i seks måneder, hvorefter prisen stiger til 109 kr. Derfor viser vi altid normalprisen i tabellerne og introtilbuddet med grønt ved siden af. Se alle aktuelle kampagner og den reelle årspris på siden med <a href="/mobilabonnement-tilbud/">tilbud på mobilabonnementer</a>.</p>
+<p>Vær opmærksom på, at mange selskaber annoncerer med en intropris. Oister giver fx fri tale og {gb:oi-100} for {introtekst:oi-100}, hvorefter prisen stiger til {pris:oi-100} kr. Derfor viser vi altid normalprisen i tabellerne og introtilbuddet med grønt ved siden af. Se alle aktuelle kampagner og den reelle årspris på siden med <a href="/mobilabonnement-tilbud/">tilbud på mobilabonnementer</a>.</p>
 
 <h2>Bedste telefonabonnement til dit behov</h2>
 <p>Der findes ikke ét billigste telefonabonnement – det afhænger af, hvor meget du ringer, hvor meget data du bruger, og om du rejser. Her er vores anbefaling til de mest almindelige behov, baseret på normalpriserne den 7. oktober 2026:</p>
 <div class="tbl"><table><thead><tr><th>Dit behov</th><th>Billigste valg</th><th>Pris/md.</th><th>Sammenlign</th></tr></thead><tbody>
-<tr><td>Billigst overhovedet</td><td>Lebara eller Lyca Mobile, 5 GB + 5 timer</td><td>19 kr.</td><td><a href="/billigste-mobilabonnement/">Billigste mobilabonnement</a></td></tr>
-<tr><td>Fri tale + nok data</td><td>Lebara 40 GB + fri tale</td><td>49 kr.</td><td><a href="/fri-tale/">Fri tale</a></td></tr>
-<tr><td>Fri tale, 5G og 20 GB+</td><td>Flexii 20 GB 5G (59 kr. første år)</td><td>69 kr.</td><td><a href="/5g-mobilabonnement/">5G-abonnementer</a></td></tr>
-<tr><td>Meget data</td><td>Lyca Mobile 200 GB + fri tale, 5G</td><td>119 kr.</td><td><a href="/mobilt-bredbaand/">Mobilt bredbånd</a></td></tr>
-<tr><td>Fri data</td><td>Flexii fri data 5G (129 kr. første år)</td><td>149 kr.</td><td><a href="/mobilabonnement-fri-data/">Fri data</a></td></tr>
-<tr><td>Børn</td><td>Flexii børn 5 GB + fri tale (17 kr. i 3 mdr.)</td><td>35 kr.</td><td><a href="/mobilabonnement-boern/">Børneabonnementer</a></td></tr>
-<tr><td>Rejser uden for EU</td><td>Duka 30 GB + World (USA, Thailand m.fl.)</td><td>139 kr.</td><td><a href="/mobilabonnement-udlandet/">Udlandet</a></td></tr>
-<tr><td>Bedste dækning</td><td>Telmore 45 GB + fri tale på TDC NET (26 kr. i 2 mdr.)</td><td>149 kr.</td><td><a href="/guides/bedste-mobilnet/">Bedste mobilnet</a></td></tr>
+<tr><td>Billigst overhovedet</td><td>Lebara eller Lyca Mobile, 5 GB + 5 timer</td><td>{pris:lb-5} kr.</td><td><a href="/billigste-mobilabonnement/">Billigste mobilabonnement</a></td></tr>
+<tr><td>Fri tale + nok data</td><td>Lebara {gb:lb-70} + fri tale (4G)</td><td>{pris:lb-70} kr.</td><td><a href="/fri-tale/">Fri tale</a></td></tr>
+<tr><td>Fri tale, 5G og 20 GB+</td><td>Flexii 20 GB 5G ({introtekst:fx-20})</td><td>{pris:fx-20} kr.</td><td><a href="/5g-mobilabonnement/">5G-abonnementer</a></td></tr>
+<tr><td>Meget data</td><td>Duka 200 GB + fri tale, 5G ({introtekst:dk-200})</td><td>{pris:dk-200} kr.</td><td><a href="/mobilt-bredbaand/">Mobilt bredbånd</a></td></tr>
+<tr><td>Fri data</td><td>Flexii fri data 4G ({introtekst:fx-fri-4g})</td><td>{pris:fx-fri-4g} kr.</td><td><a href="/mobilabonnement-fri-data/">Fri data</a></td></tr>
+<tr><td>Børn</td><td>Flexii byg-selv 10 GB + fri tale ({introtekst:fx-k10})</td><td>{pris:fx-k10} kr.</td><td><a href="/mobilabonnement-boern/">Børneabonnementer</a></td></tr>
+<tr><td>Meget EU-data</td><td>Duka 55 GB + fri tale ({eu:dk-55} GB i EU)</td><td>{pris:dk-55} kr.</td><td><a href="/mobilabonnement-udlandet/">Udlandet</a></td></tr>
+<tr><td>Bedste dækning</td><td>eesy {gb:ee-30} + fri tale på TDC NET ({introtekst:ee-30})</td><td>{pris:ee-30} kr.</td><td><a href="/guides/bedste-mobilnet/">Bedste mobilnet</a></td></tr>
 </tbody></table></div>
-[[simo:Bruger du under 40 GB om måneden, er Lebaras 49 kr.-abonnement svært at slå. Vil du have 5G og et selskab med flere kanaler til kundeservice, så kig på Duka eller Greentel.]]
+[[simo:Bruger du under 70 GB om måneden, er Lebaras {pris:lb-70} kr.-abonnement med fri tale svært at slå. Vil du have 5G, så kig på Flexii, Oister eller Duka – de har 5G på deres fri tale-abonnementer.]]
 
 <h2>Sådan vælger du det rigtige telefonabonnement</h2>
 <p>De fleste betaler for meget, fordi de enten har et abonnement med langt mere data, end de bruger, eller fordi en introrabat for længst er udløbet. Med fem trin finder du det abonnement, der passer – og som du ikke betaler for meget for:</p>
@@ -40,7 +40,7 @@ section: home
 <li><strong>Tjek dit faktiske dataforbrug.</strong> Gå ind i telefonens indstillinger under "Mobildata" (iPhone) eller "Dataforbrug" (Android) og se de seneste 30 dage. Kig gerne på tre måneder, så en ferie ikke giver et skævt billede.</li>
 <li><strong>Vælg tale efter vane.</strong> Ringer du mere end 4-5 timer om måneden, så vælg fri tale. Det koster sjældent mere end 10-20 kr. ekstra, og du undgår overraskelser på regningen.</li>
 <li><strong>Tjek dækningen på din adresse.</strong> Slå hjem, arbejde og sommerhus op på Digitaliseringsstyrelsens <a href="https://tjekditnet.dk">tjekditnet.dk</a>. Vælg et selskab på det net, der dækker bedst dér, hvor du færdes.</li>
-<li><strong>Sammenlign normalprisen – ikke kun introprisen.</strong> Regn hele det første år ud. En intropris på 26 kr. i to måneder efterfulgt af 149 kr. giver en årspris på 1.542 kr.</li>
+<li><strong>Sammenlign normalprisen – ikke kun introprisen.</strong> Regn hele det første år ud. En intropris på 69 kr. i tre måneder efterfulgt af 149 kr. giver en årspris på 1.548 kr. – 129 kr. om måneden i snit.</li>
 <li><strong>Tjek de små ting.</strong> EU-data, 5G, eSIM, gebyr for Betalingsservice og om kundeservice kan ringes op. Det er her, forskellen mellem to abonnementer til samme pris ofte ligger.</li>
 </ol>
 <p>Er du i tvivl, så tag vores quiz – Simo stiller tre spørgsmål og finder de tre abonnementer, der passer bedst til dig.</p>
@@ -68,9 +68,9 @@ section: home
 <h2>Hvilket mobilnet er bedst i Danmark?</h2>
 <p>Der findes fire fysiske mobilnet i Danmark: TDC NET, Norlys (tidligere Telia), Telenor og 3. Norlys og Telenor deler radionettet gennem det såkaldte TT-netværk, så de to har i praksis næsten samme dækning<sup class="ref"><a href="#kilde-5">5</a></sup>. Alle de selskaber, vi sammenligner, lejer sig ind på et af disse net – og det er nettet, ikke selskabet, der afgør, hvor godt du har forbindelse.</p>
 <div class="tbl"><table><thead><tr><th>Mobilnet</th><th>Hastighed (download)</th><th>Dækningsoplevelse</th><th>Selskaber i vores sammenligning</th></tr></thead><tbody>
-<tr><td><strong>TDC NET</strong></td><td>103,1 Mbit/s</td><td>9,3 / 10 (bedst)</td><td><a href="/udbydere/telmore/">Telmore</a>, <a href="/udbydere/yousee/">YouSee</a>, <a href="/udbydere/lyca-mobile/">Lyca Mobile</a></td></tr>
-<tr><td><strong>Norlys</strong> (TT-netværket)</td><td>118,8 Mbit/s (hurtigst)</td><td>9,2 / 10</td><td><a href="/udbydere/greentel/">Greentel</a>, <a href="/udbydere/duka/">Duka</a></td></tr>
-<tr><td><strong>Telenor</strong> (TT-netværket)</td><td>107,4 Mbit/s</td><td>9,2 / 10</td><td><a href="/udbydere/lebara/">Lebara</a></td></tr>
+<tr><td><strong>TDC NET</strong></td><td>103,1 Mbit/s</td><td>9,3 / 10 (bedst)</td><td><a href="/udbydere/telmore/">Telmore</a>, <a href="/udbydere/yousee/">YouSee</a>, <a href="/udbydere/eesy/">eesy</a></td></tr>
+<tr><td><strong>Norlys</strong> (TT-netværket)</td><td>118,8 Mbit/s (hurtigst)</td><td>9,2 / 10</td><td><a href="/udbydere/greentel/">Greentel</a>, <a href="/udbydere/duka/">Duka</a>, <a href="/udbydere/lebara/">Lebara</a>, <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>, <a href="/udbydere/cbb/">CBB</a> (fælles TT-netværk)</td></tr>
+<tr><td><strong>Telenor</strong> (TT-netværket)</td><td>107,4 Mbit/s</td><td>9,2 / 10</td><td>Samme radionet som Norlys – samme fem selskaber</td></tr>
 <tr><td><strong>3</strong></td><td>112,2 Mbit/s</td><td>7,3 / 10</td><td><a href="/udbydere/oister/">Oister</a>, <a href="/udbydere/flexii/">Flexii</a></td></tr>
 </tbody></table></div>
 <p>Tallene kommer fra Opensignals uafhængige måling fra februar 2026, der bygger på målinger fra almindelige brugeres telefoner i oktober-december 2025<sup class="ref"><a href="#kilde-6">6</a></sup>. Norlys har den højeste downloadhastighed, TDC har den bedste dækningsoplevelse, og 5G-tilgængeligheden ligger på 92,7-94,1 % hos alle fire. 3's net scorer lavest på dækning, hvilket især kan mærkes i landområder – til gengæld er Oister og Flexii ofte de billigste. Læs den fulde gennemgang i guiden til <a href="/guides/bedste-mobilnet/">det bedste mobilnet i Danmark</a>.</p>
@@ -78,11 +78,11 @@ section: home
 
 <h2>Har du brug for 5G?</h2>
 <p>5G dækker i dag 100 % af den danske befolkning ifølge Danmarks Statistik, og alle 3G-net er lukket – senest 3's net den 1. december 2025<sup class="ref"><a href="#kilde-7">7</a></sup><sup class="ref"><a href="#kilde-13">13</a></sup>. 5G giver højere hastighed og kortere svartid, især hvor mange er samlet, som til koncerter og på stationer. Til beskeder, sociale medier og musik mærker du sjældent forskel på 4G og 5G.</p>
-<p>36 af de 45 abonnementer i vores sammenligning har 5G. Oister, Duka og Greentel har 5G på alle abonnementer, mens flere af Lebaras billige abonnementer kun kører 4G. Har du en ny telefon og streamer meget, er 5G værd at vælge – det koster sjældent mere. Se alle muligheder under <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+<p>30 af de {antal} abonnementer i vores sammenligning har 5G. Oister og Telmore har 5G på alle abonnementer, og Duka har det på alle abonnementer med fri tale. Flexii lader dig vælge mellem en 4G- og en 5G-pris, Greentel har 5G på 30 GB- og 50 GB-pakkerne, mens alle Lebaras og Lyca Mobiles abonnementer kører på 4G. Har du en ny telefon og streamer meget, er 5G værd at vælge – det koster sjældent mere. Se alle muligheder under <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
 
 <h2>Telefonabonnement i udlandet: Hvad gælder i EU?</h2>
 <p>Takket være EU's "Roam like at home"-regler kan du ringe, sende SMS og bruge data i alle EU-lande samt Norge, Island og Liechtenstein til samme pris som hjemme – reglerne gælder frem til 30. juni 2032<sup class="ref"><a href="#kilde-8">8</a></sup>. Siden 1. januar 2026 er Ukraine og Moldova også med. Storbritannien og Schweiz er derimod ikke omfattet, så her afhænger det af dit selskab.</p>
-<p>På abonnementer med meget eller fri data må selskabet sætte et loft over EU-data efter en fast formel. Derfor er det vigtigt at kigge på kolonnen "EU-data" i tabellerne: Telmore Fri Data giver 49 GB i EU, Flexii fri data 40 GB og Lebara 40 GB kun 6 GB. Skal du uden for Europa, giver Dukas World-abonnementer data i bl.a. USA, Canada, Thailand og Tyrkiet. Læs mere om <a href="/mobilabonnement-udlandet/">mobilabonnementer til udlandet</a>.</p>
+<p>På abonnementer med meget eller fri data må selskabet sætte et loft over EU-data efter en fast formel. Derfor er det vigtigt at kigge på kolonnen "EU-data" i tabellerne: Telmore Fri Data giver {eu:tm-fri} GB i EU, Oister fri data {eu:oi-fri} GB, Flexii fri data (5G) {eu:fx-fri} GB og Lebara 70 GB giver {eu:lb-70} GB. Mest EU-data i forhold til prisen har Duka, hvor 55 GB-abonnementet giver alle {eu:dk-55} GB i EU. Ringer du til udlandet hjemmefra, har Lebara og Lyca Mobile timer til opkald til en lang række lande inkluderet. Læs mere om <a href="/mobilabonnement-udlandet/">mobilabonnementer til udlandet</a>.</p>
 
 <h2>Sådan skifter du telefonabonnement – og beholder dit nummer</h2>
 <p>Det er gratis og nemt at skifte. Ifølge teleloven skal dit nummer flyttes senest ved udgangen af den næstfølgende arbejdsdag, du må ikke opkræves betaling for selve nummerflytningen, og du behøver ikke vente på, at en binding eller opsigelsesperiode udløber<sup class="ref"><a href="#kilde-9">9</a></sup>. Sker flytningen for sent, har du krav på kompensation.</p>
@@ -96,17 +96,17 @@ section: home
 
 <h2>Dine rettigheder: binding, opsigelse og klager</h2>
 <p>Som forbruger kan du højst blive bundet i seks måneder, og et SIM-lås skal fjernes gratis senest efter seks måneder<sup class="ref"><a href="#kilde-10">10</a></sup>. Hæver selskabet prisen eller ændrer vilkårene, skal det varsle dig mindst en måned før, og du kan opsige uden omkostninger. Selskabet skal også mindst én gang om året oplyse dig om det bedste tilbud, de har til dig.</p>
-<p>Alle 45 abonnementer i vores sammenligning er uden binding. Binding opstår typisk kun, når du køber en telefon eller et andet produkt med i abonnementet. Køber du online, har du desuden 14 dages fortrydelsesret. Er du uenig med dit selskab, kan du klage til Teleankenævnet for et gebyr på 175 kr., når du først har klaget skriftligt til selskabet. Læs mere om <a href="/mobilabonnement-uden-binding/">abonnementer uden binding</a> og <a href="/guides/opsig-mobilabonnement/">hvordan du opsiger</a>.</p>
+<p>Alle {antal} abonnementer i vores sammenligning er uden binding. Binding opstår typisk kun, når du køber en telefon eller et andet produkt med i abonnementet. Køber du online, har du desuden 14 dages fortrydelsesret. Er du uenig med dit selskab, kan du klage til Teleankenævnet for et gebyr på 175 kr., når du først har klaget skriftligt til selskabet. Læs mere om <a href="/mobilabonnement-uden-binding/">abonnementer uden binding</a> og <a href="/guides/opsig-mobilabonnement/">hvordan du opsiger</a>.</p>
 
 <h2>Bliver telefonabonnementer dyrere?</h2>
 <p>Ja – efter mange års prisfald stiger priserne igen. Danmarks Statistiks prisindeks for mobiltjenester faldt fra 101,9 i januar 2015 til 58,0 i januar 2022, så priserne næsten blev halveret. Siden er de steget hvert år, og fra august 2025 til august 2026 steg mobilpriserne med 8,6 %<sup class="ref"><a href="#kilde-11">11</a></sup>.</p>
 <p>Prisstigningerne rammer især eksisterende kunder, der aldrig skifter. Nye kunder får ofte introrabatter, og konkurrencen blandt lavprisselskaberne holder priserne nede for dem, der sammenligner. Har du ikke tjekket dit abonnement det seneste år, er der en god chance for, at du kan spare flere hundrede kroner. Vi har samlet alle tallene i vores <a href="/guides/mobilpriser-statistik/">statistik over mobilpriser</a>.</p>
 
 <h2>Hvor meget kan du spare ved at skifte?</h2>
-<p>Betaler du i dag 199 kr. om måneden for fri tale og omkring 30 GB, kan du få det samme hos Lebara for 49 kr. – en besparelse på 1.800 kr. om året. Selv hvis du vælger et selskab med 5G på alle abonnementer, som Greentel (30 GB til 89 kr.) eller Duka (30 GB til 99 kr.), sparer du 1.200-1.320 kr. om året. Indtast din nuværende pris og se din besparelse:</p>
+<p>Betaler du i dag 199 kr. om måneden for fri tale og omkring 30 GB, kan du få mere end det dobbelte hos Lebara ({gb:lb-70} for {pris:lb-70} kr.) – en besparelse på 1.680 kr. om året. Selv hvis du vælger 5G, som Greentel ({gb:gt-30} til {pris:gt-30} kr.) eller Duka ({gb:dk-30} til {pris:dk-30} kr.), sparer du 1.200-1.320 kr. om året. Indtast din nuværende pris og se din besparelse:</p>
 [[vaerktoej:sparberegner]]
 <div class="keypoints"><h3>Det vigtigste at vide</h3><ul>
-<li>Fri tale og 40 GB koster fra 49 kr./md. – du behøver ikke betale over 100 kr. for et godt abonnement.</li>
+<li>Fri tale og {gb:lb-70} koster {pris:lb-70} kr./md. hos Lebara – du behøver ikke betale over 100 kr. for et godt abonnement.</li>
 <li>Vælg et selskab på det mobilnet, der dækker bedst hos dig – tjek på tjekditnet.dk.</li>
 <li>Regn på normalprisen og hele året, ikke kun introprisen.</li>
 <li>Nummerflytning er gratis, sker på højst to hverdage, og det nye selskab opsiger det gamle for dig.</li>
@@ -114,19 +114,19 @@ section: home
 </ul></div>
 
 <h2>Sådan sammenligner vi telefonabonnementer</h2>
-<p>Telefonabonnementer.dk er en uafhængig sammenligningstjeneste udgivet af Emro Media i Aarhus. Vi har tjekket alle priser direkte på udbydernes egne prissider – og for Lebara og Lyca Mobile krydstjekket med en uafhængig prisoversigt – den 7. oktober 2026. Tabellerne er altid sorteret efter normalpris, og ingen udbyder kan betale sig til en bedre placering.</p>
+<p>Telefonabonnementer.dk er en uafhængig sammenligningstjeneste udgivet af Emro Media i Aarhus. Priserne kommer fra udbydernes egne prisdata (via deres officielle prisfeed) og prissider og er tjekket den 7. oktober 2026. Prisdataene opdateres automatisk hver nat, så tabellerne følger med, når en udbyder ændrer en pris eller en kampagne. Tabellerne er altid sorteret efter normalpris, og ingen udbyder kan betale sig til en bedre placering.</p>
 <p>Vores karakterer fra 1 til 10 vægter pris med 40 %, net og dækning med 25 %, fleksibilitet og vilkår med 20 % og service med 15 %. Net-karakteren bygger på Opensignals uafhængige målinger og Teknologisk Instituts måling fra 2026. Alle tal om forbrug og marked kommer fra officielle kilder som Digitaliseringsstyrelsens telestatistik og Danmarks Statistik, og du kan se kilderne nederst på hver side. Læs hele <a href="/metode/">metoden bag vores sammenligning</a>, eller mød <a href="/forfatter/emil-rostgaard-clausen/">redaktøren bag siden</a>.</p>
 ===FAQ===
 Q: Hvad er det billigste telefonabonnement lige nu?
-A: Det billigste telefonabonnement koster 19 kr./md. hos Lebara og Lyca Mobile med 5 GB og 5 timers tale. Vil du have fri tale, er Lebara billigst med 40 GB for 49 kr./md. Se alle priser på <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.
+A: Det billigste telefonabonnement koster {pris:lb-5} kr./md. hos Lebara og Lyca Mobile med 5 GB og 5 timers tale. Fri tale fås fra {pris:fx-k10} kr./md. hos Flexii (10 GB, {introtekst:fx-k10}), og Lebara giver fri tale og {gb:lb-70} for {pris:lb-70} kr./md. Se alle priser på <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.
 Q: Hvad koster et telefonabonnement med fri tale og fri data?
-A: Fri tale og fri data koster fra 149 kr./md. hos Flexii (129 kr./md. det første år) og 199 kr./md. hos Oister og Duka. Telmore tager 249 kr. og YouSee 299 kr. Har du ikke brug for helt fri data, får du 1000 GB hos Duka for 179 kr./md.
+A: Fri tale og fri data koster fra {pris:fx-fri-4g} kr./md. hos Flexii med 4G ({introtekst:fx-fri-4g}) og {pris:fx-fri} kr. med 5G. Oister tager {pris:oi-fri} kr. ({introtekst:oi-fri}), Duka {pris:dk-fri} kr., Telmore {pris:tm-fri} kr. og YouSee {pris:ys-fri} kr. Har du ikke brug for helt fri data, får du 1000 GB hos Duka for {pris:dk-1000} kr./md.
 Q: Hvad er forskellen på et telefonabonnement og et mobilabonnement?
 A: Ingen – de to ord bruges om det samme: et abonnement til din mobiltelefon med tale, SMS og data. "Telefonabonnement" kan også dække over fastnettelefoni, men fastnet er i dag sjældent, og de fleste mener et mobilabonnement.
 Q: Kan jeg beholde mit nummer, når jeg skifter selskab?
 A: Ja. Nummerflytning er gratis og skal ifølge teleloven ske senest ved udgangen af den næstfølgende arbejdsdag. Du vælger bare "behold nummer", når du bestiller, og det nye selskab opsiger det gamle abonnement for dig.
 Q: Hvilket telefonselskab har den bedste dækning?
-A: TDC NET (Telmore, YouSee og Lyca Mobile) har den bedste dækningsoplevelse i Opensignals måling fra februar 2026 med 9,3 ud af 10, tæt fulgt af Norlys og Telenor (9,2). Norlys har den højeste hastighed. Tjek altid din egen adresse på tjekditnet.dk.
+A: TDC NET (Telmore, YouSee og eesy) har den bedste dækningsoplevelse i Opensignals måling fra februar 2026 med 9,3 ud af 10, tæt fulgt af Norlys og Telenor (9,2), hvis fælles TT-netværk bruges af Lebara, Lyca Mobile, Greentel, Duka og CBB. Norlys har den højeste hastighed. Tjek altid din egen adresse på tjekditnet.dk.
 Q: Er der binding på telefonabonnementer?
 A: Som forbruger kan du højst blive bundet i 6 måneder. Alle abonnementer i vores sammenligning er uden binding – du betaler kun den løbende måned plus et opsigelsesvarsel på op til en måned.
 Q: Hvor meget data bruger en gennemsnitlig dansker?
@@ -134,11 +134,11 @@ A: Ifølge Digitaliseringsstyrelsens telestatistik brugte danskerne i gennemsnit
 Q: Kan jeg bruge mit telefonabonnement i udlandet?
 A: I EU/EØS og fra 2026 også i Ukraine og Moldova bruger du dit abonnement som hjemme, dog med et loft over EU-data på abonnementer med meget data. Storbritannien, Schweiz og lande uden for Europa afhænger af selskabet.
 Q: Hvornår er et telefonabonnement med 5G værd at vælge?
-A: Når du har en telefon med 5G og streamer, ser video eller bruger hotspot. 5G dækker 100 % af befolkningen, og hos Oister, Duka og Greentel er 5G inkluderet uden merpris.
+A: Når du har en telefon med 5G og streamer, ser video eller bruger hotspot. 5G dækker 100 % af befolkningen, og hos Oister og Telmore er 5G inkluderet på alle abonnementer, hos Duka på alle med fri tale.
 Q: Hvordan tjener telefonabonnementer.dk penge?
 A: Vi kan modtage provision, når du køber et abonnement via vores links. Det koster dig ikke ekstra og påvirker ikke rækkefølgen i tabellerne eller vores karakterer. Læs mere i vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.
 ===KILDER===
-Egen prisopsamling på udbydernes prissider (Telmore, YouSee, Oister, Flexii, Greentel, Duka) samt mobilabonnementer.dk for Lebara og Lyca, 7. oktober 2026 | https://telefonabonnementer.dk/metode/
+Udbydernes egne prisdata (officielt prisfeed) og prissider for Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel, Duka, CBB og eesy, tjekket 7. oktober 2026 | https://telefonabonnementer.dk/metode/
 Forbrugerrådet Tænk: Hvor god er din mobildækning? (17. september 2026) | https://taenk.dk/forbrugerliv/elektronik-og-digitale-tjenester/hvor-god-er-din-mobildaekning
 Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
 Netflix Hjælp: Hvor meget data bruger Netflix? | https://help.netflix.com/da/node/87

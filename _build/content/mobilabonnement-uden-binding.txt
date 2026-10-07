@@ -1,10 +1,10 @@
 ---
 slug: mobilabonnement-uden-binding
 title: Mobilabonnement uden binding → Fra {fra:billig} kr. ({maaned})
-desc: Mobilabonnement uden binding i {maaned}: Fri tale fra 49 kr. og 5 GB fra 19 kr. Se reglerne om binding, opsigelse og nummerflytning. Sammenlign og skift.
+desc: Mobilabonnement uden binding i {maaned}: 5 GB fra {pris:lb-5} kr., fri tale og 70 GB for {pris:lb-70} kr. Se regler om binding, opsigelse og nummerflytning.
 h1: Mobilabonnement uden binding
 kicker: Opdateret {maaned} · Regler og priser gennemgået
-answer: Næsten alle mobilabonnementer i Danmark er i {maaned} uden binding. Det billigste koster 19 kr./md. (Lebara og Lyca Mobile, 5 GB), og fri tale fås fra 49 kr./md. hos Lebara (40 GB). Binding opstår typisk kun, når du køber en telefon eller et tilbehør med abonnementet, og loven tillader maks. 6 måneders binding for forbrugere.
+answer: Alle {antal} mobilabonnementer i vores sammenligning er i {maaned} uden binding. Det billigste koster {pris:lb-5} kr./md. (Lebara og Lyca Mobile, 5 GB), og Lebara giver fri tale og {gb:lb-70} for {pris:lb-70} kr./md. Binding opstår typisk kun, når du køber en telefon eller et tilbehør med abonnementet, og loven tillader maks. 6 måneders binding for forbrugere.
 lead: Vil du kunne skifte, når der kommer et bedre tilbud? Her ser du de billigste abonnementer uden binding, hvad loven siger om binding og opsigelse, og hvor du skal passe på med skjult binding.
 crumb: Uden binding
 section: typer
@@ -12,9 +12,9 @@ related: billigste-mobilabonnement, mobilabonnement-tilbud, guides/opsig-mobilab
 ---
 <h2>Hvad er det billigste mobilabonnement uden binding?</h2>
 <p>Den gode nyhed er, at du næsten ikke kan undgå at få et mobilabonnement uden binding i Danmark. Alle de lavprisselskaber, vi sammenligner, sælger deres abonnementer uden binding. Du kan opsige med kort varsel og flytte dit nummer, når du vil. Binding opstår først, når du køber noget med, typisk en telefon, høretelefoner eller et andet produkt, hvor rabatten betales tilbage over abonnementet.</p>
-<p>Tabellen viser de billigste abonnementer uden binding, sorteret efter pris. Priserne er normalpriser tjekket 7. oktober 2026.</p>
+<p>Tabellen viser de billigste abonnementer uden binding, sorteret efter pris. Priserne er normalpriser fra udbydernes egne prisdata (via deres officielle prisfeed) og prissider, tjekket 7. oktober 2026.</p>
 [[tabel:billig|sort=price|titel=Billigste mobilabonnementer uden binding]]
-<div class="callout"><p><strong>Kort sagt:</strong> Lebara og Lyca Mobile er billigst med 5 GB for 19 kr./md. Lebara har fri tale og 40 GB for 49 kr./md. Duka har fri tale og 30 GB med 5G for 55 kr./md. i en kampagne frem til 31. marts 2027. Ingen af dem har binding, så længe du ikke køber en telefon med.</p></div>
+<div class="callout"><p><strong>Kort sagt:</strong> Lebara og Lyca Mobile er billigst med 5 GB for {pris:lb-5} kr./md., og Greentel har 5 GB for {pris:gt-5} kr. Flexii har fri tale og 10 GB for {pris:fx-k10} kr. ({introtekst:fx-k10}), og Lebara fri tale og {gb:lb-70} for {pris:lb-70} kr./md. Ingen af dem har binding, så længe du ikke køber en telefon med.</p></div>
 <p>Vil du se de absolut laveste priser på tværs af alle abonnementstyper, så se også vores side om det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
 
 <h2>Hvad siger loven om binding på mobilabonnementer?</h2>
@@ -44,12 +44,12 @@ related: billigste-mobilabonnement, mobilabonnement-tilbud, guides/opsig-mobilab
 <thead><tr><th>Løsning</th><th>Abonnement</th><th>Pris pr. md.</th><th>Abonnement pr. år</th><th>Forskel pr. år</th></tr></thead>
 <tbody>
 <tr><td>Abonnement med telefon (binding)</td><td>YouSee fri tale + 25 GB</td><td>179 kr.</td><td>2.148 kr.</td><td>–</td></tr>
-<tr><td>Telefon for sig + lavpris</td><td>Lebara fri tale + 40 GB</td><td>49 kr.</td><td>588 kr.</td><td>1.560 kr. billigere</td></tr>
-<tr><td>Telefon for sig + 5G</td><td>Flexii fri tale + 20 GB</td><td>69 kr. (59 kr. første år)</td><td>708 kr. første år</td><td>1.440 kr. billigere</td></tr>
-<tr><td>Telefon for sig + meget data</td><td>Duka fri tale + 200 GB</td><td>129 kr.</td><td>1.548 kr.</td><td>600 kr. billigere</td></tr>
+<tr><td>Telefon for sig + lavpris</td><td>Lebara fri tale + 70 GB</td><td>{pris:lb-70} kr.</td><td>708 kr.</td><td>1.440 kr. billigere</td></tr>
+<tr><td>Telefon for sig + 5G</td><td>Flexii fri tale + 20 GB (5G)</td><td>{pris:fx-20} kr. ({introtekst:fx-20})</td><td>708 kr. første år</td><td>1.440 kr. billigere</td></tr>
+<tr><td>Telefon for sig + meget data</td><td>Duka fri tale + 200 GB</td><td>{pris:dk-200} kr. ({introtekst:dk-200})</td><td>1.248 kr. første år</td><td>900 kr. billigere</td></tr>
 </tbody>
 </table>
-<p>Prisen på selve telefonen er den samme i begge tilfælde, hvis du køber den til normalpris, så det, der afgør regnestykket, er abonnementet. Med 1.560 kr. sparet om året på abonnementet er der råd til en god del af en ny telefon. Rabatter på telefonen i bindingstilbud skal derfor være store, før de kan konkurrere.</p>
+<p>Prisen på selve telefonen er den samme i begge tilfælde, hvis du køber den til normalpris, så det, der afgør regnestykket, er abonnementet. Med 1.440 kr. sparet om året på abonnementet – og næsten tre gange så meget data hos Lebara – er der råd til en god del af en ny telefon. Rabatter på telefonen i bindingstilbud skal derfor være store, før de kan konkurrere.</p>
 [[vaerktoej:sparberegner]]
 
 <h2>Opsigelse: Hvor lang er opsigelsesperioden?</h2>
@@ -81,18 +81,18 @@ related: billigste-mobilabonnement, mobilabonnement-tilbud, guides/opsig-mobilab
 <p>Se hele fremgangsmåden i vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>.</p>
 
 <h2>Hvilke teleselskaber har abonnementer uden binding?</h2>
-<p>Alle otte selskaber, vi sammenligner, sælger deres almindelige abonnementer uden binding. Forskellen ligger i oprettelsesgebyrer, intropriser og hvad der sker, når du køber noget med. Her er en oversigt:</p>
+<p>Alle {antal_udbydere} selskaber, vi sammenligner, sælger deres almindelige abonnementer uden binding. Forskellen ligger i oprettelsesgebyrer, intropriser og hvad der sker, når du køber noget med. Her er en oversigt:</p>
 <table>
 <thead><tr><th>Udbyder</th><th>Binding på abonnement</th><th>Billigste abonnement</th><th>Værd at vide</th></tr></thead>
 <tbody>
-<tr><td>Lebara</td><td>Nej</td><td>19 kr. (5 GB / 5 t)</td><td>Fri tale fra 49 kr.; flere abonnementer er kun 4G</td></tr>
-<tr><td>Lyca Mobile</td><td>Nej</td><td>19 kr. (5 GB / 5 t)</td><td>30-dages pakker med 5G</td></tr>
-<tr><td>Greentel</td><td>Nej</td><td>48 kr. (2 GB / 2 t)</td><td>Gratis oprettelse; Betalingsservice +10 kr./md.</td></tr>
-<tr><td>Duka</td><td>Nej</td><td>59 kr. (fri tale + 6 GB)</td><td>Fri tale og 5G på alt, ingen oprettelsesgebyr</td></tr>
-<tr><td>Flexii</td><td>Nej</td><td>35 kr. (børn) / 69 kr.</td><td>14 dages returret; intropris første år</td></tr>
-<tr><td>Oister</td><td>Nej</td><td>69 kr. (12 GB / 12 t)</td><td>Mindstepris ved tilbud med tilbehør</td></tr>
-<tr><td>Telmore</td><td>Nej</td><td>79 kr. (3 GB / 3 t)</td><td>0 kr. i oprettelse; Telmore Go har 99 kr. i oprettelse</td></tr>
-<tr><td>YouSee</td><td>Nej</td><td>99 kr. (3 GB / 3 t)</td><td>Binding (maks. 6 mdr.) ved køb af telefon; 99 kr. oprettelse i butik</td></tr>
+<tr><td>Lebara</td><td>Nej</td><td>{pris:lb-5} kr. (5 GB / 5 t)</td><td>Fri tale + 70 GB for {pris:lb-70} kr.; alle abonnementer er 4G</td></tr>
+<tr><td>Lyca Mobile</td><td>Nej</td><td>{pris:lb-5} kr. (5 GB / 5 t)</td><td>30-dages pakker på 4G (TT-netværket)</td></tr>
+<tr><td>Greentel</td><td>Nej</td><td>{pris:gt-5} kr. (5 GB / 1 t)</td><td>Gratis oprettelse; Betalingsservice +10 kr./md.</td></tr>
+<tr><td>Duka</td><td>Nej</td><td>{pris:dk-6} kr. (6 GB / 6 t)</td><td>5G på alle abonnementer med fri tale, ingen oprettelsesgebyr</td></tr>
+<tr><td>Flexii</td><td>Nej</td><td>{pris:fx-k10} kr. (fri tale + 10 GB, {introtekst:fx-k10})</td><td>14 dages returret; intropris første år</td></tr>
+<tr><td>Oister</td><td>Nej</td><td>{pris:oi-12} kr. (fri tale + 12 GB)</td><td>5G på alt; mindstepris ved tilbud med tilbehør</td></tr>
+<tr><td>Telmore</td><td>Nej</td><td>{pris:tm-3} kr. (3 GB / 3 t)</td><td>0 kr. i oprettelse; Telmore Go har 99 kr. i oprettelse</td></tr>
+<tr><td>YouSee</td><td>Nej</td><td>{pris:ys-3} kr. (3 GB / 3 t)</td><td>Binding (maks. 6 mdr.) ved køb af telefon; 99 kr. oprettelse i butik</td></tr>
 </tbody>
 </table>
 <p>Det er altså ikke valget af selskab, der afgør, om du får binding. Det er valget af tilbud. Køber du kun et SIM-kort eller et <a href="/esim/">eSIM</a>, er du fri til at gå, når du vil, med det almindelige opsigelsesvarsel.</p>
@@ -100,13 +100,13 @@ related: billigste-mobilabonnement, mobilabonnement-tilbud, guides/opsig-mobilab
 <p>Et oprettelsesgebyr er ikke binding i juridisk forstand, men det har samme effekt: Det gør det dyrere at skifte ofte. Betaler du 99 kr. i oprettelse og skifter efter tre måneder, har du reelt betalt 33 kr. ekstra om måneden. De fleste lavprisselskaber har 0 kr. i oprettelse, så her kan du skifte uden at tabe penge.</p>
 
 <h2>Hvorfor er næsten alle lavprisabonnementer uden binding?</h2>
-<p>Konkurrencen på det danske mobilmarked er hård, og det er nemt at skifte. Lavprisselskaberne konkurrerer derfor på pris og introtilbud frem for binding. I stedet for at binde kunderne bruger de intropriser, der løber i nogle måneder: Oister giver fri tale og 100 GB for 79 kr./md. i 6 måneder, Flexii giver rabat det første år, og Telmore har haft fri tale og 45 GB for 26 kr./md. i 2 måneder (kampagne til 18. oktober 2026). Når introperioden udløber, stiger prisen, men du er ikke bundet og kan frit skifte.</p>
+<p>Konkurrencen på det danske mobilmarked er hård, og det er nemt at skifte. Lavprisselskaberne konkurrerer derfor på pris og introtilbud frem for binding. I stedet for at binde kunderne bruger de intropriser, der løber i nogle måneder: Oister giver fri tale og 100 GB for {introtekst:oi-100}, Flexii giver rabat det første år, Lyca Mobile giver fri tale og 200 GB for {introtekst:ly-200}, og Telmore har fri tale og 50 GB for {introtekst:tm-50}. Når introperioden udløber, stiger prisen, men du er ikke bundet og kan frit skifte.</p>
 <p>Priserne på mobilkommunikation steg 8,6 % fra august 2025 til august 2026 ifølge Danmarks Statistik<sup class="ref"><a href="#kilde-4">4</a></sup>. Det gør det endnu vigtigere at have et abonnement uden binding, så du kan reagere, hvis dit selskab hæver prisen. Husk, at en prisstigning skal varsles mindst en måned før, og at du har ret til at opsige uden omkostninger.</p>
 [[simo:Sæt en påmindelse i kalenderen en uge før introprisen udløber. Så kan du nå at skifte, før normalprisen rammer.]]
 <p>Se de aktuelle introtilbud på vores side med <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a>.</p>
 
 <h2>Fordele og ulemper ved abonnement uden binding</h2>
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Du kan skifte, når der kommer et bedre tilbud</li><li>Du kan reagere på prisstigninger med det samme</li><li>Fri tale fra 49 kr./md. og 5 GB fra 19 kr./md.</li><li>Ingen risiko for at betale for noget, du ikke bruger</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen rabat på telefon eller tilbehør</li><li>Intropriser stiger, og du skal selv holde øje</li><li>Opsigelsesvarsel på op til en måned ud over løbende måned</li><li>Nogle tilbud har mindstepris, der skjuler binding</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Du kan skifte, når der kommer et bedre tilbud</li><li>Du kan reagere på prisstigninger med det samme</li><li>Fri tale og 70 GB for {pris:lb-70} kr./md. og 5 GB fra {pris:lb-5} kr./md.</li><li>Ingen risiko for at betale for noget, du ikke bruger</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen rabat på telefon eller tilbehør</li><li>Intropriser stiger, og du skal selv holde øje</li><li>Opsigelsesvarsel på op til en måned ud over løbende måned</li><li>Nogle tilbud har mindstepris, der skjuler binding</li></ul></div></div>
 
 <h2>Sådan vælger du et mobilabonnement uden binding</h2>
 <ol class="steps">
@@ -121,10 +121,10 @@ related: billigste-mobilabonnement, mobilabonnement-tilbud, guides/opsig-mobilab
 <blockquote class="expert"><p>Binding på mobilabonnementer er i dag noget, man vælger aktivt, ikke noget man ender med ved et uheld. Vores råd er enkelt: Køb aldrig telefonen og abonnementet i samme pakke, medmindre rabatten på telefonen er større end det, du sparer ved at vælge det billigste abonnement uden binding. Det er sjældent tilfældet.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sådan har vi sammenlignet abonnementerne uden binding</h2>
-<p>Vi har gennemgået prissider og vilkår hos de otte udbydere, vi dækker, og har kun medtaget abonnementer, der kan købes uden binding. Vi har sammenlignet på normalpris, og vi har noteret, hvor binding eller mindstepris opstår ved køb af produkter. Lovgivningen er gennemgået i slutbrugerbekendtgørelsen og teleloven. Priserne er tjekket 7. oktober 2026. Læs mere om vores fremgangsmåde på siden om <a href="/metode/">metode</a>, eller find det rette abonnement i den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
+<p>Vi har gennemgået prisdata, prissider og vilkår hos de {antal_udbydere} udbydere, vi dækker, og har kun medtaget abonnementer, der kan købes uden binding. Priserne kommer fra udbydernes egne prisdata (via deres officielle prisfeed) og prissider. Vi har sammenlignet på normalpris, og vi har noteret, hvor binding eller mindstepris opstår ved køb af produkter. Lovgivningen er gennemgået i slutbrugerbekendtgørelsen og teleloven. Priserne er tjekket 7. oktober 2026. Læs mere om vores fremgangsmåde på siden om <a href="/metode/">metode</a>, eller find det rette abonnement i den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
 ===FAQ===
 Q: Hvad er det billigste mobilabonnement uden binding?
-A: Lebara og Lyca Mobile har 5 GB og 5 timers tale for 19 kr./md. uden binding. Med fri tale er Lebara billigst med 40 GB for 49 kr./md. Duka har fri tale og 30 GB med 5G for 55 kr./md. i en kampagne til 31. marts 2027.
+A: Lebara og Lyca Mobile har 5 GB og 5 timers tale for {pris:lb-5} kr./md. uden binding. Med fri tale har Flexii 10 GB for {pris:fx-k10} kr. ({introtekst:fx-k10}), og Lebara giver fri tale og {gb:lb-70} for {pris:lb-70} kr./md.
 Q: Hvor lang binding må der være på et mobilabonnement?
 A: For forbrugere må bindingen højst være 6 måneder efter slutbrugerbekendtgørelsens § 7. Det gælder også ved køb af telefon. SIM-lås skal fjernes gratis senest efter 6 måneder.
 Q: Kan jeg flytte mit nummer, selvom jeg har binding?
@@ -149,3 +149,5 @@ YouSee mobilabonnementer | https://yousee.dk/mobil/abonnementer
 Oister mobilabonnementer | https://www.oister.dk/mobilabonnement
 Lebara mobilabonnementer | https://www.lebara.dk
 Telmore mobilabonnementer | https://www.telmore.dk/mobilabonnement
+Lyca Mobile mobilabonnementer | https://www.lycamobile.dk
+Flexii mobilabonnementer | https://www.flexii.dk/mobilabonnement

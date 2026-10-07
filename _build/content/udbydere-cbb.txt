@@ -1,0 +1,182 @@
+---
+slug: udbydere/cbb
+provider: cbb
+title: CBB mobilabonnement → Fra {fra:udbyder-cbb} kr. + test ({mdkort})
+desc: CBB anmeldelse {maaned}: Fri tale + {gb:cb-60} fra {intro:cb-60} kr./md. i 2 mdr., 5G på alt og Telenors net. Se alle priser, årspris og billigere alternativer.
+h1: CBB anmeldelse og priser
+kicker: Opdateret {maaned} · 7 CBB-abonnementer gennemgået
+answer: CBB får 8,4 ud af 10 i vores test. Du får Telenors del af TT-netværket, 5G på alle abonnementer, eSIM og ingen binding, og introtilbuddene er skarpe: fri tale + {gb:cb-60} koster {introtekst:cb-60} og derefter {pris:cb-60} kr./md. Fri tale + {gb:cb-200} koster {pris:cb-200} kr. og fri data {pris:cb-fri} kr. på normalpris. CBB passer bedst til dig, der vil have 5G og et stort net, men du kan få mere data for pengene hos Duka eller Lebara på samme net.
+lead: Vi har gennemgået alle CBB's abonnementer, nettet, EU-data, eSIM, streamingvarianterne med CBB Mix og vilkårene – og regnet på, hvad CBB koster det første år og året efter sammenlignet med alternativerne på samme net.
+crumb: CBB
+section: udbydere
+related: udbydere/duka, udbydere/lebara, udbydere/greentel, guides/bedste-mobilnet, mobilabonnement-tilbud
+---
+[[udbyderkort:cbb]]
+
+<div class="callout"><p><strong>Kort sagt:</strong> CBB er Telenors eget lavprisbrand. Introtilbuddene er blandt de billigste på markedet de første to måneder, og du får 5G på alt. Men normalpriserne ligger højt, og på samme net kan Duka, Lebara og Greentel give dig mere data for færre penge. CBB giver mest mening, hvis du bruger introtilbuddet bevidst og tjekker prisen igen, når de to måneder er gået.</p></div>
+
+<h2>Alle CBB-abonnementer og priser</h2>
+<p>CBB har i {maaned} syv mobilabonnementer i vores sammenligning: fire almindelige med fri tale og 60 GB, 80 GB, 200 GB eller fri data, og tre streamingvarianter, der kræver CBB Mix. Alle syv har fri tale, 5G og en intropris de første to måneder. Vi har tjekket priserne mod CBB's egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>. Tabellen kan sorteres efter pris, data og EU-data.</p>
+
+[[tabel:udbyder-cbb]]
+
+<p>CBB's prisstruktur er enkel at forstå, men den kræver, at du ser forbi de første to måneder. Fri tale + {gb:cb-60} koster {introtekst:cb-60} og derefter {pris:cb-60} kr./md. Fri tale + {gb:cb-80} koster også {introtekst:cb-80} og derefter {pris:cb-80} kr., og fri tale + {gb:cb-200} koster {introtekst:cb-200} og derefter {pris:cb-200} kr. Fri data koster {introtekst:cb-fri} og derefter {pris:cb-fri} kr./md.</p>
+<p>Det bemærkelsesværdige er, hvor tæt de tre mellemste abonnementer ligger. Forskellen mellem 60 GB og 200 GB er kun 20 kr. om måneden på normalpris – og introprisen er den samme. Bruger du bare en smule mere end 60 GB, eller vil du være sikker på ikke at løbe tør, er 200 GB klart det bedste køb i CBB's sortiment. 80 GB-abonnementet er svært at anbefale: For 10 kr. mere om måneden får du 120 GB ekstra med 200 GB-abonnementet.</p>
+
+<h3>Hvad koster CBB det første år og året efter?</h3>
+<p>Fordi introprisen kun gælder i to måneder, betaler du normalpris i ti af årets tolv måneder. Vi har regnet årsprisen ud som intropris × 2 + normalpris × 10, og derefter prisen for et helt år på normalpris.</p>
+<table>
+<thead><tr><th>Abonnement</th><th>Intro / normal pr. md.</th><th>Første år</th><th>Andet år</th></tr></thead>
+<tbody>
+<tr><td>Fri tale + {gb:cb-60}</td><td>{intro:cb-60} / {pris:cb-60} kr.</td><td>1.368 kr.</td><td>1.548 kr.</td></tr>
+<tr><td>Fri tale + {gb:cb-80}</td><td>{intro:cb-80} / {pris:cb-80} kr.</td><td>1.468 kr.</td><td>1.668 kr.</td></tr>
+<tr><td>Fri tale + {gb:cb-200}</td><td>{intro:cb-200} / {pris:cb-200} kr.</td><td>1.568 kr.</td><td>1.788 kr.</td></tr>
+<tr><td>Fri tale + fri data</td><td>{intro:cb-fri} / {pris:cb-fri} kr.</td><td>2.288 kr.</td><td>2.628 kr.</td></tr>
+<tr><td>{gb:cb-100} + streaming (CBB Mix)</td><td>{intro:cb-100} / {pris:cb-100} kr.</td><td>3.068 kr.</td><td>3.348 kr.</td></tr>
+<tr><td>{gb:cb-200-2} + streaming (CBB Mix)</td><td>{intro:cb-200-2} / {pris:cb-200-2} kr.</td><td>3.088 kr.</td><td>3.348 kr.</td></tr>
+<tr><td>Fri data + streaming (CBB Mix)</td><td>{intro:cb-fri-2} / {pris:cb-fri-2} kr.</td><td>3.418 kr.</td><td>3.708 kr.</td></tr>
+</tbody>
+</table>
+<p>Tag fri tale + 60 GB som eksempel: 2 × 39 kr. + 10 × 129 kr. = 1.368 kr. det første år. Fra år to betaler du 12 × 129 kr. = 1.548 kr. Introtilbuddet sparer dig altså 180 kr. i alt – en fin rabat, men ikke nok til at ændre billedet, hvis du bliver hos CBB i flere år. Til sammenligning koster Lebaras fri tale + {gb:lb-70} {pris:lb-70} kr./md. eller 708 kr. om året på samme net, dog kun på 4G.</p>
+
+[[simo:Har du taget et CBB-introtilbud, så sæt en påmindelse i kalenderen efter halvanden måned. Så har du tid til at vurdere, om normalprisen på {pris:cb-60} kr. stadig er det rigtige, før den første fulde regning kommer.]]
+
+<h3>Streaming med CBB Mix</h3>
+<p>CBB's tre streamingvarianter – {gb:cb-100}, {gb:cb-200-2} og fri data – koster {pris:cb-100}, {pris:cb-200-2} og {pris:cb-fri-2} kr./md. på normalpris og kræver, at du vælger CBB Mix. Introprisen er {introtekst:cb-100}, {introtekst:cb-200-2} og {introtekst:cb-fri-2}. Hvilke tjenester du kan vælge i CBB Mix, og hvor mange, ændrer sig løbende, så tjek den aktuelle liste på CBB's side, før du bestiller.</p>
+<p>Regnestykket er det samme som ved alle streamingabonnementer: Sammenlign merprisen med det, du i dag betaler for dine tjenester. Fri data med CBB Mix koster {pris:cb-fri-2} kr. mod {pris:cb-fri} kr. uden – en forskel på 90 kr./md. eller 1.080 kr. om året. Betaler du allerede mere end det for de tjenester, du kan få i CBB Mix, kan det være en besparelse. Ellers er det et dyrt abonnement. Bemærk også, at 100 GB- og 200 GB-varianten med streaming koster det samme på normalpris, så vælger du streaming, er der ingen grund til at tage 100 GB. Se alle abonnementer med streamingtjenester på vores side om <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
+
+<h2>Netværk og dækning: Hvilket net bruger CBB?</h2>
+<p>CBB kører på TT-netværket, som er det fælles radionet, Telenor og Norlys ejer halvdelen af hver<sup class="ref"><a href="#kilde-3">3</a></sup>. CBB er Telenors brand, så du er Telenor-kunde i netværksmæssig forstand. Det er samme net som Lebara, Lyca Mobile, Duka og Greentel, så dækningen er den samme hos dem alle. Forskellen ligger i pris, 5G og service – ikke i, hvor du har signal.</p>
+<p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys og 3. Fordi Telenor og Norlys deler radionettet, er der reelt tre forskellige netværk at vælge imellem. I Opensignals rapport fra februar 2026, der bygger på målinger fra oktober til december 2025, fik Telenor 9,2 ud af 10 for dækningsoplevelse – kun 0,1 under TDC's 9,3 og langt over 3's 7,3<sup class="ref"><a href="#kilde-2">2</a></sup>. Telenors gennemsnitlige downloadhastighed var 107,4 Mbit/s, hvilket er hurtigere end TDC (103,1) men langsommere end Norlys (118,8) og 3 (112,2).</p>
+
+<div class="stat-grid"><div class="stat"><b>9,2/10</b><span>Dækningsoplevelse for Telenor (Opensignal, feb. 2026)</span></div><div class="stat"><b>107,4 Mbit/s</b><span>Gns. download på Telenor</span></div><div class="stat"><b>5G</b><span>På alle 7 CBB-abonnementer</span></div><div class="stat"><b>100 %</b><span>5G-befolkningsdækning i Danmark</span></div></div>
+
+<p>I praksis betyder det, at CBB's net er blandt de bedste i landet. Forskellen på 9,2 og 9,3 i dækningsoplevelse mærker de færreste. Skal du bruge telefonen i et område med kendte huller i dækningen, så slå din adresse op på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup> og sammenlign Telenor med TDC NET og 3 der, hvor du bor, arbejder og holder ferie. Vil du vide mere om, hvordan nettene klarer sig, kan du læse vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet i Danmark</a>.</p>
+
+<h2>5G og hastighed hos CBB</h2>
+<p>Alle CBB's abonnementer har 5G inkluderet. Det er en reel fordel på TT-netværket, for flere af de billige selskaber på samme net kører kun på 4G. Hos Lebara og Lyca Mobile er alle abonnementer 4G, og hos Greentel er det kun 30 GB- og 50 GB-abonnementet, der har 5G. Duka har 5G på næsten alt, bortset fra det mindste taleabonnement.</p>
+<p>Om du har brug for 5G, afhænger af, hvordan du bruger telefonen. 4G er rigeligt til streaming, video og sociale medier – Netflix i 4K bruger op til 7 GB i timen, hvilket svarer til omkring 16 Mbit/s. Men 5G giver typisk mere kapacitet, når mange er på samme mast, fx til koncerter, på stationer og i myldretiden. 5G-tilgængeligheden – den andel af tiden, hvor brugerne faktisk er på 5G – lå mellem 92,7 % og 94,1 % hos alle fire net i Opensignals rapport<sup class="ref"><a href="#kilde-2">2</a></sup>. Ifølge Digitaliseringsstyrelsens telestatistik har 85,8 % af alle standardabonnementer i Danmark nu 5G<sup class="ref"><a href="#kilde-5">5</a></sup>. Læs mere på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+
+<h2>CBB i EU og udlandet</h2>
+<p>CBB's abonnementer kan ifølge CBB bruges i 43 lande i EU og EØS. Fri tale + {gb:cb-60}, {gb:cb-80} og {gb:cb-200} giver hver {eu:cb-60} GB i EU, mens fri data giver {eu:cb-fri} GB. Streamingvarianterne giver {eu:cb-fri-2} GB, også den med fri data. Det er pænt for abonnementer i denne prisklasse, men ikke markedets højeste: Duka giver fx {eu:dk-75} GB EU-data med {gb:dk-75}.</p>
+<p>EU's "Roam like at home"-regler betyder, at du betaler det samme i EU, Norge, Island og Liechtenstein som herhjemme. Fra 1. januar 2026 er Ukraine og Moldova også med. Har du fri data eller meget data, må selskabet sætte et fair use-loft, men det skal være mindst to gange månedsprisen uden moms divideret med engrosloftet på 1,30 € pr. GB<sup class="ref"><a href="#kilde-8">8</a></sup>.</p>
+<p><strong>Regneeksempel:</strong> CBB's fri data koster {pris:cb-fri} kr./md. Uden moms er det 175,20 kr. Med en kurs omkring 7,46 kr. pr. euro er engrosloftet ca. 9,70 kr. pr. GB. 175,20 / 9,70 × 2 = cirka 36 GB. CBB giver {eu:cb-fri} GB – altså mere end minimumskravet.</p>
+
+[[vaerktoej:roaming]]
+
+<p>Storbritannien og Schweiz er ikke omfattet af EU-reglerne, så her afhænger prisen af CBB's egne udlandspriser. Det samme gælder rejser til fx USA eller Asien. Tjek priserne på CBB's side, før du rejser. Rejser du meget uden for EU, kan du se vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>, hvor vi sammenligner selskabernes muligheder.</p>
+
+<h2>eSIM og opstart hos CBB</h2>
+<p>CBB tilbyder eSIM, og oprettelsen koster 0 kr. Det betyder, at du kan komme i gang uden at vente på et fysisk SIM-kort med posten, hvis din telefon understøtter eSIM. Apple har en oversigt over danske selskaber med eSIM, hvor du kan se, hvordan aktiveringen fungerer på iPhone<sup class="ref"><a href="#kilde-10">10</a></sup>.</p>
+<ol class="steps">
+<li><strong>Tjek din telefon.</strong> Se under Indstillinger, om din telefon understøtter eSIM. De fleste iPhones og Android-telefoner fra de seneste år gør.</li>
+<li><strong>Vælg abonnement og eSIM.</strong> Vælg abonnement på CBB's side, og vælg eSIM som SIM-type.</li>
+<li><strong>Vælg nummer.</strong> Vil du beholde dit nuværende nummer, sørger CBB for nummerflytningen.</li>
+<li><strong>Aktivér eSIM.</strong> Følg CBB's vejledning – typisk via en QR-kode eller app. Hav WiFi klar.</li>
+<li><strong>Test.</strong> Ring et opkald, og slå mobildata til, når nummeret er flyttet.</li>
+</ol>
+<p>Læs mere om fordele og faldgruber i vores <a href="/esim/">guide til eSIM</a>.</p>
+
+<h2>Vilkår og kundeservice: binding, oprettelse og betaling</h2>
+<p>CBB har ingen binding på mobilabonnementerne, og oprettelsen koster 0 kr. Som forbruger kan du højst blive bundet i 6 måneder ifølge slutbrugerbekendtgørelsen<sup class="ref"><a href="#kilde-6">6</a></sup>, men hos CBB er det altså ikke et spørgsmål. Det gør introtilbuddene mere interessante: Du kan tage de to billige måneder og skifte videre, hvis normalprisen ikke passer dig. Du skal blot være opmærksom på opsigelsesperioden i dine vilkår, så du ikke betaler en måned på normalpris, du ikke havde regnet med.</p>
+<p>Ændrer CBB prisen eller vilkårene, skal du varsles mindst én måned før, og du kan opsige uden omkostninger. CBB skal også mindst én gang om året oplyse dig om det bedste tilbud til dit forbrug<sup class="ref"><a href="#kilde-6">6</a></sup>.</p>
+<p>CBB er et digitalt lavprisbrand, hvor det meste foregår via hjemmesiden og selvbetjening. Hvordan du kontakter kundeservice, og hvornår der er åbent, fremgår af CBB's hjemmeside – vi har ikke selvstændige tal for svartider. Vi giver CBB 8,4 ud af 10 for service, hvilket er på niveau med de bedre lavprisselskaber.</p>
+
+<div class="callout warn"><p><strong>Vær opmærksom:</strong> Normalprisen er det, du betaler i langt de fleste måneder. Et introtilbud på {intro:cb-60} kr. lyder billigt, men efter to måneder koster det samme abonnement {pris:cb-60} kr. – mere end dobbelt så meget som Lebaras {gb:lb-70} til {pris:lb-70} kr. Se flere billige alternativer på <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p></div>
+
+[[cta:cbb]]
+
+<h2>Hvem ejer CBB?</h2>
+<p>CBB ejes af Telenor Danmark og er Telenors lavprisbrand<sup class="ref"><a href="#kilde-4">4</a></sup>. Telenor er en af de fire netoperatører i Danmark og havde ifølge iNPUT (juli 2025) 1,697 mio. mobilkunder<sup class="ref"><a href="#kilde-11">11</a></sup> – det tal dækker hele Telenor-koncernen i Danmark og ikke CBB alene. Telenor ejer sammen med Norlys TT-netværket, som CBB kører på.</p>
+<p>Ejerskabet har betydning for dig på to måder. For det første kører CBB direkte på ejerens net, så der er ingen mellemled mellem selskabet og netværket. For det andet er CBB Telenors svar på TDC's Telmore og eesy og på Hi3G's Oister: et digitalt brand, der skal fange prisbevidste kunder med lavere priser end moderselskabet. Det forklarer, hvorfor CBB konkurrerer hårdt på introtilbud, mens normalpriserne ligger i den høje ende for lavprisselskaber.</p>
+
+<h2>CBB vs. alternativer på TT-netværket</h2>
+<p>Fordi Lebara, Duka og Greentel kører på samme net som CBB, er dækningen den samme. Sammenligningen handler derfor kun om pris, data, 5G og EU-data. Vi har stillet CBB's mest oplagte abonnementer op mod de nærmeste alternativer.</p>
+<table>
+<thead><tr><th>Selskab</th><th>Fri tale + mellemstor data</th><th>Fri tale + 150-200 GB</th><th>Fri data</th><th>5G</th></tr></thead>
+<tbody>
+<tr><td>CBB</td><td>{gb:cb-60}: {pris:cb-60} kr. ({introtekst:cb-60})</td><td>{gb:cb-200}: {pris:cb-200} kr. ({introtekst:cb-200})</td><td>{pris:cb-fri} kr. ({introtekst:cb-fri})</td><td>Alle</td></tr>
+<tr><td>Lebara</td><td>{gb:lb-70}: {pris:lb-70} kr.</td><td>{gb:lb-160}: {pris:lb-160} kr.</td><td>–</td><td>Nej (4G)</td></tr>
+<tr><td>Duka</td><td>{gb:dk-50}: {pris:dk-50} kr.</td><td>{gb:dk-200}: {pris:dk-200} kr. ({introtekst:dk-200})</td><td>{pris:dk-fri} kr.</td><td>Ja (ikke 6 GB)</td></tr>
+<tr><td>Greentel</td><td>{gb:gt-50}: {pris:gt-50} kr.</td><td>–</td><td>–</td><td>Kun 30 og 50 GB</td></tr>
+</tbody>
+</table>
+<p>Tabellen viser, at CBB er dyrest på normalpris i alle kategorier. Lad os regne på et helt år:</p>
+<ul>
+<li><strong>Omkring 60 GB:</strong> CBB koster 1.368 kr. det første år og 1.548 kr. året efter. Greentels fri tale + 50 GB koster 12 × 99 = 1.188 kr., og Duka 50 GB koster ligeledes 1.188 kr. – begge med 5G. Lebara giver 70 GB for 708 kr. om året, men på 4G.</li>
+<li><strong>Omkring 200 GB:</strong> CBB koster 1.568 kr. det første år og 1.788 kr. året efter. Duka 200 GB koster 79 kr./md. til 31. marts 2027 og derefter 129 kr. Bestiller du i oktober 2026, er det 6 × 79 + 6 × 129 = 1.248 kr. det første år og 1.548 kr. året efter. Lebara 160 GB koster 1.428 kr. om året på 4G.</li>
+<li><strong>Fri data:</strong> CBB koster 2.288 kr. det første år og 2.628 kr. året efter. Duka fri data koster 12 × 199 = 2.388 kr. om året. CBB er altså billigere det første år, men 240 kr. dyrere fra år to.</li>
+</ul>
+<p>Konklusionen er, at CBB kun er det billigste valg på TT-netværket, hvis du vil have fri data og planlægger at skifte efter et år – eller hvis du sætter pris på CBB Mix. Ellers giver Duka mere data for pengene med 5G, og Lebara er markant billigst, hvis du kan undvære 5G. Læs vores anmeldelser af <a href="/udbydere/duka/">Duka</a>, <a href="/udbydere/lebara/">Lebara</a> og <a href="/udbydere/greentel/">Greentel</a>, eller se hele listen over <a href="/mobilabonnement-tilbud/">mobilabonnementer på tilbud</a>.</p>
+
+<blockquote class="expert"><p>CBB er et solidt selskab på et af landets bedste net, og 5G på alt er en reel fordel over for de billigste konkurrenter på TT-netværket. Men CBB lever af introtilbuddet. Efter to måneder er prisen for 60 GB højere, end Duka og Greentel tager for 50 GB, og over dobbelt så høj som Lebaras 70 GB. Mit råd: Vil du have CBB, så tag 200 GB frem for 60 eller 80 GB – det koster næsten det samme. Og kig på regningen igen, når introperioden udløber.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Hvem passer CBB til – og hvem bør vælge noget andet?</h2>
+<h3>CBB passer til dig, der</h3>
+<ul>
+<li>vil have 5G på TT-netværket og ikke vil nøjes med 4G</li>
+<li>gerne tager et introtilbud og selv holder øje med, hvornår normalprisen træder i kraft</li>
+<li>bruger meget data og kan udnytte, at 200 GB kun koster lidt mere end 60 GB</li>
+<li>vil samle mobil og streaming via CBB Mix og alligevel betaler for flere tjenester</li>
+<li>foretrækker et brand, der ejes af selve netoperatøren</li>
+</ul>
+<h3>CBB passer ikke til dig, der</h3>
+<ul>
+<li>vil have den laveste pris over flere år – Duka, Greentel og Lebara er billigere på samme net</li>
+<li>kun ringer lidt og bruger få GB – CBB har intet lille taleabonnement</li>
+<li>skal bruge et abonnement til børn eller ældre med lavt forbrug</li>
+<li>ikke har lyst til at holde øje med, hvornår en kampagne udløber</li>
+</ul>
+
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>5G på alle abonnementer</li><li>Introtilbud fra {intro:cb-60} kr./md. i 2 mdr.</li><li>Kører på TT-netværket (Telenor 9,2/10 i dækningsoplevelse)</li><li>Ingen binding og 0 kr. i oprettelse</li><li>eSIM</li><li>Streamingvarianter med CBB Mix</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Normalpriserne er høje efter introperioden</li><li>Fri data koster {pris:cb-fri} kr./md. på normalpris</li><li>Streaming kræver CBB Mix</li><li>Intet billigt taleabonnement med lidt data</li><li>Mindre EU-data end Duka på de store abonnementer</li></ul></div></div>
+
+<h2>Sådan vælger du det rigtige CBB-abonnement</h2>
+<p>Danskerne brugte i gennemsnit 26,9 GB pr. abonnement om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-5">5</a></sup>. Det betyder, at selv CBB's mindste abonnement med {gb:cb-60} er rigeligt for de fleste. Men da {gb:cb-200} kun koster {pris:cb-200} kr. mod {pris:cb-60} kr., er det svært at se, hvorfor du skulle vælge 60 GB, medmindre du er helt sikker på dit forbrug og vil spare 240 kr. om året.</p>
+<p>Fri data til {pris:cb-fri} kr. giver mening, hvis du bruger telefonen som hotspot til computeren, streamer meget på farten eller ikke har fast internet derhjemme. Bruger du under 200 GB om måneden – og det gør langt de fleste – sparer du 70 kr./md. ved at vælge 200 GB. Er du i tvivl om dit forbrug, kan du tjekke det under mobildata i telefonens indstillinger, bruge vores <a href="/guides/hvor-meget-data/">guide til, hvor meget data du har brug for</a>, eller beregneren herunder.</p>
+
+[[vaerktoej:databeregner]]
+
+<p>Sådan har vi vurderet: Vi vurderer alle selskaber på pris, net, fleksibilitet og service. CBB får 7,8 for pris, 8,8 for net, 9,0 for fleksibilitet og 8,4 for service – i alt 8,4. Prisscoren trækkes ned af de høje normalpriser, mens net og fleksibilitet trækker op. Læs mere om vores <a href="/metode/">metode</a>.</p>
+
+<h2>Sådan skifter du til CBB</h2>
+<p>Det er nemt at skifte, og du beholder dit nummer. Efter teleloven skal dit nummer flyttes senest ved udgangen af næstfølgende arbejdsdag, flytningen koster ikke noget særskilt, og du skal ikke selv opsige dit gamle abonnement<sup class="ref"><a href="#kilde-7">7</a></sup>.</p>
+<ol class="steps">
+<li><strong>Tjek din binding.</strong> Se, om du har binding hos dit nuværende selskab. Du kan flytte nummeret alligevel, men du betaler resten af bindingsperioden.</li>
+<li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk og se Telenors dækning.</li>
+<li><strong>Bestil hos CBB.</strong> Vælg abonnement, SIM eller eSIM, og vælg at beholde dit nummer.</li>
+<li><strong>Vent på flytningen.</strong> CBB sørger for nummerflytningen og opsigelsen af dit gamle abonnement.</li>
+<li><strong>Aktivér og test.</strong> Indsæt SIM-kortet eller aktivér eSIM, når du får besked om, at nummeret er flyttet.</li>
+<li><strong>Sæt en påmindelse.</strong> Skriv i kalenderen, hvornår introperioden slutter, så du kan tage stilling til normalprisen.</li>
+</ol>
+<p>Du har 14 dages fortrydelsesret, når du køber online. Læs hele vejledningen i vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>.</p>
+
+[[cta:cbb]]
+===FAQ===
+Q: Hvilket net bruger CBB?
+A: CBB kører på TT-netværket, som Telenor og Norlys deler. Det er samme net som Lebara, Lyca Mobile, Duka og Greentel. Telenor fik 9,2 ud af 10 for dækningsoplevelse i Opensignals rapport fra februar 2026. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.
+Q: Hvad koster CBB om måneden?
+A: CBB's abonnementer koster fra {pris:cb-60} kr./md. på normalpris (fri tale + {gb:cb-60}) til {pris:cb-fri-2} kr./md. (fri data med CBB Mix). Alle har en intropris de første to måneder, fx {introtekst:cb-60} på 60 GB.
+Q: Hvem ejer CBB?
+A: CBB ejes af Telenor Danmark og er Telenors lavprisbrand. Derfor kører CBB på Telenors del af TT-netværket, som Telenor deler med Norlys.
+Q: Har CBB binding?
+A: Nej. CBB's mobilabonnementer har ingen binding, og oprettelsen koster 0 kr. Du kan altså tage introtilbuddet og skifte, hvis normalprisen ikke passer dig – husk blot opsigelsesperioden.
+Q: Har CBB 5G?
+A: Ja, alle CBB's abonnementer har 5G. Det er en fordel over for Lebara og Lyca Mobile på samme net, hvor alle abonnementer kun har 4G. Se flere på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.
+Q: Har CBB eSIM?
+A: Ja, CBB tilbyder eSIM. Du vælger det, når du bestiller, og aktiverer det typisk via en QR-kode. Se vores <a href="/esim/">guide til eSIM</a>.
+Q: Hvor meget data får jeg i EU med CBB?
+A: Fri tale + 60, 80 og 200 GB giver {eu:cb-60} GB i EU, fri data giver {eu:cb-fri} GB, og streamingvarianterne giver {eu:cb-fri-2} GB. Ifølge CBB kan abonnementerne bruges i 43 lande i EU og EØS.
+Q: Hvad er CBB Mix?
+A: CBB Mix er CBB's løsning til streamingtjenester, som kræves for at få streamingvarianterne af abonnementerne. De koster fra {pris:cb-100} kr./md. på normalpris. Hvilke tjenester der indgår, ændrer sig løbende, så tjek listen på CBB's side.
+===KILDER===
+CBB – mobilabonnementer og priser | https://www.cbb.dk/shop/mobilabonnementer/
+Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Ritzau – Norlys og Telenor udbygger deres fælles mobilnetværk | https://via.ritzau.dk/pressemeddelelse/14251151/norlys-og-telenor-udbygger-deres-faelles-mobilnetvaerk-med-rekordmange-nye-mobilantenner-i-ar?lang=da
+Udbyderliste og koncerner 2025, Digitaliseringsstyrelsen | https://digst.dk/media/f2lbwqjn/udbyderliste-og-koncerncer-2025.pdf
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Your Europe – Roamingafgifter i EU | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Tjek dit net – dækning på din adresse | https://tjekditnet.dk
+Apple – Danske udbydere med eSIM | https://support.apple.com/da-dk/101569
+iNPUT – Teleselskabet 3 er nu Danmarks andetstørste | https://www.inputmag.dk/teleselskabet-3-er-nu-danmarks-andetstoerste/

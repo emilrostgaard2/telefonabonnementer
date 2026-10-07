@@ -2,10 +2,10 @@
 slug: udbydere/telmore
 provider: telmore
 title: Telmore mobilabonnement → Fra {fra:udbyder-telmore} kr. + test ({mdkort})
-desc: Telmore anmeldelse {maaned}: Alle priser fra 79 kr./md., fri tale + 45 GB til 26 kr. i 2 mdr. og TDC NET med topdækning. Se om Telmore er pengene værd.
+desc: Telmore anmeldelse {maaned}: Priser fra {pris:tm-3} kr./md., fri tale + {gb:tm-50} til {introtekst:tm-50} og TDC NET med topdækning. Er Telmore pengene værd?
 h1: Telmore anmeldelse og priser
-kicker: Opdateret {maaned} · 6 Telmore-abonnementer gennemgået
-answer: Telmore får 8,7 ud af 10 i vores test. Du får TDC NET med landets bedste dækningsscore (9,3/10 hos Opensignal), ingen binding og eSIM, men normalpriserne er høje: fri tale + 45 GB koster 149 kr./md. (26 kr. i 2 mdr. til 18.10.2026), og fri data koster 249 kr. Telmore passer bedst til dig, der bor eller færdes uden for byerne og vil betale lidt ekstra for et stabilt net.
+kicker: Opdateret {maaned} · 8 Telmore-abonnementer gennemgået
+answer: Telmore får 8,7 ud af 10 i vores test. Du får TDC NET med landets bedste dækningsscore (9,3/10 hos Opensignal), ingen binding og eSIM, men normalpriserne er høje: fri tale + {gb:tm-50} koster {pris:tm-50} kr./md. ({introtekst:tm-50}), fri tale + {gb:tm-200} koster {pris:tm-200} kr., og fri data koster {pris:tm-fri} kr. Telmore passer bedst til dig, der bor eller færdes uden for byerne og vil betale lidt ekstra for et stabilt net.
 lead: Vi har gennemgået alle Telmores abonnementer, netværket, EU-data, eSIM og vilkår – og sammenlignet med de billigste alternativer, så du kan se, hvad den ekstra pris køber dig.
 crumb: Telmore
 section: udbydere
@@ -16,23 +16,24 @@ related: udbydere/yousee, udbydere/oister, udbydere/duka, guides/bedste-mobilnet
 <div class="callout"><p><strong>Kort sagt:</strong> Telmore er det sikre valg, hvis dækningen betyder mest for dig. Du betaler mere end hos discountselskaberne, men får TDC NET, gode introtilbud og et modent selvbetjeningssystem. Er du prisfølsom og bor i en by, kan du typisk få samme datamængde for omkring det halve andre steder.</p></div>
 
 <h2>Alle Telmore-abonnementer og priser</h2>
-<p>Telmore har i {maaned} seks faste mobilabonnementer på deres prisside, fra et lille taleabonnement til fri data med streaming. Vi har tjekket alle priser direkte hos Telmore den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>. Tabellen nedenfor kan sorteres efter pris, data og EU-data.</p>
+<p>Telmore har i {maaned} otte faste mobilabonnementer, fra et lille taleabonnement til fri data med op til ni streamingtjenester. Vi har tjekket alle priser mod Telmores egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>. Tabellen nedenfor kan sorteres efter pris, data og EU-data.</p>
 
 [[tabel:udbyder-telmore]]
 
-<p>Det første, man bemærker, er spændet mellem kampagnepris og normalpris. Fri tale + 45 GB koster 26 kr./md. i de første to måneder, hvis du bestiller inden 18. oktober 2026, og derefter 149 kr./md. Det samme gælder 60 GB + Telmore Musik, der koster 26 kr./md. i to måneder og derefter 179 kr. Kampagnerne er reelle besparelser, men du skal regne på normalprisen, for det er den, du betaler i de næste mange måneder.</p>
+<p>Det første, man bemærker, er spændet mellem kampagnepris og normalpris. Fri tale + {gb:tm-50} koster {introtekst:tm-50} og derefter {pris:tm-50} kr./md. Telmore Play-abonnementerne med streaming koster {introtekst:tm-play} og derefter {pris:tm-play}-{pris:tm-fri-3} kr. Kampagnerne er reelle besparelser, men du skal regne på normalprisen, for det er den, du betaler i de næste mange måneder.</p>
+<p>Det mest interessante abonnement er dog fri tale + {gb:tm-200} til {pris:tm-200} kr. Telmore kalder det "dobbelt data", og det koster kun 10 kr. mere end 50 GB-abonnementet efter introperioden – for fire gange så meget data. Bruger du mere end 50 GB, er det næsten altid det bedre køb.</p>
 
 <h3>Hvad koster Telmore om året?</h3>
-<p>Lad os tage fri tale + 45 GB som eksempel. Med kampagnen betaler du 2 × 26 kr. + 10 × 149 kr. = 1.542 kr. det første år. Fra år to betaler du 12 × 149 kr. = 1.788 kr. Til sammenligning koster Lebaras 40 GB med fri tale 49 kr./md., altså 588 kr. om året. Forskellen er 1.200 kr. om året på normalpris – det er prisen for TDC NET, 5G og et større EU-forbrug, og det er op til dig, om det er det værd.</p>
-<p>Har du brug for et rent taleabonnement, er 3 timer + 3 GB til 79 kr./md. Telmores billigste faste abonnement. Det er dyrt sammenlignet med markedet, hvor 5 GB og 5 timer koster 19 kr. hos både Lebara og Lyca Mobile. Se flere billige muligheder på vores side om <a href="/mobilabonnement-uden-data/">mobilabonnement uden data</a>.</p>
+<p>Lad os tage fri tale + 50 GB som eksempel. Med kampagnen betaler du 3 × 69 kr. + 9 × 149 kr. = 1.548 kr. det første år. Fra år to betaler du 12 × 149 kr. = 1.788 kr. Til sammenligning koster Lebaras 70 GB med fri tale 59 kr./md., altså 708 kr. om året. Forskellen er 1.080 kr. om året på normalpris – det er prisen for TDC NET, 5G og et større EU-forbrug, og det er op til dig, om det er det værd.</p>
+<p>Har du brug for et rent taleabonnement, er 3 timer + {gb:tm-3} til {pris:tm-3} kr./md. Telmores billigste faste abonnement. Det er dyrt sammenlignet med markedet, hvor 5 GB og 5 timer koster {pris:lb-5} kr. hos både Lebara og Lyca Mobile. Se flere billige muligheder på vores side om <a href="/mobilabonnement-uden-data/">mobilabonnement uden data</a>.</p>
 
 <h3>Telmore Go – betal kun, når du bruger telefonen</h3>
 <p>Ud over de faste abonnementer har Telmore et pay-as-you-go-produkt, Telmore Go. Det koster 39 kr./md. plus 99 kr. i oprettelse, og derefter betaler du 0,59 kr. pr. minut og 9,90 kr. pr. dag, du bruger data. Det giver mening for en telefon, der mest ligger i skuffen – fx en nødtelefon eller en reservetelefon. Ringer du mere end en time om måneden, eller bruger du data mere end et par dage, bliver et almindeligt abonnement hurtigt billigere. Overvej også et rigtigt taletidskort, hvis du kun skal bruge telefonen en sjælden gang.</p>
 
-[[simo:Bestil Telmores kampagne før 18. oktober, og sæt en påmindelse i kalenderen efter 2 måneder. Så kan du nå at vurdere, om normalprisen på 149 kr. stadig er det rigtige for dig.]]
+[[simo:Tager du Telmores introtilbud på 50 GB, så sæt en påmindelse i kalenderen efter 3 måneder. Så kan du nå at vurdere, om normalprisen på {pris:tm-50} kr. stadig er det rigtige – eller om 200 GB til {pris:tm-200} kr. er bedre.]]
 
 <h2>Netværk og dækning: Hvilket net bruger Telmore?</h2>
-<p>Telmore kører på TDC NET, som er det samme mobilnet som YouSee og Eesy. TDC NET er et af fire fysiske mobilnet i Danmark – de andre er Telenor, Norlys og 3, hvor Telenor og Norlys deler radionettet i det såkaldte TT-netværk. Det betyder, at Telmore har præcis samme dækning som YouSee og Lyca Mobile.</p>
+<p>Telmore kører på TDC NET, som er det samme mobilnet som YouSee og eesy. TDC NET er et af fire fysiske mobilnet i Danmark – de andre er Telenor, Norlys og 3, hvor Telenor og Norlys deler radionettet i det såkaldte TT-netværk. Det betyder, at Telmore har præcis samme dækning som YouSee og eesy.</p>
 <p>I Opensignals rapport fra februar 2026 (baseret på målinger fra oktober til december 2025) fik TDC den højeste score for dækningsoplevelse med 9,3 ud af 10. Telenor og Norlys fik 9,2, mens 3 lå på 7,3<sup class="ref"><a href="#kilde-2">2</a></sup>. Dækningsoplevelse måler, hvor godt nettet fungerer de steder, brugerne faktisk færdes, og det er især her TDC NET skiller sig ud, når du kører på landevejen eller er i sommerhus.</p>
 <p>En måling fra Teknologisk Institut i februar-marts 2026 gav også TDC den højeste samlede kvalitet med 96 % mod Norlys 94 %, Telenor 93 % og 3 91 %<sup class="ref"><a href="#kilde-3">3</a></sup>. Vær opmærksom på, at målingen er bestilt af TDC NET selv, så vi vægter Opensignals uafhængige tal højere. Begge peger dog i samme retning.</p>
 
@@ -41,18 +42,18 @@ related: udbydere/yousee, udbydere/oister, udbydere/duka, guides/bedste-mobilnet
 <p>Tjek altid dækningen på din egen adresse på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup>, før du skifter. Landsgennemsnit siger ikke noget om dit kælderværelse eller din sommerhusgrund. Vil du vide mere om forskellen på nettene, kan du læse vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet i Danmark</a>.</p>
 
 <h2>Hastighed og 5G hos Telmore</h2>
-<p>Alle Telmores abonnementer med fri tale har 5G inkluderet. Undtagelsen er det lille taleabonnement med 3 timer og 3 GB, som kun har 4G. Det betyder ikke så meget i praksis, for med 3 GB om måneden når du sjældent at mærke forskel på hastigheden.</p>
+<p>Alle Telmores abonnementer har 5G inkluderet – også det lille taleabonnement med 3 timer og {gb:tm-3}. Det er ikke en selvfølge: Både YouSees mindste abonnement og alle Lebaras og Lyca Mobiles pakker kører på 4G.</p>
 <p>Hvad hastighed angår, er TDC NET ikke det hurtigste net. Opensignal målte en gennemsnitlig downloadhastighed på 103,1 Mbit/s hos TDC mod 118,8 Mbit/s hos Norlys, 112,2 hos 3 og 107,4 hos Telenor<sup class="ref"><a href="#kilde-2">2</a></sup>. Forskellen er lille i hverdagen. 100 Mbit/s er rigeligt: Netflix i 4K bruger op til 7 GB i timen, hvilket svarer til omkring 16 Mbit/s. Det er dækningen, ikke tophastigheden, der er TDC NET's styrke. 5G-tilgængeligheden – den andel af tiden, hvor brugerne er på 5G – lå mellem 92,7 % og 94,1 % hos alle fire net i samme rapport.</p>
 <p>Til sammenligning har 85,8 % af alle standardabonnementer i Danmark nu 5G ifølge Digitaliseringsstyrelsens telestatistik<sup class="ref"><a href="#kilde-4">4</a></sup>, så 5G er blevet standard. Læs mere på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
 
 <h2>Telmore i EU og udlandet</h2>
-<p>Telmore giver en hel del EU-data sammenlignet med prisniveauet. Fri tale + 45 GB giver 30 GB i EU, 80 GB giver 32 GB, og fri data giver 49 GB i EU. Telmore Play med fri data og streaming giver hele 83 GB i EU, hvilket er det højeste i vores database.</p>
+<p>Telmore giver en hel del EU-data sammenlignet med prisniveauet. Fri tale + 50 GB giver {eu:tm-50} GB i EU, 200 GB giver {eu:tm-200} GB, og fri data giver {eu:tm-fri} GB i EU. Telmore Play-abonnementerne giver mellem {eu:tm-play} og {eu:tm-fri-3} GB i EU, hvor 9-tjenester-versionen med {eu:tm-fri-3} GB er det højeste i vores database.</p>
 <p>EU's regler om "Roam like at home" betyder, at du betaler det samme i EU, Norge, Island og Liechtenstein som herhjemme. Fra 1. januar 2026 er Ukraine og Moldova også med. Har du fri data, må selskabet sætte et fair use-loft, men det skal være mindst to gange månedsprisen uden moms divideret med engrosloftet på 1,30 € pr. GB<sup class="ref"><a href="#kilde-8">8</a></sup>.</p>
-<p><strong>Regneeksempel:</strong> Telmores fri data koster 249 kr./md. Uden moms er det 199,20 kr. Med en kurs omkring 7,46 kr. pr. euro er engrosloftet ca. 9,70 kr. pr. GB. 199,20 / 9,70 × 2 = cirka 41 GB. Telmore giver 49 GB – altså mere end minimumskravet.</p>
+<p><strong>Regneeksempel:</strong> Telmores fri data koster {pris:tm-fri} kr./md. Uden moms er det 199,20 kr. Med en kurs omkring 7,46 kr. pr. euro er engrosloftet ca. 9,70 kr. pr. GB. 199,20 / 9,70 × 2 = cirka 41 GB. Telmore giver 49 GB – altså mere end minimumskravet.</p>
 
 [[vaerktoej:roaming]]
 
-<p>Storbritannien og Schweiz er ikke omfattet af EU-reglerne, så her afhænger prisen af Telmores egne udlandspriser. Tjek dem på Telmores side, før du rejser. Rejser du ofte uden for EU, kan det betale sig at se på vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>, hvor fx Duka har et World-abonnement med data i USA og Thailand.</p>
+<p>Storbritannien og Schweiz er ikke omfattet af EU-reglerne, så her afhænger prisen af Telmores egne udlandspriser. Tjek dem på Telmores side, før du rejser. Rejser du ofte uden for EU, kan det betale sig at se på vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>, hvor vi sammenligner selskabernes muligheder for rejser uden for EU.</p>
 
 <h2>eSIM og opstart hos Telmore</h2>
 <p>Telmore tilbyder eSIM, og du kan få op til tre ekstra datakort, fx til en tablet eller et smartur. Oprettelsen koster 0 kr. på de faste abonnementer. Apple har en oversigt over danske selskaber med eSIM, hvor du kan se, hvordan aktiveringen fungerer på iPhone<sup class="ref"><a href="#kilde-10">10</a></sup>.</p>
@@ -75,30 +76,30 @@ related: udbydere/yousee, udbydere/oister, udbydere/duka, guides/bedste-mobilnet
 [[cta:telmore]]
 
 <h2>Ejerskab og historie: Hvem ejer Telmore?</h2>
-<p>Telmore blev grundlagt i 1995 og er i dag en del af TDC Group (Nuuday), som også står bag YouSee, Eesy og Relatel ifølge Digitaliseringsstyrelsens udbyderliste<sup class="ref"><a href="#kilde-5">5</a></sup>. TDC-koncernen er samlet Danmarks største mobilkoncern: TDC/Nuuday har mere end 2,9 mio. mobilkunder ifølge iNPUT (juli 2025), mens 3 har 1,72 mio. og Telenor 1,697 mio.<sup class="ref"><a href="#kilde-11">11</a></sup></p>
-<p>Ejerskabet har betydning for dig som kunde på to måder. For det første får Telmore adgang til TDC NET på samme vilkår som YouSee. For det andet er Telmore positioneret som TDC's lavprisbrand over for YouSee – mens Eesy er et andet lavprisbrand i samme koncern. Det forklarer, hvorfor Telmores priser ligger midt imellem.</p>
+<p>Telmore blev grundlagt i 1995 og er i dag en del af TDC Group (Nuuday), som også står bag YouSee, eesy og Relatel ifølge Digitaliseringsstyrelsens udbyderliste<sup class="ref"><a href="#kilde-5">5</a></sup>. TDC-koncernen er samlet Danmarks største mobilkoncern: TDC/Nuuday har mere end 2,9 mio. mobilkunder ifølge iNPUT (juli 2025), mens 3 har 1,72 mio. og Telenor 1,697 mio.<sup class="ref"><a href="#kilde-11">11</a></sup></p>
+<p>Ejerskabet har betydning for dig som kunde på to måder. For det første får Telmore adgang til TDC NET på samme vilkår som YouSee. For det andet er Telmore positioneret som TDC's lavprisbrand over for YouSee – mens eesy er et andet lavprisbrand i samme koncern. Det forklarer, hvorfor Telmores priser ligger midt imellem.</p>
 
 <h2>Telmore vs. alternativer</h2>
-<p>Hvordan står Telmore sig mod selskaber på samme net og i samme prisklasse? Vi har sammenlignet de mest oplagte alternativer med Telmores fri tale + 45 GB og fri data.</p>
+<p>Hvordan står Telmore sig mod selskaber på samme net og i samme prisklasse? Vi har sammenlignet de mest oplagte alternativer med Telmores fri tale + 50 GB og fri data.</p>
 <table>
-<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 40 GB</th><th>Fri data</th><th>Dækningsscore (Opensignal)</th></tr></thead>
+<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 50 GB</th><th>Fri data</th><th>Dækningsscore (Opensignal)</th></tr></thead>
 <tbody>
-<tr><td>Telmore</td><td>TDC NET</td><td>45 GB: 149 kr. (26 kr. i 2 mdr.)</td><td>249 kr.</td><td>9,3</td></tr>
-<tr><td>YouSee</td><td>TDC NET</td><td>25 GB: 179 kr.</td><td>299 kr.</td><td>9,3</td></tr>
-<tr><td>Oister</td><td>3</td><td>40 GB: 99 kr. (69 kr. i 6 mdr.)</td><td>199 kr. (139 kr. i 6 mdr.)</td><td>7,3</td></tr>
-<tr><td>Duka</td><td>TT-netværket</td><td>30 GB: 99 kr. (55 kr. til 31.3.2027)</td><td>199 kr.</td><td>9,2</td></tr>
+<tr><td>Telmore</td><td>TDC NET</td><td>{gb:tm-50}: {pris:tm-50} kr. ({introtekst:tm-50})</td><td>{pris:tm-fri} kr.</td><td>9,3</td></tr>
+<tr><td>YouSee</td><td>TDC NET</td><td>{gb:ys-50}: {pris:ys-50} kr.</td><td>{pris:ys-fri} kr.</td><td>9,3</td></tr>
+<tr><td>Oister</td><td>3</td><td>{gb:oi-40}: {pris:oi-40} kr. ({introtekst:oi-40})</td><td>{pris:oi-fri} kr. ({introtekst:oi-fri})</td><td>7,3</td></tr>
+<tr><td>Duka</td><td>TT-netværket</td><td>{gb:dk-50}: {pris:dk-50} kr.</td><td>{pris:dk-fri} kr.</td><td>9,2</td></tr>
 </tbody>
 </table>
-<p>Tabellen viser Telmores position ret tydeligt. Mod YouSee på samme net er Telmore billigere og giver mere data. Lyca Mobile kører også på TDC NET og giver 100 GB med fri tale for 99 kr. Mod Duka på TT-netværket betaler du ca. 50 kr. mere om måneden for en marginalt bedre dækningsscore (9,3 mod 9,2). Mod Oister sparer du penge, men skifter til 3's net, som scorer markant lavere på dækning. Vil du have det absolut billigste, så se vores liste over <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a> eller <a href="/mobilabonnement-fri-data/">fri data</a>, hvor Flexii koster 149 kr./md.</p>
+<p>Tabellen viser Telmores position ret tydeligt. Mod YouSee på samme net er Telmore billigere: 50 GB koster {pris:tm-50} kr. mod {pris:ys-50} kr. hos YouSee. Mod Duka på TT-netværket betaler du 50 kr. mere om måneden for 50 GB og en marginalt bedre dækningsscore (9,3 mod 9,2). Mod Oister sparer du penge, men skifter til 3's net, som scorer markant lavere på dækning. Vil du have det absolut billigste, så se vores liste over <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a> eller <a href="/mobilabonnement-fri-data/">fri data</a>, hvor Flexii koster fra {pris:fx-fri-4g} kr./md. på 4G og {pris:fx-fri} kr. på 5G.</p>
 <p>Læs også vores anmeldelser af <a href="/udbydere/yousee/">YouSee</a>, <a href="/udbydere/oister/">Oister</a> og <a href="/udbydere/duka/">Duka</a>.</p>
 
-<blockquote class="expert"><p>Telmore er et godt selskab med et rigtig godt net, men normalpriserne er svære at forsvare, hvis du bor i en større by. Her er forskellen på TDC NET og TT-netværket lille, og du kan spare over 1.000 kr. om året. Bor du på landet eller pendler gennem huller i dækningen, er Telmore til gengæld et solidt valg på TDC NET – men tjek også Lyca Mobile, der kører på samme net til lavere priser. Tag kampagnen, og vurder efter to måneder.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Telmore er et godt selskab med et rigtig godt net, men normalpriserne er svære at forsvare, hvis du bor i en større by. Her er forskellen på TDC NET og TT-netværket lille, og du kan spare over 1.000 kr. om året. Bor du på landet eller pendler gennem huller i dækningen, er Telmore til gengæld et solidt valg på TDC NET. Skal du bruge meget data, er 200 GB til {pris:tm-200} kr. Telmores bedste køb. Tager du introtilbuddet på 50 GB, så vurder efter tre måneder.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Hvem passer Telmore til – og hvem bør vælge noget andet?</h2>
 <h3>Telmore passer til dig, der</h3>
 <ul>
 <li>bor i landområder eller færdes meget uden for byerne, hvor TDC NET's dækning gør en forskel</li>
-<li>vil have meget EU-data – fri data giver 49 GB og Telmore Play 83 GB i EU</li>
+<li>vil have meget EU-data – fri data giver {eu:tm-fri} GB og Telmore Play op til {eu:tm-fri-3} GB i EU</li>
 <li>har brug for ekstra datakort til tablet eller smartur</li>
 <li>gerne vil have en stærk app og selvbetjening fra et etableret selskab</li>
 </ul>
@@ -106,18 +107,18 @@ related: udbydere/yousee, udbydere/oister, udbydere/duka, guides/bedste-mobilnet
 <ul>
 <li>vil have den laveste pris – discountselskaberne er markant billigere</li>
 <li>skal have abonnement til hele familien og vil have mængderabat</li>
-<li>kun ringer lidt og bruger få GB – 79 kr. for 3 timer og 3 GB er dyrt</li>
+<li>kun ringer lidt og bruger få GB – {pris:tm-3} kr. for 3 timer og {gb:tm-3} er dyrt</li>
 <li>bruger telefonen mest i byen, hvor alle net fungerer godt</li>
 </ul>
 
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>TDC NET med landets bedste dækningsscore (9,3/10)</li><li>Stærke introtilbud (26 kr./md. i 2 mdr.)</li><li>Ingen binding og 0 kr. i oprettelse</li><li>eSIM og op til 3 ekstra datakort</li><li>5G på alle abonnementer med fri tale</li><li>Meget EU-data</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Normalpriserne ligger over discountselskaberne</li><li>Ingen decideret familierabat</li><li>Fri data koster 249 kr./md.</li><li>Lavest gennemsnitlig downloadhastighed af de fire net</li><li>Taleabonnementet er uden 5G og relativt dyrt</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>TDC NET med landets bedste dækningsscore (9,3/10)</li><li>Stærke introtilbud ({gb:tm-50} til {introtekst:tm-50})</li><li>Ingen binding og 0 kr. i oprettelse</li><li>eSIM og op til 3 ekstra datakort</li><li>5G på alle abonnementer</li><li>Meget EU-data og 200 GB for {pris:tm-200} kr.</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Normalpriserne ligger over discountselskaberne</li><li>Ingen decideret familierabat</li><li>Fri data koster {pris:tm-fri} kr./md.</li><li>Lavest gennemsnitlig downloadhastighed af de fire net</li><li>Taleabonnementet er relativt dyrt</li></ul></div></div>
 
 <h2>Sådan vælger du det rigtige Telmore-abonnement</h2>
-<p>Danskerne brugte i gennemsnit 26,9 GB pr. abonnement om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-4">4</a></sup>. For de fleste er 45 GB derfor nok, og du behøver ikke fri data. Bruger du telefonen som hotspot, streamer meget på farten, eller har du ikke fast internet derhjemme, kan fri data give mening. Brug vores <a href="/guides/hvor-meget-data/">guide til, hvor meget data du har brug for</a>, eller beregneren herunder.</p>
+<p>Danskerne brugte i gennemsnit 26,9 GB pr. abonnement om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-4">4</a></sup>. For de fleste er 50 GB derfor nok, og du behøver ikke fri data. Ligger du tæt på grænsen, er 200 GB for {pris:tm-200} kr. et billigt sikkerhedsnet. Bruger du telefonen som hotspot, streamer meget på farten, eller har du ikke fast internet derhjemme, kan fri data give mening. Brug vores <a href="/guides/hvor-meget-data/">guide til, hvor meget data du har brug for</a>, eller beregneren herunder.</p>
 
 [[vaerktoej:databeregner]]
 
-<p>Vil du have musik med, er 60 GB + Telmore Musik til 179 kr. et alternativ til at betale for en separat musiktjeneste. Telmore Play til 399 kr. med fri data og tre streamingtjenester giver mening, hvis du alligevel betaler for flere streamingtjenester – ellers er det et dyrt abonnement. Se alle abonnementer med streaming på vores side om <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
+<p>Telmore Play findes i fire varianter med fri data og 3, 4, 5 eller 9 streamingtjenester til {pris:tm-play}, {pris:tm-fri-2}, {pris:tm-fri-4} og {pris:tm-fri-3} kr./md. – alle med {introtekst:tm-play}. Det giver mening, hvis du alligevel betaler for flere streamingtjenester – ellers er det et dyrt abonnement. Regn efter: Koster dine nuværende tjenester tilsammen mindre end forskellen til fri data alene ({pris:tm-fri} kr.), er Telmore Play ikke en besparelse. Se alle abonnementer med streaming på vores side om <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
 <p>Sådan har vi vurderet: Vi vurderer alle selskaber på pris, net, fleksibilitet og service. Telmore får 8,1 for pris, 9,4 for net, 9,0 for fleksibilitet og 8,6 for service – i alt 8,7. Læs mere om vores <a href="/metode/">metode</a>.</p>
 
 <h2>Sådan skifter du til Telmore</h2>
@@ -134,19 +135,19 @@ related: udbydere/yousee, udbydere/oister, udbydere/duka, guides/bedste-mobilnet
 [[cta:telmore]]
 ===FAQ===
 Q: Hvilket net bruger Telmore?
-A: Telmore kører på TDC NET – det samme net som YouSee og Eesy. TDC fik den højeste score for dækningsoplevelse i Opensignals rapport fra februar 2026 med 9,3 ud af 10. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.
+A: Telmore kører på TDC NET – det samme net som YouSee og eesy. TDC fik den højeste score for dækningsoplevelse i Opensignals rapport fra februar 2026 med 9,3 ud af 10. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.
 Q: Hvad koster Telmore om måneden?
-A: Telmores faste abonnementer koster fra 79 kr./md. (3 timer + 3 GB) til 399 kr./md. (Telmore Play). Fri tale + 45 GB koster 149 kr./md. efter en kampagne med 26 kr./md. i de første 2 måneder (til 18.10.2026).
+A: Telmores faste abonnementer koster fra {pris:tm-3} kr./md. (3 timer + {gb:tm-3}) til {pris:tm-fri-3} kr./md. (Telmore Play med 9 streamingtjenester). Fri tale + {gb:tm-50} koster {pris:tm-50} kr./md. efter en intro med {introtekst:tm-50}, og {gb:tm-200} koster {pris:tm-200} kr.
 Q: Har Telmore binding?
 A: Nej. Telmores mobilabonnementer har ingen binding, og oprettelsen er gratis på de faste abonnementer. Kun Telmore Go koster 99 kr. i oprettelse.
 Q: Har Telmore eSIM?
 A: Ja, Telmore tilbyder eSIM, og du kan tilknytte op til tre ekstra datakort, fx til en tablet eller et smartur. Se vores <a href="/esim/">guide til eSIM</a>.
 Q: Hvor meget data får jeg i EU med Telmore?
-A: Det afhænger af abonnementet: 30 GB med 45 GB-abonnementet, 32 GB med 80 GB, 49 GB med fri data og 83 GB med Telmore Play. Det er mere end hos de fleste discountselskaber.
+A: Det afhænger af abonnementet: {eu:tm-50} GB med 50 GB-abonnementet, {eu:tm-200} GB med 200 GB, {eu:tm-fri} GB med fri data og op til {eu:tm-fri-3} GB med Telmore Play. Det er mere end hos de fleste discountselskaber.
 Q: Er Telmore og YouSee det samme?
 A: Begge ejes af TDC Group (Nuuday) og bruger TDC NET, så dækningen er den samme. YouSee har fysiske butikker og familie-SIM, mens Telmore er billigere og mest digitalt.
 Q: Er Telmore billigere end Lebara?
-A: Nej. Lebara giver 40 GB og fri tale for 49 kr./md., mens Telmores fri tale + 45 GB koster 149 kr./md. på normalpris. Til gengæld får du TDC NET, 5G og mere EU-data hos Telmore.
+A: Nej. Lebara giver {gb:lb-70} og fri tale for {pris:lb-70} kr./md., mens Telmores fri tale + {gb:tm-50} koster {pris:tm-50} kr./md. på normalpris. Til gengæld får du TDC NET, 5G og mere EU-data hos Telmore.
 Q: Hvad er Telmore Go?
 A: Telmore Go er et pay-as-you-go-abonnement til 39 kr./md. plus 99 kr. i oprettelse. Du betaler 0,59 kr. pr. minut og 9,90 kr. pr. dag, du bruger data. Det passer til en telefon, der sjældent bruges.
 ===KILDER===

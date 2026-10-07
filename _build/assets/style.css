@@ -403,7 +403,7 @@ dialog.quiz::backdrop{background:rgba(10,22,40,.6);backdrop-filter:blur(4px)}
 .logos .lbl{width:100%;text-align:center;font-size:.76rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .logos a{display:block;opacity:.72;filter:grayscale(1);transition:.2s}
 .logos a:hover{opacity:1;filter:none;transform:translateY(-2px)}
-.logos img{height:28px;width:auto}
+.logos img{height:28px;width:auto;max-width:120px;object-fit:contain}
 .trust{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:22px;font-size:.88rem;color:#C9D4E3}
 .trust span{display:flex;align-items:center;gap:7px}
 .trust svg{width:17px;height:17px;stroke:var(--lime)}

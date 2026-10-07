@@ -1,27 +1,27 @@
 ---
 slug: 5g-mobilabonnement
 title: 5G mobilabonnement → Billigste fra {fra:5g} kr. ({maaned})
-desc: Find det billigste 5G mobilabonnement i {maaned}. 5G fra 19 kr./md., fri tale og 5G fra 55 kr. Se dækning, hastighed og hvilke selskaber har 5G på alt.
+desc: Find det billigste 5G mobilabonnement i {maaned}. Fri tale og 5G fra {fra:5g} kr./md., 50 GB 5G fra {pris:fx-50} kr. Se dækning, hastighed og hvem der har 5G på alt.
 h1: 5G mobilabonnement
-kicker: Opdateret {maaned} · 36 abonnementer med 5G sammenlignet
-answer: Det billigste 5G mobilabonnement er Lyca Mobile med 5 GB og 5 timers tale for 19 kr./md. Med fri tale er Duka billigst med 30 GB og 5G for 55 kr./md. (kampagne til 31.3.2027) eller 6 GB for 59 kr. på normalpris. Duka, Greentel, Oister og Lyca har 5G på alle abonnementer, mens Lebaras abonnementer kun kører 4G.
-lead: 5G dækker i dag hele den danske befolkning, og 36 af de 45 abonnementer, vi sammenligner, har 5G med i prisen. Her ser du, hvor 5G er billigst, hvilke selskaber der stadig sælger 4G, og om du overhovedet mærker forskellen.
+kicker: Opdateret {maaned} · 30 abonnementer med 5G sammenlignet
+answer: Det billigste 5G mobilabonnement koster {fra:5g} kr./md.: Oister med fri tale og {gb:oi-12} eller Flexii med fri tale og {gb:fx-20} ({introtekst:fx-20}). Med mere data er Oister {gb:oi-40} ({introtekst:oi-40}) og Greentel {gb:gt-30} for {pris:gt-30} kr. gode bud. Oister og Telmore har 5G på alle abonnementer, mens Lebara og Lyca Mobile kun kører 4G.
+lead: 5G dækker i dag hele den danske befolkning, og 40 af de {antal} abonnementer, vi sammenligner, har 5G med i prisen. Her ser du, hvor 5G er billigst, hvilke selskaber der stadig sælger 4G, og om du overhovedet mærker forskellen.
 crumb: 5G
 section: typer
 related: billigste-mobilabonnement, mobilabonnement-fri-data, guides/bedste-mobilnet, esim, udbydere/duka
 ---
 <h2>Hvad er det billigste 5G mobilabonnement?</h2>
-<p>Det billigste 5G mobilabonnement koster 19 kr. om måneden hos Lyca Mobile. Du får 5 GB data, 5 timers tale og 4 GB til brug i EU. Lyca kører på TDC NET – samme net som Telmore og YouSee. Vil du have fri tale med 5G, er Duka billigst: 30 GB for 55 kr. om måneden i en kampagne, der gælder til 31. marts 2027 (derefter 99 kr.), eller fri tale og 6 GB for 59 kr. på normalpris.</p>
-<p>5G er ikke længere et dyrt tilvalg. Af de 45 abonnementer i vores sammenligning har 36 5G inkluderet uden ekstra betaling. Det svarer til 80 %, og det passer godt med de officielle tal: I andet halvår af 2024 havde 85,8 % af alle danske standardabonnementer adgang til 5G<sup class="ref"><a href="#kilde-1">1</a></sup>. Herunder ser du de billigste abonnementer med 5G.</p>
+<p>Det billigste 5G mobilabonnement koster {fra:5g} kr. om måneden. Til den pris får du hos Oister fri tale og {gb:oi-12} med {eu:oi-12} GB EU-data, og hos Flexii fri tale og {gb:fx-20} med {eu:fx-20} GB EU-data – Flexii koster endda {introtekst:fx-20}. Oister og Flexii kører begge på 3's net. Foretrækker du TT-netværket (Telenor/Norlys), er Greentels {gb:gt-30} med 5G for {pris:gt-30} kr. det billigste, og på TDC NET starter 5G med Telmores 3 GB og 3 timer for {pris:tm-3} kr.</p>
+<p>5G er sjældent et dyrt tilvalg. Af de {antal} abonnementer i vores sammenligning har 40 5G inkluderet uden ekstra betaling. Det svarer til 68 %, og de fleste af de resterende er de allerbilligste pakker fra Lebara og Lyca Mobile samt Flexiis 4G-udgaver. Til sammenligning havde 85,8 % af alle danske standardabonnementer adgang til 5G i andet halvår af 2024<sup class="ref"><a href="#kilde-1">1</a></sup>. Herunder ser du de billigste abonnementer med 5G.</p>
 [[tabel:5g|sort=price|limit=10|titel=Billigste mobilabonnementer med 5G]]
-<div class="keypoints"><h3>Det vigtigste</h3><ul><li>Billigst med 5G: Lyca 5 GB/5 timer for 19 kr./md.</li><li>Billigst med fri tale og 5G: Duka 30 GB for 55 kr. (kampagne) eller Duka 6 GB for 59 kr.</li><li>5G på alle abonnementer: Duka, Greentel, Oister og Lyca Mobile</li><li>Kun 4G: alle Lebaras abonnementer i vores sammenligning samt Flexiis børneabonnementer og Telmores 3 timer + 3 GB</li><li>5G dækker 100 % af befolkningen ifølge Danmarks Statistik</li></ul></div>
+<div class="keypoints"><h3>Det vigtigste</h3><ul><li>Billigst med 5G: Oister {gb:oi-12} og Flexii {gb:fx-20} med fri tale for {fra:5g} kr./md.</li><li>Mest data for pengene med 5G: Duka 1000 GB for {pris:dk-1000} kr. og Duka 200 GB ({introtekst:dk-200})</li><li>5G på alle abonnementer: Oister, Telmore, CBB og eesy – og Duka på alle med fri tale</li><li>Kun 4G: alle Lebaras og Lyca Mobiles abonnementer samt Flexiis 4G-udgaver og de små pakker hos Greentel, Duka og YouSee</li><li>5G dækker 100 % af befolkningen ifølge Danmarks Statistik</li></ul></div>
 
 <h2>Hvad er 5G?</h2>
 <p>5G er femte generation af mobilnettet og efterfølgeren til 4G. Teknologien giver højere hastigheder, lavere svartid (latens) og plads til flere enheder på samme tid. I praksis betyder det hurtigere downloads, mere stabil video i tætte byområder og bedre ydelse, når mange bruger nettet samtidig – for eksempel til en koncert eller på en banegård.</p>
 <p>5G bruger flere frekvensbånd. De lave frekvenser rækker langt og går godt gennem mure, men giver ikke de helt store hastigheder. De høje frekvenser giver meget høje hastigheder, men på kortere afstand. Derfor kan din oplevelse af 5G variere meget, alt efter hvor du er. I byerne er forskellen til 4G ofte tydelig; på landet er den mindre.</p>
 <h3>Hvor meget bruges 5G i Danmark?</h3>
 <p>5G er allerede rygraden i det danske mobilnet. I andet halvår af 2024 bar 5G 41,2 % af al mobildatatrafik i Danmark, og den samlede trafik var omkring 1,5 mio. TB – mere end dobbelt så meget som fire år tidligere<sup class="ref"><a href="#kilde-1">1</a></sup>. 6.196.962 standardabonnementer havde 5G, og blandt de rene dataabonnementer var andelen 63,1 %.</p>
-<div class="stat-grid"><div class="stat"><b>100 %</b><span>af befolkningen er dækket af 5G (DST)</span></div><div class="stat"><b>85,8 %</b><span>af standardabonnementer har 5G (2H24)</span></div><div class="stat"><b>41,2 %</b><span>af al mobildata gik over 5G (2H24)</span></div><div class="stat"><b>36 af 45</b><span>abonnementer i vores sammenligning har 5G</span></div></div>
+<div class="stat-grid"><div class="stat"><b>100 %</b><span>af befolkningen er dækket af 5G (DST)</span></div><div class="stat"><b>85,8 %</b><span>af standardabonnementer har 5G (2H24)</span></div><div class="stat"><b>41,2 %</b><span>af al mobildata gik over 5G (2H24)</span></div><div class="stat"><b>40 af {antal}</b><span>abonnementer i vores sammenligning har 5G</span></div></div>
 
 <h2>5G-dækning i Danmark: hvor godt er nettet?</h2>
 <p>Ifølge Danmarks Statistik har 5G-dækningen af befolkningen været 100 % hvert år fra 2021 til 2026<sup class="ref"><a href="#kilde-2">2</a></sup>. Det betyder, at alle danskere bor i et område, hvor mindst ét net tilbyder 5G. Det betyder ikke, at du har 5G overalt, hvor du går – i kældre, tykke bygninger, skove og på havet kan signalet stadig være svagt, og dækningen varierer mellem de fire net.</p>
@@ -30,10 +30,10 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, guides/bedste-mobi
 <table>
 <thead><tr><th>Mobilnet</th><th>Udbydere (vi dækker)</th><th>Download (Opensignal)</th><th>Dækningsoplevelse</th><th>5G-tilgængelighed</th><th>5G på abonnementer</th></tr></thead>
 <tbody>
-<tr><td>TDC NET</td><td>Telmore, YouSee, Lyca</td><td>103,1 Mbit/s</td><td>9,3/10</td><td>92,7-94,1 %*</td><td>15 af 16 abonnementer</td></tr>
-<tr><td>3 (Hi3G)</td><td>Oister, Flexii</td><td>112,2 Mbit/s</td><td>7,3/10</td><td>92,7-94,1 %*</td><td>9 af 11 (ikke Flexiis børneabonnementer)</td></tr>
-<tr><td>Telenor (TT-netværket)</td><td>Lebara, Duka, Greentel</td><td>107,4 Mbit/s</td><td>9,2/10</td><td>92,7-94,1 %*</td><td>12 af 18 (ikke Lebara)</td></tr>
-<tr><td>Norlys (TT-netværket)</td><td>Lebara, Duka, Greentel</td><td>118,8 Mbit/s</td><td>9,2/10</td><td>92,7-94,1 %*</td><td>12 af 18 (ikke Lebara)</td></tr>
+<tr><td>TDC NET</td><td>Telmore, YouSee</td><td>103,1 Mbit/s</td><td>9,3/10</td><td>92,7-94,1 %*</td><td>12 af 13 abonnementer</td></tr>
+<tr><td>3 (Hi3G)</td><td>Oister, Flexii</td><td>112,2 Mbit/s</td><td>7,3/10</td><td>92,7-94,1 %*</td><td>8 af 13 (Flexii har både 4G- og 5G-priser)</td></tr>
+<tr><td>Telenor (TT-netværket)</td><td>Lebara, Lyca, Duka, Greentel</td><td>107,4 Mbit/s</td><td>9,2/10</td><td>92,7-94,1 %*</td><td>10 af 23 (ikke Lebara og Lyca)</td></tr>
+<tr><td>Norlys (TT-netværket)</td><td>Lebara, Lyca, Duka, Greentel</td><td>118,8 Mbit/s</td><td>9,2/10</td><td>92,7-94,1 %*</td><td>10 af 23 (ikke Lebara og Lyca)</td></tr>
 </tbody>
 </table>
 <p><small>*Opensignal angiver 5G-tilgængelighed i intervallet 92,7-94,1 % for alle fire net. Telenor og Norlys deler radionet, men måles hver for sig.</small></p>
@@ -41,21 +41,23 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, guides/bedste-mobi
 <p>Uanset hvad målingerne siger, er det din adresse, der tæller. Tjek dækningen der, hvor du bor og arbejder, på tjekditnet.dk. Læs mere om de fire net i guiden til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
 
 <h2>Hvilke mobilabonnementer har 5G?</h2>
-<p>Her er en oversigt over 5G hos de otte udbydere, vi dækker, baseret på priserne den 7. oktober 2026:</p>
+<p>Her er en oversigt over 5G hos de {antal_udbydere} udbydere, vi dækker, baseret på priserne den 7. oktober 2026:</p>
 <table>
 <thead><tr><th>Udbyder</th><th>5G</th><th>Billigste med 5G</th></tr></thead>
 <tbody>
-<tr><td>Duka</td><td>5G på alle abonnementer</td><td>Fri tale + 6 GB, 59 kr. (30 GB for 55 kr. i kampagne)</td></tr>
-<tr><td>Greentel</td><td>5G på alle abonnementer</td><td>2 timer + 2 GB, 48 kr.</td></tr>
-<tr><td>Oister</td><td>5G på alle abonnementer</td><td>12 timer + 12 GB, 69 kr.</td></tr>
-<tr><td>Lyca Mobile</td><td>5G på alle pakker</td><td>5 GB / 5 timer, 19 kr.</td></tr>
-<tr><td>Flexii</td><td>5G på voksenabonnementer (ikke børn)</td><td>Fri tale + 20 GB, 69 kr. (59 kr. første år)</td></tr>
-<tr><td>Telmore</td><td>5G på fri tale-abonnementer</td><td>Fri tale + 45 GB, 149 kr. (26 kr. i 2 mdr.)</td></tr>
-<tr><td>YouSee</td><td>5G på alle abonnementer</td><td>3 timer + 3 GB, 99 kr.</td></tr>
-<tr><td>Lebara</td><td>Kun 4G i vores sammenligning</td><td>–</td></tr>
+<tr><td>Oister</td><td>5G på alle abonnementer</td><td>Fri tale + {gb:oi-12}, {pris:oi-12} kr.</td></tr>
+<tr><td>Flexii</td><td>Vælg 4G- eller 5G-pris (5G ca. 5-10 kr. dyrere)</td><td>Fri tale + {gb:fx-20}, {pris:fx-20} kr. ({introtekst:fx-20})</td></tr>
+<tr><td>Telmore</td><td>5G på alle abonnementer</td><td>3 GB + 3 timer, {pris:tm-3} kr. – fri tale + {gb:tm-50} for {pris:tm-50} kr. ({introtekst:tm-50})</td></tr>
+<tr><td>CBB</td><td>5G på alle abonnementer</td><td>Fri tale + {gb:cb-60}, {pris:cb-60} kr. ({introtekst:cb-60})</td></tr>
+<tr><td>eesy</td><td>5G på alle abonnementer</td><td>Fri tale + {gb:ee-30}, {pris:ee-30} kr. ({introtekst:ee-30})</td></tr>
+<tr><td>Greentel</td><td>5G på 30 GB og 50 GB</td><td>Fri tale + {gb:gt-30}, {pris:gt-30} kr.</td></tr>
+<tr><td>Duka</td><td>5G på alle abonnementer med fri tale</td><td>Fri tale + {gb:dk-30} eller {gb:dk-50}, {pris:dk-30} kr.</td></tr>
+<tr><td>YouSee</td><td>5G på abonnementer med fri tale</td><td>Fri tale + {gb:ys-25}, {pris:ys-25} kr.</td></tr>
+<tr><td>Lyca Mobile</td><td>Kun 4G</td><td>–</td></tr>
+<tr><td>Lebara</td><td>Kun 4G</td><td>–</td></tr>
 </tbody>
 </table>
-<p>Lebara skiller sig ud. Selskabet har nogle af markedets laveste priser, for eksempel fri tale og 40 GB for 49 kr., men ingen af de abonnementer, vi har registreret, har 5G. Forbrugerrådet Tænk har også fremhævet, at flere af Lebaras abonnementer kun er 4G<sup class="ref"><a href="#kilde-5">5</a></sup>. Det er ikke nødvendigvis et problem, men det er værd at vide, før du bestiller. Læs vores anmeldelse af <a href="/udbydere/lebara/">Lebara</a>.</p>
+<p>Lebara og Lyca Mobile skiller sig ud. Begge har nogle af markedets laveste priser, for eksempel fri tale og {gb:lb-70} for {pris:lb-70} kr. hos Lebara og fri tale og 200 GB for {introtekst:ly-200} hos Lyca, men ifølge udbydernes egne prisdata kører alle deres abonnementer på 4G. Begge bruger TT-netværket (Norlys/Telenor). Forbrugerrådet Tænk har også fremhævet, at flere af Lebaras abonnementer kun er 4G<sup class="ref"><a href="#kilde-5">5</a></sup>. Det er ikke nødvendigvis et problem, men det er værd at vide, før du bestiller. Læs vores anmeldelser af <a href="/udbydere/lebara/">Lebara</a> og <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>.</p>
 [[simo:Står der ikke "5G" i abonnementsbeskrivelsen, så gå ud fra, at det er 4G. Spørg hellere kundeservice, inden du bestiller.]]
 
 <h2>4G vs. 5G: mærker du forskellen?</h2>
@@ -68,16 +70,16 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, guides/bedste-mobi
 <li><strong>Videoopkald og arbejde på farten.</strong> Lavere svartid giver mere stabile videomøder.</li>
 <li><strong>Fremtiden.</strong> En stadig større del af trafikken kører over 5G, så et 5G-abonnement er det mest fremtidssikre valg.</li>
 </ul>
-<p>Bruger du telefonen mest til de daglige ting og er på WiFi derhjemme, kan et 4G-abonnement fra Lebara stadig være det rigtige valg. Bruger du meget data på farten, er 5G værd at have – især fordi det koster så lidt ekstra.</p>
+<p>Bruger du telefonen mest til de daglige ting og er på WiFi derhjemme, kan et 4G-abonnement fra Lebara eller Lyca Mobile stadig være det rigtige valg. Bruger du meget data på farten, er 5G værd at have – især fordi det ofte koster så lidt ekstra.</p>
 <h3>Hvad koster 5G ekstra?</h3>
-<p>Sammenlign Lebaras 40 GB for 49 kr. (4G) med Dukas 30 GB for 55 kr. i kampagne eller Flexiis 20 GB for 59 kr. første år. Forskellen er 6-10 kr. om måneden – 72-120 kr. om året. På normalpris er spændet større: Duka 30 GB koster 99 kr. Her er Lebara 600 kr. billigere om året. Det er den reelle pris for 5G i den billige ende af markedet, og den er værd at kende, før du vælger. Se også vores oversigt over de <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a>.</p>
+<p>Det tydeligste svar får du hos Flexii, som sælger samme abonnement med både 4G- og 5G-pris. På normalpris koster 5G 10 kr. mere om måneden på 20 GB ({pris:fx-20-4g} mod {pris:fx-20} kr.), 50 GB ({pris:fx-50-4g} mod {pris:fx-50} kr.) og 150 GB ({pris:fx-150-4g} mod {pris:fx-150} kr.), mens fri data kun er 5 kr. dyrere ({pris:fx-fri-4g} mod {pris:fx-fri} kr.). Det er 60-120 kr. om året. Sammenligner du på tværs af selskaber, er spændet større: Lebaras 70 GB på 4G koster {pris:lb-70} kr., mens den billigste 5G-pakke med mindst 50 GB er Flexiis til {pris:fx-50} kr. – 360 kr. mere om året for mindre data. Det er den reelle pris for 5G i den billige ende af markedet, og den er værd at kende, før du vælger. Se også vores oversigt over de <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a>.</p>
 
 <h3>5G og datamængde hænger sammen</h3>
-<p>Højere hastighed betyder også, at du kan bruge mere data på kortere tid. En video starter i højere kvalitet, og apps henter større filer i baggrunden. Netflix bruger op til 3 GB i timen i HD og op til 7 GB i 4K<sup class="ref"><a href="#kilde-10">10</a></sup>, og med 5G er der sjældent noget, der holder kvaliteten nede. Har du en lille datapakke, kan 5G derfor få den til at slippe op hurtigere. Det er en af grundene til, at vi anbefaler at kombinere 5G med en datapakke, der har luft til dit forbrug. Hos Duka får du 200 GB med fri tale og 5G for 129 kr., og Flexii giver 150 GB med 5G for 109 kr. (94 kr. det første år). Begge dele giver plads til, at 5G-hastigheden kan bruges uden bekymring. Bruger du mobilen som internet til computeren, kan du også se på <a href="/mobilt-bredbaand/">mobilt bredbånd</a>, hvor 5G-routere giver bedre signal indendørs end en telefon.</p>
+<p>Højere hastighed betyder også, at du kan bruge mere data på kortere tid. En video starter i højere kvalitet, og apps henter større filer i baggrunden. Netflix bruger op til 3 GB i timen i HD og op til 7 GB i 4K<sup class="ref"><a href="#kilde-10">10</a></sup>, og med 5G er der sjældent noget, der holder kvaliteten nede. Har du en lille datapakke, kan 5G derfor få den til at slippe op hurtigere. Det er en af grundene til, at vi anbefaler at kombinere 5G med en datapakke, der har luft til dit forbrug. Hos Duka får du 200 GB med fri tale og 5G for {pris:dk-200} kr. ({introtekst:dk-200}), og Flexii giver 150 GB med 5G for {pris:fx-150} kr. ({introtekst:fx-150}). Begge dele giver plads til, at 5G-hastigheden kan bruges uden bekymring. Bruger du mobilen som internet til computeren, kan du også se på <a href="/mobilt-bredbaand/">mobilt bredbånd</a>, hvor 5G-routere giver bedre signal indendørs end en telefon.</p>
 
 <h2>Hvilke telefoner understøtter 5G?</h2>
 <p>For at bruge 5G skal både dit abonnement og din telefon understøtte det. De fleste smartphones fra de seneste år har 5G, også mange i mellemklassen. Hos Apple har alle iPhones fra iPhone 12-serien og frem 5G, og hos Samsung har alle modeller i Galaxy S-serien haft 5G siden S21. Er du i tvivl, kan du tjekke telefonens indstillinger under mobilnetværk: står der en mulighed for "5G" eller "5G auto", er telefonen klar.</p>
-<p>Har du en ældre telefon uden 5G, kan du sagtens bruge et 5G-abonnement. Telefonen bruger så bare 4G. Men der er ingen grund til at betale ekstra for 5G, før du skifter telefon. Det samme gælder, hvis du bruger <a href="/esim/">eSIM</a> – alle de otte udbydere, vi dækker, tilbyder eSIM, og 5G virker på samme måde på eSIM som på et fysisk SIM-kort.</p>
+<p>Har du en ældre telefon uden 5G, kan du sagtens bruge et 5G-abonnement. Telefonen bruger så bare 4G. Men der er ingen grund til at betale ekstra for 5G, før du skifter telefon. Det samme gælder, hvis du bruger <a href="/esim/">eSIM</a> – alle de {antal_udbydere} udbydere, vi dækker, tilbyder eSIM, og 5G virker på samme måde på eSIM som på et fysisk SIM-kort.</p>
 <div class="callout"><p><strong>Kort sagt:</strong> Har du en telefon fra de seneste år, har den sandsynligvis 5G. Tjek indstillingerne under mobilnetværk, før du betaler ekstra for et 5G-abonnement.</p></div>
 
 <h2>3G er lukket: hvad betyder det for dig?</h2>
@@ -85,29 +87,29 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, guides/bedste-mobi
 <p>Har du en meget gammel telefon, eller har du et ældre familiemedlem med en simpel mobiltelefon, så tjek, at den understøtter 4G og VoLTE. Ellers kan der opstå problemer med opkald. Mange billige "ældretelefoner" understøtter i dag 4G, men det er værd at tjekke. Læs mere på siden om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
 
 <h2>Fordele og ulemper ved 5G mobilabonnement</h2>
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Højere hastighed og lavere svartid</li><li>Mere stabil forbindelse i travle områder</li><li>Koster ofte kun få kroner ekstra – eller intet</li><li>Fremtidssikret, da trafikken flytter til 5G</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kræver en telefon med 5G</li><li>Kan bruge lidt mere strøm på ældre 5G-telefoner</li><li>Forskellen mærkes ikke ved almindelig brug</li><li>De allerbilligste fri tale-abonnementer (Lebara) har ikke 5G</li></ul></div></div>
-<blockquote class="expert"><p>Vi vil ikke anbefale nogen at betale mange penge ekstra for 5G alene. Men når Duka, Greentel, Oister og Lyca giver det med på alle abonnementer, er der sjældent grund til at fravælge det. Vælg ud fra data, pris og dækning – og tag 5G med, hvor det er gratis.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Højere hastighed og lavere svartid</li><li>Mere stabil forbindelse i travle områder</li><li>Koster ofte kun 5-10 kr. ekstra – eller intet</li><li>Fremtidssikret, da trafikken flytter til 5G</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kræver en telefon med 5G</li><li>Kan bruge lidt mere strøm på ældre 5G-telefoner</li><li>Forskellen mærkes ikke ved almindelig brug</li><li>De allerbilligste abonnementer (Lebara og Lyca) har ikke 5G</li></ul></div></div>
+<blockquote class="expert"><p>Vi vil ikke anbefale nogen at betale mange penge ekstra for 5G alene. Men når Oister og Telmore giver det med på alle abonnementer, og Duka på alle med fri tale, er der sjældent grund til at fravælge det, hvis du alligevel vælger et af de selskaber. Vælg ud fra data, pris og dækning – og tag 5G med, hvor det er gratis eller næsten gratis.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sådan vælger du det rigtige 5G mobilabonnement</h2>
 <ol class="steps">
 <li><strong>Tjek din telefon.</strong> Se under mobilnetværk i indstillingerne, om der er en 5G-mulighed.</li>
 <li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk og se, hvilket net der har bedst 5G hos dig.</li>
 <li><strong>Find dit dataforbrug.</strong> Brug guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>, så du ikke betaler for meget.</li>
-<li><strong>Vælg udbyder på det rigtige net.</strong> TDC NET: Telmore, YouSee og Lyca. 3: Oister og Flexii. TT-netværket: Duka og Greentel.</li>
+<li><strong>Vælg udbyder på det rigtige net.</strong> TDC NET: Telmore, YouSee og eesy. 3: Oister og Flexii. TT-netværket: CBB, Duka og Greentel med 5G – Lebara og Lyca Mobile kun med 4G.</li>
 <li><strong>Sammenlign 12-måneders prisen.</strong> Mange 5G-abonnementer har intropriser – se aktuelle <a href="/mobilabonnement-tilbud/">tilbud på mobilabonnement</a>.</li>
 <li><strong>Skift uden at miste nummeret.</strong> Nummerflytning er gratis og sker senest ved udgangen af næste arbejdsdag. Se guiden <a href="/guides/skift-mobilabonnement/">skift mobilabonnement</a>.</li>
 </ol>
 [[cta:duka]]
 
 <h2>Sådan har vi sammenlignet 5G-abonnementer</h2>
-<p>Vi har gennemgået 45 abonnementer fra otte udbydere og noteret, om 5G er inkluderet, sammen med pris, data, EU-data og tale. Priserne er tjekket 7. oktober 2026. Tal om dækning og hastighed stammer fra Danmarks Statistik, Digitaliseringsstyrelsen, Opensignal og Teknologisk Institut, og vi angiver altid, hvem der har bestilt en måling. Læs mere om <a href="/metode/">vores metode</a>.</p>
+<p>Vi har gennemgået {antal} abonnementer fra {antal_udbydere} udbydere og noteret, om 5G er inkluderet, sammen med pris, data, EU-data og tale. Priserne og 5G-oplysningerne kommer fra udbydernes egne prisdata (via deres officielle prisfeed) og prissider og er tjekket 7. oktober 2026. Tal om dækning og hastighed stammer fra Danmarks Statistik, Digitaliseringsstyrelsen, Opensignal og Teknologisk Institut, og vi angiver altid, hvem der har bestilt en måling. Læs mere om <a href="/metode/">vores metode</a>.</p>
 ===FAQ===
 Q: Hvad er det billigste 5G mobilabonnement?
-A: Lyca Mobile er billigst med 5 GB, 5 timers tale og 5G for 19 kr./md. Med fri tale er Duka billigst: 30 GB for 55 kr./md. i kampagne til 31.3.2027 eller 6 GB for 59 kr. på normalpris.
+A: Oister med fri tale og {gb:oi-12} og Flexii med fri tale og {gb:fx-20} er billigst med 5G til {fra:5g} kr./md. – Flexii koster {introtekst:fx-20}. Telmores 3 GB og 3 timer til {pris:tm-3} kr. har også 5G.
 Q: Har alle mobilabonnementer 5G?
-A: Nej. 36 af de 45 abonnementer, vi sammenligner, har 5G. Lebaras abonnementer kører kun 4G, og det samme gælder Flexiis børneabonnementer og Telmores 3 timer + 3 GB.
+A: Nej. 40 af de {antal} abonnementer, vi sammenligner, har 5G. Alle Lebaras og Lyca Mobiles abonnementer kører kun 4G, og det samme gælder Flexiis 4G-udgaver og de mindste pakker hos Greentel, Duka og YouSee.
 Q: Koster 5G ekstra?
-A: Som regel ikke. Duka, Greentel, Oister og Lyca har 5G på alle abonnementer. Den reelle merpris er forskellen til de billigste 4G-abonnementer hos Lebara, typisk 6-50 kr. om måneden.
+A: Som regel ikke meget. Hos Flexii, der sælger samme abonnement med 4G- og 5G-pris, koster 5G 5-10 kr. ekstra om måneden. Oister og Telmore har 5G på alle abonnementer. Den reelle merpris er forskellen til de billigste 4G-abonnementer hos Lebara og Lyca Mobile.
 Q: Hvordan ved jeg, om min telefon har 5G?
 A: Gå til indstillinger for mobilnetværk. Står der "5G" eller "5G auto", understøtter telefonen 5G. Alle iPhones fra iPhone 12 og frem har 5G.
 Q: Hvor god er 5G-dækningen i Danmark?
@@ -129,3 +131,5 @@ Systemkrav til YouTube-videoer, Google | https://support.google.com/youtube/answ
 Mulig kommende lukning af 2G-mobilnettene, Digitaliseringsstyrelsen | https://digst.dk/tele/nye-teknologier/mulig-kommende-lukning-af-2g-mobilnettene/
 Priser og abonnementer, Duka | https://www.dukatale.dk/mobilabonnementer
 Hvor meget data bruger Netflix?, Netflix Hjælpecenter | https://help.netflix.com/da/node/87
+Priser og abonnementer, Oister | https://www.oister.dk/mobilabonnement
+Priser og abonnementer, Flexii | https://www.flexii.dk/mobilabonnement

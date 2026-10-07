@@ -1,10 +1,10 @@
 ---
 slug: udbydere/greentel
 title: Greentel mobilabonnement → Fra {fra:udbyder-greentel} kr. + test ({mdkort})
-desc: Greentel anmeldelse: 5G på alt, fri tale + 30 GB for 89 kr. og 1000 GB for 189 kr. på TT-netværket. Se alle priser, gebyrer og vores karakter 8,4.
+desc: Greentel anmeldelse: Basic fra {pris:gt-5} kr., fri tale + {gb:gt-30} med 5G for {pris:gt-30} kr. og faste priser på TT-netværket. Se alle priser, gebyrer og karakter 8,4.
 h1: Greentel anmeldelse og priser
 kicker: Opdateret {maaned} · Priser tjekket 7. oktober 2026
-answer: Vi giver Greentel 8,4 ud af 10. Greentel er et uafhængigt dansk selskab på TT-netværket (Telenor/Norlys) med 5G på alle abonnementer, fri tale fra 69 kr. og 1000 GB for 189 kr./md. Det passer bedst til dig, der vil have et stabilt net, stabile priser uden introfælder og et dansk selskab med god service – især hvis du er medlem af Ældre Sagen.
+answer: Vi giver Greentel 8,4 ud af 10. Greentel er et uafhængigt dansk selskab på TT-netværket (Telenor/Norlys) med Basic-abonnement fra {pris:gt-5} kr., fri tale fra {pris:gt-10} kr. og 5G på 30 og 50 GB ({pris:gt-30} og {pris:gt-50} kr./md.). Det passer bedst til dig, der vil have et stabilt net, stabile priser uden introfælder og et dansk selskab med god service – især hvis du er medlem af Ældre Sagen.
 lead: Vi har gennemgået alle Greentels abonnementer, nettet, EU-data, gebyrer og vilkår – og sammenlignet med de selskaber, der ligner mest.
 crumb: Greentel
 section: udbydere
@@ -14,21 +14,22 @@ related: udbydere/duka, mobilabonnement-pensionister, fri-tale, 5g-mobilabonneme
 [[udbyderkort:greentel]]
 
 <h2>Alle Greentel-abonnementer og priser</h2>
-<p>Greentel har fem mobilabonnementer: et lille taleabonnement med 2 timer og 2 GB og fire abonnementer med fri tale og 10, 30, 100 eller 1000 GB data. Alle har 5G, og der er ingen binding og gratis oprettelse. Priserne er tjekket på Greentels egen side den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
+<p>Greentel har fem mobilabonnementer: to små taleabonnementer – det nye Basic med {gb:gt-5} og 1 times tale og {gb:gt-2} med 2 timers tale – og tre abonnementer med fri tale og 10, 30 eller 50 GB data. 5G får du på 30 GB og 50 GB, mens de mindre abonnementer kører på 4G. Der er ingen binding og gratis oprettelse. Priserne er tjekket mod Greentels egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
 
 [[tabel:udbyder-greentel]]
 
 <p>Det, der adskiller Greentel fra mange konkurrenter, er, at der ikke er nogen introrabat. Prisen, du ser, er den pris, du betaler – også om et år. Det gør Greentel mindre iøjnefaldende i en prisoversigt end fx Flexii, der lokker med lave priser det første år, men det gør også regnestykket enkelt.</p>
-<p>Det mest interessante abonnement er 1000 GB for 189 kr./md. 1000 GB er i praksis ubegrænset for næsten alle – gennemsnitsdanskeren brugte 26,9 GB om måneden i andet halvår 2024 ifølge Digitaliseringsstyrelsen<sup class="ref"><a href="#kilde-5">5</a></sup>. Prisen er 10 kr. under Dukas fri data og Oisters fri data efter intro (begge 199 kr.), men 10 kr. over Dukas 1000 GB til 179 kr.</p>
+<p>Det mest interessante abonnement er det nye Basic med {gb:gt-5} og 1 times tale for {pris:gt-5} kr./md. Det er blandt de billigste abonnementer i Danmark og kun 10 kr. dyrere end Lebaras og Lyca Mobiles 19 kr.-pakker. Til en ældre, der mest ringer lidt og læser nyheder, eller til et barns første telefon er det rigeligt. Gennemsnitsdanskeren brugte dog 26,9 GB om måneden i andet halvår 2024 ifølge Digitaliseringsstyrelsen<sup class="ref"><a href="#kilde-5">5</a></sup>, så for de fleste voksne er {gb:gt-30} for {pris:gt-30} kr. det naturlige valg.</p>
+<p>Greentel har ryddet op i de store pakker: 100 GB og 1000 GB findes ikke længere, og {gb:gt-50} for {pris:gt-50} kr. er nu det største abonnement. Bruger du mere end 50 GB om måneden, skal du derfor se mod Duka på samme net, hvor 120 GB koster {pris:dk-120} kr. og 1000 GB {pris:dk-1000} kr.</p>
 
 <h3>Pas på gebyret for Betalingsservice</h3>
-<p>Greentel opkræver 10 kr. ekstra om måneden, hvis du betaler via Betalingsservice. Det lyder ikke af meget, men det er 120 kr. om året – og på det mindste abonnement til 48 kr. svarer det til en prisstigning på over 20 %. Betaler du i stedet automatisk med betalingskort, slipper du for gebyret. Det er den vigtigste ting at være opmærksom på hos Greentel.</p>
+<p>Greentel opkræver 10 kr. ekstra om måneden, hvis du betaler via Betalingsservice. Det lyder ikke af meget, men det er 120 kr. om året – og på Basic-abonnementet til {pris:gt-5} kr. svarer det til en prisstigning på over 30 %. Betaler du i stedet automatisk med betalingskort, slipper du for gebyret. Det er den vigtigste ting at være opmærksom på hos Greentel.</p>
 
 <h3>Rabat for Ældre Sagen-medlemmer</h3>
-<p>Er du medlem af Ældre Sagen, får du 10 kr. i rabat om måneden. Det gør Greentel oplagt for ældre brugere: Fri tale + 10 GB koster så 59 kr./md., og taleabonnementet med 2 timer og 2 GB koster 38 kr. Kombineret med 5G og et stærkt net er det et af de bedste bud på et <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
+<p>Er du medlem af Ældre Sagen, får du 10 kr. i rabat om måneden. Det gør Greentel oplagt for ældre brugere: Fri tale + 10 GB koster så 59 kr./md., og taleabonnementet med 2 timer og 2 GB koster 38 kr. Tjek ved bestilling, om rabatten også gælder Basic. Kombineret med et stærkt net er det et af de bedste bud på et <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
 
 <h3>Regneeksempel: Greentel over to år</h3>
-<p>Fri tale + 30 GB hos Greentel koster 89 kr. × 24 = 2.136 kr. over to år, betalt med kort. Hos Duka koster fri tale + 30 GB 55 kr. frem til 31. marts 2027 og derefter 99 kr. – hvis du starter i oktober 2026, giver det cirka 6 × 55 + 18 × 99 = 2.112 kr. De to er altså næsten lige dyre over to år, men Greentel giver en fast pris, mens Duka er billigst nu og dyrest senere. Betaler du med Betalingsservice hos Greentel, lægger du 240 kr. til.</p>
+<p>Fri tale + 30 GB hos Greentel koster 89 kr. × 24 = 2.136 kr. over to år, betalt med kort. Hos Duka koster fri tale + 30 GB 99 kr. – altså 99 × 24 = 2.376 kr. Greentel er dermed 240 kr. billigere over to år for samme datamængde, men Duka giver 30 GB EU-data mod Greentels 18 GB. Betaler du med Betalingsservice hos Greentel, lægger du 240 kr. til, og så er de to lige dyre.</p>
 
 <h2>Greentels netværk og dækning: Hvor godt er TT-netværket?</h2>
 <p>Greentel ejer ikke selv antenner, men lejer sig ind på TT-netværket, som er det fælles radionet, Telenor og Norlys ejer 50/50<sup class="ref"><a href="#kilde-4">4</a></sup>. Norlys overtog Telias del, da Norlys købte Telia Danmark for 6,25 mia. kr. i 2024. Det er et af de fire fysiske mobilnet i Danmark sammen med TDC NET og 3.</p>
@@ -38,18 +39,19 @@ related: udbydere/duka, mobilabonnement-pensionister, fri-tale, 5g-mobilabonneme
 <p>For dig som kunde betyder det, at Greentel giver dig et af landets bedste net, også i landområderne. Det er en væsentlig fordel i forhold til selskaberne på 3's net. Vil du være helt sikker, så tjek din adresse på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a>, og læs vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
 
 <h2>Greentel 5G og hastighed</h2>
-<p>Greentel har 5G på alle abonnementer – også det mindste til 48 kr. Sammen med Duka, Oister og Lyca Mobile er Greentel blandt de selskaber i vores sammenligning, hvor du aldrig skal tænke over, om dit abonnement har 5G. Hos Lebara er flere abonnementer kun 4G, og hos Flexii betaler du ekstra for 5G.</p>
-<p>Opensignal måler 5G-tilgængeligheden til mellem 92,7 og 94,1 % på alle fire danske net<sup class="ref"><a href="#kilde-2">2</a></sup>, og 85,8 % af alle standardabonnementer i Danmark havde 5G i andet halvår 2024<sup class="ref"><a href="#kilde-5">5</a></sup>. 5G giver især en fordel, når du downloader store filer, bruger telefonen som hotspot eller er mange på samme mast, fx til en koncert. Med 1000 GB-abonnementet kan 5G-forbindelsen sagtens bruges som erstatning for internet i et sommerhus. Se også vores side om <a href="/mobilt-bredbaand/">mobilt bredbånd</a> og guiden til <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+<p>Greentel har 5G på abonnementerne med {gb:gt-30} og {gb:gt-50}. De tre mindre abonnementer – Basic, 2 GB og fri tale + 10 GB – kører på 4G. Det er en mellemvej: Oister og Telmore har 5G på alt, Duka på alle abonnementer med fri tale, mens Lebara og Lyca Mobile kører på 4G overalt. Hos Flexii vælger du selv og betaler lidt ekstra for 5G.</p>
+<p>For de små abonnementer betyder 4G reelt intet. Med 5 eller 10 GB om måneden er det datamængden, ikke hastigheden, der sætter grænsen, og 4G klarer opkald, beskeder, nyheder og video uden problemer.</p>
+<p>Opensignal måler 5G-tilgængeligheden til mellem 92,7 og 94,1 % på alle fire danske net<sup class="ref"><a href="#kilde-2">2</a></sup>, og 85,8 % af alle standardabonnementer i Danmark havde 5G i andet halvår 2024<sup class="ref"><a href="#kilde-5">5</a></sup>. 5G giver især en fordel, når du downloader store filer, bruger telefonen som hotspot eller er mange på samme mast, fx til en koncert. Har du brug for at bruge mobilen som internet i et sommerhus, er Greentels største pakke på 50 GB dog lille. Se også vores side om <a href="/mobilt-bredbaand/">mobilt bredbånd</a> og guiden til <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
 
 <h2>Greentel i EU og udlandet</h2>
-<p>Greentels EU-data stiger med abonnementets størrelse: 2 GB på det mindste, 10 GB på 10 GB-abonnementet, 18 GB på 30 GB, 26 GB på 100 GB og 41 GB på 1000 GB. På de mellemstore abonnementer ligger Greentel lidt under konkurrenterne – Duka giver fx 30 GB i EU på både 30 GB- og 120 GB-abonnementet. På 1000 GB er 41 GB til gengæld blandt de højeste i vores test.</p>
+<p>Greentels EU-data: {eu:gt-2} GB på 2 GB-abonnementet, {eu:gt-10} GB på 10 GB-abonnementet, {eu:gt-30} GB på 30 GB og {eu:gt-50} GB på 50 GB. Basic har ingen oplyst EU-kvote i Greentels data, så tjek vilkårene, før du rejser. Bemærk, at 50 GB-abonnementet giver mindre EU-data end 30 GB. Greentel ligger her under konkurrenterne – Duka giver fx {eu:dk-30} GB i EU på 30 GB-abonnementet.</p>
 <p>Reglerne følger EU's "Roam like at home"-forordning, der gælder til 30. juni 2032<sup class="ref"><a href="#kilde-6">6</a></sup>. Du kan bruge abonnementet i EU, Norge, Island og Liechtenstein og fra 1. januar 2026 også i Ukraine og Moldova. Storbritannien og Schweiz er ikke omfattet af forordningen. Uden for EU spærres data ved 50 €, medmindre du vælger andet.</p>
-<p>Fair use-reglen ved store datamængder er mindst to gange månedsprisen ekskl. moms divideret med engrosloftet på 1,30 € pr. GB. For 189 kr. svarer det til ca. 151 kr. ekskl. moms eller cirka 20 €, og 20 € ÷ 1,30 € × 2 ≈ 31 GB. Greentels 41 GB ligger altså over minimumskravet. Regn selv efter med beregneren eller læs <a href="/mobilabonnement-udlandet/">guiden til mobil i udlandet</a>.</p>
+<p><strong>Regneeksempel:</strong> Tager du to uger til Spanien og bruger 1,5 GB om dagen, har du brug for ca. 21 GB. Med 30 GB-abonnementet har du 18 GB i EU, og de sidste 3 GB kan koste op til 3 × 1,30 € ≈ 29 kr. ekstra. Med 50 GB-abonnementet har du kun 15 GB i EU, så her kan ekstraregningen blive op til ca. 58 kr. Rejser du meget, er det altså 30 GB-abonnementet, du skal vælge hos Greentel. Regn selv efter med beregneren eller læs <a href="/mobilabonnement-udlandet/">guiden til mobil i udlandet</a>.</p>
 
 [[vaerktoej:roaming]]
 
 <h2>eSIM og opstart hos Greentel</h2>
-<p>Greentel tilbyder eSIM, ligesom alle de otte selskaber vi dækker. Apple har en liste over danske selskaber, der understøtter eSIM<sup class="ref"><a href="#kilde-8">8</a></sup>. Oprettelsen er gratis, og du bestiller online. Vælger du eSIM, slipper du for at vente på et fysisk SIM-kort med posten.</p>
+<p>Greentel tilbyder eSIM, ligesom alle de {antal_udbydere} selskaber vi dækker. Apple har en liste over danske selskaber, der understøtter eSIM<sup class="ref"><a href="#kilde-8">8</a></sup>. Oprettelsen er gratis, og du bestiller online. Vælger du eSIM, slipper du for at vente på et fysisk SIM-kort med posten.</p>
 <p>Ved bestillingen skal du vælge betalingsform. Her anbefaler vi at vælge betalingskort i stedet for Betalingsservice for at undgå de 10 kr. ekstra om måneden. Er du medlem af Ældre Sagen, skal du huske at oplyse det for at få rabatten. Se vores <a href="/esim/">eSIM-guide</a>, hvis du er i tvivl om, hvordan du sætter det op.</p>
 
 <h2>Kundeservice og vilkår</h2>
@@ -58,24 +60,24 @@ related: udbydere/duka, mobilabonnement-pensionister, fri-tale, 5g-mobilabonneme
 <p>Klimafokus er en del af Greentels profil, som navnet antyder. Hvor stor betydning det har for dit valg, er op til dig – vi bedømmer ikke selskaberne på klimaprofil, men på pris, net, fleksibilitet og service.</p>
 
 <h2>Hvem ejer Greentel? Ejerskab og historie</h2>
-<p>Greentel blev grundlagt i 2009 og er et uafhængigt dansk selskab. Det betyder, at Greentel ikke er en del af de store koncerner som TDC (YouSee, Telmore, Eesy), Hi3G (3, Oister, Flexii) eller Norlys (Norlys Mobil, Call me). Greentel er en såkaldt tjenesteudbyder, der lejer kapacitet på TT-netværket.</p>
+<p>Greentel blev grundlagt i 2009 og er et uafhængigt dansk selskab. Det betyder, at Greentel ikke er en del af de store koncerner som TDC (YouSee, Telmore, eesy), Hi3G (3, Oister, Flexii) eller Norlys (Norlys Mobil, Call me). Greentel er en såkaldt tjenesteudbyder, der lejer kapacitet på TT-netværket.</p>
 <p>Fordelen ved et uafhængigt selskab er, at det selv bestemmer sin prispolitik og service. Ulempen er, at brandet er mindre kendt end de store, og at Greentel ikke har butikker. For de fleste kunder betyder ejerskabet dog mindre end nettet – og det er det samme TT-netværk, som Telenor og Norlys' egne kunder bruger.</p>
 
 [[cta:greentel]]
 
 <h2>Greentel vs. alternativer</h2>
-<p>Greentel konkurrerer især med de andre selskaber på TT-netværket og med selskaber, der også har 5G på alt.</p>
+<p>Greentel konkurrerer især med de andre selskaber på TT-netværket og med de billige selskaber på 3's net.</p>
 <table>
-<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + 30 GB</th><th>Ca. 100 GB</th><th>Største pakke</th><th>Vores karakter</th></tr></thead>
+<thead><tr><th>Selskab</th><th>Net</th><th>Billigste abonnement</th><th>Fri tale + ca. 30-70 GB</th><th>Største pakke</th><th>Vores karakter</th></tr></thead>
 <tbody>
-<tr><td>Greentel</td><td>TT-netværket</td><td>89 kr. (18 GB EU)</td><td>100 GB: 119 kr.</td><td>1000 GB: 189 kr.</td><td>8,4</td></tr>
-<tr><td><a href="/udbydere/duka/">Duka</a></td><td>TT-netværket</td><td>99 kr. (55 kr. til 31.3.2027)</td><td>120 GB: 119 kr.</td><td>1000 GB: 179 kr.</td><td>8,6</td></tr>
-<tr><td><a href="/udbydere/lebara/">Lebara</a></td><td>TT-netværket</td><td>40 GB: 49 kr. (4G)</td><td>100 GB: 99 kr. (4G)</td><td>200 GB: 159 kr.</td><td>8,5</td></tr>
-<tr><td><a href="/udbydere/oister/">Oister</a></td><td>3</td><td>40 GB: 99 kr. (69 kr. i 6 mdr.)</td><td>100 GB: 109 kr. (79 kr. i 6 mdr.)</td><td>Fri data: 199 kr.</td><td>8,8</td></tr>
-<tr><td><a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>20 GB: 69 kr. (59 kr. første år)</td><td>150 GB: 109 kr.</td><td>Fri data: 149 kr.</td><td>8,9</td></tr>
+<tr><td>Greentel</td><td>TT-netværket</td><td>{gb:gt-5}: {pris:gt-5} kr.</td><td>{gb:gt-30}: {pris:gt-30} kr. (5G)</td><td>{gb:gt-50}: {pris:gt-50} kr.</td><td>8,4</td></tr>
+<tr><td><a href="/udbydere/duka/">Duka</a></td><td>TT-netværket</td><td>{gb:dk-6}: {pris:dk-6} kr.</td><td>{gb:dk-30}: {pris:dk-30} kr. (5G)</td><td>Fri data: {pris:dk-fri} kr.</td><td>8,6</td></tr>
+<tr><td><a href="/udbydere/lebara/">Lebara</a></td><td>TT-netværket</td><td>{gb:lb-5}: {pris:lb-5} kr.</td><td>{gb:lb-70}: {pris:lb-70} kr. (4G)</td><td>160 GB: {pris:lb-160} kr.</td><td>8,5</td></tr>
+<tr><td><a href="/udbydere/oister/">Oister</a></td><td>3</td><td>{gb:oi-12}: {pris:oi-12} kr.</td><td>{gb:oi-40}: {pris:oi-40} kr. ({introtekst:oi-40})</td><td>Fri data: {pris:oi-fri} kr.</td><td>8,8</td></tr>
+<tr><td><a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>{gb:fx-k10}: {pris:fx-k10} kr. ({introtekst:fx-k10})</td><td>{gb:fx-50-4g} (4G): {pris:fx-50-4g} kr. ({introtekst:fx-50-4g})</td><td>Fri data: {pris:fx-fri-4g} kr. (4G)</td><td>8,9</td></tr>
 </tbody>
 </table>
-<p>Duka er Greentels nærmeste konkurrent: samme net, 5G på alt og fri tale på alt. Duka er billigere på 1000 GB og har en stærk kampagne på 30 GB, mens Greentel er billigere på 30 GB efter Dukas kampagne og har det lille taleabonnement og Ældre Sagen-rabatten. Lebara er billigst på samme net, men uden 5G på mange abonnementer.</p>
+<p>Duka er Greentels nærmeste konkurrent: samme net, uafhængigt dansk selskab og 5G på alle abonnementer med fri tale. Duka har langt større datapakker (op til 1000 GB og fri data) og lige nu 200 GB for {introtekst:dk-200}, mens Greentel er billigere på 30 GB og har Basic-abonnementet og Ældre Sagen-rabatten. Lebara er billigst med fri tale på samme net ({gb:lb-70} for {pris:lb-70} kr.), men kører på 4G.</p>
 
 <h2>Hvem passer Greentel til – og hvem ikke?</h2>
 <h3>Greentel passer godt til dig, der</h3>
@@ -83,19 +85,20 @@ related: udbydere/duka, mobilabonnement-pensionister, fri-tale, 5g-mobilabonneme
 <li>vil have et stærkt net, også uden for de store byer.</li>
 <li>foretrækker en fast pris uden introrabatter, der stiger senere.</li>
 <li>er medlem af Ældre Sagen og kan få 10 kr. i rabat.</li>
-<li>vil have 5G uanset abonnement.</li>
-<li>bruger meget data og vil have 1000 GB til under 200 kr.</li>
+<li>skal bruge et billigt Basic-abonnement til {pris:gt-5} kr. til en ældre eller et barn.</li>
+<li>bruger 10-50 GB om måneden og vil have en fast pris.</li>
 <li>foretrækker et uafhængigt dansk selskab med god service.</li>
 </ul>
 <h3>Greentel passer mindre godt til dig, der</h3>
 <ul>
 <li>vil betale med Betalingsservice uden gebyr.</li>
-<li>jagter den absolut laveste pris på et lille abonnement.</li>
+<li>bruger mere end 50 GB om måneden – Greentels største pakke er 50 GB.</li>
+<li>vil have 5G på et lille abonnement.</li>
 <li>har brug for børne- eller familieabonnementer med datadeling.</li>
 <li>rejser meget i EU med et mellemstort abonnement.</li>
 </ul>
 
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>5G på alle abonnementer</li><li>TT-netværket med 9,2/10 i dækningsoplevelse</li><li>1000 GB for 189 kr./md.</li><li>Fast pris uden introfælder</li><li>10 kr. rabat for Ældre Sagen-medlemmer</li><li>Ingen binding og gratis oprettelse</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Betalingsservice koster 10 kr./md. ekstra</li><li>Ikke de laveste priser på små pakker</li><li>Lidt lavere EU-data på mellemstore abonnementer</li><li>Mindre kendt brand uden butikker</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Basic-abonnement fra {pris:gt-5} kr./md.</li><li>TT-netværket med 9,2/10 i dækningsoplevelse</li><li>5G på abonnementerne fra 30 GB</li><li>Fast pris uden introfælder</li><li>10 kr. rabat for Ældre Sagen-medlemmer</li><li>Ingen binding og gratis oprettelse</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Betalingsservice koster 10 kr./md. ekstra</li><li>Små abonnementer kører på 4G</li><li>Ingen pakker over 50 GB</li><li>Lidt EU-data på 50 GB-pakken ({eu:gt-50} GB)</li><li>Mindre kendt brand uden butikker</li></ul></div></div>
 
 <h2>Sådan skifter du til Greentel</h2>
 <p>Det er nemt at skifte, og Greentel opsiger dit gamle abonnement for dig, når du flytter nummeret.</p>
@@ -112,26 +115,26 @@ related: udbydere/duka, mobilabonnement-pensionister, fri-tale, 5g-mobilabonneme
 [[cta:greentel]]
 
 <h2>Vores samlede vurdering af Greentel</h2>
-<p>Greentel får 8,4 ud af 10. Karakteren er sammensat af net (8,8), service (8,6), fleksibilitet (8,4) og pris (8,1). Greentel har ingen store svagheder, men heller ikke de helt lave priser, som trækker selskaber som Flexii og Oister op. Se, hvordan vi vægter, på siden om <a href="/metode/">vores metode</a>.</p>
+<p>Greentel får 8,4 ud af 10. Karakteren er sammensat af net (8,8), service (8,6), fleksibilitet (8,4) og pris (8,1). Greentel har ingen store svagheder, men heller ikke de helt lave priser på mellemstore pakker, som trækker selskaber som Flexii og Oister op. Basic til {pris:gt-5} kr. og faste priser trækker til gengæld op. Se, hvordan vi vægter, på siden om <a href="/metode/">vores metode</a>.</p>
 
-<blockquote class="expert"><p>Greentel er det, jeg vil kalde et trygt valg. Du får et af Danmarks bedste net, 5G på alt og en pris, der ikke stiger efter et halvt år. Det er ikke det billigste selskab, men det er et selskab, hvor du ikke får ubehagelige overraskelser – bortset fra gebyret for Betalingsservice, som jeg synes, man bør undgå. For pensionister med Ældre Sagen-medlemskab er Greentel et af de bedste valg på markedet.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Greentel er det, jeg vil kalde et trygt valg. Du får et af Danmarks bedste net, 5G på de større pakker og en pris, der ikke stiger efter et halvt år. Det er ikke det billigste selskab, men det er et selskab, hvor du ikke får ubehagelige overraskelser – bortset fra gebyret for Betalingsservice, som jeg synes, man bør undgå. For pensionister med Ældre Sagen-medlemskab er Greentel et af de bedste valg på markedet.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 ===FAQ===
 Q: Hvilket net bruger Greentel?
 A: Greentel kører på TT-netværket, som Telenor og Norlys ejer i fællesskab. Opensignal giver både Telenor og Norlys 9,2 ud af 10 i dækningsoplevelse, kun lige efter TDC.
 Q: Har Greentel 5G?
-A: Ja, alle Greentels abonnementer har 5G – også det mindste taleabonnement til 48 kr./md.
+A: Delvist. Abonnementerne med fri tale + {gb:gt-30} ({pris:gt-30} kr.) og {gb:gt-50} ({pris:gt-50} kr.) har 5G. Basic, 2 GB-abonnementet og fri tale + 10 GB kører på 4G.
 Q: Koster det ekstra at betale med Betalingsservice hos Greentel?
 A: Ja, Greentel opkræver 10 kr. ekstra om måneden, hvis du betaler via Betalingsservice. Betaler du med betalingskort, slipper du for gebyret.
 Q: Hvilken rabat får Ældre Sagen-medlemmer hos Greentel?
 A: Medlemmer af Ældre Sagen får 10 kr. i rabat om måneden. Se flere gode tilbud til ældre på vores side om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.
 Q: Har Greentel fri data?
-A: Greentel har ikke et abonnement med ubegrænset data, men 1000 GB for 189 kr./md., som i praksis er nok til næsten alle. Se alternativer i vores <a href="/mobilabonnement-fri-data/">sammenligning af fri data</a>.
+A: Nej. Greentels største abonnement er fri tale + {gb:gt-50} for {pris:gt-50} kr./md. – 100 GB og 1000 GB findes ikke længere. Har du brug for mere, har Duka på samme net fri data for {pris:dk-fri} kr. Se alternativer i vores <a href="/mobilabonnement-fri-data/">sammenligning af fri data</a>.
 Q: Er der binding hos Greentel?
 A: Nej, der er ingen binding og ingen oprettelsesgebyr. Du har desuden 14 dages fortrydelsesret ved køb online.
 Q: Hvem ejer Greentel?
 A: Greentel er et uafhængigt dansk selskab grundlagt i 2009. Det er ikke en del af TDC, Hi3G eller Norlys, men lejer kapacitet på TT-netværket.
 Q: Hvad er forskellen på Greentel og Duka?
-A: Begge er uafhængige danske selskaber på TT-netværket med 5G og fri tale. Duka er billigere på 1000 GB og har en kampagne på 30 GB, mens Greentel har faste priser, et lille taleabonnement og Ældre Sagen-rabat. Se vores <a href="/udbydere/duka/">Duka-anmeldelse</a>.
+A: Begge er uafhængige danske selskaber på TT-netværket. Duka har 5G på alle abonnementer med fri tale og pakker op til fri data, mens Greentel har 5G på 30 og 50 GB, et Basic-abonnement til {pris:gt-5} kr. og Ældre Sagen-rabat. Se vores <a href="/udbydere/duka/">Duka-anmeldelse</a>.
 ===KILDER===
 Greentel – mobilabonnementer og priser | https://www.greentel.dk/mobilabonnement
 Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience

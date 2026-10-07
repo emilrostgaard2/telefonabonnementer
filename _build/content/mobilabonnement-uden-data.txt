@@ -1,10 +1,10 @@
 ---
 slug: mobilabonnement-uden-data
 title: Mobilabonnement uden data → Fra {fra:kun-tale} kr. ({maaned})
-desc: Find mobilabonnement uden data eller med kun tale i {maaned}. Fra 19 kr./md. uden binding. Se de billigste, 4G-dumbphones og sådan spærrer du data.
+desc: Find mobilabonnement uden data eller med kun tale i {maaned}. Fra {fra:kun-tale} kr./md. uden binding. Se de billigste, 4G-dumbphones og sådan spærrer du data.
 h1: Mobilabonnement uden data
-kicker: Opdateret {maaned} · 6 abonnementer til tale sammenlignet
-answer: Der findes stort set ikke mobilabonnementer helt uden data i Danmark længere. Det billigste alternativ i {maaned} er Lebara eller Lyca Mobile med 5 timers tale og 5 GB for 19 kr./md. Vil du have et abonnement med fokus på tale, har Greentel 2 timer og 2 GB for 48 kr., og Oister har 12 timer og 12 GB for 69 kr. Du kan selv slå data fra på telefonen.
+kicker: Opdateret {maaned} · 8 abonnementer til tale sammenlignet
+answer: Der findes stort set ikke mobilabonnementer helt uden data i Danmark længere. Det billigste alternativ i {maaned} er Lebara eller Lyca Mobile med 5 timers tale og {gb:lb-5} for {pris:lb-5} kr./md. Greentel Basic har 1 time og {gb:gt-5} for {pris:gt-5} kr., Duka 6 timer og {gb:dk-6} for {pris:dk-6} kr., og vil du have fri tale, koster Lebara {pris:lb-70} kr. Du kan selv slå data fra på telefonen.
 lead: Skal telefonen bare kunne ringe og sende sms? Her finder du de billigste abonnementer til tale, hvad du skal vide om 4G-telefoner efter 3G-lukningen, og hvordan du spærrer data, så der aldrig kommer en ekstraregning.
 crumb: Uden data
 section: typer
@@ -12,35 +12,37 @@ related: billigste-mobilabonnement, mobilabonnement-pensionister, taletidskort, 
 ---
 <h2>Mobilabonnement uden data i {maaned}: de billigste til tale</h2>
 <p>Søger du et mobilabonnement uden data, er du ikke alene. Mange ældre, børn med deres første telefon og folk, der vil holde en pause fra skærmen, har kun brug for at ringe og sende sms. Men det danske marked har ændret sig: Næsten alle abonnementer har i dag en datapakke med, og de abonnementer, der reelt er helt uden data, er forsvundet fra de store lavprisselskaber.</p>
-<p>Den gode nyhed er, at abonnementerne med lidt data er blevet så billige, at du ikke betaler ekstra for dataen. Det billigste abonnement på markedet koster 19 kr./md., og det har både 5 timers tale og 5 GB data. Her er de abonnementer på vores liste, der er bygget til folk, der primært ringer – priserne er tjekket 7. oktober 2026.</p>
+<p>Den gode nyhed er, at abonnementerne med lidt data er blevet så billige, at du ikke betaler ekstra for dataen. Det billigste abonnement på markedet koster {pris:lb-5} kr./md., og det har både 5 timers tale og {gb:lb-5} data. Her er de abonnementer på vores liste, der er bygget til folk, der primært ringer – priserne er tjekket 7. oktober 2026.</p>
 [[tabel:kun-tale|sort=price|titel=Billigste abonnementer til tale og lidt data]]
-<div class="callout"><p><strong>Kort sagt:</strong> Et abonnement helt uden data findes næsten ikke længere, men Lebara og Lyca giver dig 5 timers tale og 5 GB for 19 kr./md. – billigere end de gamle kun-tale-abonnementer. Bruger du ikke dataen, kan du slå mobildata fra på telefonen. Og husk: Gamle 3G-telefoner virker ikke længere i Danmark, så telefonen skal kunne 4G.</p></div>
+<div class="callout"><p><strong>Kort sagt:</strong> Et abonnement helt uden data findes næsten ikke længere, men Lebara og Lyca giver dig 5 timers tale og {gb:lb-5} for {pris:lb-5} kr./md. – billigere end de gamle kun-tale-abonnementer. Bruger du ikke dataen, kan du slå mobildata fra på telefonen. Og husk: Gamle 3G-telefoner virker ikke længere i Danmark, så telefonen skal kunne 4G.</p></div>
 
 <h2>Findes der mobilabonnementer helt uden data?</h2>
 <p>Kort svar: næsten ikke. For ti år siden kunne man vælge mellem rene taleabonnementer og abonnementer med data. I dag har selskaberne samlet det hele i pakker, fordi data er blevet det, kunderne efterspørger. Ifølge Digitaliseringsstyrelsens telestatistik var der 7.549.492 standardabonnementer med tale og data i Danmark i andet halvår af 2024, og den gennemsnitlige abonnent brugte 26,9 GB om måneden – 20,8 % mere end året før.<sup class="ref"><a href="#kilde-1">1</a></sup></p>
 <p>Der er også en teknisk grund. Efter at 3G-nettene er lukket, foregår også almindelige opkald på 4G og 5G via teknologien VoLTE (Voice over LTE). Selve opkaldet er altså digitalt, og for selskaberne er der ingen grund til at adskille tale og data. Derfor er de billigste abonnementer i dag pakker med lidt tale og lidt data.</p>
 <p>Det betyder ikke, at du skal bruge data. Du kan købe det billigste abonnement og slå data fra på telefonen. Så betaler du ikke en krone mere, end hvis abonnementet havde været helt uden data – og du har dataen, hvis du en dag får brug for at finde vej eller sende et billede.</p>
-<div class="stat-grid"><div class="stat"><b>19 kr.</b><span>billigste abonnement med 5 timers tale og 5 GB</span></div><div class="stat"><b>300 min.</b><span>inkluderet tale i de billigste abonnementer</span></div><div class="stat"><b>0</b><span>3G-net tilbage i Danmark – alle lukket</span></div></div>
+<div class="stat-grid"><div class="stat"><b>{pris:lb-5} kr.</b><span>billigste abonnement med 5 timers tale og {gb:lb-5}</span></div><div class="stat"><b>300 min.</b><span>inkluderet tale i de billigste abonnementer</span></div><div class="stat"><b>0</b><span>3G-net tilbage i Danmark – alle lukket</span></div></div>
 
 <h2>De billigste abonnementer med minimal data</h2>
 <p>Vi har gennemgået de abonnementer, der passer bedst til dig, der vil ringe og ikke bruger meget data. Her er vores vurdering af hver enkelt:</p>
 <table>
 <thead><tr><th>Abonnement</th><th>Tale</th><th>Data</th><th>5G</th><th>Pris pr. md.</th><th>Pris pr. år</th></tr></thead>
 <tbody>
-<tr><td>Lebara 5 GB / 5 timer</td><td>5 timer</td><td>5 GB</td><td>Nej (4G)</td><td>19 kr.</td><td>228 kr.</td></tr>
-<tr><td>Lyca Mobile 5 GB / 5 timer</td><td>5 timer</td><td>5 GB</td><td>Ja</td><td>19 kr.</td><td>228 kr.</td></tr>
-<tr><td>Greentel 2 timer + 2 GB</td><td>2 timer</td><td>2 GB</td><td>Ja</td><td>48 kr.</td><td>576 kr.</td></tr>
-<tr><td>Oister 12 timer + 12 GB</td><td>12 timer</td><td>12 GB</td><td>Ja</td><td>69 kr.</td><td>828 kr.</td></tr>
-<tr><td>Telmore 3 timer + 3 GB</td><td>3 timer</td><td>3 GB</td><td>Nej</td><td>79 kr.</td><td>948 kr.</td></tr>
-<tr><td>YouSee 3 timer + 3 GB</td><td>3 timer</td><td>3 GB</td><td>Ja</td><td>99 kr.</td><td>1.188 kr.</td></tr>
+<tr><td>{navn:lb-5}</td><td>5 timer</td><td>{gb:lb-5}</td><td>Nej (4G)</td><td>{pris:lb-5} kr.</td><td>228 kr.</td></tr>
+<tr><td>{navn:ly-5}</td><td>5 timer</td><td>{gb:ly-5}</td><td>Nej (4G)</td><td>{pris:ly-5} kr.</td><td>228 kr.</td></tr>
+<tr><td>{navn:gt-5}</td><td>1 time</td><td>{gb:gt-5}</td><td>Nej (4G)</td><td>{pris:gt-5} kr.</td><td>348 kr.</td></tr>
+<tr><td>{navn:gt-2}</td><td>2 timer</td><td>{gb:gt-2}</td><td>Nej (4G)</td><td>{pris:gt-2} kr.</td><td>576 kr.</td></tr>
+<tr><td>{navn:dk-6}</td><td>6 timer</td><td>{gb:dk-6}</td><td>Nej (4G)</td><td>{pris:dk-6} kr.</td><td>708 kr.</td></tr>
+<tr><td>{navn:tm-3}</td><td>3 timer</td><td>{gb:tm-3}</td><td>Ja</td><td>{pris:tm-3} kr.</td><td>948 kr.</td></tr>
+<tr><td>{navn:ys-3}</td><td>3 timer</td><td>{gb:ys-3}</td><td>Nej (4G)</td><td>{pris:ys-3} kr.</td><td>1.188 kr.</td></tr>
+<tr><td>{navn:lb-70} (til sammenligning)</td><td>Fri</td><td>{gb:lb-70}</td><td>Nej (4G)</td><td>{pris:lb-70} kr.</td><td>708 kr.</td></tr>
 </tbody>
 </table>
-<h3>Lebara og Lyca: 19 kr. for 5 timer og 5 GB</h3>
-<p>Lebara og Lyca Mobile har markedets laveste pris. For 19 kr./md. får du 300 minutters tale og 5 GB data.<sup class="ref"><a href="#kilde-2">2</a></sup><sup class="ref"><a href="#kilde-9">9</a></sup> Lebara kører på TT-netværket, som Telenor og Norlys deler, mens Lyca kører på TDC NET. I Opensignals måling havde de to net en dækningsoplevelse på henholdsvis 9,2 og 9,3 ud af 10.<sup class="ref"><a href="#kilde-3">3</a></sup> Forskellen er, at Lycas pakke har 5G, mens Lebaras billigste abonnement kun er 4G. Til opkald og sms betyder det intet. Lyca sælger pakker, der gælder 30 dage ad gangen, mens Lebara er et løbende abonnement uden binding. Læs mere om <a href="/udbydere/lebara/">Lebara</a> og <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>.</p>
-<h3>Greentel: 2 timer for 48 kr. hos et dansk selskab</h3>
-<p>Greentel er et uafhængigt dansk selskab med 5G på alle abonnementer. Det mindste abonnement har 2 timers tale og 2 GB for 48 kr./md. Det er dyrere end Lebara og Lyca, men nogle foretrækker et uafhængigt dansk selskab. Er du medlem af Ældre Sagen, får du 10 kr. rabat om måneden, så prisen bliver 38 kr. Husk, at betaling via Betalingsservice koster 10 kr. ekstra om måneden.<sup class="ref"><a href="#kilde-4">4</a></sup></p>
-<h3>Oister: 12 timer for 69 kr.</h3>
-<p>Ringer du meget, men bruger stadig næsten ingen data, er Oisters abonnement med 12 timers tale og 12 GB for 69 kr./md. et godt bud. 12 timer svarer til 720 minutter om måneden – eller omkring 24 minutter hver dag. Oister kører på 3's net med 5G.<sup class="ref"><a href="#kilde-5">5</a></sup> Har du brug for endnu mere tale, bør du dog se på fri tale: Lebara har fri tale og 40 GB for 49 kr./md., hvilket er billigere end Oisters 12 timer. Se alle muligheder på siden om <a href="/fri-tale/">abonnementer med fri tale</a>.</p>
+<h3>Lebara og Lyca: {pris:lb-5} kr. for 5 timer og {gb:lb-5}</h3>
+<p>Lebara og Lyca Mobile har markedets laveste pris. For {pris:lb-5} kr./md. får du 300 minutters tale og {gb:lb-5} data.<sup class="ref"><a href="#kilde-2">2</a></sup><sup class="ref"><a href="#kilde-9">9</a></sup> Begge kører på 4G på TT-netværket, som Telenor og Norlys deler, og som i Opensignals måling havde en dækningsoplevelse på 9,2 ud af 10.<sup class="ref"><a href="#kilde-3">3</a></sup> Til opkald og sms betyder det intet, at der ikke er 5G. Lebara inkluderer desuden 5 timers opkald til 60+ lande. Lyca sælger pakker, der gælder 30 dage ad gangen, mens Lebara er et løbende abonnement uden binding. Læs mere om <a href="/udbydere/lebara/">Lebara</a> og <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>.</p>
+<h3>Greentel: Basic fra {pris:gt-5} kr. hos et dansk selskab</h3>
+<p>Greentel er et uafhængigt dansk selskab på TT-netværket. De to små abonnementer kører på 4G: Basic med 1 times tale og {gb:gt-5} for {pris:gt-5} kr./md. og 2 timers tale og {gb:gt-2} for {pris:gt-2} kr./md. Det er dyrere end Lebara og Lyca, men nogle foretrækker et uafhængigt dansk selskab. Er du medlem af Ældre Sagen, får du 10 kr. rabat om måneden, så 2-timers-abonnementet koster 38 kr. Husk, at betaling via Betalingsservice koster 10 kr. ekstra om måneden.<sup class="ref"><a href="#kilde-4">4</a></sup></p>
+<h3>Duka: 6 timer for {pris:dk-6} kr. – eller fri tale</h3>
+<p>Ringer du meget, men bruger stadig næsten ingen data, er Dukas abonnement med 6 timers tale og {gb:dk-6} for {pris:dk-6} kr./md. et bud. 6 timer svarer til 360 minutter om måneden – eller omkring 12 minutter hver dag. Men ringer du så meget, bør du se på fri tale: Lebara har fri tale og {gb:lb-70} for {pris:lb-70} kr./md., og Oister har fri tale og {gb:oi-12} med 5G på 3's net for {pris:oi-12} kr.<sup class="ref"><a href="#kilde-5">5</a></sup> Flexii har fri tale og {gb:fx-k10} for {pris:fx-k10} kr. ({introtekst:fx-k10}). Se alle muligheder på siden om <a href="/fri-tale/">abonnementer med fri tale</a>.</p>
 [[cta:lyca]]
 
 <h2>Hvor meget tale har du brug for?</h2>
@@ -48,13 +50,13 @@ related: billigste-mobilabonnement, mobilabonnement-pensionister, taletidskort, 
 <table>
 <thead><tr><th>Typisk brug</th><th>Minutter pr. md.</th><th>Anbefaling</th></tr></thead>
 <tbody>
-<tr><td>Nødtelefon, få opkald om ugen</td><td>Under 60</td><td>19 kr. med 5 timer</td></tr>
-<tr><td>Dagligt opkald på 5-10 minutter</td><td>150-300</td><td>19 kr. med 5 timer</td></tr>
-<tr><td>Flere lange samtaler hver dag</td><td>300-720</td><td>Fri tale fra 49 kr. eller 12 timer for 69 kr.</td></tr>
-<tr><td>Ringer meget og vil ikke tænke på det</td><td>Over 720</td><td>Fri tale fra 49 kr.</td></tr>
+<tr><td>Nødtelefon, få opkald om ugen</td><td>Under 60</td><td>{pris:gt-5}-{pris:lb-5} kr. med 1-5 timer</td></tr>
+<tr><td>Dagligt opkald på 5-10 minutter</td><td>150-300</td><td>{pris:lb-5} kr. med 5 timer</td></tr>
+<tr><td>Flere lange samtaler hver dag</td><td>300-720</td><td>Fri tale fra {pris:fx-k10} kr.</td></tr>
+<tr><td>Ringer meget og vil ikke tænke på det</td><td>Over 720</td><td>Fri tale fra {pris:fx-k10} kr.</td></tr>
 </tbody>
 </table>
-<p>Fem timer er mere, end de fleste tror. Ringer du ti minutter hver dag i en måned med 30 dage, bruger du 300 minutter – præcis fem timer. Ringer du mere end det, er et abonnement med fri tale til 49 kr. ofte et bedre køb end at betale for ekstra minutter.</p>
+<p>Fem timer er mere, end de fleste tror. Ringer du ti minutter hver dag i en måned med 30 dage, bruger du 300 minutter – præcis fem timer. Ringer du mere end det, er et abonnement med fri tale til {pris:fx-k10}-{pris:lb-70} kr. ofte et bedre køb end at betale for ekstra minutter.</p>
 [[simo:Tjek, om sms er inkluderet i abonnementet. Skriver du hellere end ringer, kan du ofte klare dig med færre timer, end du tror.]]
 
 <h2>Telefon uden data: 4G-dumbphones efter 3G-lukningen</h2>
@@ -91,7 +93,7 @@ related: billigste-mobilabonnement, mobilabonnement-pensionister, taletidskort, 
 
 <h2>Hvem passer et abonnement uden data til?</h2>
 <h3>Ældre og pensionister</h3>
-<p>Mange ældre bruger mobilen til at ringe til familie og læge og har ikke brug for internet. Et abonnement til 19 kr. dækker behovet, og Greentel giver rabat til medlemmer af Ældre Sagen. Læs mere på siden om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
+<p>Mange ældre bruger mobilen til at ringe til familie og læge og har ikke brug for internet. Et abonnement til {pris:lb-5} kr. dækker behovet, og Greentel giver rabat til medlemmer af Ældre Sagen. Læs mere på siden om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
 <h3>Børn med deres første telefon</h3>
 <p>Mange forældre vil give barnet en telefon, der kan ringe hjem, uden at give adgang til sociale medier. En 4G-dumbphone med et billigt abonnement er en populær løsning. Se også siden om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.</p>
 <h3>Digital detox</h3>
@@ -100,30 +102,30 @@ related: billigste-mobilabonnement, mobilabonnement-pensionister, taletidskort, 
 <p>Telefoner i sommerhuset, i bilen eller i en alarm bruges sjældent. Her er den laveste månedspris det vigtigste.</p>
 
 <h2>Fordele og ulemper ved et abonnement med minimal data</h2>
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Fra 19 kr./md. – markedets laveste pris</li><li>Ingen binding hos lavprisselskaberne</li><li>Du har data, hvis du får brug for det</li><li>Kan bruges i både smartphone og 4G-dumbphone</li><li>Ingen ekstraregninger, når data er slået fra</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Abonnementer helt uden data findes næsten ikke</li><li>Begrænset tale – ringer du meget, er fri tale bedre</li><li>Gamle 3G-telefoner virker ikke</li><li>Lebaras billigste abonnement er kun 4G</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Fra {pris:lb-5} kr./md. – markedets laveste pris</li><li>Ingen binding hos lavprisselskaberne</li><li>Du har data, hvis du får brug for det</li><li>Kan bruges i både smartphone og 4G-dumbphone</li><li>Ingen ekstraregninger, når data er slået fra</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Abonnementer helt uden data findes næsten ikke</li><li>Begrænset tale – ringer du meget, er fri tale bedre</li><li>Gamle 3G-telefoner virker ikke</li><li>De billigste abonnementer kører kun på 4G</li></ul></div></div>
 
 <h2>Regneeksempel: hvor meget kan du spare?</h2>
-<p>Mange har stadig et gammelt abonnement fra et af de store selskaber, som de aldrig har fået skiftet. Betaler du 99 kr./md. for 3 timers tale og 3 GB hos YouSee, betaler du 1.188 kr. om året. Skifter du til Lebara eller Lyca til 19 kr./md., betaler du 228 kr. om året – en besparelse på 960 kr. om året for mere tale og mere data. Fra Telmores 3 timer til 79 kr. er besparelsen 720 kr. om året.</p>
+<p>Mange har stadig et gammelt abonnement fra et af de store selskaber, som de aldrig har fået skiftet. Betaler du {pris:ys-3} kr./md. for 3 timers tale og {gb:ys-3} hos YouSee, betaler du 1.188 kr. om året. Skifter du til Lebara eller Lyca til {pris:lb-5} kr./md., betaler du 228 kr. om året – en besparelse på 960 kr. om året for mere tale og mere data. Fra Telmores 3 timer til {pris:tm-3} kr. er besparelsen 720 kr. om året. Og vil du hellere have fri tale, er Lebara {gb:lb-70} til {pris:lb-70} kr. stadig 480 kr. billigere om året end YouSees 3 timer.</p>
 <p>Du kan tage dit nummer med, og flytningen sker senest ved udgangen af den næstfølgende arbejdsdag uden særskilt betaling.<sup class="ref"><a href="#kilde-8">8</a></sup> Se trin for trin i guiden <a href="/guides/skift-mobilabonnement/">sådan skifter du mobilabonnement</a>.</p>
 [[vaerktoej:sparberegner]]
 
 <h2>Sådan vælger du det rigtige abonnement til tale</h2>
 <ol class="steps">
-<li><strong>Find ud af, hvor meget du ringer.</strong> Under 300 minutter om måneden: vælg 5 timer for 19 kr. Over: vælg fri tale.</li>
+<li><strong>Find ud af, hvor meget du ringer.</strong> Under 300 minutter om måneden: vælg 5 timer for {pris:lb-5} kr. Over: vælg fri tale.</li>
 <li><strong>Tjek telefonen.</strong> Den skal understøtte 4G og VoLTE. Ellers kan du ikke ringe på alle net.</li>
-<li><strong>Tjek dækningen hjemme.</strong> Lebara og Greentel kører på TT-netværket, Oister på 3's net, mens Lyca – ligesom Telmore og YouSee – kører på TDC NET. Læs vores guide til <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>.</li>
+<li><strong>Tjek dækningen hjemme.</strong> Lebara, Lyca, Greentel, Duka og CBB kører på TT-netværket (Norlys/Telenor), Oister og Flexii på 3's net, mens Telmore, YouSee og eesy kører på TDC NET. Læs vores guide til <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>.</li>
 <li><strong>Vælg uden binding.</strong> Så kan du skifte, hvis behovet ændrer sig.</li>
 <li><strong>Slå data fra, hvis du ikke vil bruge det.</strong> Så er abonnementet i praksis uden data.</li>
 </ol>
-<blockquote class="expert"><p>Jeg anbefaler sjældent at lede efter et abonnement helt uden data. Det billigste med lidt data koster 19 kr., og det er billigere end de gamle taleabonnementer var. Det vigtigste er faktisk telefonen: En billig knaptelefon uden 4G og VoLTE kan risikere ikke at kunne ringe efter 3G-lukningen. Tjek 4G og VoLTE, før du køber.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Jeg anbefaler sjældent at lede efter et abonnement helt uden data. Det billigste med lidt data koster {pris:lb-5} kr., og det er billigere end de gamle taleabonnementer var. Det vigtigste er faktisk telefonen: En billig knaptelefon uden 4G og VoLTE kan risikere ikke at kunne ringe efter 3G-lukningen. Tjek 4G og VoLTE, før du køber.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sådan har vi sammenlignet</h2>
 <p>Alle priser er tjekket på udbydernes egne sider 7. oktober 2026. Vi har udvalgt abonnementer med begrænset tale og data og regnet årspriser ud fra normalprisen. Vi vurderer alle udbydere efter samme kriterier – læs mere om <a href="/metode/">vores metode</a>, eller <a href="/">sammenlign alle telefonabonnementer</a>. Leder du efter et forudbetalt alternativ, så se vores side om <a href="/taletidskort/">taletidskort</a>.</p>
 ===FAQ===
 Q: Kan man få et mobilabonnement helt uden data?
-A: Det er næsten umuligt hos de danske lavprisselskaber i dag. De billigste abonnementer har lidt data inkluderet, fx 5 GB hos Lebara og Lyca for 19 kr./md. Du kan selv slå mobildata fra på telefonen.
+A: Det er næsten umuligt hos de danske lavprisselskaber i dag. De billigste abonnementer har lidt data inkluderet, fx {gb:lb-5} hos Lebara og Lyca for {pris:lb-5} kr./md. Du kan selv slå mobildata fra på telefonen.
 Q: Hvad er det billigste abonnement med kun tale?
-A: Lebara og Lyca Mobile har 5 timers tale og 5 GB for 19 kr./md. Det er billigere end de gamle rene taleabonnementer. Greentel har 2 timer for 48 kr., og Oister 12 timer for 69 kr.
+A: Lebara og Lyca Mobile har 5 timers tale og {gb:lb-5} for {pris:lb-5} kr./md. Det er billigere end de gamle rene taleabonnementer. Greentel Basic har 1 time for {pris:gt-5} kr., Greentel 2 timer for {pris:gt-2} kr., og Duka 6 timer for {pris:dk-6} kr.
 Q: Virker min gamle mobiltelefon stadig?
 A: Ikke nødvendigvis. Alle 3G-net i Danmark er lukket – TT-netværket i april 2023 og 3 den 1. december 2025. Telefoner, der ikke understøtter 4G og VoLTE, kan ikke længere ringe på alle net.
 Q: Hvilken telefon skal jeg købe, hvis jeg ikke vil have internet?
@@ -133,9 +135,9 @@ A: På iPhone går du til Indstillinger, Mobilnetværk og slår Mobildata fra. P
 Q: Kan der komme ekstraregninger, hvis jeg slår data fra?
 A: Nej, ikke for data. Bruger du mere tale end inkluderet, kan der dog komme et tillæg afhængigt af selskabet. Bed også selskabet om at spærre for betalingstjenester, hvis du vil være helt sikker.
 Q: Hvad er bedst til en pensionist, der kun ringer?
-A: Et abonnement til 19 kr. med 5 timers tale dækker de fleste. Foretrækker du et dansk selskab med telefonsupport, har Greentel 2 timer for 48 kr. med 10 kr. rabat til Ældre Sagen-medlemmer.
+A: Et abonnement til {pris:lb-5} kr. med 5 timers tale dækker de fleste. Foretrækker du et dansk selskab med telefonsupport, har Greentel 2 timer for {pris:gt-2} kr. med 10 kr. rabat til Ældre Sagen-medlemmer.
 Q: Er 5 timers tale nok?
-A: For de fleste ja. 5 timer svarer til 300 minutter, eller ti minutter hver dag i en måned. Ringer du mere, er fri tale fra 49 kr./md. hos Lebara et bedre køb.
+A: For de fleste ja. 5 timer svarer til 300 minutter, eller ti minutter hver dag i en måned. Ringer du mere, er fri tale hos Lebara for {pris:lb-70} kr./md. eller Flexii fra {pris:fx-k10} kr. et bedre køb.
 ===KILDER===
 Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
 Lebara – mobilabonnementer | https://www.lebara.dk

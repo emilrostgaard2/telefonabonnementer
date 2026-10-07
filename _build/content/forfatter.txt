@@ -31,7 +31,7 @@ related: metode, redaktionel-politik, om-os, kontakt
 
 <h2>Sådan arbejder Emil med priser og kilder</h2>
 <h3>Prisopsamling direkte hos udbyderne</h3>
-<p>Alle priser på sitet hentes fra udbydernes egne prissider. Hvor vi har et samarbejde, bruges partnerens produktfeed som supplement, men prisen sammenholdes altid med det, der står på udbyderens egen side. Seneste fulde gennemgang af priserne blev lavet 7. oktober 2026, og priserne opdateres løbende, når selskaberne ændrer dem. Når en kampagne har en udløbsdato, noteres den, så siden kan rettes, når tilbuddet slutter.</p>
+<p>Alle priser og abonnementsdata på sitet hentes automatisk hver nat fra udbydernes officielle prisfeed via affiliatenetværket Adtraction – det er udbyderne selv, der leverer dataene. Feedet suppleres med stikprøver på udbydernes egne prissider, og ved afvigelser er udbyderens side afgørende. Seneste samlede kontrol blev lavet 7. oktober 2026. Når en kampagne har en udløbsdato, noteres den, så siden kan rettes, når tilbuddet slutter.</p>
 <h3>Kildekritik</h3>
 <p>Emil skelner skarpt mellem kilder. Officielle tal fra myndigheder som Digitaliseringsstyrelsen og Danmarks Statistik vægtes højest. Uafhængige målinger bruges med angivelse af, hvem der står bag – fx er det tydeligt markeret på vores sider, at Teknologisk Instituts måling af mobilnettene fra 2026 er bestilt af TDC NET. Udbydernes egne markedsføringstal ("Danmarks bedste net" og lignende) bruges ikke som dokumentation.</p>
 <h3>Ingen opdigtede tal</h3>
@@ -39,7 +39,7 @@ related: metode, redaktionel-politik, om-os, kontakt
 <h3>Uafhængighed</h3>
 <p>Telefonabonnementer.dk kan tjene penge, når du skifter via vores links. Det påvirker ikke karaktererne, og ingen udbyder kan købe sig til en bedre placering. Emil er personligt ansvarlig for, at den regel bliver overholdt. Læs mere i vores <a href="/annoncoeroplysning/">annoncøroplysning</a> og <a href="/redaktionel-politik/">redaktionelle politik</a>.</p>
 
-<blockquote class="expert"><p>Det vigtigste råd, jeg kan give, er at regne på hele året og ikke kun den første måned. En kampagnepris på 26 kr. ser fantastisk ud, men det er normalprisen, du betaler i de næste ti måneder.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Det vigtigste råd, jeg kan give, er at regne på hele året og ikke kun den første måned. En kampagnepris på 69 kr. ser fantastisk ud, men det er normalprisen, du betaler i de næste ni måneder.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sider skrevet af Emil Rostgaard Clausen</h2>
 <p>Emil har skrevet eller redigeret alle sider på telefonabonnementer.dk. Her er et udvalg:</p>
@@ -76,7 +76,7 @@ A: Alle sider skrives eller redigeres af Emil Rostgaard Clausen, der er ansvarsh
 Q: Er Emil Rostgaard Clausen ansat hos et teleselskab?
 A: Nej. Emil er ikke ansat hos eller ejer af noget teleselskab. Telefonabonnementer.dk udgives af Emro Media, som er uafhængig af udbyderne. Vi kan modtage provision, når du skifter via vores links, hvilket er beskrevet i vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.
 Q: Hvordan sikrer redaktøren, at priserne er korrekte?
-A: Priserne hentes fra udbydernes egne prissider og sammenholdes med partnerfeeds. Seneste fulde gennemgang var 7. oktober 2026, og priserne opdateres løbende. Fremgangsmåden står på siden om vores <a href="/metode/">metode</a>.
+A: Priserne hentes automatisk hver nat fra udbydernes officielle prisfeed via Adtraction og suppleres med stikprøver på udbydernes egne prissider. Seneste samlede kontrol var 7. oktober 2026. Fremgangsmåden står på siden om vores <a href="/metode/">metode</a>.
 Q: Hvordan kontakter jeg Emil, hvis jeg finder en fejl?
 A: Skriv til kontakt@forsikringspakken.dk med et link til siden og en beskrivelse af fejlen. Vi svarer typisk inden for 2 hverdage og retter bekræftede fejl hurtigst muligt.
 ===KILDER===

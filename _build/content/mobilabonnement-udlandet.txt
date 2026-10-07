@@ -1,10 +1,10 @@
 ---
 slug: mobilabonnement-udlandet
 title: Mobilabonnement til udlandet → Fra {fra:udland} kr. ({maaned})
-desc: Sammenlign EU-data og roaming i {maaned}. Op til 83 GB i EU, World-abonnement til USA for 139 kr. og udlandsminutter inkluderet. Find dit rejseabonnement.
+desc: Sammenlign EU-data og roaming i {maaned}. Op til {eu:tm-fri-3} GB i EU, {eu:dk-75} GB for {pris:dk-75} kr. og op til 10 timers opkald til udlandet inkluderet. Find dit abonnement.
 h1: Mobilabonnement med udlandet
-kicker: Opdateret {maaned} · EU-data sammenlignet på 45 abonnementer
-answer: Med reglerne om "Roam like at home" bruger du dit danske abonnement i hele EU/EØS uden ekstra betaling, men abonnementer med meget eller fri data har et loft over EU-data. Mest EU-data får du i {maaned} hos Telmore Play (83 GB), YouSee Fri data (70 GB) og Telmore Fri data (49 GB). Skal du til USA, Canada, Thailand eller Tyrkiet, dækker Duka 30 GB + World for 139 kr./md.
+kicker: Opdateret {maaned} · EU-data sammenlignet på {antal} abonnementer
+answer: Med reglerne om "Roam like at home" bruger du dit danske abonnement i hele EU/EØS uden ekstra betaling, men abonnementer med meget eller fri data har et loft over EU-data. Mest EU-data får du i {maaned} med Telmores streamingpakker (op til {eu:tm-fri-3} GB) og Duka Fri tale + {gb:dk-75} ({eu:dk-75} GB i EU for {pris:dk-75} kr./md.). Ringer du til familie i udlandet, har Lebara op til 10 timers opkald til 60+ lande inkluderet – fx i {gb:lb-70} til {pris:lb-70} kr.
 lead: Her får du reglerne for roaming forklaret i almindeligt dansk, et regneeksempel på fair use-loftet og en oversigt over, hvilke abonnementer der giver mest data i EU – og hvad du gør, når rejsen går uden for Europa.
 crumb: Udlandet
 section: typer
@@ -14,8 +14,8 @@ related: mobilabonnement-fri-data, esim, fri-tale, udbydere/duka, udbydere/telmo
 <p>Det bedste mobilabonnement til udlandet afhænger af to ting: hvor du rejser hen, og hvor meget data du bruger, mens du er væk. Rejser du i EU, er spørgsmålet ikke, om du kan bruge dit abonnement – det kan du – men hvor mange GB du må bruge, før selskabet må opkræve tillæg. Rejser du uden for EU, skal du derimod have et abonnement med en særlig udlandsdel, købe et tillæg eller bruge et rejse-eSIM.</p>
 <p>Tabellen nedenfor viser de abonnementer, vi har markeret som gode til udlandet, sorteret efter hvor mange GB du må bruge i EU. Kolonnen "EU-data" er det tal, der betyder noget, når du står i lufthavnen i Málaga eller på en campingplads i Kroatien – ikke den samlede datamængde i Danmark.</p>
 [[tabel:udland|sort=eu]]
-<div class="callout"><p><strong>Kort sagt:</strong> Bruger du meget data på ferie i Europa, er Telmore Play (83 GB i EU), YouSee Fri data (70 GB) og Telmore Fri data (49 GB) de stærkeste. Vil du betale mindst muligt, giver Duka 30 GB i EU for 55 kr./md. i kampagnen til 31. marts 2027. Skal du uden for EU, er Duka 30 GB + World til 139 kr./md. det eneste abonnement i vores oversigt med data i blandt andet USA, Canada, Thailand og Tyrkiet.</p></div>
-<p>Vi har gennemgået prisbladene og vilkårene hos de otte selskaber, vi dækker, og tjekket priserne den 7. oktober 2026. Du kan læse mere om, hvordan vi vægter pris, net og vilkår, på siden <a href="/metode/">Sådan sammenligner vi</a>.</p>
+<div class="callout"><p><strong>Kort sagt:</strong> Bruger du meget data på ferie i Europa, giver Duka {gb:dk-75} hele {eu:dk-75} GB i EU for {pris:dk-75} kr./md., og Duka {gb:dk-55} giver {eu:dk-55} GB for {pris:dk-55} kr. Har du Telmores streamingpakker, får du {eu:tm-play}-{eu:tm-fri-3} GB i EU. Skal du uden for EU, har ingen af abonnementerne i vores prisdata data inkluderet – her er et tillæg eller et rejse-eSIM vejen frem. Ringer du hjem til familie i udlandet, er Lebara og Lyca stærkest.</p></div>
+<p>Vi har gennemgået prisbladene og vilkårene hos de {antal_udbydere} selskaber, vi dækker, og tjekket priserne den 7. oktober 2026. Du kan læse mere om, hvordan vi vægter pris, net og vilkår, på siden <a href="/metode/">Sådan sammenligner vi</a>.</p>
 
 <h2>Hvad er "Roam like at home"?</h2>
 <p>"Roam like at home" er EU's regel om, at du betaler det samme for tale, sms og data på rejser i EU, som du gør derhjemme. Reglen står i EU-forordning 2022/612, og den gælder frem til 30. juni 2032<sup class="ref"><a href="#kilde-1">1</a></sup>. Det betyder, at et opkald fra Rom til et dansk nummer koster det samme som et opkald fra Roskilde, og at de GB, du bruger på stranden i Grækenland, trækkes fra din almindelige datapulje.</p>
@@ -35,7 +35,7 @@ related: mobilabonnement-fri-data, esim, fri-tale, udbydere/duka, udbydere/telmo
 <tr><td>Nye fra 2026</td><td>Ukraine, Moldova</td><td>Ja, fra 1. januar 2026</td></tr>
 <tr><td>Storbritannien</td><td>England, Skotland, Wales, Nordirland</td><td>Nej – afhænger af selskabet</td></tr>
 <tr><td>Schweiz</td><td>Schweiz</td><td>Nej – afhænger af selskabet</td></tr>
-<tr><td>Øvrige</td><td>USA, Canada, Thailand, Tyrkiet, Balkan uden for EU</td><td>Nej – kræver tillæg, World-abonnement eller rejse-eSIM</td></tr>
+<tr><td>Øvrige</td><td>USA, Canada, Thailand, Tyrkiet, Balkan uden for EU</td><td>Nej – kræver tillæg, særlig udlandspakke eller rejse-eSIM</td></tr>
 </tbody>
 </table>
 <h3>Storbritannien og Schweiz: tjek dit selskab</h3>
@@ -53,19 +53,21 @@ related: mobilabonnement-fri-data, esim, fri-tale, udbydere/duka, udbydere/telmo
 <li><strong>Divider med engrosloftet.</strong> 119,20 kr. ÷ 9,70 kr. = ca. 12,3 GB.</li>
 <li><strong>Gang med to.</strong> 12,3 × 2 = ca. 24,6 GB. Det er minimummet, selskabet skal give dig i EU.</li>
 </ol>
-<p>Flexii, der netop koster 149 kr./md. for fri tale og fri data, giver 40 GB i EU. Det er mere end minimummet, og det er typisk: Alle seks fri data-abonnementer i vores sammenligning giver mere end lovens minimum. Formlen er alligevel god at kende, fordi den forklarer, hvorfor en billig fri data-pakke som regel giver mindre EU-data end en dyr. Tallene i tabellen herunder viser vores beregning af minimummet sammenlignet med det, selskaberne faktisk giver.</p>
+<p>Flexii, der netop koster {pris:fx-fri} kr./md. for fri tale og fri data med 5G, giver {eu:fx-fri} GB i EU. Det er mere end minimummet, og det er typisk: Alle fri data-abonnementer i vores sammenligning giver mere end lovens minimum. Formlen er alligevel god at kende, fordi den forklarer, hvorfor en billig fri data-pakke som regel giver mindre EU-data end en dyr. Tallene i tabellen herunder viser vores beregning af minimummet sammenlignet med det, selskaberne faktisk giver.</p>
 <table>
 <thead><tr><th>Abonnement</th><th>Pris/md.</th><th>Minimum efter formlen</th><th>Faktisk EU-data</th></tr></thead>
 <tbody>
-<tr><td>Flexii Fri tale + fri data</td><td>149 kr.</td><td>ca. 25 GB</td><td>40 GB</td></tr>
-<tr><td>Oister Fri tale + fri data</td><td>199 kr.</td><td>ca. 33 GB</td><td>40 GB</td></tr>
-<tr><td>Duka Fri tale + fri data</td><td>199 kr.</td><td>ca. 33 GB</td><td>40 GB</td></tr>
-<tr><td>Telmore Fri tale + fri data</td><td>249 kr.</td><td>ca. 41 GB</td><td>49 GB</td></tr>
-<tr><td>YouSee Fri tale + fri data</td><td>299 kr.</td><td>ca. 49 GB</td><td>70 GB</td></tr>
-<tr><td>Telmore Play</td><td>399 kr.</td><td>ca. 66 GB</td><td>83 GB</td></tr>
+<tr><td>{navn:fx-fri-4g}</td><td>{pris:fx-fri-4g} kr.</td><td>ca. 24 GB</td><td>{eu:fx-fri-4g} GB</td></tr>
+<tr><td>{navn:fx-fri}</td><td>{pris:fx-fri} kr.</td><td>ca. 25 GB</td><td>{eu:fx-fri} GB</td></tr>
+<tr><td>{navn:oi-fri}</td><td>{pris:oi-fri} kr.</td><td>ca. 31 GB</td><td>{eu:oi-fri} GB</td></tr>
+<tr><td>{navn:dk-fri}</td><td>{pris:dk-fri} kr.</td><td>ca. 33 GB</td><td>{eu:dk-fri} GB</td></tr>
+<tr><td>{navn:tm-fri}</td><td>{pris:tm-fri} kr.</td><td>ca. 41 GB</td><td>{eu:tm-fri} GB</td></tr>
+<tr><td>{navn:ys-fri}</td><td>{pris:ys-fri} kr.</td><td>ca. 49 GB</td><td>{eu:ys-fri} GB</td></tr>
+<tr><td>{navn:tm-play}</td><td>{pris:tm-play} kr.</td><td>ca. 66 GB</td><td>{eu:tm-play} GB</td></tr>
+<tr><td>{navn:tm-fri-3}</td><td>{pris:tm-fri-3} kr.</td><td>ca. 99 GB</td><td>{eu:tm-fri-3} GB</td></tr>
 </tbody>
 </table>
-<p>Bemærk at formlen kun bruges ved abonnementer med fri eller meget store datamængder. Har du et almindeligt abonnement med fx 30 GB, og er 30 GB også under fair use-loftet, kan du bruge hele puljen i EU. Det er derfor, Duka 30 GB til 55 kr./md. i kampagnen giver 30 GB i EU, mens Duka 1000 GB til 179 kr./md. "kun" giver 35 GB i EU.</p>
+<p>Bemærk at formlen kun bruges ved abonnementer med fri eller meget store datamængder. Har du et almindeligt abonnement med fx 30 GB, og er 30 GB også under fair use-loftet, kan du bruge hele puljen i EU. Det er derfor, Duka {gb:dk-30} til {pris:dk-30} kr./md. giver {eu:dk-30} GB i EU, mens Duka {gb:dk-1000} til {pris:dk-1000} kr./md. "kun" giver {eu:dk-1000} GB i EU.</p>
 <h3>Hvad sker der, hvis du bruger mere?</h3>
 <p>Overskrider du loftet, må selskabet opkræve et tillæg. Det er også loftbelagt: maks. 1,30 euro pr. GB plus moms i 2026, 0,019 euro pr. minut og 0,003 euro pr. sms<sup class="ref"><a href="#kilde-2">2</a></sup>. Bruger du 10 GB over loftet, kan det altså koste op mod 10 × 9,70 kr. = 97 kr. plus moms. Det er ikke ruinerende, men det er heller ikke gratis, og mange selskaber stopper i stedet din data og sender en sms med tilbud om en ekstra pakke.</p>
 [[vaerktoej:roaming]]
@@ -74,66 +76,66 @@ related: mobilabonnement-fri-data, esim, fri-tale, udbydere/duka, udbydere/telmo
 <h2>Hvor meget EU-data har du brug for på ferie?</h2>
 <p>De fleste bruger mere data på ferie end derhjemme. Hotellets wifi er langsom, man navigerer med kort i et fremmed land, deler billeder og streamer i bilen. Et gennemsnitligt dansk mobilabonnement brugte 26,9 GB pr. måned i 2. halvår 2024 ifølge Digitaliseringsstyrelsen<sup class="ref"><a href="#kilde-9">9</a></sup>, og tallet stiger år for år. På to ugers ferie kan et normalt forbrug derfor sagtens løbe op i 15-25 GB, og streamer børnene på bagsædet, ryger loftet hurtigt.</p>
 <div class="stat-grid">
-<div class="stat"><b>83 GB</b><span>mest EU-data i vores oversigt (Telmore Play)</span></div>
-<div class="stat"><b>30 GB</b><span>EU-data hos Duka fra 55 kr./md. i kampagne</span></div>
+<div class="stat"><b>{eu:tm-fri-3} GB</b><span>mest EU-data i vores oversigt (Telmore Play med 9 tjenester)</span></div>
+<div class="stat"><b>{eu:dk-75} GB</b><span>EU-data hos Duka for {pris:dk-75} kr./md.</span></div>
 <div class="stat"><b>1,30 €</b><span>engrosloft pr. GB i 2026 (1,10 € i 2027)</span></div>
 <div class="stat"><b>50 €</b><span>beløb hvor data spærres uden for EU</span></div>
 </div>
 <h3>Familier: del datapuljen klogt</h3>
-<p>Rejser I fire personer, har hver telefon sit eget EU-loft. Det er ofte billigere at give alle et abonnement med fx 30 GB i EU end at lade én person dele hotspot fra et fri data-abonnement, hvor loftet hurtigt nås. Læs mere om kombinationer på vores side om <a href="/familieabonnement/">familieabonnementer</a>.</p>
+<p>Rejser I fire personer, har hver telefon sit eget EU-loft. Det er ofte billigere at give alle et abonnement med fx 20-30 GB i EU end at lade én person dele hotspot fra et fri data-abonnement, hvor loftet hurtigt nås. Læs mere om kombinationer på vores side om <a href="/familieabonnement/">familieabonnementer</a>.</p>
 [[simo:Download film, playlister og offline-kort over hotellets wifi, før I tager på udflugt. Så bruger I EU-data på det, der ikke kan vente.]]
 
 <h2>Mobilabonnement uden for EU: USA, Thailand og Tyrkiet</h2>
-<p>Uden for EU og EØS er der ingen fælles regler, og priserne bestemmes frit af selskaberne. Her er de fire muligheder, vi oftest anbefaler.</p>
-<h3>Duka World: data i blandt andet USA, Canada, Thailand og Tyrkiet</h3>
-<p>Duka 30 GB + World koster 139 kr./md. og giver data i 10 lande uden for EU, blandt andet USA, Canada, Thailand og Tyrkiet<sup class="ref"><a href="#kilde-4">4</a></sup>. Du får samtidig fri tale, 5G og 30 GB i EU. Sammenlignet med Dukas almindelige 30 GB-abonnement til 99 kr. betaler du 40 kr. mere om måneden for World-delen. Da der ikke er binding, kan du i princippet skifte til World før en rejse og tilbage igen bagefter – tjek Dukas vilkår for skift mellem abonnementer. Rejser du to gange om året, og ligger hver rejse inden for én abonnementsmåned, koster det ca. 80 kr. ekstra om året.</p>
+<p>Uden for EU og EØS er der ingen fælles regler, og priserne bestemmes frit af selskaberne. Ingen af de {antal} abonnementer i vores prisdata har data uden for EU inkluderet, så her er de fire muligheder, vi oftest anbefaler.</p>
+<h3>Tjek din udbyders udlandszoner og tillæg</h3>
+<p>Alle {antal_udbydere} selskaber har en prisside for udlandet, hvor landene er delt i zoner. Nogle selskaber har særlige udlandspakker eller tillæg, som ikke indgår i de officielle prisdata, vi sammenligner på – tjek fx Dukas og Telmores prissider for udlandet<sup class="ref"><a href="#kilde-4">4</a></sup>. Spørg dit selskab, hvad det koster at bruge data i netop det land, du skal til, og om der findes en pakke. Da ingen af selskaberne har binding, kan du i princippet skifte til en udbyder med en god udlandspakke før en rejse og tilbage igen bagefter.</p>
 <h3>Telmore World Data: data som tillæg</h3>
 <p>Er du Telmore-kunde, kan du købe World Data, et datatillæg til brug i lande uden for EU<sup class="ref"><a href="#kilde-5">5</a></sup>. Det er en praktisk løsning, hvis du ikke vil skifte abonnement, men vil have en fast datapakke på en enkelt rejse. Datamængde, pris og landeliste kan ændre sig, så tjek dem i Telmore-appen, før du rejser – ikke alle feriemål uden for EU er nødvendigvis med.</p>
 <h3>3LikeHome som reference</h3>
-<p>3's egen ordning 3LikeHome dækker 100 lande, heriblandt Storbritannien, Schweiz og USA<sup class="ref"><a href="#kilde-3">3</a></sup>. Vi dækker ikke 3's egne abonnementer i vores sammenligning, men ordningen er en nyttig målestok: Ser du et World-tilbud fra et andet selskab, så sammenlign landelisten med 3LikeHome. Bemærk at 3's lavprisbrands Oister og Flexii ikke automatisk har samme udlandsdækning som 3.</p>
+<p>3's egen ordning 3LikeHome dækker 100 lande, heriblandt Storbritannien, Schweiz og USA<sup class="ref"><a href="#kilde-3">3</a></sup>. Vi dækker ikke 3's egne abonnementer i vores sammenligning, men ordningen er en nyttig målestok: Ser du en udlandspakke fra et andet selskab, så sammenlign landelisten med 3LikeHome. Bemærk at 3's lavprisbrands Oister og Flexii ikke automatisk har samme udlandsdækning som 3.</p>
 <h3>Rejse-eSIM: lokal data uden at skifte abonnement</h3>
 <p>Et rejse-eSIM er et digitalt SIM-kort, du køber hos en international udbyder og installerer på telefonen, før du rejser. Du beholder dit danske nummer på det fysiske SIM eller dit danske eSIM til opkald og sms, og bruger rejse-eSIM'et til data. Det kræver en telefon, der understøtter eSIM og to aktive linjer, hvilket næsten alle nyere iPhones og Android-telefoner gør. Apple har en liste over danske selskaber, der understøtter eSIM<sup class="ref"><a href="#kilde-8">8</a></sup>, og vi har samlet alt om opsætningen på vores side om <a href="/esim/">eSIM</a>.</p>
-<p>Rejse-eSIM er især oplagt til længere rejser i Asien eller Sydamerika, hvor World-abonnementer ofte ikke dækker. Husk at slå dataroaming fra på dit danske SIM, så telefonen ikke ved en fejl bruger dansk data i udlandet.</p>
+<p>Rejse-eSIM er især oplagt til længere rejser i USA, Asien eller Sydamerika, hvor danske abonnementer ikke har data inkluderet. Husk at slå dataroaming fra på dit danske SIM, så telefonen ikke ved en fejl bruger dansk data i udlandet.</p>
 <h3>Spærring ved 50 euro</h3>
 <p>Uden for EU skal dit selskab som udgangspunkt spærre for data, når forbruget når 50 euro – ca. 373 kr. – inden for en måned, medmindre du selv har valgt en anden grænse<sup class="ref"><a href="#kilde-2">2</a></sup>. Du får en sms, når du nærmer dig grænsen, og igen når den er nået. Spærringen er en sikkerhedsline, ikke et budget: 373 kr. for få GB er stadig dyrt. Vil du være sikker, så slå dataroaming fra og brug wifi, indtil du har købt en pakke.</p>
 
 <h2>Opkald til udlandet fra Danmark</h2>
 <p>Roaming handler om at bruge telefonen i udlandet. Men mange søger også efter et abonnement, der gør det billigt at ringe fra Danmark til udlandet – til familie i Polen, Tyrkiet eller Pakistan. Det er et helt andet område: Opkald fra Danmark til udenlandske numre er ikke omfattet af "fri tale", og de fleste selskaber tager en minutpris efter zone.</p>
-<p>Her skiller Lebara og Lyca Mobile sig ud. Lebara 40 GB + fri tale til 49 kr./md. indeholder 2 timer til udlandet, mens Lebara 160 GB og 200 GB indeholder 5 timer<sup class="ref"><a href="#kilde-6">6</a></sup>. Lyca Mobile har opkald til mere end 50 lande inkluderet i sine 30-dages pakker, bl.a. til EU og USA<sup class="ref"><a href="#kilde-7">7</a></sup>. Hvilke lande der er med, varierer mellem pakkerne, så tjek landelisten, før du vælger.</p>
+<p>Her skiller Lebara og Lyca Mobile sig ud. Lebara inkluderer timer til opkald fra Danmark til 60+ lande: 5 timer i {gb:lb-5}-abonnementet til {pris:lb-5} kr. og 10 timer i abonnementerne med {gb:lb-70} til {pris:lb-70} kr. og {gb:lb-160} til {pris:lb-160} kr.<sup class="ref"><a href="#kilde-6">6</a></sup> Lyca Mobile har også inkluderede minutter til udlandet i sine forudbetalte 30-dages pakker<sup class="ref"><a href="#kilde-7">7</a></sup>. Hvilke lande der er med, varierer mellem pakkerne, så tjek landelisten, før du vælger.</p>
 <table>
 <thead><tr><th>Abonnement</th><th>Pris/md.</th><th>Udlandsminutter fra DK</th><th>EU-data</th></tr></thead>
 <tbody>
-<tr><td>Lebara 40 GB + fri tale</td><td>49 kr.</td><td>2 timer</td><td>6 GB</td></tr>
-<tr><td>Lebara 160 GB + fri tale</td><td>119 kr.</td><td>5 timer</td><td>20 GB</td></tr>
-<tr><td>Lebara 200 GB + fri tale</td><td>159 kr.</td><td>5 timer</td><td>20 GB</td></tr>
-<tr><td>Lyca 30 GB / 15 timer</td><td>49 kr.</td><td>Opkald til 50+ lande (se pakke)</td><td>10 GB</td></tr>
-<tr><td>Lyca 100 GB + fri tale</td><td>99 kr.</td><td>Opkald til 50+ lande (se pakke)</td><td>20 GB</td></tr>
+<tr><td>{navn:lb-5}</td><td>{pris:lb-5} kr.</td><td>5 timer til 60+ lande</td><td>{eu:lb-5} GB</td></tr>
+<tr><td>{navn:lb-70}</td><td>{pris:lb-70} kr.</td><td>10 timer til 60+ lande</td><td>{eu:lb-70} GB</td></tr>
+<tr><td>{navn:lb-160}</td><td>{pris:lb-160} kr.</td><td>10 timer til 60+ lande</td><td>{eu:lb-160} GB</td></tr>
+<tr><td>{navn:ly-30}</td><td>{pris:ly-30} kr. ({introtekst:ly-30})</td><td>Inkluderede udlandsminutter (se pakke)</td><td>{eu:ly-30} GB</td></tr>
+<tr><td>{navn:ly-100}</td><td>{pris:ly-100} kr. ({introtekst:ly-100})</td><td>Inkluderede udlandsminutter (se pakke)</td><td>{eu:ly-100} GB</td></tr>
 </tbody>
 </table>
-<p>Læg mærke til den skjulte modsætning: Lebara er stærk på opkald til udlandet, men giver forholdsvis lidt EU-data. Lebara 40 GB giver kun 6 GB i EU. Ringer du meget hjem til familie, men rejser sjældent, er det et godt valg. Rejser du meget i Europa, bør du se på Duka, Flexii eller Telmore i stedet. Sammenlign selv på siden om <a href="/billigste-mobilabonnement/">de billigste mobilabonnementer</a>.</p>
+<p>Læg mærke til den skjulte modsætning: Lebara er stærk på opkald til udlandet, men giver forholdsvis lidt EU-data: {eu:lb-70} GB på de store pakker og {eu:lb-5} GB på den mindste. Ringer du meget hjem til familie, men rejser sjældent, er det et godt valg. Rejser du meget i Europa, bør du se på Duka, Flexii, Oister eller Telmore i stedet. Sammenlign selv på siden om <a href="/billigste-mobilabonnement/">de billigste mobilabonnementer</a>.</p>
 [[cta:lebara]]
 <h3>Regneeksempel: ringer du hjem til familien?</h3>
-<p>Ringer du to timer om måneden til familie i et EU-land, og betaler du i dag for et abonnement uden udlandsminutter og en separat minutpris, kan Lebara 40 GB til 49 kr. være billigere alene på grund af de inkluderede minutter. Sammenligner du med et fri tale-abonnement til 99 kr./md. uden udlandsminutter, sparer du 50 kr./md. – 600 kr. om året – og får minutterne oveni. Regn din egen besparelse ud med <a href="/guides/skift-mobilabonnement/">vores guide til at skifte mobilabonnement</a>.</p>
+<p>Ringer du to timer om måneden til familie i et EU-land, og betaler du i dag for et abonnement uden udlandsminutter og en separat minutpris, kan Lebara {gb:lb-70} til {pris:lb-70} kr. være billigere alene på grund af de 10 inkluderede timer. Sammenligner du med et fri tale-abonnement til 99 kr./md. uden udlandsminutter, sparer du 40 kr./md. – 480 kr. om året – og får minutterne oveni. Regn din egen besparelse ud med <a href="/guides/skift-mobilabonnement/">vores guide til at skifte mobilabonnement</a>.</p>
 
 <h2>Sådan vælger du mobilabonnement til udlandet</h2>
 <ol class="steps">
-<li><strong>Find ud af, hvor du rejser.</strong> Kun EU/EØS? Så er EU-data det eneste, der tæller. Storbritannien eller Schweiz? Tjek selskabets landeliste. USA eller Asien? Kig på Duka World, Telmore World Data eller et rejse-eSIM.</li>
+<li><strong>Find ud af, hvor du rejser.</strong> Kun EU/EØS? Så er EU-data det eneste, der tæller. Storbritannien eller Schweiz? Tjek selskabets landeliste. USA eller Asien? Kig på din udbyders udlandspakker, Telmore World Data eller et rejse-eSIM.</li>
 <li><strong>Vurder dit dataforbrug på ferie.</strong> Brug din måneds forbrug fra appen som udgangspunkt og læg lidt til for kort, billeder og streaming.</li>
 <li><strong>Se på EU-data, ikke bare GB i Danmark.</strong> 1000 GB i Danmark kan betyde 35 GB i EU. 30 GB i Danmark kan betyde 30 GB i EU.</li>
 <li><strong>Tjek udlandsminutter, hvis du ringer hjem til familie.</strong> Lebara og Lyca har minutter inkluderet.</li>
-<li><strong>Udnyt at der ikke er binding.</strong> Alle otte selskaber, vi dækker, har abonnementer uden lang binding, så du kan skifte til et rejseabonnement før sommerferien og tilbage bagefter. Se <a href="/mobilabonnement-uden-binding/">mobilabonnementer uden binding</a>.</li>
+<li><strong>Udnyt at der ikke er binding.</strong> Alle {antal_udbydere} selskaber, vi dækker, har abonnementer uden lang binding, så du kan skifte til et rejseabonnement før sommerferien og tilbage bagefter. Se <a href="/mobilabonnement-uden-binding/">mobilabonnementer uden binding</a>.</li>
 </ol>
 <div class="proscons"><div class="pros"><h4>Fordele ved EU-roaming</h4><ul><li>Samme pris som hjemme i 30 EU/EØS-lande plus Ukraine og Moldova</li><li>Fri tale gælder også på rejsen</li><li>Garanteret minimum af EU-data efter fast formel</li><li>Reglerne gælder til 2032</li></ul></div><div class="cons"><h4>Ulemper og faldgruber</h4><ul><li>Fri data betyder ikke fri data i EU</li><li>Storbritannien og Schweiz er ikke sikret</li><li>Opkald fra DK til udlandet er ikke omfattet</li><li>Uden for EU kan data blive dyrt hurtigt</li></ul></div></div>
 
 <h2>Hvilket abonnement passer til din type rejse?</h2>
 <h3>Sommerferien i Sydeuropa</h3>
-<p>To-tre uger i Spanien, Italien eller Grækenland med familie. Her er det vigtigt, at hver person har nok EU-data, så I ikke deler ét hotspot. Duka 30 GB (30 GB i EU) og Flexii fri tale + 50 GB (30 GB i EU) er stærke, billige bud. Bruger du meget mere, giver Telmore Fri data 49 GB i EU.</p>
+<p>To-tre uger i Spanien, Italien eller Grækenland med familie. Her er det vigtigt, at hver person har nok EU-data, så I ikke deler ét hotspot. Duka {gb:dk-30} ({eu:dk-30} GB i EU for {pris:dk-30} kr.) og Flexii fri tale + {gb:fx-50} med 5G ({eu:fx-50} GB i EU for {pris:fx-50} kr., {introtekst:fx-50}) er stærke, billige bud. Bruger du meget mere, giver Duka {gb:dk-55} {eu:dk-55} GB i EU for {pris:dk-55} kr., og Duka {gb:dk-75} giver {eu:dk-75} GB.</p>
 <h3>Pendleren til Sverige eller Tyskland</h3>
 <p>Arbejder du i Malmö eller Flensborg, er du omfattet af roaming, men pas på: EU-reglerne er beregnet til periodiske rejser. Opholder du dig mere i udlandet end i Danmark over en længere periode, må selskabet efter varsel opkræve tillæg. Det kan være værd at overveje et lokalt abonnement i det land, du bruger mest tid i.</p>
 <h3>Storbyferie i London</h3>
 <p>Kort rejse, men uden for EU. Tjek dit selskabs vilkår for Storbritannien. Er landet ikke med, kan et rejse-eSIM eller et kortvarigt skift til et selskab, der inkluderer Storbritannien, være billigst.</p>
 <h3>Rundrejse i Thailand eller USA</h3>
-<p>Her er Duka 30 GB + World til 139 kr./md. den enkleste løsning blandt de selskaber, vi sammenligner, da du ikke skal købe dagspakker. Rejser du flere måneder, så sammenlign med et rejse-eSIM eller et lokalt SIM-kort.</p>
+<p>Her har ingen af abonnementerne i vores prisdata data inkluderet. Det enkleste er som regel et rejse-eSIM, som du installerer hjemmefra, mens dit danske nummer ligger aktivt til sms-koder fra banken. Er du Telmore-kunde, kan World Data-tillægget være et alternativ. Rejser du flere måneder, så sammenlign med et lokalt SIM-kort.</p>
 <blockquote class="expert"><p>Den største fejl, vi ser, er at folk betaler for fri data og tror, det også gælder i EU. Kig altid på tallet for EU-data – det er dét, der afgør, om ferien bliver uden overraskelser.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Praktiske råd før du rejser</h2>
@@ -155,11 +157,11 @@ A: EU-reglerne tillader selskaberne at sætte et fair use-loft på abonnementer 
 Q: Er Storbritannien med i EU-roaming?
 A: Nej. Storbritannien er ikke omfattet af EU's roamingregler efter Brexit. Mange danske selskaber inkluderer alligevel Storbritannien, men det er frivilligt, så tjek dit selskabs landeliste før rejsen.
 Q: Hvad koster det at bruge data i USA med et dansk abonnement?
-A: Det afhænger af selskabet. Duka 30 GB + World til 139 kr./md. inkluderer data i blandt andet USA, Canada, Thailand og Tyrkiet, og Telmore sælger datatillægget World Data. Uden pakke spærres data som udgangspunkt, når forbruget når 50 euro.
+A: Det afhænger af selskabet. Ingen af abonnementerne i vores sammenligning har data i USA inkluderet, men Telmore sælger datatillægget World Data, og et rejse-eSIM er ofte billigst. Uden pakke spærres data som udgangspunkt, når forbruget når 50 euro.
 Q: Hvilket mobilabonnement har mest data i EU?
-A: Blandt de abonnementer vi sammenligner giver Telmore Play mest med 83 GB, efterfulgt af YouSee Fri data med 70 GB og Telmore Fri data med 49 GB. Til en lavere pris giver Flexii fri data 40 GB i EU for 149 kr./md.
+A: Blandt de abonnementer vi sammenligner giver Telmore Play med 9 streamingtjenester mest med {eu:tm-fri-3} GB i EU. Uden streaming giver Duka {gb:dk-75} hele {eu:dk-75} GB i EU for {pris:dk-75} kr./md., og Duka {gb:dk-55} giver {eu:dk-55} GB for {pris:dk-55} kr. Med fri data giver Oister og YouSee {eu:oi-fri} GB i EU.
 Q: Hvilket abonnement er billigst til opkald til udlandet fra Danmark?
-A: Lebara 40 GB + fri tale til 49 kr./md. indeholder 2 timer til udlandet, og Lyca Mobile har opkald til mere end 50 lande inkluderet i sine pakker. Se landelisten hos selskabet, før du vælger.
+A: Lebara {gb:lb-70} + fri tale til {pris:lb-70} kr./md. indeholder 10 timers opkald til 60+ lande, og selv {gb:lb-5}-abonnementet til {pris:lb-5} kr. har 5 timer. Lyca Mobile har også udlandsminutter inkluderet i sine pakker. Se landelisten hos selskabet, før du vælger.
 Q: Kan jeg bruge et rejse-eSIM sammen med mit danske nummer?
 A: Ja, hvis din telefon understøtter eSIM og to aktive linjer. Du beholder dit danske nummer til opkald og sms og bruger rejse-eSIM'et til data. Læs mere på vores side om <a href="/esim/">eSIM</a>.
 Q: Gælder Roam like at home også efter 2032?
@@ -168,7 +170,7 @@ A: Den nuværende forordning gælder til 30. juni 2032. Hvad der sker derefter, 
 Forordning (EU) 2022/612 om roaming på offentlige mobilkommunikationsnet, EUR-Lex | https://eur-lex.europa.eu/eli/reg/2022/612/oj
 Roamingtakster i EU, Your Europe (Europa-Kommissionen) | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
 3LikeHome – brug mobilen i udlandet, 3 | https://www.3.dk/udland/
-Duka – mobilabonnementer og World | https://www.dukatale.dk/mobilabonnementer
+Duka – mobilabonnementer | https://www.dukatale.dk/mobilabonnementer
 Telmore – mobilabonnementer og udland | https://www.telmore.dk/mobilabonnement
 Lebara – abonnementer med udlandsminutter | https://www.lebara.dk
 Lyca Mobile – pakker og internationale opkald | https://www.lycamobile.dk

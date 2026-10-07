@@ -1,10 +1,10 @@
 ---
 slug: mobilabonnement-unge
 title: Mobilabonnement til unge → Fra {fra:unge} kr. ({maaned})
-desc: Mobilabonnement til unge og studerende i {maaned}: 40 GB og fri tale fra 49 kr., 200 GB fra 119 kr. Ingen binding, EU-data og hotspot. Sammenlign her.
+desc: Mobilabonnement til unge og studerende i {maaned}: {gb:lb-70} og fri tale for {pris:lb-70} kr., 200 GB fra {intro:ly-200} kr. Ingen binding, EU-data og hotspot. Sammenlign her.
 h1: Mobilabonnement til unge
 kicker: Opdateret {maaned} · Bedst til unge og studerende
-answer: Det bedste mobilabonnement til unge i {maaned} er Lebara med 40 GB og fri tale for 49 kr./md. eller 70 GB for 59 kr./md. Skal du bruge mere data til TikTok, streaming og hotspot, får du 200 GB og fri tale for 119 kr./md. hos Lyca Mobile eller 129 kr./md. med 5G hos Duka – alle uden binding.
+answer: Det bedste mobilabonnement til unge i {maaned} er Lebara med fri tale og {gb:lb-70} for {pris:lb-70} kr./md. – det billigste med fri tale i hele sammenligningen. Skal du bruge mere data til TikTok, streaming og hotspot, får du 200 GB og fri tale hos Duka med 5G for {introtekst:dk-200} (derefter {pris:dk-200} kr.) eller hos Lyca Mobile for {introtekst:ly-200} – alle uden binding.
 lead: Mest data for pengene, nok til TikTok og hotspot til laptoppen og en pris, der passer til et SU-budget. Her er vores sammenligning af de bedste abonnementer til unge og studerende.
 crumb: Unge
 section: typer
@@ -14,7 +14,7 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, mobilabonnement-ud
 <p>Unge bruger mere data end nogen anden gruppe. Telefonen er både fjernsyn, radio, kalender, bank, chatrum og hotspot til laptoppen. Samtidig er budgettet ofte stramt, især hvis du lever af SU eller et fritidsjob. Det bedste mobilabonnement til unge er derfor det, der giver mest data for pengene, har fri tale og ingen binding, så du kan skifte, når der kommer et bedre tilbud.</p>
 <p>Tabellen viser de abonnementer, vi anbefaler til unge og studerende. Priserne er normalpriser tjekket 7. oktober 2026, og kampagnepriser står ved det enkelte abonnement.</p>
 [[tabel:unge]]
-<div class="callout"><p><strong>Kort sagt:</strong> Lebara er billigst med 40 GB og fri tale for 49 kr./md. og 70 GB for 59 kr./md. Bruger du meget data, giver Lyca Mobile 200 GB for 119 kr./md. med 5G, og Duka giver 200 GB for 129 kr./md. med 5G og 30 GB i EU. Alle er uden binding.</p></div>
+<div class="callout"><p><strong>Kort sagt:</strong> Lebara er billigst med fri tale og {gb:lb-70} for {pris:lb-70} kr./md. Bruger du meget data, giver Duka 200 GB med 5G og {eu:dk-200} GB i EU for {introtekst:dk-200} ({pris:dk-200} kr. derefter), og Lyca Mobile giver 200 GB på 4G for {introtekst:ly-200} ({pris:ly-200} kr. derefter). Alle er uden binding.</p></div>
 <p>Vi har også lavet en bredere oversigt over det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>, hvis du bare vil have den laveste pris uanset datamængde.</p>
 
 <h2>Hvor meget data bruger unge?</h2>
@@ -31,7 +31,7 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, mobilabonnement-ud
 <tr><td>Spotify, høj kvalitet</td><td>ca. 72 MB</td><td>ca. 2,2 GB</td></tr>
 </tbody>
 </table>
-<p>Tallene viser, hvorfor 10-20 GB sjældent er nok til en ung, der scroller en time om dagen uden wifi. Med 40-70 GB har du en god buffer til sociale medier og musik. Ser du også serier i HD på mobilen eller deler nettet med din computer, skal du op på 100-200 GB eller mere.</p>
+<p>Tallene viser, hvorfor 10-20 GB sjældent er nok til en ung, der scroller en time om dagen uden wifi. Med 50-70 GB har du en god buffer til sociale medier og musik. Ser du også serier i HD på mobilen eller deler nettet med din computer, skal du op på 100-200 GB eller mere.</p>
 <p>Brug beregneren til at se, hvor meget du selv bruger.</p>
 [[vaerktoej:databeregner]]
 <p>Vil du forstå tallene bedre, så læs vores guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</p>
@@ -41,56 +41,57 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, mobilabonnement-ud
 <table>
 <thead><tr><th>Abonnement</th><th>Data</th><th>Pris pr. md.</th><th>Pris pr. GB</th><th>5G</th><th>EU-data</th></tr></thead>
 <tbody>
-<tr><td>Lebara 40 GB + fri tale</td><td>40 GB</td><td>49 kr.</td><td>1,23 kr.</td><td>Nej</td><td>6 GB</td></tr>
-<tr><td>Lebara 70 GB + fri tale</td><td>70 GB</td><td>59 kr. (1. md. gratis)</td><td>0,84 kr.</td><td>Nej</td><td>10 GB</td></tr>
-<tr><td>Flexii fri tale + 50 GB</td><td>50 GB</td><td>89 kr. (79 kr. første år)</td><td>1,78 kr.</td><td>Ja</td><td>30 GB</td></tr>
-<tr><td>Oister fri tale + 100 GB</td><td>100 GB</td><td>109 kr. (79 kr. i 6 mdr.)</td><td>1,09 kr.</td><td>Ja</td><td>30 GB</td></tr>
-<tr><td>Lyca Mobile 200 GB + fri tale</td><td>200 GB</td><td>119 kr.</td><td>0,60 kr.</td><td>Ja</td><td>24 GB</td></tr>
-<tr><td>Duka fri tale + 200 GB</td><td>200 GB</td><td>129 kr.</td><td>0,65 kr.</td><td>Ja</td><td>30 GB</td></tr>
-<tr><td>Duka fri tale + 1000 GB</td><td>1000 GB</td><td>179 kr.</td><td>0,18 kr.</td><td>Ja</td><td>35 GB</td></tr>
+<tr><td>{navn:lb-70}</td><td>{gb:lb-70}</td><td>{pris:lb-70} kr.</td><td>0,84 kr.</td><td>Nej (4G)</td><td>{eu:lb-70} GB</td></tr>
+<tr><td>{navn:fx-50}</td><td>{gb:fx-50}</td><td>{pris:fx-50} kr. ({introtekst:fx-50})</td><td>1,78 kr.</td><td>Ja</td><td>{eu:fx-50} GB</td></tr>
+<tr><td>{navn:lb-100}</td><td>{gb:lb-100}</td><td>{pris:lb-100} kr. ({introtekst:lb-100})</td><td>0,99 kr.</td><td>Nej (4G)</td><td>{eu:lb-100} GB</td></tr>
+<tr><td>{navn:oi-100}</td><td>{gb:oi-100}</td><td>{pris:oi-100} kr. ({introtekst:oi-100})</td><td>1,09 kr.</td><td>Ja</td><td>{eu:oi-100} GB</td></tr>
+<tr><td>{navn:lb-160}</td><td>{gb:lb-160}</td><td>{pris:lb-160} kr.</td><td>0,74 kr.</td><td>Nej (4G)</td><td>{eu:lb-160} GB</td></tr>
+<tr><td>{navn:ly-200}</td><td>{gb:ly-200}</td><td>{pris:ly-200} kr. ({introtekst:ly-200})</td><td>0,60 kr.</td><td>Nej (4G)</td><td>{eu:ly-200} GB</td></tr>
+<tr><td>{navn:dk-200}</td><td>{gb:dk-200}</td><td>{pris:dk-200} kr. ({introtekst:dk-200})</td><td>0,65 kr.</td><td>Ja</td><td>{eu:dk-200} GB</td></tr>
+<tr><td>{navn:dk-1000}</td><td>{gb:dk-1000}</td><td>{pris:dk-1000} kr.</td><td>0,18 kr.</td><td>Ja</td><td>{eu:dk-1000} GB</td></tr>
 </tbody>
 </table>
-<p>Pris pr. GB er beregnet ud fra normalprisen. Der er to vigtige pointer. For det første er Lebaras abonnementer på 40 og 70 GB kun 4G, mens Lyca og Duka har 5G. For det andet giver Lebara mindre data i EU end konkurrenterne, hvilket betyder noget, hvis du rejser. Lyca Mobile sælger 30-dages pakker, mens Duka er et klassisk løbende abonnement med 5G og fri tale på alt.</p>
-[[simo:Kig ikke kun på prisen pr. GB. Bruger du kun 30 GB om måneden, er 200 GB for 119 kr. dyrere end 40 GB for 49 kr., selvom prisen pr. GB er lavere.]]
+<p>Pris pr. GB er beregnet ud fra normalprisen. Der er to vigtige pointer. For det første kører alle Lebaras og Lycas abonnementer på 4G på TT-netværket (Norlys/Telenor), mens Flexii 5G, Oister og Duka har 5G. For det andet giver Lebara og Lyca mindre data i EU end Duka og Oister, hvilket betyder noget, hvis du rejser. Lyca Mobile sælger forudbetalte 30-dages pakker, mens Duka er et klassisk løbende abonnement med 5G og fri tale på næsten alt.</p>
+[[simo:Kig ikke kun på prisen pr. GB. Bruger du kun 40 GB om måneden, er 200 GB for {pris:ly-200} kr. dyrere end {gb:lb-70} for {pris:lb-70} kr., selvom prisen pr. GB er lavere.]]
 
 <h2>Hvad koster et mobilabonnement til studerende? Et SU-perspektiv</h2>
 <p>Lever du af SU, betyder 50-100 kr. om måneden noget. Mange unge har stadig det abonnement, de fik, da de flyttede hjemmefra, eller et abonnement, som forældrene i sin tid valgte. Det er ofte et dyrt abonnement hos et af de store selskaber, og det kan betale sig at tjekke det efter.</p>
-<h3>Regneeksempel: Fra 179 kr. til 49 kr.</h3>
-<p>Har du i dag fri tale og 25 GB hos YouSee til 179 kr./md., betaler du 2.148 kr. om året. Skifter du til Lebara med fri tale og 40 GB til 49 kr./md., betaler du 588 kr. om året. Du sparer 1.560 kr. om året og får 15 GB mere data. Det er penge, der kan mærkes på et SU-budget.</p>
+<h3>Regneeksempel: Fra {pris:ys-25} kr. til {pris:lb-70} kr.</h3>
+<p>Har du i dag fri tale og {gb:ys-25} hos YouSee til {pris:ys-25} kr./md., betaler du 2.148 kr. om året. Skifter du til Lebara med fri tale og {gb:lb-70} til {pris:lb-70} kr./md., betaler du 708 kr. om året. Du sparer 1.440 kr. om året og får 45 GB mere data. Det er penge, der kan mærkes på et SU-budget.</p>
 <h3>Regneeksempel: Når du har brug for meget data</h3>
-<p>Har du fri tale og 100 GB hos YouSee til 249 kr./md. (2.988 kr. om året) og skifter til Lyca Mobile med 200 GB til 119 kr./md. (1.428 kr. om året), sparer du 1.560 kr. om året og får dobbelt så meget data. Vælger du Duka med 200 GB og 5G til 129 kr./md. (1.548 kr. om året), sparer du 1.440 kr.</p>
+<p>Har du fri tale og {gb:ys-100} hos YouSee til {pris:ys-100} kr./md. (2.988 kr. om året) og skifter til Duka med 200 GB og 5G, betaler du {introtekst:dk-200} og derefter {pris:dk-200} kr. Fra oktober 2026 til og med marts 2027 er det 6 × 79 = 474 kr., og de næste 6 måneder 6 × 129 = 774 kr. – i alt 1.248 kr. det første år. Du sparer 1.740 kr. det første år og 1.440 kr. om året til normalpris, og du får dobbelt så meget data. Vælger du Lyca Mobile med 200 GB ({introtekst:ly-200}, derefter {pris:ly-200} kr.), koster første år 6 × 59 + 6 × 119 = 1.068 kr., og du sparer 1.920 kr. – men på 4G.</p>
 [[vaerktoej:sparberegner]]
 <p>Priserne på mobilkommunikation er steget igen de seneste år. Danmarks Statistiks prisindeks for mobilkommunikationstjenester steg 8,6 % fra august 2025 til august 2026<sup class="ref"><a href="#kilde-2">2</a></sup>. Til gengæld vurderer Forbrugerrådet Tænk, at man ikke behøver betale over 100 kr. om måneden for markedets bedste abonnementer<sup class="ref"><a href="#kilde-3">3</a></sup>. Det passer med vores egen gennemgang: Det er de dyre normalpriser hos de store selskaber, der trækker gennemsnittet op.</p>
 
 <h2>Hotspot til laptop: Kan du bruge mobilen som internet?</h2>
 <p>Mange studerende bruger telefonen som hotspot til computeren, når de sidder i toget, på caféen eller i en lejlighed uden internet. Det fungerer fint, men det bruger hurtigt mange data. En computer henter opdateringer, synkroniserer filer i skyen og viser video i højere kvalitet end en telefon.</p>
-<p>Et onlinemøde eller en forelæsning over Zoom i 720p bruger ca. 0,8 GB ned og 1,2 GB op pr. time<sup class="ref"><a href="#kilde-7">7</a></sup>, altså ca. 2 GB i timen. Tre timers onlineundervisning om ugen bliver til ca. 25 GB om måneden. Lægger du det oven i dit almindelige forbrug, er 40 GB pludselig for lidt.</p>
+<p>Et onlinemøde eller en forelæsning over Zoom i 720p bruger ca. 0,8 GB ned og 1,2 GB op pr. time<sup class="ref"><a href="#kilde-7">7</a></sup>, altså ca. 2 GB i timen. Tre timers onlineundervisning om ugen bliver til ca. 25 GB om måneden. Lægger du det oven i dit almindelige forbrug, er 50 GB pludselig for lidt.</p>
 <h3>Hvor meget data skal du have til hotspot?</h3>
 <ul>
-<li><strong>Lejlighedsvist hotspot</strong> (et par timer om ugen til mails og dokumenter): 40-70 GB er typisk nok.</li>
+<li><strong>Lejlighedsvist hotspot</strong> (et par timer om ugen til mails og dokumenter): 50-70 GB er typisk nok.</li>
 <li><strong>Jævnligt hotspot</strong> (onlineundervisning, video, opgaveskrivning i skyen): 100-200 GB.</li>
-<li><strong>Mobilen som eneste internet:</strong> 1000 GB eller fri data. Duka har 1000 GB for 179 kr./md., Greentel 1000 GB for 189 kr./md., og Flexii har fri data for 149 kr./md. (129 kr. første år).</li>
+<li><strong>Mobilen som eneste internet:</strong> 1000 GB eller fri data. Duka har {gb:dk-1000} for {pris:dk-1000} kr./md., og Flexii har fri data for {pris:fx-fri-4g} kr./md. på 4G ({introtekst:fx-fri-4g}) eller {pris:fx-fri} kr. på 5G ({introtekst:fx-fri}).</li>
 </ul>
 <p>Bruger du mobilen som eneste internet i lejligheden, kan det betale sig at overveje et rigtigt <a href="/mobilt-bredbaand/">mobilt bredbånd</a> med en router, så telefonen ikke skal ligge og levere internet hele dagen. Se også vores side om <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
 [[simo:Slå automatiske opdateringer og skysynkronisering fra på computeren, når du bruger hotspot. Det kan spare flere GB om måneden.]]
 
 <h2>Rejser i EU: Hvor meget data kan du bruge i udlandet?</h2>
 <p>Interrail, udveksling, festival i Spanien eller skiferie i Østrig: Unge rejser meget, og her betyder abonnementets EU-data noget. Efter EU's regler om "roam like at home" kan du bruge dit abonnement i EU og EØS som hjemme frem til 30. juni 2032<sup class="ref"><a href="#kilde-4">4</a></sup>. Det gælder også Norge, Island og Liechtenstein, og fra 1. januar 2026 også Ukraine og Moldova. Storbritannien og Schweiz er ikke med, og der afhænger det af dit selskab.</p>
-<p>Har du et abonnement med meget data, må selskabet dog sætte et loft over, hvor meget du kan bruge i EU uden ekstra betaling. Derfor er EU-data en vigtig kolonne i sammenligningen. Lebara 40 GB giver kun 6 GB i EU, mens Duka 200 GB giver 30 GB, og Lyca 200 GB giver 24 GB. Skal du på udveksling i et semester, så læs reglerne grundigt: Fair use-reglerne gælder til periodiske rejser, ikke til at bo fast i et andet land.</p>
+<p>Har du et abonnement med meget data, må selskabet dog sætte et loft over, hvor meget du kan bruge i EU uden ekstra betaling. Derfor er EU-data en vigtig kolonne i sammenligningen. Lebaras {gb:lb-70} giver {eu:lb-70} GB i EU, Lyca 200 GB giver {eu:ly-200} GB, mens Duka 200 GB giver {eu:dk-200} GB, og Dukas {gb:dk-55} og {gb:dk-75} giver lige så meget data i EU som herhjemme. Skal du på udveksling i et semester, så læs reglerne grundigt: Fair use-reglerne gælder til periodiske rejser, ikke til at bo fast i et andet land.</p>
 [[vaerktoej:roaming]]
-<p>Skal du uden for EU, fx til USA, Thailand eller Tyrkiet, har Duka et World-abonnement med 30 GB for 139 kr./md., der også dækker en række lande uden for EU. Læs mere på vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement i udlandet</a>.</p>
+<p>Skal du uden for EU, fx til USA, Thailand eller Tyrkiet, gælder EU-reglerne ikke, og priserne afhænger helt af selskabet. Tjek udbyderens udlandspriser, inden du rejser, eller køb et lokalt SIM eller rejse-eSIM på stedet. Læs mere på vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement i udlandet</a>.</p>
 
 <h2>4G eller 5G: Betyder det noget for unge?</h2>
 <p>85,8 % af de danske standardabonnementer havde 5G i anden halvdel af 2024, og 5G bar 41,2 % af al mobiltrafik<sup class="ref"><a href="#kilde-1">1</a></sup>. 5G giver især en fordel, hvor mange er samlet på samme sted: til koncerter, på stationer og på universitetet. Bruger du mobilen som hotspot, kan den højere hastighed også mærkes.</p>
-<p>Til almindelig brug med sociale medier og musik er et godt 4G-abonnement dog stadig fint. Lebaras billigste abonnementer er kun 4G, og prisen er til gengæld meget lav. Lyca Mobile, Oister, Duka og Greentel har 5G på alle deres abonnementer. Læs mere på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnement</a>.</p>
+<p>Til almindelig brug med sociale medier og musik er et godt 4G-abonnement dog stadig fint. Lebara og Lyca Mobile kører udelukkende på 4G, og prisen er til gengæld meget lav. Oister har 5G på alle abonnementer, Duka på alle med fri tale, og Greentel på sine 30 og 50 GB-abonnementer. Hos Flexii kan du vælge mellem en 4G- og en lidt dyrere 5G-pris. Læs mere på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnement</a>.</p>
 
 <h2>Fordele og ulemper ved lavprisabonnementer til unge</h2>
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Fri tale og 40 GB fra 49 kr./md.</li><li>Ingen binding, så du kan jagte de bedste kampagner</li><li>Ofte 5G og eSIM uden ekstra betaling</li><li>200 GB koster under 130 kr./md.</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kundeservice er ofte kun online eller chat</li><li>Intropriser stiger efter 6-12 måneder</li><li>De billigste har kun 4G og lidt EU-data</li><li>Fri data er stadig relativt dyrt</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Fri tale og {gb:lb-70} for {pris:lb-70} kr./md.</li><li>Ingen binding, så du kan jagte de bedste kampagner</li><li>eSIM uden ekstra betaling og ofte 5G</li><li>200 GB koster højst {pris:dk-200} kr./md. – og {intro:dk-200} kr. hos Duka lige nu</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kundeservice er ofte kun online eller chat</li><li>Intropriser stiger efter 2-12 måneder</li><li>De billigste har kun 4G og lidt EU-data</li><li>Fri data er stadig relativt dyrt</li></ul></div></div>
 
 <h2>Sådan vælger du mobilabonnement som ung eller studerende</h2>
 <ol class="steps">
 <li><strong>Tjek dit forbrug.</strong> Se i telefonens indstillinger, hvor meget mobildata du har brugt de seneste måneder. Læg 20-30 % til som buffer.</li>
-<li><strong>Vælg den rigtige størrelse.</strong> Under 40 GB: Lebara 40 GB. 40-70 GB: Lebara 70 GB eller Flexii 50 GB. Over 100 GB: Lyca eller Duka 200 GB.</li>
+<li><strong>Vælg den rigtige størrelse.</strong> Op til 70 GB: Lebara {gb:lb-70}. Vil du have 5G: Flexii eller Greentel 50 GB. Over 100 GB: Duka eller Lyca 200 GB.</li>
 <li><strong>Tænk hotspot og rejser med.</strong> Bruger du hotspot eller rejser meget, så prioriter 5G og meget EU-data.</li>
 <li><strong>Se på normalprisen.</strong> En intropris på 79 kr. i 6 mdr. er god, men det er normalprisen, du skal leve med bagefter.</li>
 <li><strong>Undgå binding.</strong> Køb ikke en telefon på afbetaling sammen med abonnementet, hvis du vil kunne skifte frit.</li>
@@ -98,32 +99,32 @@ related: billigste-mobilabonnement, mobilabonnement-fri-data, mobilabonnement-ud
 </ol>
 <p>Skal du skifte, så følg vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>. Har du binding på dit nuværende abonnement, så se siden om <a href="/mobilabonnement-uden-binding/">mobilabonnement uden binding</a>, hvor vi forklarer, hvornår du kan komme ud.</p>
 [[top3:unge]]
-<blockquote class="expert"><p>Det største spild, vi ser hos unge, er abonnementer, der aldrig er blevet tjekket efter, siden man flyttede hjemmefra. Bruger du under 40 GB, kan du næsten altid komme ned under 60 kr. om måneden, og bruger du meget mere, får du 200 GB for omkring 120-130 kr. Sæt en påmindelse en gang om året og tjek markedet.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Det største spild, vi ser hos unge, er abonnementer, der aldrig er blevet tjekket efter, siden man flyttede hjemmefra. Bruger du under 70 GB, kan du komme ned på 59 kr. om måneden, og bruger du meget mere, får du 200 GB for 119-129 kr. til normalpris – og lige nu endnu billigere. Sæt en påmindelse en gang om året og tjek markedet.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Lebara, Lyca eller Duka: Hvilket abonnement skal du vælge?</h2>
 <h3>Lebara – billigst for de fleste</h3>
-<p>Lebara har de laveste priser med fri tale i det lille og mellemstore segment. Fri tale og 40 GB for 49 kr. og 70 GB for 59 kr. er svære at slå. Lebara inkluderer også to timers opkald til udlandet, hvilket er rart, hvis du har familie eller venner i andre lande. Ulempen er 4G og lidt EU-data. Læs vores <a href="/udbydere/lebara/">anmeldelse af Lebara</a>.</p>
-<h3>Lyca Mobile – mest data for under 120 kr.</h3>
-<p>Lyca Mobile sælger 30-dages pakker med 5G. Pakken med 200 GB og fri tale koster 119 kr. Lyca er også stærk, hvis du ringer til udlandet, da opkald til en række lande er inkluderet. Pakkestrukturen kan virke lidt uoverskuelig i starten. Se vores <a href="/udbydere/lyca-mobile/">anmeldelse af Lyca Mobile</a>.</p>
+<p>Lebara har det billigste abonnement med fri tale i hele vores sammenligning: {gb:lb-70} for {pris:lb-70} kr. er svært at slå. Skal du bruge mere, koster {gb:lb-100} {pris:lb-100} kr. ({introtekst:lb-100}) og {gb:lb-160} {pris:lb-160} kr. Lebara inkluderer også op til 10 timers opkald til 60+ lande, hvilket er rart, hvis du har familie eller venner i andre lande. Ulempen er 4G og {eu:lb-70} GB EU-data. Læs vores <a href="/udbydere/lebara/">anmeldelse af Lebara</a>.</p>
+<h3>Lyca Mobile – stærk intropris på 200 GB</h3>
+<p>Lyca Mobile sælger 30-dages pakker på 4G på TT-netværket (Norlys/Telenor). Pakken med fri tale og {gb:ly-200} koster {pris:ly-200} kr., men {introtekst:ly-200}. Lyca er også stærk, hvis du ringer til udlandet, da opkald til en række lande er inkluderet. Pakkestrukturen kan virke lidt uoverskuelig i starten. Se vores <a href="/udbydere/lyca-mobile/">anmeldelse af Lyca Mobile</a>.</p>
 <h3>Duka – 5G og meget EU-data</h3>
-<p>Duka giver 200 GB med 5G og fri tale for 129 kr. og 30 GB i EU. Det gør Duka til et godt valg, hvis du rejser. Duka har også 1000 GB for 179 kr., hvis mobilen er dit eneste internet. Læs vores <a href="/udbydere/duka/">anmeldelse af Duka</a>.</p>
+<p>Duka giver {gb:dk-200} med 5G og fri tale for {pris:dk-200} kr. – lige nu {introtekst:dk-200} – og {eu:dk-200} GB i EU. Rejser du meget, giver {gb:dk-55} for {pris:dk-55} kr. hele {eu:dk-55} GB i EU. Duka har også {gb:dk-1000} for {pris:dk-1000} kr., hvis mobilen er dit eneste internet. Læs vores <a href="/udbydere/duka/">anmeldelse af Duka</a>.</p>
 [[cta:lebara]]
 
 <h2>Sådan har vi sammenlignet abonnementerne til unge</h2>
-<p>Vi har gennemgået prissiderne hos de otte udbydere, vi dækker, og udvalgt de abonnementer, der giver mest data for pengene, med fokus på fri tale, 5G, EU-data og ingen binding. Priserne er tjekket 7. oktober 2026, og vi regner altid med normalprisen, når vi sammenligner pris pr. GB. Du kan læse hele fremgangsmåden på vores side om <a href="/metode/">metode</a>, eller bruge den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
+<p>Vi har gennemgået prissiderne hos de {antal_udbydere} udbydere, vi dækker, og udvalgt de abonnementer, der giver mest data for pengene, med fokus på fri tale, 5G, EU-data og ingen binding. Priserne er tjekket 7. oktober 2026, og vi regner altid med normalprisen, når vi sammenligner pris pr. GB. Du kan læse hele fremgangsmåden på vores side om <a href="/metode/">metode</a>, eller bruge den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
 ===FAQ===
 Q: Hvad er det billigste mobilabonnement til unge med fri tale?
-A: Lebara har fri tale og 40 GB for 49 kr./md., hvilket er det billigste med fri tale lige nu. Lebara 70 GB koster 59 kr./md., og første måned er gratis. Begge er uden binding, men kører på 4G.
+A: Lebara har fri tale og {gb:lb-70} for {pris:lb-70} kr./md., hvilket er det billigste med fri tale i hele vores sammenligning. Abonnementet er uden binding, men kører på 4G. Vil du have 5G, koster Flexii 20 GB {pris:fx-20} kr. ({introtekst:fx-20}).
 Q: Hvor meget data har en ung brug for?
-A: Det afhænger af, hvor meget video du ser uden wifi. En time TikTok eller YouTube om dagen kan let blive 15-45 GB om måneden. De fleste unge rammer plet med 40-70 GB, mens du skal op på 100-200 GB, hvis du også bruger hotspot til computeren.
+A: Det afhænger af, hvor meget video du ser uden wifi. En time TikTok eller YouTube om dagen kan let blive 15-45 GB om måneden. De fleste unge rammer plet med 50-70 GB, mens du skal op på 100-200 GB, hvis du også bruger hotspot til computeren.
 Q: Findes der studierabat på mobilabonnementer?
-A: Ingen af de otte selskaber, vi dækker, har en fast studierabat. Lavprisselskaberne er i forvejen så billige, at de typisk slår et rabatteret abonnement hos de store selskaber. Hold også øje med <a href="/mobilabonnement-tilbud/">aktuelle tilbud</a>.
+A: Ingen af de {antal_udbydere} selskaber, vi dækker, har en fast studierabat. Lavprisselskaberne er i forvejen så billige, at de typisk slår et rabatteret abonnement hos de store selskaber. Hold også øje med <a href="/mobilabonnement-tilbud/">aktuelle tilbud</a>.
 Q: Hvilket mobilabonnement er bedst til hotspot?
-A: Bruger du hotspot jævnligt, så vælg mindst 100-200 GB, fx Lyca Mobile 200 GB for 119 kr./md. eller Duka 200 GB for 129 kr./md. med 5G. Er mobilen dit eneste internet, er Duka 1000 GB for 179 kr. eller Flexii fri data for 149 kr. (129 kr. første år) bedre.
+A: Bruger du hotspot jævnligt, så vælg mindst 100-200 GB, fx Duka 200 GB med 5G for {pris:dk-200} kr./md. ({introtekst:dk-200}) eller Lyca Mobile 200 GB for {pris:ly-200} kr./md. ({introtekst:ly-200}). Er mobilen dit eneste internet, er Duka {gb:dk-1000} for {pris:dk-1000} kr. eller Flexii fri data fra {pris:fx-fri-4g} kr. ({introtekst:fx-fri-4g}) bedre.
 Q: Kan jeg bruge min data på interrail i Europa?
-A: Ja, i EU og EØS kan du bruge abonnementet som hjemme, men selskabet må sætte en grænse for EU-data på store abonnementer. Lebara 40 GB giver 6 GB i EU, mens Duka 200 GB giver 30 GB. Storbritannien og Schweiz er ikke omfattet af EU-reglerne.
+A: Ja, i EU og EØS kan du bruge abonnementet som hjemme, men selskabet må sætte en grænse for EU-data på store abonnementer. Lebara {gb:lb-70} giver {eu:lb-70} GB i EU, mens Duka 200 GB giver {eu:dk-200} GB. Storbritannien og Schweiz er ikke omfattet af EU-reglerne.
 Q: Er Lyca Mobile et rigtigt abonnement eller taletidskort?
-A: Lyca Mobile sælger 30-dages pakker, der fungerer som et abonnement, men minder om forudbetalt. Du betaler for 30 dage ad gangen og kan stoppe, når du vil. Læs mere om forskellen på vores side om <a href="/taletidskort/">taletidskort</a>.
+A: Lyca Mobile sælger forudbetalte 30-dages pakker, der fungerer som et abonnement, men minder om forudbetalt. Du betaler for 30 dage ad gangen og kan stoppe, når du vil. Læs mere om forskellen på vores side om <a href="/taletidskort/">taletidskort</a>.
 Q: Kan mine forældre betale mit abonnement, selvom det står i mit navn?
 A: Du skal som udgangspunkt selv være myndig og have MitID for at stå som kunde. Er du under 18, står abonnementet typisk i en forælders navn. Når du fylder 18, kan nummeret overføres til dig, og du beholder det samme nummer.
 ===KILDER===

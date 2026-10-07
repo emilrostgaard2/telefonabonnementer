@@ -70,7 +70,7 @@ related: billigste-mobilabonnement, mobilabonnement-uden-binding, esim, guides/o
 <p>Bemærk, at fristen i loven regnes fra det tidspunkt, hvor selskabet har modtaget din anmodning med de nødvendige oplysninger. Venter du på et fysisk SIM-kort, sætter mange selskaber flytningen til at ske, når kortet er nået frem. Det er derfor, et skifte med fysisk SIM i praksis tit tager nogle dage fra bestilling til færdigt skifte.</p>
 
 <h2>Skift mobilabonnement med eSIM</h2>
-<p>Har du en nyere iPhone, Samsung Galaxy eller Google Pixel, kan du som regel bruge eSIM – et digitalt SIM-kort, der installeres direkte i telefonen. Alle otte selskaber, vi dækker – Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka – tilbyder eSIM. Apple har en opdateret liste over danske selskaber med eSIM-understøttelse<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
+<p>Har du en nyere iPhone, Samsung Galaxy eller Google Pixel, kan du som regel bruge eSIM – et digitalt SIM-kort, der installeres direkte i telefonen. Alle {antal_udbydere} selskaber, vi dækker – Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel, Duka, CBB og eesy – tilbyder eSIM. Apple har en opdateret liste over danske selskaber med eSIM-understøttelse<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
 <p>Fordelen ved eSIM er, at du slipper for at vente på posten. Typisk kan du aktivere eSIM'et i selskabets app kort efter bestillingen, og så er det kun nummerflytningen, du venter på.</p>
 <h3>Sådan gør du med eSIM ved nummerflytning</h3>
 <ul>
@@ -107,10 +107,10 @@ related: billigste-mobilabonnement, mobilabonnement-uden-binding, esim, guides/o
 </ul>
 
 <h2>Hvor meget kan du spare ved at skifte?</h2>
-<p>Det er her, det for alvor bliver interessant. Vi har gennemgået 45 abonnementer, og prisforskellen på sammenlignelige abonnementer er stor. Tre regneeksempler med normalpriser pr. 7. oktober 2026:</p>
+<p>Det er her, det for alvor bliver interessant. Vi har gennemgået {antal} abonnementer, og prisforskellen på sammenlignelige abonnementer er stor. Tre regneeksempler med normalpriser pr. 7. oktober 2026:</p>
 <ul>
 <li><strong>Fri data:</strong> Betaler du 299 kr./md. for fri tale og fri data hos YouSee, og skifter du til Flexii til 149 kr./md., sparer du 150 kr. om måneden – 1.800 kr. om året. Det første år er Flexiis pris 129 kr./md., så her er besparelsen 2.040 kr.</li>
-<li><strong>Mellemstort forbrug:</strong> Har du fri tale og 45 GB hos Telmore til 149 kr./md., og skifter du til Lebara med 40 GB og fri tale til 49 kr./md., sparer du 100 kr. om måneden eller 1.200 kr. om året. Du får dog 5 GB mindre data og kun 4G.</li>
+<li><strong>Mellemstort forbrug:</strong> Har du fri tale og 50 GB hos Telmore til 149 kr./md. (normalpris), og skifter du til Lebara med 70 GB og fri tale til 59 kr./md., sparer du 90 kr. om måneden eller 1.080 kr. om året – og får 20 GB mere data. Til gengæld kører Lebara kun på 4G.</li>
 <li><strong>Lille forbrug:</strong> Skifter du fra et abonnement med 3 timer og 3 GB til 99 kr./md. til Lebara eller Lyca Mobile med 5 GB og 5 timer til 19 kr./md., sparer du 80 kr. om måneden – 960 kr. om året.</li>
 </ul>
 [[vaerktoej:sparberegner]]
@@ -121,7 +121,7 @@ related: billigste-mobilabonnement, mobilabonnement-uden-binding, esim, guides/o
 <h3>1. Data: Hvor meget bruger du egentlig?</h3>
 <p>Det gennemsnitlige danske mobilabonnement brugte 26,9 GB om måneden i andet halvår 2024<sup class="ref"><a href="#kilde-3">3</a></sup>. Bruger du markant mindre, kan et billigt abonnement være nok. Bruger du meget mere, kan <a href="/mobilabonnement-fri-data/">fri data</a> eller et stort dataabonnement betale sig.</p>
 <h3>2. Net: Hvilket mobilnet virker bedst hos dig?</h3>
-<p>Skifter du til et selskab på et andet net, ændrer din dækning sig. Telmore, YouSee og Lyca Mobile kører på TDC NET, Oister og Flexii på 3's net, mens Lebara, Greentel og Duka bruger TT-netværket, som Telenor og Norlys deler. Tjek din adresse, før du skifter – vi forklarer hvordan i guiden til <a href="/guides/bedste-mobilnet/">bedste mobilnet i Danmark</a>.</p>
+<p>Skifter du til et selskab på et andet net, ændrer din dækning sig. Telmore, YouSee og eesy kører på TDC NET, Oister og Flexii på 3's net, mens Lebara, Lyca Mobile, Greentel, Duka og CBB bruger TT-netværket, som Telenor og Norlys deler. Tjek din adresse, før du skifter – vi forklarer hvordan i guiden til <a href="/guides/bedste-mobilnet/">bedste mobilnet i Danmark</a>.</p>
 <h3>3. Normalpris – ikke kun intropris</h3>
 <p>Mange abonnementer har en lav pris i 2, 6 eller 12 måneder. Det er fint, men regn med normalprisen, når du sammenligner over et år. Se aktuelle kampagner på <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a>.</p>
 <h3>4. Udland og EU-data</h3>

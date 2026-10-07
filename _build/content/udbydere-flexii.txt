@@ -1,10 +1,10 @@
 ---
 slug: udbydere/flexii
 title: Flexii mobilabonnement → Fra {fra:udbyder-flexii} kr. + test ({mdkort})
-desc: Flexii anmeldelse: fri data fra 129 kr./md. første år, fri tale + 20 GB fra 59 kr. og 4G- eller 5G-pris. Se alle priser, nettet og vores karakter 8,9.
+desc: Flexii anmeldelse: fri data fra {intro:fx-fri-4g} kr./md. første år, fri tale + 20 GB fra {intro:fx-20-4g} kr. og 4G- eller 5G-pris. Se alle priser, nettet og karakter 8,9.
 h1: Flexii anmeldelse og priser
 kicker: Opdateret {maaned} · Priser tjekket 7. oktober 2026
-answer: Vi giver Flexii 8,9 ud af 10 – den højeste karakter blandt de otte selskaber, vi tester. Flexii har Danmarks billigste fri data (129 kr./md. det første år, derefter 149 kr.) og fri tale + 20 GB fra 59 kr. på 3's net, og passer bedst til dig, der vil have meget data billigt og klarer dig med chat-support.
+answer: Vi giver Flexii 8,9 ud af 10 – den højeste karakter blandt de {antal_udbydere} selskaber, vi tester. Flexii har Danmarks billigste fri data ({introtekst:fx-fri-4g} på 4G, derefter {pris:fx-fri-4g} kr. – eller {pris:fx-fri} kr. med 5G) og fri tale + 20 GB fra {intro:fx-20-4g} kr. på 3's net, og passer bedst til dig, der vil have meget data billigt og klarer dig med chat-support.
 lead: Vi har gennemgået alle Flexiis abonnementer, 4G- og 5G-priserne, nettet, EU-data og vilkårene, så du kan se, om Flexii er det rigtige valg – og hvornår et andet selskab er bedre.
 crumb: Flexii
 section: udbydere
@@ -14,19 +14,19 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 [[udbyderkort:flexii]]
 
 <h2>Alle Flexii-abonnementer og priser</h2>
-<p>Flexii har et enkelt sortiment: fire voksenabonnementer, der alle har fri tale og SMS, og to børneabonnementer. Forskellen ligger i datamængden – 20 GB, 50 GB, 150 GB eller fri data – og i, om du vælger 5G- eller den lidt billigere 4G-pris. Alle priserne nedenfor er tjekket på Flexiis egen side den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
+<p>Flexii har et enkelt sortiment: fire datastørrelser, der alle har fri tale og SMS, og et byg-selv-abonnement med 10 GB. Forskellen ligger i datamængden – 20 GB, 50 GB, 150 GB eller fri data – og i, om du vælger 5G- eller den billigere 4G-pris. Alle priserne nedenfor er tjekket mod Flexiis egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
 
 [[tabel:udbyder-flexii]]
 
-<p>Det, der springer i øjnene, er fri data til 129 kr./md. det første år. Det er det billigste ubegrænsede abonnement på det danske marked i vores <a href="/mobilabonnement-fri-data/">sammenligning af fri data</a> – Oister tager 199 kr. efter introperioden, Duka 199 kr., Telmore 249 kr. og YouSee 299 kr. Selv efter første år, hvor Flexii hæver prisen til 149 kr., er der stadig 50 kr. om måneden til den næstbilligste.</p>
+<p>Det, der springer i øjnene, er fri data til {intro:fx-fri-4g} kr./md. det første år på 4G og {intro:fx-fri} kr. på 5G. Det er de billigste ubegrænsede abonnementer på det danske marked i vores <a href="/mobilabonnement-fri-data/">sammenligning af fri data</a> – Oister tager {pris:oi-fri} kr. efter introperioden, Duka {pris:dk-fri} kr., Telmore {pris:tm-fri} kr. og YouSee {pris:ys-fri} kr. Selv efter første år, hvor Flexii hæver prisen til {pris:fx-fri-4g} kr. (4G) eller {pris:fx-fri} kr. (5G), er der stadig 40-45 kr. om måneden til den næstbilligste.</p>
 <p>Flexiis model er bygget op om en introrabat på de første 12 måneder. Det er længere end de fleste konkurrenter, der typisk giver to til seks måneders rabat. Men det betyder også, at du skal regne med normalprisen fra måned 13, hvis du bliver. Vi ser derfor altid på både første års pris og prisen derefter.</p>
 
 <h3>Hvad koster Flexii over to år?</h3>
-<p>Et regneeksempel gør forskellen tydelig. Vælger du fri tale + 50 GB med 5G, betaler du 79 kr. × 12 = 948 kr. det første år og 89 kr. × 12 = 1.068 kr. det andet år. Samlet 2.016 kr. over to år, eller 84 kr. i gennemsnit pr. måned. Til sammenligning koster Oisters fri tale + 40 GB 69 kr. i seks måneder og derefter 99 kr. – i alt 2.196 kr. over to år for færre gigabyte.</p>
-<p>Tager du fri data, er tallet 129 kr. × 12 + 149 kr. × 12 = 3.336 kr. over to år. Det samme hos YouSee koster 299 kr. × 24 = 7.176 kr. – en forskel på 3.840 kr. Hos Telmore, der som YouSee kører på TDC NET, koster fri data 5.976 kr. over to år.</p>
+<p>Et regneeksempel gør forskellen tydelig. Vælger du fri tale + 50 GB med 5G, betaler du 79 kr. × 12 = 948 kr. det første år og 89 kr. × 12 = 1.068 kr. det andet år. Samlet 2.016 kr. over to år, eller 84 kr. i gennemsnit pr. måned. Til sammenligning koster Oisters fri tale + 40 GB 59 kr. i seks måneder og derefter 89 kr. – i alt 1.956 kr. over to år for færre gigabyte, men 5G er med. Vælger du Flexiis 50 GB på 4G, betaler du 69 kr. × 12 + 79 kr. × 12 = 1.776 kr. over to år.</p>
+<p>Tager du fri data med 5G, er tallet 129 kr. × 12 + 149 kr. × 12 = 3.336 kr. over to år – og med 4G 124 kr. × 12 + 144 kr. × 12 = 3.216 kr. Det samme hos YouSee koster 299 kr. × 24 = 7.176 kr. – en forskel på op til 3.960 kr. Hos Telmore, der som YouSee kører på TDC NET, koster fri data 5.976 kr. over to år.</p>
 
-<h3>Flexii til børn</h3>
-<p>Flexii er også et af de billigste bud på et <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>. Fri tale + 5 GB koster 17 kr./md. i tre måneder og derefter 35 kr., mens 10 GB koster 19 kr. i tre måneder og så 39 kr. Børneabonnementerne kører på 4G, hvilket er rigeligt til beskeder, opkald og lidt video. Til sammenligning koster Oisters 12 GB og 12 timers tale 69 kr./md.</p>
+<h3>Byg-selv: 10 GB til børn og små forbrugere</h3>
+<p>Flexii er også et af de billigste bud på et <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>. Byg-selv-abonnementet med fri tale + {gb:fx-k10} koster {introtekst:fx-k10} og derefter {pris:fx-k10} kr. Det kører på 4G, hvilket er rigeligt til beskeder, opkald og lidt video. Til sammenligning koster Oisters fri tale + 12 GB {pris:oi-12} kr./md., og Greentels Basic med 5 GB og 1 times tale {pris:gt-5} kr.</p>
 
 <h2>Flexiis netværk og dækning: Hvor god er 3's net?</h2>
 <p>Flexii ejer ikke selv antenner. Selskabet er ejet af Hi3G Denmark, der også står bag 3 og Oister, og alle tre brands bruger 3's mobilnet<sup class="ref"><a href="#kilde-4">4</a></sup>. Det er ét af de fire fysiske net i Danmark – de andre er TDC NET, Telenor og Norlys, hvor de to sidste deler radionettet i det såkaldte TT-netværk. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
@@ -39,31 +39,32 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 [[simo:Brug de første 14 dage med Flexii som en dækningstest. Tjek signalet i soveværelset, på arbejdet og i sommerhuset – fortryd, hvis det ikke holder.]]
 
 <h2>Flexii 5G eller 4G: Hvad er forskellen i pris og hastighed?</h2>
-<p>Flexii er det eneste af de selskaber, vi dækker, hvor du selv vælger, om du vil betale for 5G. 4G-prisen er lidt lavere – se den aktuelle forskel på Flexiis side. Her er 5G-priserne for første år og prisen derefter, som vi bruger i vores sammenligning:</p>
+<p>Flexii er det eneste af de selskaber, vi dækker, hvor du selv vælger, om du vil betale for 5G. 4G-prisen er 5-10 kr. lavere om måneden. Her er alle priser for første år og prisen derefter:</p>
 <table>
-<thead><tr><th>Abonnement</th><th>5G: første år</th><th>5G: derefter</th><th>EU-data</th></tr></thead>
+<thead><tr><th>Abonnement</th><th>4G: første år</th><th>4G: derefter</th><th>5G: første år</th><th>5G: derefter</th><th>EU-data (4G/5G)</th></tr></thead>
 <tbody>
-<tr><td>Fri tale + 20 GB</td><td>59 kr.</td><td>69 kr.</td><td>20 GB</td></tr>
-<tr><td>Fri tale + 50 GB</td><td>79 kr.</td><td>89 kr.</td><td>30 GB</td></tr>
-<tr><td>Fri tale + 150 GB</td><td>94 kr.</td><td>109 kr.</td><td>30 GB</td></tr>
-<tr><td>Fri tale + fri data</td><td>129 kr.</td><td>149 kr.</td><td>40 GB</td></tr>
+<tr><td>Fri tale + 20 GB</td><td>{intro:fx-20-4g} kr.</td><td>{pris:fx-20-4g} kr.</td><td>{intro:fx-20} kr.</td><td>{pris:fx-20} kr.</td><td>{eu:fx-20-4g} / {eu:fx-20} GB</td></tr>
+<tr><td>Fri tale + 50 GB</td><td>{intro:fx-50-4g} kr.</td><td>{pris:fx-50-4g} kr.</td><td>{intro:fx-50} kr.</td><td>{pris:fx-50} kr.</td><td>{eu:fx-50-4g} / {eu:fx-50} GB</td></tr>
+<tr><td>Fri tale + 150 GB</td><td>{intro:fx-150-4g} kr.</td><td>{pris:fx-150-4g} kr.</td><td>{intro:fx-150} kr.</td><td>{pris:fx-150} kr.</td><td>{eu:fx-150-4g} / {eu:fx-150} GB</td></tr>
+<tr><td>Fri tale + fri data</td><td>{intro:fx-fri-4g} kr.</td><td>{pris:fx-fri-4g} kr.</td><td>{intro:fx-fri} kr.</td><td>{pris:fx-fri} kr.</td><td>{eu:fx-fri-4g} / {eu:fx-fri} GB</td></tr>
 </tbody>
 </table>
+<p>Bemærk, at 5G-versionen af 50 GB og fri data også giver 10 GB mere EU-data end 4G-versionen. På 50 GB koster 5G 10 kr. mere om måneden – 120 kr. om året – mens forskellen på fri data kun er 5 kr.</p>
 <p>Er 5G pengene værd? Det afhænger af din telefon og dit forbrug. Opensignal måler 5G-tilgængeligheden til mellem 92,7 og 94,1 % hos alle fire net<sup class="ref"><a href="#kilde-2">2</a></sup>, så har du en 5G-telefon, vil du det meste af tiden være på 5G. Det giver højere hastighed og ofte lavere svartider, hvilket kan mærkes ved store downloads, videoopkald og hvis du bruger telefonen som hotspot til computeren.</p>
 <p>Men til almindelig brug – sociale medier, Spotify, mails og Netflix i HD – er et godt 4G-signal mere end nok. Netflix i HD bruger cirka 3 GB i timen, hvilket kræver langt mindre båndbredde, end 4G kan levere.</p>
-<p>Vores anbefaling: Har du en ældre telefon uden 5G, så vælg altid 4G-prisen – du betaler ellers for noget, du ikke kan bruge. Er forskellen kun få kroner, vil vi tage 5G, hvis telefonen understøtter det. Læs mere i vores guide til <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+<p>Vores anbefaling: Har du en ældre telefon uden 5G, så vælg altid 4G-prisen – du betaler ellers for noget, du ikke kan bruge. Er forskellen kun få kroner, som på fri data, vil vi tage 5G, hvis telefonen understøtter det – du får både hastigheden og 10 GB mere i EU. Læs mere i vores guide til <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
 
 <h2>Flexii i EU og udlandet</h2>
-<p>Alle Flexiis voksenabonnementer har EU-data, og mængden er generøs i forhold til prisen: 20 GB på det mindste abonnement, 30 GB på 50 GB- og 150 GB-abonnementerne og 40 GB på fri data. Børneabonnementerne har 5 og 10 GB i EU.</p>
+<p>Flexiis faste abonnementer har EU-data, og mængden er generøs i forhold til prisen: 20 GB på 20 GB-abonnementet, 20-30 GB på 50 GB, 30 GB på 150 GB og 30-40 GB på fri data, afhængigt af om du vælger 4G eller 5G. Se den præcise EU-kvote for byg-selv-abonnementet ved bestilling.</p>
 <p>Reglerne følger EU's roamingforordning, "Roam like at home", der gælder til 30. juni 2032<sup class="ref"><a href="#kilde-6">6</a></sup>. Du kan ringe, skrive og bruge data i EU, Norge, Island og Liechtenstein til samme pris som hjemme, og fra 1. januar 2026 er Ukraine og Moldova også med. Storbritannien og Schweiz er ikke omfattet af forordningen, så tjek Flexiis prisliste, før du rejser dertil.</p>
-<p>Ved fri data må selskabet sætte en fair use-grænse i EU. Loven kræver mindst to gange månedsprisen ekskl. moms divideret med engrosloftet på 1,30 € pr. GB. For Flexiis fri data til 149 kr. er det: 149 kr. ÷ 1,25 = 119,20 kr. ekskl. moms ≈ 16 €. 16 € ÷ 1,30 € × 2 ≈ 24,6 GB. Flexii giver 40 GB – altså markant mere end minimumskravet. Prøv selv med vores <a href="/mobilabonnement-udlandet/">guide til mobil i udlandet</a> eller beregneren herunder.</p>
+<p>Ved fri data må selskabet sætte en fair use-grænse i EU. Loven kræver mindst to gange månedsprisen ekskl. moms divideret med engrosloftet på 1,30 € pr. GB. For Flexiis fri data med 5G til {pris:fx-fri} kr. er det: 149 kr. ÷ 1,25 = 119,20 kr. ekskl. moms ≈ 16 €. 16 € ÷ 1,30 € × 2 ≈ 24,6 GB. Flexii giver {eu:fx-fri} GB på 5G og {eu:fx-fri-4g} GB på 4G – altså mere end minimumskravet. Prøv selv med vores <a href="/mobilabonnement-udlandet/">guide til mobil i udlandet</a> eller beregneren herunder.</p>
 
 [[vaerktoej:roaming]]
 
-<p>Rejser du ofte uden for EU, fx til USA eller Thailand, er Flexii ikke det stærkeste valg. Her er Dukas World-abonnement eller 3's egen udlandsløsning mere relevant.</p>
+<p>Rejser du ofte uden for EU, fx til USA eller Thailand, er Flexii ikke det stærkeste valg. Her er 3's egen udlandsløsning, 3LikeHome, mere relevant.</p>
 
 <h2>eSIM og opstart hos Flexii</h2>
-<p>Flexii tilbyder eSIM ligesom alle de otte selskaber, vi sammenligner. Apple har en oversigt over, hvilke danske selskaber der understøtter eSIM på iPhone<sup class="ref"><a href="#kilde-9">9</a></sup>. Hele bestillingen foregår online: du vælger abonnement og 4G eller 5G, angiver om du vil beholde dit nummer, og vælger fysisk SIM-kort eller eSIM.</p>
+<p>Flexii tilbyder eSIM ligesom alle de {antal_udbydere} selskaber, vi sammenligner. Apple har en oversigt over, hvilke danske selskaber der understøtter eSIM på iPhone<sup class="ref"><a href="#kilde-9">9</a></sup>. Hele bestillingen foregår online: du vælger abonnement og 4G eller 5G, angiver om du vil beholde dit nummer, og vælger fysisk SIM-kort eller eSIM.</p>
 <p>Da vi gennemgik bestillingsflowet, var det tydeligt, at Flexii er bygget til selvbetjening. Der er få valg, og prisen for første år og prisen derefter står klart. Vælger du eSIM, aktiveres det via en QR-kode, så du slipper for at vente på posten. Se vores <a href="/esim/">guide til eSIM</a>, hvis du er i tvivl om, hvorvidt din telefon understøtter det.</p>
 <p>Der er ingen binding på Flexiis abonnementer, og du har 14 dages returret. Det er vigtigt at skelne mellem de to ting: Ingen binding betyder, at du kan opsige med selskabets opsigelsesvarsel. Returretten betyder, at du kan fortryde helt inden for de første 14 dage.</p>
 
@@ -75,7 +76,7 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 
 <h2>Hvem ejer Flexii? Ejerskab og historie</h2>
 <p>Flexii blev lanceret i 2016 og er ejet af Hi3G Denmark, der også ejer 3 og Oister. Ifølge Digitaliseringsstyrelsens udbyderliste for 2025 er de tre brands samlet i samme koncern<sup class="ref"><a href="#kilde-4">4</a></sup>. 3 er i dag Danmarks næststørste teleselskab målt på kunder med 1,72 mio. kunder ifølge iNPUT (juli 2025), lige foran Telenor med 1,697 mio.<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
-<p>Rollefordelingen i koncernen er tydelig: 3 er hovedbrandet med butikker og udlandsløsninger, Oister er lavprisbrandet med streamingpakker og datadeling, og Flexii er det helt skrabede, digitale brand med de laveste priser. For dig som kunde betyder det, at du får samme net som hos 3, men uden butikker og telefonsupport.</p>
+<p>Rollefordelingen i koncernen er tydelig: 3 er hovedbrandet med butikker og udlandsløsninger, Oister er lavprisbrandet med 5G på alt og datadeling, og Flexii er det helt skrabede, digitale brand med de laveste priser. For dig som kunde betyder det, at du får samme net som hos 3, men uden butikker og telefonsupport.</p>
 <p>At Flexii er en del af en stor koncern, er en fordel for driftssikkerheden. Nettet, nummerflytningen og eSIM-platformen er den samme som hos Danmarks næststørste mobiloperatør.</p>
 
 [[cta:flexii]]
@@ -83,16 +84,16 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 <h2>Flexii vs. alternativer</h2>
 <p>Hvordan klarer Flexii sig mod de nærmeste konkurrenter? Vi har sammenlignet de abonnementer, der minder mest om hinanden. Priserne er normalpris, med kampagnepris i parentes.</p>
 <table>
-<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 20-40 GB</th><th>Fri data</th><th>Vores karakter</th></tr></thead>
+<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 20-70 GB</th><th>Fri data</th><th>Vores karakter</th></tr></thead>
 <tbody>
-<tr><td>Flexii</td><td>3</td><td>20 GB: 69 kr. (59 kr. første år)</td><td>149 kr. (129 kr. første år)</td><td>8,9</td></tr>
-<tr><td><a href="/udbydere/oister/">Oister</a></td><td>3</td><td>40 GB: 99 kr. (69 kr. i 6 mdr.)</td><td>199 kr. (139 kr. i 6 mdr.)</td><td>8,8</td></tr>
-<tr><td><a href="/udbydere/duka/">Duka</a></td><td>TT-netværket</td><td>30 GB: 99 kr. (55 kr. til 31.3.2027)</td><td>199 kr.</td><td>8,6</td></tr>
-<tr><td><a href="/udbydere/lebara/">Lebara</a></td><td>TT-netværket</td><td>40 GB: 49 kr. (4G)</td><td>Ingen (200 GB: 159 kr.)</td><td>8,5</td></tr>
-<tr><td><a href="/udbydere/telmore/">Telmore</a></td><td>TDC NET</td><td>45 GB: 149 kr. (26 kr. i 2 mdr.)</td><td>249 kr.</td><td>8,7</td></tr>
+<tr><td>Flexii</td><td>3</td><td>20 GB (4G): {pris:fx-20-4g} kr. ({introtekst:fx-20-4g})</td><td>4G: {pris:fx-fri-4g} kr. ({introtekst:fx-fri-4g})</td><td>8,9</td></tr>
+<tr><td><a href="/udbydere/oister/">Oister</a></td><td>3</td><td>{gb:oi-40}: {pris:oi-40} kr. ({introtekst:oi-40})</td><td>{pris:oi-fri} kr. ({introtekst:oi-fri})</td><td>8,8</td></tr>
+<tr><td><a href="/udbydere/duka/">Duka</a></td><td>TT-netværket</td><td>{gb:dk-30}: {pris:dk-30} kr.</td><td>{pris:dk-fri} kr.</td><td>8,6</td></tr>
+<tr><td><a href="/udbydere/lebara/">Lebara</a></td><td>TT-netværket</td><td>{gb:lb-70}: {pris:lb-70} kr. (4G)</td><td>Ingen (160 GB: {pris:lb-160} kr.)</td><td>8,5</td></tr>
+<tr><td><a href="/udbydere/telmore/">Telmore</a></td><td>TDC NET</td><td>{gb:tm-50}: {pris:tm-50} kr. ({introtekst:tm-50})</td><td>{pris:tm-fri} kr.</td><td>8,7</td></tr>
 </tbody>
 </table>
-<p>Konklusionen er, at Flexii vinder klart på fri data og på de mellemstore datapakker over to år. Lebara er billigere på 40 GB, men kun med 4G og mindre EU-data. Oister er Flexiis "storebror" på samme net og koster mere, men giver til gengæld datadeling og streamingpakker. Vil du have det stærkeste net, er Telmore på TDC NET alternativet – men så betaler du 100 kr. mere om måneden for fri data.</p>
+<p>Konklusionen er, at Flexii vinder klart på fri data og på de mellemstore datapakker over to år. Lebara giver mere data for pengene med 70 GB for {pris:lb-70} kr. – samme pris som Flexiis 20 GB på 4G – men kun med 4G og ingen fri data. Oister er Flexiis "storebror" på samme net og koster mere, men giver til gengæld datadeling og mere EU-data. Vil du have det stærkeste net, er Telmore på TDC NET alternativet – men så betaler du 100-105 kr. mere om måneden for fri data.</p>
 
 <h2>Hvem passer Flexii til – og hvem ikke?</h2>
 <h3>Flexii passer godt til dig, der</h3>
@@ -101,7 +102,7 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 <li>bor i en by eller et område med god dækning på 3's net.</li>
 <li>er tryg ved at klare alt selv online og via chat.</li>
 <li>har en ældre telefon uden 5G og kan spare med 4G-prisen.</li>
-<li>skal finde et billigt førsteabonnement til et barn.</li>
+<li>skal finde et billigt førsteabonnement til et barn – byg-selv med 10 GB.</li>
 </ul>
 <h3>Flexii passer mindre godt til dig, der</h3>
 <ul>
@@ -111,7 +112,7 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 <li>rejser meget uden for EU.</li>
 </ul>
 
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Danmarks billigste fri data: 129 kr./md. første år</li><li>Introrabat i hele 12 måneder</li><li>Vælg selv mellem 4G- og 5G-pris</li><li>Generøs EU-data (op til 40 GB)</li><li>Børneabonnementer fra 17 kr./md.</li><li>Ingen binding og 14 dages returret</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen telefonsupport – kun chat</li><li>Prisen stiger 10-20 kr. efter første år</li><li>3's net har lavest dækningsscore hos Opensignal</li><li>Ingen datadeling eller ekstra datakort</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Danmarks billigste fri data: {introtekst:fx-fri-4g} (4G)</li><li>Introrabat i hele 12 måneder</li><li>Vælg selv mellem 4G- og 5G-pris</li><li>Generøs EU-data (op til 40 GB)</li><li>Byg-selv 10 GB: {introtekst:fx-k10}</li><li>Ingen binding og 14 dages returret</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen telefonsupport – kun chat</li><li>Prisen stiger 7-20 kr. efter første år</li><li>3's net har lavest dækningsscore hos Opensignal</li><li>Ingen datadeling eller ekstra datakort</li></ul></div></div>
 
 <h2>Sådan skifter du til Flexii</h2>
 <p>Bestillingen foregår online, og du skal ikke selv opsige dit gamle abonnement, hvis du tager nummeret med. Sådan gør du:</p>
@@ -130,12 +131,12 @@ related: udbydere/oister, mobilabonnement-fri-data, billigste-mobilabonnement, 5
 <h2>Vores samlede vurdering af Flexii</h2>
 <p>Flexii får 8,9 ud af 10 og ligger dermed øverst i vores test. Karakteren er sammensat af pris (9,5), fleksibilitet (9,4), net (8,4) og service (7,6). Det er især prisen og den lange introperiode, der trækker op, mens manglende telefonsupport og 3's svagere dækning i landområderne trækker ned. Du kan se præcis, hvordan vi vægter, på siden om <a href="/metode/">vores metode</a>.</p>
 
-<blockquote class="expert"><p>Flexii er det abonnement, jeg oftest anbefaler til folk, der bruger meget data og bor i byen. Fri data for 129 kr. det første år er svært at slå, og muligheden for at vælge 4G-prisen er en reel besparelse for dem med en ældre telefon. Men jeg siger altid det samme: Tjek dækningen der, hvor du bor, og vær klar på, at du kun kan få hjælp via chat. Hvis det er i orden, er Flexii markedets bedste køb lige nu.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Flexii er det abonnement, jeg oftest anbefaler til folk, der bruger meget data og bor i byen. Fri data for {intro:fx-fri-4g}-{intro:fx-fri} kr. det første år er svært at slå, og muligheden for at vælge 4G-prisen er en reel besparelse for dem med en ældre telefon. Men jeg siger altid det samme: Tjek dækningen der, hvor du bor, og vær klar på, at du kun kan få hjælp via chat. Hvis det er i orden, er Flexii markedets bedste køb lige nu.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 ===FAQ===
 Q: Hvilket net bruger Flexii?
 A: Flexii kører på 3's mobilnet, fordi selskabet er ejet af Hi3G Denmark ligesom 3 og Oister. Nettet har den næsthøjeste downloadhastighed i Opensignals måling (112,2 Mbit/s), men den laveste dækningsscore (7,3/10). Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.
 Q: Hvad koster Flexii fri data efter første år?
-A: Fri tale + fri data med 5G koster 129 kr./md. det første år og 149 kr./md. derefter. 4G-prisen er lidt lavere. Begge dele er stadig det billigste fri data-abonnement i vores sammenligning.
+A: Fri tale + fri data med 5G koster {intro:fx-fri} kr./md. det første år og {pris:fx-fri} kr./md. derefter. Med 4G koster det {intro:fx-fri-4g} kr. det første år og {pris:fx-fri-4g} kr. derefter. Begge er stadig de billigste fri data-abonnementer i vores sammenligning.
 Q: Har Flexii telefonsupport?
 A: Nej. Flexii tilbyder kun support via chat og selvbetjening online. Det er en del af grunden til de lave priser, men det betyder også, at Flexii er mindre egnet til dig, der gerne vil kunne ringe og få hjælp.
 Q: Kan jeg få eSIM hos Flexii?
@@ -143,11 +144,11 @@ A: Ja, Flexii tilbyder eSIM, som du vælger ved bestillingen og aktiverer med en
 Q: Er der binding hos Flexii?
 A: Nej, der er ingen binding, og du har 14 dages returret. Du kan altså fortryde helt i de første 14 dage og derefter opsige med det almindelige opsigelsesvarsel.
 Q: Hvor meget EU-data får jeg med Flexii?
-A: Du får 20 GB på 20 GB-abonnementet, 30 GB på 50 GB- og 150 GB-abonnementerne og 40 GB på fri data. Børneabonnementerne har 5 og 10 GB i EU. Storbritannien og Schweiz er ikke omfattet af EU-reglerne.
+A: Du får 20 GB på 20 GB-abonnementet, {eu:fx-50-4g}-{eu:fx-50} GB på 50 GB, {eu:fx-150} GB på 150 GB og {eu:fx-fri-4g}-{eu:fx-fri} GB på fri data – mest med 5G. Storbritannien og Schweiz er ikke omfattet af EU-reglerne.
 Q: Skal jeg vælge 4G eller 5G hos Flexii?
-A: Har din telefon ikke 5G, bør du altid vælge den billigere 4G-pris. Har du en 5G-telefon og bruger telefonen som hotspot eller downloader meget, er 5G det værd.
+A: Har din telefon ikke 5G, bør du altid vælge den billigere 4G-pris – fx {pris:fx-fri-4g} kr. i stedet for {pris:fx-fri} kr. for fri data. Har du en 5G-telefon og bruger telefonen som hotspot eller downloader meget, er 5G det værd.
 Q: Er Flexii og Oister det samme?
-A: De er ejet af samme koncern (Hi3G Denmark) og kører på samme net, men er forskellige brands. Oister er dyrere, men har datadeling, streamingpakker og 5G på alle abonnementer, mens Flexii er det billigste og mest skrabede brand. Se vores <a href="/udbydere/oister/">Oister-anmeldelse</a>.
+A: De er ejet af samme koncern (Hi3G Denmark) og kører på samme net, men er forskellige brands. Oister er dyrere, men har datadeling, mere EU-data og 5G på alle abonnementer, mens Flexii er det billigste og mest skrabede brand. Se vores <a href="/udbydere/oister/">Oister-anmeldelse</a>.
 ===KILDER===
 Flexii – mobilabonnementer og priser | https://www.flexii.dk/mobilabonnement
 Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience

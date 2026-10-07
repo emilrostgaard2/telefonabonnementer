@@ -2,10 +2,10 @@
 slug: udbydere/lyca-mobile
 provider: lyca
 title: Lyca Mobile mobilabonnement → Fra {fra:udbyder-lyca} kr. + test ({mdkort})
-desc: Lyca Mobile anmeldelse {maaned}: 30-dages pakker fra 19 kr. med 5G, 200 GB + fri tale for 119 kr. og opkald til 50+ lande. Se net, EU-data og ulemper.
+desc: Lyca Mobile anmeldelse {maaned}: 30-dages pakker fra {pris:ly-5} kr., 200 GB + fri tale for {intro:ly-200} kr. i 6 mdr. og opkald til udlandet. Se net, EU-data og ulemper.
 h1: Lyca Mobile anmeldelse og priser
-kicker: Opdateret {maaned} · 6 Lyca Mobile-pakker gennemgået
-answer: Lyca Mobile får 8,2 ud af 10 i vores test. Du får 30-dages pakker med 5G fra 19 kr. (5 GB/5 timer), 200 GB + fri tale for 119 kr. og opkald til 50+ lande, uden binding. Ulemperne er, at fri tale først kommer fra 99 kr.-pakken, og at servicen er begrænset. Lyca passer bedst til dig, der ringer meget til udlandet eller vil have store datamængder billigt.
+kicker: Opdateret {maaned} · 5 Lyca Mobile-pakker gennemgået
+answer: Lyca Mobile får 8,2 ud af 10 i vores test. Du får 30-dages pakker på Norlys/Telenor-nettet (TT-netværket) fra {pris:ly-5} kr. ({gb:ly-5}/5 timer), og fri tale + {gb:ly-200} koster {introtekst:ly-200}, derefter {pris:ly-200} kr., uden binding. Ulemperne er, at alle pakker kører på 4G, at fri tale først kommer fra {pris:ly-100} kr.-pakken, og at servicen er begrænset.
 lead: Vi har gennemgået alle Lyca Mobiles pakker, netværk, EU-data, eSIM og vilkår og sammenlignet med Lebara og andre billige selskaber, så du kan se, om Lyca er det rigtige valg.
 crumb: Lyca Mobile
 section: udbydere
@@ -13,49 +13,50 @@ related: udbydere/lebara, udbydere/duka, billigste-mobilabonnement, mobilabonnem
 ---
 [[udbyderkort:lyca]]
 
-<div class="callout"><p><strong>Kort sagt:</strong> Lyca Mobile er et af Danmarks billigste selskaber med 5G på alle pakker og opkald til udlandet inkluderet. Pakkerne kører i 30 dage ad gangen, hvilket giver stor fleksibilitet, men også kræver, at du holder øje med fornyelsen. Vil du have fri tale under 99 kr., skal du vælge et andet selskab.</p></div>
+<div class="callout"><p><strong>Kort sagt:</strong> Lyca Mobile er et af Danmarks billigste selskaber med store datapakker, stærke introtilbud og opkald til udlandet. Du kører på Norlys/Telenor-nettet på 4G. Pakkerne kører i 30 dage ad gangen, hvilket giver stor fleksibilitet, men også kræver, at du holder øje med fornyelsen. Vil du have fri tale under {pris:ly-100} kr., skal du vælge et andet selskab.</p></div>
 
 <h2>Alle Lyca Mobile-abonnementer og priser</h2>
-<p>Lyca Mobile sælger pakker, der gælder i 30 dage ad gangen – en model, der minder om et forudbetalt taletidskort, men hvor pakken typisk fornyes. Vi har tjekket priserne på Lycas egen side den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup> og krydstjekket dem mod en uafhængig prisoversigt, fordi Lycas pakker og kampagner skifter hyppigt. Tabellen nedenfor kan sorteres efter pris, data og EU-data.</p>
+<p>Lyca Mobile sælger pakker, der gælder i 30 dage ad gangen – en model, der minder om et forudbetalt taletidskort, men hvor pakken typisk fornyes. Vi har tjekket priserne mod Lycas egne data den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>. Lyca har i {maaned} fem pakker, og tre af dem har introtilbud. Tabellen nedenfor kan sorteres efter pris, data og EU-data.</p>
 
 [[tabel:udbyder-lyca]]
 
-<p>Spændet er bredt: fra 5 GB og 5 timer for 19 kr. til 500 GB og fri tale for 299 kr. Det mest interessante er midten. 100 GB med fri tale for 99 kr. og især 200 GB med fri tale for 119 kr. hører til de billigste store datapakker i Danmark. Ved 200 GB er Lyca 10 kr. billigere end Duka (129 kr.) og 40 kr. billigere end Lebara (159 kr.).</p>
-<p>Til gengæld har Lyca et hul i midten. Pakkerne med 30 GB (49 kr.) og 60 GB (69 kr.) har ikke fri tale, men 15 og 60 timer. For de fleste er 15 timer nok – det er en halv times opkald hver dag – men ringer du meget, skal du op på 99 kr.-pakken for fri tale. Hos Lebara får du fri tale fra 49 kr.</p>
+<p>Spændet er bredt: fra {gb:ly-5} og 5 timer for {pris:ly-5} kr. til {gb:ly-500} og fri tale for {pris:ly-500} kr. Det mest interessante er midten. {gb:ly-100} med fri tale koster {pris:ly-100} kr. ({introtekst:ly-100}), og {gb:ly-200} med fri tale koster {pris:ly-200} kr. – og kun {introtekst:ly-200}. Ved 200 GB er Lyca til normalpris 10 kr. billigere end Duka ({pris:dk-200} kr.) og 40 kr. billigere end Telmore ({pris:tm-200} kr.). Duka har dog lige nu 200 GB for {introtekst:dk-200}.</p>
+<p>Til gengæld har Lyca et hul i bunden. Pakken med {gb:ly-30} til {pris:ly-30} kr. ({introtekst:ly-30}) har ikke fri tale, men 15 timer. For de fleste er 15 timer nok – det er en halv times opkald hver dag – men ringer du meget, skal du op på {pris:ly-100} kr.-pakken for fri tale. Hos Lebara får du fri tale og {gb:lb-70} for {pris:lb-70} kr.</p>
 
 <h3>Hvad koster Lyca Mobile om året?</h3>
-<p>Pakkerne gælder i 30 dage, ikke en kalendermåned. Det betyder, at du betaler cirka 12,2 gange om året (365 ÷ 30), ikke 12. Det er en detalje, der sjældent nævnes, men den har betydning for regnestykket:</p>
+<p>Pakkerne gælder i 30 dage, ikke en kalendermåned. Det betyder, at du betaler cirka 12,2 gange om året (365 ÷ 30), ikke 12. Det er en detalje, der sjældent nævnes, men den har betydning for regnestykket. Tabellen viser normalpriserne – introrabatterne trækker det første år ned:</p>
 <table>
-<thead><tr><th>Pakke</th><th>Pris pr. 30 dage</th><th>Pris pr. år (365 dage)</th></tr></thead>
+<thead><tr><th>Pakke</th><th>Pris pr. 30 dage</th><th>Pris pr. år (365 dage, normalpris)</th></tr></thead>
 <tbody>
 <tr><td>5 GB / 5 timer</td><td>19 kr.</td><td>ca. 231 kr.</td></tr>
 <tr><td>30 GB / 15 timer</td><td>49 kr.</td><td>ca. 596 kr.</td></tr>
 <tr><td>100 GB + fri tale</td><td>99 kr.</td><td>ca. 1.205 kr.</td></tr>
 <tr><td>200 GB + fri tale</td><td>119 kr.</td><td>ca. 1.448 kr.</td></tr>
+<tr><td>500 GB + fri tale</td><td>299 kr.</td><td>ca. 3.638 kr.</td></tr>
 </tbody>
 </table>
-<p>Til sammenligning koster Telmores fri tale + 80 GB 159 kr./md., altså 1.908 kr. om året. Med Lycas 200 GB-pakke sparer du ca. 460 kr. om året og får mere end dobbelt så meget data. Se flere muligheder på vores side om det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
+<p>Med introtilbuddet på 200 GB-pakken betaler du 6 × 59 kr. = 354 kr. for de første seks perioder og derefter ca. 6,2 × 119 kr. ≈ 734 kr. – i alt ca. 1.088 kr. det første år. Til sammenligning koster Telmores fri tale + 200 GB 159 kr./md., altså 1.908 kr. om året. Med Lycas 200 GB-pakke sparer du ca. 460 kr. om året til normalpris og over 800 kr. det første år for samme datamængde. Se flere muligheder på vores side om det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
 
-[[simo:Lycas pakker gælder i 30 dage, ikke en kalendermåned. Sæt automatisk fornyelse til, så du ikke pludselig står uden data midt i en uge.]]
+[[simo:Lycas pakker gælder i 30 dage, ikke en kalendermåned. Sæt automatisk fornyelse til, så du ikke pludselig står uden data midt i en uge – og skriv i kalenderen, hvornår introprisen udløber.]]
 
 <h2>Netværk og dækning: Hvilket net bruger Lyca Mobile?</h2>
-<p>Lyca Mobile kører på TDC NET – det samme net som Telmore og YouSee<sup class="ref"><a href="#kilde-11">11</a></sup>. Det passer med, at Lycamobile i sin tid lancerede i Danmark som virtuelt mobilselskab på TDC's net<sup class="ref"><a href="#kilde-12">12</a></sup>. Uanset net anbefaler vi, at du slår din adresse op på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup>.</p>
-<p>På TDC NET får du det net, der har den bedste dækningsoplevelse i Danmark. I Opensignals rapport fra februar 2026 (målinger fra oktober-december 2025) fik TDC 9,3 ud af 10 for dækningsoplevelse, lige foran Telenor og Norlys (9,2) og klart over 3 (7,3)<sup class="ref"><a href="#kilde-3">3</a></sup>. TDC's gennemsnitlige downloadhastighed var 103,1 Mbit/s, hvilket er lidt lavere end hos de andre net, men rigeligt til almindelig brug.</p>
+<p>Lyca Mobile kører ifølge Lycas egne data på TT-netværket – det fælles radionet, som Telenor og Norlys (tidligere Telia) driver sammen og ejer halvdelen af hver<sup class="ref"><a href="#kilde-2">2</a></sup>. Det er det samme net, som Lebara, Duka, Greentel og CBB bruger. Uanset net anbefaler vi, at du slår din adresse op på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup>, før du bestiller.</p>
+<p>TT-netværket hører til landets bedste i dækning. I Opensignals rapport fra februar 2026 (målinger fra oktober-december 2025) fik Telenor og Norlys begge 9,2 ud af 10 for dækningsoplevelse – kun 0,1 under TDC (9,3) og klart over 3 (7,3)<sup class="ref"><a href="#kilde-3">3</a></sup>. Norlys havde den hurtigste gennemsnitlige download i Danmark med 118,8 Mbit/s, mens Telenor målte 107,4 Mbit/s.</p>
 
-<div class="stat-grid"><div class="stat"><b>9,3/10</b><span>Dækningsoplevelse på TDC NET (Opensignal)</span></div><div class="stat"><b>5G</b><span>På alle Lyca Mobiles pakker</span></div><div class="stat"><b>50+</b><span>Lande du kan ringe til fra Danmark</span></div><div class="stat"><b>30 dage</b><span>Pakkernes løbetid</span></div></div>
+<div class="stat-grid"><div class="stat"><b>9,2/10</b><span>Dækningsoplevelse for Telenor og Norlys (Opensignal)</span></div><div class="stat"><b>4G</b><span>På alle Lyca Mobiles pakker</span></div><div class="stat"><b>50+</b><span>Lande du kan ringe til fra Danmark</span></div><div class="stat"><b>30 dage</b><span>Pakkernes løbetid</span></div></div>
 
 <p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys og 3, hvor Telenor og Norlys deler radionettet<sup class="ref"><a href="#kilde-2">2</a></sup>. Alle 3G-net er lukket, og 5G dækker 100 % af befolkningen ifølge Danmarks Statistik. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet i Danmark</a>.</p>
 
-<h2>Hastighed og 5G hos Lyca Mobile</h2>
-<p>Lyca Mobile har 5G på alle pakker – også på den billigste til 19 kr. Det er en klar fordel over for Lebara, hvor ingen af de abonnementer, vi har gennemgået, er markeret med 5G. Har du en 5G-telefon, får du altså den nyeste teknologi uanset pakke.</p>
-<p>I praksis er forskellen mellem 4G og 5G mindre, end reklamerne antyder. Opensignal målte 5G-tilgængelighed på 92,7-94,1 % hos alle fire danske net<sup class="ref"><a href="#kilde-3">3</a></sup>, så du er på 5G det meste af tiden. Det mærkes mest ved store downloads, når mange er samlet ét sted, og hvis du bruger telefonen som hotspot til en computer. Til almindelig brug – sociale medier, Spotify og video – er 4G rigeligt.</p>
-<p>Ifølge Digitaliseringsstyrelsen havde 85,8 % af de danske standardabonnementer 5G i 2. halvår 2024, og 5G bar 41,2 % af al mobildata<sup class="ref"><a href="#kilde-4">4</a></sup>. Se alle billige 5G-abonnementer på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnement</a>.</p>
+<h2>Hastighed: Har Lyca Mobile 5G?</h2>
+<p>Nej. Alle Lyca Mobiles pakker kører på 4G ifølge Lycas egne data – også de store pakker med 200 og 500 GB. Det er det samme billede som hos Lebara. Vil du være sikker på 5G i samme prisklasse, skal du se mod Duka, Oister eller Flexii.</p>
+<p>I praksis er forskellen mellem 4G og 5G mindre, end reklamerne antyder. Netflix i HD bruger ca. 3 GB i timen, svarende til under 7 Mbit/s, og det leverer 4G uden problemer, når dækningen er god. 5G mærkes mest ved store downloads, når mange er samlet ét sted, og hvis du bruger telefonen som hotspot til en computer. Til almindelig brug – sociale medier, Spotify og video – er 4G rigeligt.</p>
+<p>Ifølge Digitaliseringsstyrelsen havde 85,8 % af de danske standardabonnementer 5G i 2. halvår 2024, og 5G bar 41,2 % af al mobildata<sup class="ref"><a href="#kilde-4">4</a></sup>. 5G er altså blevet standard hos mange selskaber, og det er en af grundene til, at Lyca trækkes ned på net i vores vurdering. Se alle billige 5G-abonnementer på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnement</a>.</p>
 
 <h2>Lyca Mobile i EU og udlandet</h2>
-<p>Udlandet er Lyca Mobiles stærkeste område. Selskabet har historisk haft kunder, der ringer til familie i andre lande, og pakkerne inkluderer opkald til mere end 50 lande, herunder EU og USA. Har du familie i udlandet, kan det spare dig for et separat udlandsabonnement eller dyre minutpriser.</p>
-<p>Lycas EU-data er også pæne for prisen: 4 GB på 19 kr.-pakken, 10 GB på 30 GB-pakken, 14 GB på 60 GB, 20 GB på 100 GB, 24 GB på 200 GB og 42 GB på 500 GB-pakken. Det er mere end hos Lebara på de fleste niveauer – fx 10 GB i EU for 49 kr. hos Lyca mod 6 GB hos Lebara til samme pris.</p>
+<p>Udlandet er Lyca Mobiles stærkeste område. Selskabet har historisk haft kunder, der ringer til familie i andre lande, og pakkerne inkluderer opkald til mere end 50 lande. Har du familie i udlandet, kan det spare dig for et separat udlandsabonnement eller dyre minutpriser. Se den præcise landeliste på Lycas side, da den kan variere mellem pakker.</p>
+<p>Lycas EU-data er rimelige for prisen: {eu:ly-5} GB på {pris:ly-5} kr.-pakken, {eu:ly-30} GB på 30 GB-pakken, {eu:ly-100} GB på 100 GB, {eu:ly-200} GB på 200 GB og {eu:ly-500} GB på 500 GB-pakken. Til sammenligning giver Lebara 20 GB i EU på både 70, 100 og 160 GB, mens Oister giver 30 GB i EU allerede på 40 GB-abonnementet.</p>
 <p>EU's "Roam like at home"-regler gælder til 30. juni 2032 og dækker EU, Norge, Island og Liechtenstein samt fra 1. januar 2026 Ukraine og Moldova<sup class="ref"><a href="#kilde-6">6</a></sup>. Bruger du mere end din EU-kvote, må tillægget højst være 1,30 € pr. GB. Uden for EU spærres data som udgangspunkt ved 50 €, medmindre du vælger andet. UK og Schweiz er ikke omfattet af EU-reglerne, så her afhænger prisen af Lycas egne udlandspriser.</p>
-<p><strong>Regneeksempel:</strong> Tager du en uge til Italien og bruger 1,5 GB om dagen, skal du bruge ca. 10,5 GB. Med 30 GB-pakken til 49 kr. har du 10 GB i EU – næsten nok. Med Lebaras 40 GB til samme pris har du 6 GB og kan komme til at betale op til 4,5 × 1,30 € ≈ 44 kr. ekstra. Læs mere i vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+<p><strong>Regneeksempel:</strong> Tager du en uge til Italien og bruger 1,5 GB om dagen, skal du bruge ca. 10,5 GB. Med 30 GB-pakken har du {eu:ly-30} GB i EU, og de sidste 1,5 GB kan koste op til ca. 15 kr. ekstra. Med 200 GB-pakken har du {eu:ly-200} GB i EU og er dækket med god margin. Læs mere i vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
 
 [[vaerktoej:roaming]]
 
@@ -66,58 +67,59 @@ related: udbydere/lebara, udbydere/duka, billigste-mobilabonnement, mobilabonnem
 <li><strong>Vælg pakke.</strong> Vælg pakke på Lycas side, og vælg eSIM eller fysisk SIM-kort.</li>
 <li><strong>Nummer.</strong> Vælg et nyt nummer, eller angiv dit nuværende, hvis du vil flytte det.</li>
 <li><strong>Aktivér.</strong> Scan QR-koden over WiFi, og følg Lycas vejledning.</li>
-<li><strong>Tjek fornyelse.</strong> Kontrollér, hvordan pakken fornyes efter 30 dage, så du ikke står uden data.</li>
+<li><strong>Tjek fornyelse.</strong> Kontrollér, hvordan pakken fornyes efter 30 dage, og hvornår en eventuel intropris udløber.</li>
 </ol>
 <p>Læs mere i vores <a href="/esim/">guide til eSIM</a>.</p>
 
 <h2>Kundeservice og vilkår: binding, oprettelse og betaling</h2>
 <p>Lyca Mobile har ingen binding. Pakkerne løber i 30 dage, og du kan stoppe, når du vil. Som forbruger kan du aldrig bindes i mere end 6 måneder, og prisstigninger skal varsles mindst én måned før, så du kan opsige uden omkostninger<sup class="ref"><a href="#kilde-7">7</a></sup>.</p>
-<p>Service er Lycas svageste punkt i vores vurdering, hvor selskabet får 6,4 ud af 10 – den laveste servicescore blandt de otte selskaber, vi dækker, på niveau med Lebara. Den fysiske service er begrænset, og pakkestrukturen kan virke uoverskuelig, især fordi Lyca ofte har skiftende kampagner og flere varianter af den samme pakke. Vi anbefaler, at du læser pakkebeskrivelsen grundigt: hvilke lande indgår i udlandsminutterne, hvor meget EU-data der er, og hvordan fornyelsen fungerer.</p>
+<p>Service er Lycas svageste punkt i vores vurdering, hvor selskabet får 6,4 ud af 10 – den laveste servicescore blandt de {antal_udbydere} selskaber, vi dækker, på niveau med Lebara. Den fysiske service er begrænset, og pakkestrukturen kan virke uoverskuelig, især fordi Lyca ofte har skiftende kampagner. Vi anbefaler, at du læser pakkebeskrivelsen grundigt: hvilke lande indgår i udlandsminutterne, hvor meget EU-data der er, hvor længe introprisen gælder, og hvordan fornyelsen fungerer.</p>
 <p>Bliver du utilfreds, skal du først klage skriftligt til Lyca. Får du ikke medhold, kan du klage til Teleankenævnet mod et gebyr på 175 kr.<sup class="ref"><a href="#kilde-8">8</a></sup>.</p>
 
-<div class="callout warn"><p><strong>Vær opmærksom:</strong> Fordi pakkerne gælder i 30 dage, kan prisen pr. år blive lidt højere end 12 × pakkeprisen. Læs også om fornyelse og betaling, før du bestiller.</p></div>
+<div class="callout warn"><p><strong>Vær opmærksom:</strong> Fordi pakkerne gælder i 30 dage, kan prisen pr. år blive lidt højere end 12 × pakkeprisen. Og når introperioden slutter, stiger fx 200 GB-pakken fra {intro:ly-200} til {pris:ly-200} kr. Læs om fornyelse og betaling, før du bestiller.</p></div>
 
 [[cta:lyca]]
 
 <h2>Ejerskab og historie: Hvem ejer Lyca Mobile?</h2>
-<p>Lyca Mobile blev grundlagt i 2006 og er en del af Lyca Group. Lyca Mobile er et virtuelt mobilselskab (MVNO), som ikke selv ejer antenner, men lejer kapacitet på et af de danske net. Det er samme model som hos Lebara, CBB og mange andre lavprisselskaber og en af grundene til de lave priser.</p>
-<p>Lyca har fra starten satset på kunder, der ringer meget til udlandet, og det præger stadig produktet: opkald til 50+ lande indgår i pakkerne. I dag konkurrerer Lyca også bredt på pris med store datapakker og 5G.</p>
+<p>Lyca Mobile blev grundlagt i 2006 og er en del af Lyca Group. Lyca Mobile er et virtuelt mobilselskab (MVNO), som ikke selv ejer antenner, men lejer kapacitet på et af de danske net – i dag TT-netværket, som Norlys og Telenor driver. Det er samme model som hos Lebara, CBB og mange andre lavprisselskaber og en af grundene til de lave priser.</p>
+<p>Lyca har fra starten satset på kunder, der ringer meget til udlandet, og det præger stadig produktet: opkald til 50+ lande indgår i pakkerne. I dag konkurrerer Lyca også bredt på pris med store datapakker og aggressive introtilbud.</p>
 
 <h2>Lyca Mobile vs. alternativer</h2>
-<p>Vi har sammenlignet Lyca med de selskaber, der ligger i samme prisklasse.</p>
+<p>Vi har sammenlignet Lyca med de selskaber, der ligger i samme prisklasse og også kører på TT-netværket.</p>
 <table>
-<thead><tr><th>Selskab</th><th>5 GB-pakke</th><th>Billigste fri tale</th><th>200 GB + fri tale</th><th>5G</th><th>Service (vores score)</th></tr></thead>
+<thead><tr><th>Selskab</th><th>Billigste pakke</th><th>Billigste fri tale</th><th>Ca. 200 GB + fri tale</th><th>5G</th><th>Service (vores score)</th></tr></thead>
 <tbody>
-<tr><td>Lyca Mobile</td><td>19 kr.</td><td>100 GB: 99 kr.</td><td>119 kr.</td><td>Ja</td><td>6,4</td></tr>
-<tr><td>Lebara</td><td>19 kr.</td><td>40 GB: 49 kr.</td><td>159 kr.</td><td>Nej (iflg. vores data)</td><td>6,4</td></tr>
-<tr><td>Duka</td><td>–</td><td>6 GB: 59 kr.</td><td>129 kr.</td><td>Ja</td><td>8,2</td></tr>
-<tr><td>Greentel</td><td>–</td><td>10 GB: 69 kr.</td><td>100 GB: 119 kr.</td><td>Ja</td><td>8,6</td></tr>
+<tr><td>Lyca Mobile</td><td>{gb:ly-5}: {pris:ly-5} kr.</td><td>{gb:ly-100}: {pris:ly-100} kr.</td><td>{pris:ly-200} kr. ({introtekst:ly-200})</td><td>Nej, 4G</td><td>6,4</td></tr>
+<tr><td>Lebara</td><td>{gb:lb-5}: {pris:lb-5} kr.</td><td>{gb:lb-70}: {pris:lb-70} kr.</td><td>160 GB: {pris:lb-160} kr.</td><td>Nej, 4G</td><td>6,4</td></tr>
+<tr><td>Duka</td><td>{gb:dk-6}: {pris:dk-6} kr.</td><td>{gb:dk-30}: {pris:dk-30} kr.</td><td>{pris:dk-200} kr. ({introtekst:dk-200})</td><td>Ja, med fri tale</td><td>8,2</td></tr>
+<tr><td>Greentel</td><td>{gb:gt-5}: {pris:gt-5} kr.</td><td>{gb:gt-10}: {pris:gt-10} kr.</td><td>Maks. 50 GB: {pris:gt-50} kr.</td><td>Ja, på 30 og 50 GB</td><td>8,6</td></tr>
 </tbody>
 </table>
-<p>Lyca vinder på store datamængder med 5G. Lebara vinder, hvis du vil have fri tale billigt. Duka og Greentel koster lidt mere, men giver bedre service og fri tale på flere niveauer – og Duka har 30 GB med fri tale for 55 kr./md. i en kampagne til 31.3.2027. Læs vores anmeldelser af <a href="/udbydere/lebara/">Lebara</a>, <a href="/udbydere/duka/">Duka</a> og <a href="/udbydere/greentel/">Greentel</a>.</p>
+<p>Lyca vinder på store datamængder til normalpris. Lebara vinder, hvis du vil have fri tale billigt. Duka koster lidt mere til normalpris, men giver 5G, bedre service og lige nu 200 GB for {introtekst:dk-200}. Greentel har ikke de store datapakker, men er et trygt dansk valg med god service. Læs vores anmeldelser af <a href="/udbydere/lebara/">Lebara</a>, <a href="/udbydere/duka/">Duka</a> og <a href="/udbydere/greentel/">Greentel</a>.</p>
 
-<blockquote class="expert"><p>Lyca Mobile er et stærkt valg, hvis du vil have 100-200 GB med fri tale og 5G til en lav pris, eller hvis du ringer til familie i udlandet. Men det er et selskab, der kræver, at du selv holder styr på tingene: 30-dages pakker, mange varianter og begrænset service. Skal det bare virke uden at du tænker over det, er et dansk selskab som Duka eller Greentel et mere trygt valg, selv om det koster lidt mere.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Lyca Mobile er et stærkt valg, hvis du vil have 100-200 GB med fri tale til en lav pris, eller hvis du ringer til familie i udlandet. Introtilbuddet på 200 GB er blandt de billigste store datapakker i Danmark lige nu. Men det er et selskab, der kræver, at du selv holder styr på tingene: 30-dages pakker, introperioder og begrænset service – og du får 4G, ikke 5G. Skal det bare virke uden at du tænker over det, er et dansk selskab som Duka eller Greentel et mere trygt valg.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Hvem passer Lyca Mobile til – og hvem bør vælge noget andet?</h2>
 <h3>Lyca Mobile passer til dig, der</h3>
 <ul>
 <li>ringer til familie eller venner i udlandet</li>
-<li>vil have 100-200 GB med fri tale og 5G til en lav pris</li>
+<li>vil have 100-200 GB med fri tale til en lav pris</li>
 <li>vil have et billigt reservenummer eller en ekstra eSIM i en dobbelt-SIM-telefon</li>
 <li>skal bruge et billigt abonnement til et barn – se <a href="/mobilabonnement-boern/">mobilabonnement til børn</a></li>
 <li>vil have frihed til at stoppe efter 30 dage</li>
 </ul>
 <h3>Lyca Mobile passer ikke til dig, der</h3>
 <ul>
-<li>vil have fri tale under 99 kr. – vælg Lebara</li>
+<li>vil have fri tale under {pris:ly-100} kr. – vælg Lebara</li>
+<li>vil være sikker på 5G</li>
 <li>vil have personlig service og enkle produkter</li>
-<li>ikke vil holde øje med pakkefornyelse</li>
+<li>ikke vil holde øje med pakkefornyelse og introperioder</li>
 </ul>
 
-<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Pakker fra 19 kr. med 5G</li><li>200 GB + fri tale for 119 kr.</li><li>Opkald til 50+ lande inkluderet</li><li>Mere EU-data end Lebara</li><li>Op til 500 GB data</li><li>Ingen binding og eSIM</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Fri tale først fra 99 kr.-pakken</li><li>Pakkestrukturen kan være uoverskuelig</li><li>Begrænset fysisk service – delt laveste servicescore i vores vurdering</li><li>30-dages pakker giver ca. 12,2 betalinger om året</li></ul></div></div>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Pakker fra {pris:ly-5} kr.</li><li>200 GB + fri tale for {introtekst:ly-200}</li><li>Opkald til 50+ lande inkluderet</li><li>Norlys/Telenor-nettet med 9,2/10 i dækning</li><li>Op til 500 GB data</li><li>Ingen binding og eSIM</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Alle pakker kører på 4G</li><li>Fri tale først fra {pris:ly-100} kr.-pakken</li><li>Begrænset fysisk service – delt laveste servicescore i vores vurdering</li><li>30-dages pakker giver ca. 12,2 betalinger om året</li></ul></div></div>
 
 <h2>Sådan vælger du den rigtige Lyca Mobile-pakke</h2>
-<p>Den gennemsnitlige dansker brugte 26,9 GB om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-4">4</a></sup>. For mange er 30 GB-pakken til 49 kr. derfor nok – hvis 15 timers tale dækker dit behov. Ringer du meget, er 100 GB med fri tale til 99 kr. det naturlige valg. 200 GB til 119 kr. er kun 20 kr. mere og giver dobbelt så meget data og flere GB i EU, så den er ofte bedre værdi. 500 GB til 299 kr. er sjældent nødvendig. Har du brug for så meget, så se på vores side om <a href="/mobilabonnement-fri-data/">fri data</a>, hvor Flexii har fri data fra 149 kr.</p>
+<p>Den gennemsnitlige dansker brugte 26,9 GB om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-4">4</a></sup>. For mange er 30 GB-pakken til {pris:ly-30} kr. derfor nok – hvis 15 timers tale dækker dit behov. Ringer du meget, er {gb:ly-100} med fri tale til {pris:ly-100} kr. det naturlige valg. {gb:ly-200} til {pris:ly-200} kr. er kun 20 kr. mere og giver dobbelt så meget data, og med introprisen er den endda billigere end 100 GB-pakken de første måneder – så den er ofte bedre værdi. 500 GB til {pris:ly-500} kr. er sjældent nødvendig. Har du brug for så meget, så se på vores side om <a href="/mobilabonnement-fri-data/">fri data</a>, hvor Flexii har fri data fra {pris:fx-fri-4g} kr. på 4G.</p>
 
 [[vaerktoej:databeregner]]
 
@@ -126,7 +128,7 @@ related: udbydere/lebara, udbydere/duka, billigste-mobilabonnement, mobilabonnem
 <h2>Sådan skifter du til Lyca Mobile</h2>
 <p>Du kan beholde dit nummer. Efter teleloven skal nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag, uden særskilt betaling, og du skal ikke selv vente på opsigelse hos dit gamle selskab<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
 <ol class="steps">
-<li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk og se TDC NET's dækning.</li>
+<li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk og se Norlys' og Telenors dækning.</li>
 <li><strong>Tjek din binding.</strong> Har du binding, kan du stadig flytte nummeret, men betaler resten af perioden.</li>
 <li><strong>Bestil pakke.</strong> Vælg pakke, eSIM eller SIM-kort, og angiv at du vil beholde dit nummer.</li>
 <li><strong>Vent på flytningen.</strong> Lyca står for nummerflytningen.</li>
@@ -137,21 +139,21 @@ related: udbydere/lebara, udbydere/duka, billigste-mobilabonnement, mobilabonnem
 [[cta:lyca]]
 ===FAQ===
 Q: Hvilket net bruger Lyca Mobile?
-A: Lyca Mobile kører på TDC NET – samme net som Telmore og YouSee – som har Opensignals bedste dækningsoplevelse i Danmark (9,3 ud af 10). Slå altid din adresse op på tjekditnet.dk, før du bestiller.
+A: Lyca Mobile kører på TT-netværket, som Norlys og Telenor deler. Begge fik 9,2 ud af 10 for dækningsoplevelse i Opensignals rapport fra februar 2026. Slå altid din adresse op på tjekditnet.dk, før du bestiller.
 Q: Hvad er det billigste Lyca Mobile-abonnement?
-A: 5 GB og 5 timers tale for 19 kr. pr. 30 dage – med 5G. Det deler førstepladsen som Danmarks billigste med Lebaras tilsvarende pakke.
+A: {gb:ly-5} og 5 timers tale for {pris:ly-5} kr. pr. 30 dage. Det deler førstepladsen som Danmarks billigste med Lebaras tilsvarende pakke.
 Q: Har Lyca Mobile 5G?
-A: Ja, alle Lyca Mobiles pakker har 5G, også den billigste til 19 kr.
+A: Nej, ifølge Lycas egne data kører alle pakker på 4G. Vil du have 5G i samme prisklasse, så se på Duka, Oister eller Flexii.
 Q: Er Lyca Mobile et taletidskort?
 A: Lyca sælger pakker, der gælder i 30 dage ad gangen, hvilket minder om et forudbetalt kort. Der er ingen binding, så du kan stoppe efter hver periode. Se også vores side om <a href="/taletidskort/">taletidskort</a>.
 Q: Kan jeg ringe til udlandet med Lyca Mobile?
-A: Ja. Pakkerne inkluderer opkald til mere end 50 lande, bl.a. i EU og USA. Se den præcise landeliste på Lycas side, da den kan variere mellem pakker.
+A: Ja. Pakkerne inkluderer opkald til mere end 50 lande. Se den præcise landeliste på Lycas side, da den kan variere mellem pakker.
 Q: Hvor meget EU-data får jeg hos Lyca Mobile?
-A: Fra 4 GB på 19 kr.-pakken til 42 GB på 500 GB-pakken. 200 GB-pakken til 119 kr. giver 24 GB i EU.
+A: Fra {eu:ly-5} GB på {pris:ly-5} kr.-pakken til {eu:ly-500} GB på 500 GB-pakken. 200 GB-pakken giver {eu:ly-200} GB i EU.
 Q: Har Lyca Mobile binding?
 A: Nej, der er ingen binding. Pakkerne løber i 30 dage, og du kan stoppe, når du vil.
 Q: Hvornår får jeg fri tale hos Lyca Mobile?
-A: Fri tale starter med 100 GB-pakken til 99 kr. De billigere pakker har 5, 15 eller 60 timers tale. Vil du have fri tale billigere, har Lebara 40 GB med fri tale for 49 kr.
+A: Fri tale starter med 100 GB-pakken til {pris:ly-100} kr. ({introtekst:ly-100}). De billigere pakker har 5 eller 15 timers tale. Vil du have fri tale billigere, har Lebara {gb:lb-70} med fri tale for {pris:lb-70} kr.
 ===KILDER===
 Lyca Mobile – pakker og priser | https://www.lycamobile.dk
 Ritzau – Norlys og Telenor udbygger deres fælles mobilnetværk | https://via.ritzau.dk/pressemeddelelse/14251151/norlys-og-telenor-udbygger-deres-faelles-mobilnetvaerk-med-rekordmange-nye-mobilantenner-i-ar?lang=da
@@ -163,5 +165,3 @@ Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformat
 Teleankenævnet | https://www.teleanke.dk/
 Tjek dit net – dækning på din adresse | https://tjekditnet.dk
 Apple – Danske udbydere med eSIM | https://support.apple.com/da-dk/101569
-Mobilsiden – Lycamobile blandt selskaberne på TDC's net, 16. januar 2026 | https://mobilsiden.dk/?p=255170
-Telecompaper – Lycamobile launches MVNO in Denmark with TDC | https://www.telecompaper.com/news/lycamobile-launches-mvno-in-denmark-with-tdc--750206

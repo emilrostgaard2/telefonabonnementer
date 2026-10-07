@@ -1,11 +1,11 @@
 ---
 slug: taletidskort
 title: Taletidskort → Forudbetalt fra {fra:forudbetalt} kr. ({maaned})
-desc: Sammenlign taletidskort og forudbetalte mobilabonnementer i {maaned}. 30-dages pakker fra 19 kr. med 5G, ingen binding. Se hvornår taletid kan betale sig.
+desc: Sammenlign taletidskort og forudbetalte mobilabonnementer i {maaned}. 30-dages pakker fra {pris:ly-5} kr., ingen binding. Se hvornår taletid kan betale sig.
 h1: Taletidskort
 kicker: Opdateret {maaned} · forudbetalt og pay-as-you-go sammenlignet
-answer: Det billigste forudbetalte alternativ til et taletidskort er i {maaned} Lyca Mobiles 30-dages pakke med 5 GB og 5 timers tale for 19 kr. Telmore Go er ægte pay-as-you-go til 39 kr./md. plus 99 kr. i oprettelse, 0,59 kr./min. og 9,90 kr. pr. dag med data – men et billigt abonnement til 19 kr. uden binding er billigere for næsten alle.
-lead: Taletidskort lyder billigt og fleksibelt, men i 2026 er det sjældent den billigste løsning. Her ser du, hvad forudbetalt mobil koster, hvem det passer til, og hvornår et abonnement til 19 kr. slår taletid.
+answer: Det billigste forudbetalte alternativ til et taletidskort er i {maaned} Lyca Mobiles 30-dages pakke med {gb:ly-5} og 5 timers tale for {pris:ly-5} kr. Telmore Go er ægte pay-as-you-go til 39 kr./md. plus 99 kr. i oprettelse, 0,59 kr./min. og 9,90 kr. pr. dag med data – men et billigt abonnement til {pris:lb-5} kr. uden binding er billigere for næsten alle.
+lead: Taletidskort lyder billigt og fleksibelt, men i 2026 er det sjældent den billigste løsning. Her ser du, hvad forudbetalt mobil koster, hvem det passer til, og hvornår et abonnement til {pris:lb-5} kr. slår taletid.
 crumb: Taletidskort
 section: typer
 related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-pensionister, mobilabonnement-uden-binding, udbydere/lyca-mobile
@@ -14,7 +14,7 @@ related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-p
 <p>Et taletidskort er et SIM-kort, hvor du betaler på forhånd. Du sætter penge ind – enten ved at købe en kode i en kiosk eller ved at tanke op online – og så trækkes der fra saldoen, når du ringer, sender sms eller bruger data. Når saldoen er brugt, virker telefonen ikke, før du tanker op igen. Det giver fuld kontrol over udgifterne, men minutpriserne er typisk højere end i et abonnement.</p>
 <p>På det danske marked er de klassiske taletidskort næsten forsvundet. I stedet findes der to slags forudbetalte løsninger: 30-dages pakker, hvor du betaler for en fast mængde tale og data i en måned ad gangen, og pay-as-you-go-abonnementer, hvor du betaler pr. minut og pr. dag med data. Tabellen viser de forudbetalte pakker på vores liste – alle priser er tjekket 7. oktober 2026.</p>
 [[tabel:forudbetalt|sort=price|titel=Forudbetalte 30-dages pakker]]
-<div class="callout"><p><strong>Kort sagt:</strong> Vil du betale på forhånd og have fast kontrol over udgiften, er Lycas 30-dages pakker fra 19 kr. det bedste valg. Ringer du næsten aldrig, kan Telmore Go med betaling pr. minut virke oplagt, men den faste pris på 39 kr./md. gør det dyrere end et billigt abonnement til 19 kr. uden binding.</p></div>
+<div class="callout"><p><strong>Kort sagt:</strong> Vil du betale på forhånd og have fast kontrol over udgiften, er Lycas 30-dages pakker fra {pris:ly-5} kr. det bedste valg. Ringer du næsten aldrig, kan Telmore Go med betaling pr. minut virke oplagt, men den faste pris på 39 kr./md. gør det dyrere end et billigt abonnement til {pris:lb-5} kr. uden binding.</p></div>
 
 <h2>Hvad er et taletidskort, og hvordan virker det?</h2>
 <p>Begrebet taletidskort stammer fra tiden, hvor man købte et fysisk skrabekort med en kode i kiosken. Koden blev tastet ind på telefonen, og så fik man for eksempel 100 kr. i taletid. I dag kalder mange stadig alle former for forudbetalt mobil for taletidskort, selvom det i praksis dækker over flere ting:</p>
@@ -22,7 +22,7 @@ related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-p
 <li><strong>Klassisk taletid (saldo):</strong> Du indbetaler et beløb og betaler pr. minut, pr. sms og pr. MB. Pengene står på kontoen, til de er brugt eller udløber.</li>
 <li><strong>30-dages pakker:</strong> Du betaler et fast beløb for en pakke med tale og data, der gælder i 30 dage. Det minder om et abonnement, men du binder dig kun en periode ad gangen. Lyca Mobile er det tydeligste eksempel på dansk grund.</li>
 <li><strong>Pay-as-you-go-abonnement:</strong> En lav fast månedspris plus betaling for det, du faktisk bruger. Telmore Go er bygget sådan.</li>
-<li><strong>Abonnement uden binding:</strong> Teknisk set ikke forudbetalt, men med en løbende pris fra 19 kr./md. og mulighed for at opsige når som helst. For de fleste giver det samme frihed som et taletidskort.</li>
+<li><strong>Abonnement uden binding:</strong> Teknisk set ikke forudbetalt, men med en løbende pris fra {pris:lb-5} kr./md. og mulighed for at opsige når som helst. For de fleste giver det samme frihed som et taletidskort.</li>
 </ul>
 <p>Forskellen mellem et taletidskort og et abonnement er altså mindre, end den var engang. Begge kan opsiges eller stoppes hurtigt, og begge findes uden binding. Den egentlige forskel er, om du betaler før eller efter forbruget – og om du risikerer en regning, der er større end forventet.</p>
 
@@ -31,28 +31,27 @@ related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-p
 <h3>Børn med deres første telefon</h3>
 <p>Når pengene er brugt, er de brugt. Det gør forudbetalt populært til børn, fordi der ikke kan komme en overraskende regning. Samtidig findes der i dag billige børneabonnementer med fast pris, hvor der heller ikke kan komme ekstraregninger – se vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.</p>
 <h3>Ældre, der kun ringer lidt</h3>
-<p>Mange pensionister bruger telefonen til et par opkald om ugen og nogle sms'er. Her er spørgsmålet, om man vil betale pr. minut eller en lav fast pris. Vores regneeksempel nedenfor viser, at en fast pris på 19 kr. næsten altid er billigst. Læs mere på siden om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
+<p>Mange pensionister bruger telefonen til et par opkald om ugen og nogle sms'er. Her er spørgsmålet, om man vil betale pr. minut eller en lav fast pris. Vores regneeksempel nedenfor viser, at en fast pris på {pris:lb-5} kr. næsten altid er billigst. Læs mere på siden om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
 <h3>Turister, studerende og sæsonarbejdere</h3>
-<p>Er du kun i Danmark nogle måneder, er en 30-dages pakke praktisk: Du køber, når du har brug for det, og lader være, når du rejser hjem. Lyca har desuden opkald til mere end 50 lande inkluderet i pakkerne, hvilket er relevant, hvis familien bor i udlandet.</p>
+<p>Er du kun i Danmark nogle måneder, er en 30-dages pakke praktisk: Du køber, når du har brug for det, og lader være, når du rejser hjem. Lyca har desuden opkald til en række lande inkluderet i pakkerne, hvilket er relevant, hvis familien bor i udlandet.</p>
 <h3>Reservetelefon og nødtelefon</h3>
 <p>En telefon i bilen, i sommerhuset eller i tasken til nødsituationer bruges sjældent. Her betyder den faste månedspris mest, og her er det billigste abonnement eller en pakke, der kun købes ved behov, ofte bedst.</p>
 <h3>Dig, der ikke vil have en løbende betalingsaftale</h3>
 <p>Nogle foretrækker af princip ikke at have et abonnement, der trækker automatisk. Med en 30-dages pakke vælger du selv, om du vil købe en ny periode.</p>
 
 <h2>Lyca Mobile: 30-dages pakker, der fungerer som forudbetalt</h2>
-<p>Lyca Mobile sælger ikke klassisk taletid, men pakker, der gælder i 30 dage ad gangen. Alle pakker har 5G og kører på TDC NET – samme net som Telmore og YouSee.<sup class="ref"><a href="#kilde-2">2</a></sup> Prisen er fast, så du ved præcis, hvad perioden koster.</p>
+<p>Lyca Mobile sælger ikke klassisk taletid, men pakker, der gælder i 30 dage ad gangen. Alle pakker kører på 4G på TT-netværket, som Norlys og Telenor deler.<sup class="ref"><a href="#kilde-2">2</a></sup> Prisen er fast, så du ved præcis, hvad perioden koster.</p>
 <table>
 <thead><tr><th>Lyca-pakke (30 dage)</th><th>Data</th><th>EU-data</th><th>Tale</th><th>Pris</th></tr></thead>
 <tbody>
-<tr><td>5 GB / 5 timer</td><td>5 GB</td><td>4 GB</td><td>5 timer</td><td>19 kr.</td></tr>
-<tr><td>30 GB / 15 timer</td><td>30 GB</td><td>10 GB</td><td>15 timer</td><td>49 kr.</td></tr>
-<tr><td>60 GB / 60 timer</td><td>60 GB</td><td>14 GB</td><td>60 timer</td><td>69 kr.</td></tr>
-<tr><td>100 GB + fri tale</td><td>100 GB</td><td>20 GB</td><td>Fri</td><td>99 kr.</td></tr>
-<tr><td>200 GB + fri tale</td><td>200 GB</td><td>24 GB</td><td>Fri</td><td>119 kr.</td></tr>
-<tr><td>500 GB + fri tale</td><td>500 GB</td><td>42 GB</td><td>Fri</td><td>299 kr.</td></tr>
+<tr><td>5 GB / 5 timer</td><td>{gb:ly-5}</td><td>{eu:ly-5} GB</td><td>5 timer</td><td>{pris:ly-5} kr.</td></tr>
+<tr><td>30 GB / 15 timer</td><td>{gb:ly-30}</td><td>{eu:ly-30} GB</td><td>15 timer</td><td>{pris:ly-30} kr. ({introtekst:ly-30})</td></tr>
+<tr><td>100 GB + fri tale</td><td>{gb:ly-100}</td><td>{eu:ly-100} GB</td><td>Fri</td><td>{pris:ly-100} kr. ({introtekst:ly-100})</td></tr>
+<tr><td>200 GB + fri tale</td><td>{gb:ly-200}</td><td>{eu:ly-200} GB</td><td>Fri</td><td>{pris:ly-200} kr. ({introtekst:ly-200})</td></tr>
+<tr><td>500 GB + fri tale</td><td>{gb:ly-500}</td><td>{eu:ly-500} GB</td><td>Fri</td><td>{pris:ly-500} kr.</td></tr>
 </tbody>
 </table>
-<p>Den mindste pakke til 19 kr. er den, der minder mest om et taletidskort. Fem timers tale svarer til 300 minutter, og det er mere, end de fleste lavforbrugere bruger på en måned. Fem GB data er nok til mail, beskeder, nyheder og lidt navigation. Bemærk, at fri tale først kommer med i pakken til 99 kr. Læs vores fulde anmeldelse af <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>.</p>
+<p>Den mindste pakke til {pris:ly-5} kr. er den, der minder mest om et taletidskort. Fem timers tale svarer til 300 minutter, og det er mere, end de fleste lavforbrugere bruger på en måned. Fem GB data er nok til mail, beskeder, nyheder og lidt navigation. Pakken med {gb:ly-30} og 15 timer er lige nu ekstra skarp med {introtekst:ly-30}. Bemærk, at fri tale først kommer med i pakken til {pris:ly-100} kr. ({introtekst:ly-100}). Lycas tidligere 60 GB-pakke er udgået. Læs vores fulde anmeldelse af <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>.</p>
 [[cta:lyca]]
 
 <h2>Telmore Go: pay-as-you-go med betaling pr. minut</h2>
@@ -63,10 +62,10 @@ related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-p
 <li><strong>Opkald:</strong> 0,59 kr. pr. minut</li>
 <li><strong>Data:</strong> 9,90 kr. pr. dag, du bruger data</li>
 </ul>
-<p>Telmore kører på TDC NET, der i Opensignals måling havde den højeste dækningsoplevelse med 9,3 ud af 10.<sup class="ref"><a href="#kilde-4">4</a></sup> Har du dårligt signal på et af de andre net, kan det være et argument. Men økonomisk er Telmore Go svær at få til at hænge sammen, fordi den faste pris alene er dobbelt så høj som de billigste abonnementer.</p>
+<p>Telmore kører på TDC NET, der i Opensignals måling havde den højeste dækningsoplevelse med 9,3 ud af 10.<sup class="ref"><a href="#kilde-4">4</a></sup> Lebara og Lyca kører begge på TT-netværket, så har du dårligt signal på det net, kan det være et argument for Telmore. Men økonomisk er Telmore Go svær at få til at hænge sammen, fordi den faste pris alene er dobbelt så høj som de billigste abonnementer.</p>
 
-<h2>Hvad koster taletid? Regneeksempel: hvornår slår et abonnement til 19 kr. taletid?</h2>
-<p>Lad os regne på det. Vi sammenligner Telmore Go med Lebaras eller Lycas billigste løsning til 19 kr./md. med 5 GB og 5 timers tale. Alle tal er beregnet ud fra priserne 7. oktober 2026.</p>
+<h2>Hvad koster taletid? Regneeksempel: hvornår slår et abonnement til {pris:lb-5} kr. taletid?</h2>
+<p>Lad os regne på det. Vi sammenligner Telmore Go med Lebaras eller Lycas billigste løsning til {pris:lb-5} kr./md. med {gb:lb-5} og 5 timers tale. Alle tal er beregnet ud fra priserne 7. oktober 2026.</p>
 <table>
 <thead><tr><th>Forbrug pr. måned</th><th>Telmore Go pr. md.</th><th>Abonnement til 19 kr.</th><th>Forskel pr. md.</th></tr></thead>
 <tbody>
@@ -83,13 +82,13 @@ related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-p
 <li><strong>Besparelse:</strong> 339 kr. det første år – og det er med nul forbrug</li>
 </ul>
 <p>Ringer du 30 minutter om måneden, stiger besparelsen til 99 kr. + 12 × 37,70 kr. = 551,40 kr. det første år. Og bruger du data et par dage om måneden, bliver forskellen hurtigt over 1.000 kr. om året. Konklusionen er klar: For næsten alle er et billigt abonnement uden binding billigere end pay-as-you-go. Taletid giver kun mening, hvis du har særlige grunde, fx at du vil være på TDC NET, eller at du ikke vil have en fast betalingsaftale.</p>
-[[simo:Regn altid på hele året, inklusive oprettelsesgebyr. Et gebyr på 99 kr. svarer til mere end fem måneder med et abonnement til 19 kr.]]
+[[simo:Regn altid på hele året, inklusive oprettelsesgebyr. Et gebyr på 99 kr. svarer til mere end fem måneder med et abonnement til {pris:lb-5} kr.]]
 [[vaerktoej:sparberegner]]
 
 <h2>De billigste abonnementer, der slår taletidskortet</h2>
 <p>Vil du have friheden fra et taletidskort, men den lave pris fra et abonnement, er der flere muligheder under 70 kr./md. uden binding. Her er de billigste på vores liste:</p>
 [[tabel:billig|limit=6]]
-<p>Lebara og Lyca deler førstepladsen med 5 GB og 5 timers tale for 19 kr./md.<sup class="ref"><a href="#kilde-8">8</a></sup> Lycas pakke har 5G, mens Lebaras billigste abonnement kun er 4G. Til opkald og beskeder mærker du ingen forskel. Skal du have fri tale, er Lebara billigst med 40 GB for 49 kr./md. Se hele listen på siden om <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
+<p>Lebara og Lyca deler førstepladsen med {gb:lb-5} og 5 timers tale for {pris:lb-5} kr./md.<sup class="ref"><a href="#kilde-8">8</a></sup> Begge kører på 4G på TT-netværket, og til opkald og beskeder mærker du ingen forskel på 4G og 5G. Greentel Basic med {gb:gt-5} og 1 times tale koster {pris:gt-5} kr. Skal du have fri tale, er Lebara billigst med {gb:lb-70} for {pris:lb-70} kr./md. Se hele listen på siden om <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
 <p>Fordi forbrugere højst kan bindes i seks måneder, og fordi de nævnte selskaber slet ikke har binding, kan du opsige et abonnement med kort varsel – præcis som når du lader være med at tanke et taletidskort op.<sup class="ref"><a href="#kilde-5">5</a></sup> Vil du skifte, kan du tage dit nummer med. Nummerflytning sker senest ved udgangen af den næstfølgende arbejdsdag, og du skal ikke betale særskilt for det.<sup class="ref"><a href="#kilde-6">6</a></sup> Læs mere i guiden <a href="/guides/skift-mobilabonnement/">sådan skifter du mobilabonnement</a>.</p>
 
 <h2>Kan man købe taletidskort i kiosken – og er det anonymt?</h2>
@@ -109,27 +108,27 @@ related: billigste-mobilabonnement, mobilabonnement-uden-data, mobilabonnement-p
 <ol class="steps">
 <li><strong>Find dit reelle forbrug.</strong> Kig på din seneste regning eller i telefonens indstillinger, hvor mange minutter og GB du har brugt den seneste måned.</li>
 <li><strong>Regn hele årsprisen ud.</strong> Læg oprettelse, fast pris og forventet forbrug sammen for 12 måneder.</li>
-<li><strong>Sammenlign med 19 kr./md.</strong> Ligger taletiden over 228 kr. om året, er et billigt abonnement bedre.</li>
+<li><strong>Sammenlign med {pris:lb-5} kr./md.</strong> Ligger taletiden over 228 kr. om året, er et billigt abonnement bedre.</li>
 <li><strong>Tjek nettet.</strong> Har du dårligt signal hjemme, så vælg en udbyder på det net, der dækker bedst. Se vores guide til <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>.</li>
 <li><strong>Vælg uden binding.</strong> Så har du samme frihed som med et taletidskort og kan skifte, hvis behovet ændrer sig.</li>
 </ol>
-<blockquote class="expert"><p>Leder du efter et taletidskort til en forælder eller et barn, vil jeg i næsten alle tilfælde anbefale et abonnement til 19 kr. uden binding. Det er billigere, der kommer ingen overraskelser på regningen, og telefonen går ikke død, fordi nogen har glemt at tanke op.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<blockquote class="expert"><p>Leder du efter et taletidskort til en forælder eller et barn, vil jeg i næsten alle tilfælde anbefale et abonnement til {pris:lb-5} kr. uden binding. Det er billigere, der kommer ingen overraskelser på regningen, og telefonen går ikke død, fordi nogen har glemt at tanke op.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Taletidskort til opkald til udlandet</h2>
-<p>En af de klassiske grunde til at købe taletidskort var billige opkald til udlandet. Det behov findes stadig, og her har Lyca en fordel: pakkerne indeholder opkald til mere end 50 lande. Lebara har også inkluderede minutter til udlandet i flere abonnementer – fx 2 timer i 40 GB-abonnementet til 49 kr. og 5 timer i 160 GB- og 200 GB-abonnementerne. Ringer du ofte til familie uden for Danmark, kan det spare dig for meget mere end forskellen i månedspris. Læs mere på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+<p>En af de klassiske grunde til at købe taletidskort var billige opkald til udlandet. Det behov findes stadig, og her har Lebara og Lyca en fordel. Lebara inkluderer timer til opkald til 60+ lande: 5 timer i abonnementet med {gb:lb-5} til {pris:lb-5} kr. og 10 timer i abonnementerne med {gb:lb-70} og {gb:lb-160}. Lycas pakker indeholder også opkald til en række lande. Ringer du ofte til familie uden for Danmark, kan det spare dig for meget mere end forskellen i månedspris. Læs mere på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
 <p>Husk, at det er noget andet at ringe til udlandet fra Danmark end at bruge telefonen på rejse. Når du rejser i EU, Norge, Island og Liechtenstein, bruger du dit abonnement som hjemme efter EU's roamingregler, uanset om det er forudbetalt eller ej.<sup class="ref"><a href="#kilde-7">7</a></sup></p>
 
 <h2>Sådan har vi sammenlignet</h2>
 <p>Vi har tjekket priserne på udbydernes egne sider 7. oktober 2026 og regnet årspriser ud fra normalpriser og oprettelsesgebyrer. Regneeksemplerne bruger de minut- og datapriser, Telmore oplyser for Telmore Go. Vi vurderer alle abonnementer efter samme kriterier – læs mere om <a href="/metode/">vores metode</a>, eller <a href="/">sammenlign alle telefonabonnementer</a> på forsiden.</p>
 ===FAQ===
 Q: Findes der stadig taletidskort i Danmark?
-A: Ja, men de klassiske skrabekort er næsten forsvundet. I dag findes forudbetalt mobil primært som 30-dages pakker (fx Lyca Mobile fra 19 kr.) og som pay-as-you-go (fx Telmore Go). Mange vælger i stedet et billigt abonnement uden binding.
+A: Ja, men de klassiske skrabekort er næsten forsvundet. I dag findes forudbetalt mobil primært som 30-dages pakker (fx Lyca Mobile fra {pris:ly-5} kr.) og som pay-as-you-go (fx Telmore Go). Mange vælger i stedet et billigt abonnement uden binding.
 Q: Hvad er det billigste taletidskort?
-A: Det billigste forudbetalte alternativ er Lycas 30-dages pakke med 5 GB og 5 timers tale for 19 kr. Lebara har et abonnement med samme indhold og pris uden binding.
+A: Det billigste forudbetalte alternativ er Lycas 30-dages pakke med {gb:ly-5} og 5 timers tale for {pris:ly-5} kr. Lebara har et abonnement med samme indhold og pris uden binding.
 Q: Hvad koster Telmore Go?
 A: Telmore Go koster 39 kr./md. plus 99 kr. i oprettelse. Derudover betaler du 0,59 kr. pr. minut og 9,90 kr. pr. dag, du bruger data. Det første år koster mindst 567 kr., selv uden forbrug.
 Q: Er taletidskort billigere end et abonnement?
-A: Sjældent. Et abonnement til 19 kr./md. koster 228 kr. om året med 5 timers tale og 5 GB. Telmore Go koster 567 kr. det første år uden forbrug, så abonnementet er billigst for næsten alle.
+A: Sjældent. Et abonnement til {pris:lb-5} kr./md. koster 228 kr. om året med 5 timers tale og {gb:lb-5}. Telmore Go koster 567 kr. det første år uden forbrug, så abonnementet er billigst for næsten alle.
 Q: Kan jeg købe taletidskort med kontanter?
 A: Ja, mange kiosker og supermarkeder sælger SIM-kort og optankning, som du kan betale kontant. Udvalget varierer dog, og du skal måske registrere dig, når kortet aktiveres.
 Q: Er et taletidskort anonymt?

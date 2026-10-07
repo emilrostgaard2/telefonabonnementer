@@ -1,10 +1,10 @@
 ---
 slug: familieabonnement
-title: Familieabonnement mobil → Spar 5.160 kr. ({maaned})
+title: Familieabonnement mobil → Spar 4.920 kr. ({maaned})
 desc: Familieabonnement til mobil i {maaned}: Se YouSee Familie-SIM, Oister data-deling og billigste mix. Vi regner 3 familiekombinationer igennem. Spar her.
 h1: Familieabonnement til mobil
 kicker: Opdateret {maaned} · 3 familiekombinationer regnet igennem
-answer: Der findes få rigtige familieabonnementer i Danmark: YouSee har Familie-SIM til 129 kr./md. med dobbelt data, Oister lader kunder dele data via "Gi' en GiGA", og Telmore tilbyder op til 3 ekstra datakort. I vores regneeksempel er det dog billigst at give hvert familiemedlem sit eget lavprisabonnement: 2 voksne og 2 børn kan klare sig for 136 kr./md. i alt (1.632 kr. om året) hos Lebara og Lyca Mobile.
+answer: Der findes få rigtige familieabonnementer i Danmark: YouSee har Familie-SIM til 129 kr./md. med dobbelt data, Oister lader kunder dele data via "Gi' en GiGA", og Telmore tilbyder op til 3 ekstra datakort. I vores regneeksempel er det dog billigst at give hvert familiemedlem sit eget lavprisabonnement: 2 voksne og 2 børn kan klare sig for 156 kr./md. i alt (1.872 kr. om året) med Lebara {gb:lb-70} til de voksne og Lyca Mobile {gb:ly-5} til børnene.
 lead: Hvad koster mobilen for hele familien, og kan det betale sig at samle abonnementerne? Vi gennemgår de familierabatter, der findes, og regner tre kombinationer igennem for en familie på fire.
 crumb: Familie
 section: typer
@@ -17,21 +17,21 @@ related: mobilabonnement-boern, mobilabonnement-unge, billigste-mobilabonnement,
 <div class="callout"><p><strong>Kort sagt:</strong> YouSee Familie-SIM (129 kr./md. med dobbelt data), Oisters data-deling "Gi' en GiGA" og Telmores ekstra datakort er de nærmeste, man kommer et familieabonnement. Men en familie på fire kan typisk spare flere tusinde kroner om året ved at vælge det billigste abonnement til hver person.</p></div>
 
 <h2>Hvilke familierabatter findes der?</h2>
-<p>Vi har gennemgået de otte udbydere, vi dækker. Her er, hvad de tilbyder familier:</p>
+<p>Vi har gennemgået de {antal_udbydere} udbydere, vi dækker. Her er, hvad de tilbyder familier:</p>
 <table>
 <thead><tr><th>Udbyder</th><th>Familiefunktion</th><th>Hvad det betyder</th></tr></thead>
 <tbody>
 <tr><td>YouSee</td><td>Familie-SIM</td><td>129 kr./md. med dobbelt data. Mobilen er desuden 30 kr./md. billigere med internet fra YouSee</td></tr>
 <tr><td>Oister</td><td>"Gi' en GiGA"</td><td>Data-deling, så du kan give data videre til en anden Oister-kunde</td></tr>
 <tr><td>Telmore</td><td>Ekstra datakort</td><td>Op til 3 ekstra datakort til fx tablet eller bærbar, men ingen egentlig familierabat</td></tr>
-<tr><td>Flexii</td><td>Børneabonnementer</td><td>Fri tale + 5 GB for 35 kr. (17 kr. i 3 mdr.) eller 10 GB for 39 kr. (19 kr. i 3 mdr.). Ingen data-deling</td></tr>
+<tr><td>Flexii</td><td>Byg-selv-abonnement</td><td>Ingen decideret børnepakke længere, men fri tale + {gb:fx-k10} for {pris:fx-k10} kr. ({introtekst:fx-k10}). Ingen data-deling</td></tr>
 <tr><td>Lebara, Lyca, Greentel, Duka</td><td>Ingen</td><td>Lave priser på hvert enkelt abonnement i stedet for rabat</td></tr>
 </tbody>
 </table>
 <h3>YouSee Familie-SIM</h3>
 <p>YouSee er det selskab, der kommer tættest på et klassisk familieabonnement. Med Familie-SIM får ekstra medlemmer af husstanden et abonnement til 129 kr./md. med dobbelt data. Har familien også internet fra YouSee, er mobilen 30 kr./md. billigere. YouSee har fysiske butikker, stærk support og inkluderer YouSee Musik og MobilSikker, hvilket nogle familier værdsætter. Ulempen er prisen: Selv med rabatterne ligger YouSee markant over lavprisselskaberne. Læs vores <a href="/udbydere/yousee/">anmeldelse af YouSee</a> for detaljer, og tjek altid de aktuelle vilkår for Familie-SIM hos YouSee, før du bestiller.</p>
 <h3>Oister "Gi' en GiGA"</h3>
-<p>Oister er 3's lavprisbrand med 5G på alle abonnementer. Med "Gi' en GiGA" kan du dele data med andre Oister-kunder. Det er praktisk, hvis den ene forælder har et abonnement med meget data, og et barn er ved at løbe tør sidst på måneden. Oister har ikke en egentlig familierabat, men intropriserne er lave: fri tale og 100 GB koster 79 kr./md. de første 6 måneder og derefter 109 kr. Se vores <a href="/udbydere/oister/">anmeldelse af Oister</a>.</p>
+<p>Oister er 3's lavprisbrand med 5G på alle abonnementer. Med "Gi' en GiGA" kan du dele data med andre Oister-kunder. Det er praktisk, hvis den ene forælder har et abonnement med meget data, og et barn er ved at løbe tør sidst på måneden. Oister har ikke en egentlig familierabat, men intropriserne er lave: fri tale og {gb:oi-100} koster {introtekst:oi-100} og derefter {pris:oi-100} kr. Se vores <a href="/udbydere/oister/">anmeldelse af Oister</a>.</p>
 <h3>Telmore ekstra datakort</h3>
 <p>Telmore kører på TDC NET, som har landets højeste dækningsscore i Opensignals måling (9,3 ud af 10)<sup class="ref"><a href="#kilde-2">2</a></sup>. Telmore tilbyder op til 3 ekstra datakort, som kan bruges i en tablet, en bærbar eller et andet apparat, der deler data fra hovedabonnementet. Det er ikke det samme som et familieabonnement med tale til flere personer, men det kan være nyttigt til familiens iPad i bilen. Se vores <a href="/udbydere/telmore/">anmeldelse af Telmore</a>.</p>
 [[simo:Familierabat er kun en fordel, hvis prisen efter rabat er lavere end det billigste abonnement til hver person. Regn altid efter på årsbasis.]]
@@ -39,50 +39,50 @@ related: mobilabonnement-boern, mobilabonnement-unge, billigste-mobilabonnement,
 <h2>Hvad koster et familieabonnement? Regneeksempel for en familie på 4</h2>
 <p>Vi har regnet på en typisk familie med to voksne og to børn på 9 og 12 år. De voksne bruger hver omkring 30-40 GB om måneden og ringer meget. Børnene bruger mest telefonen til beskeder, opkald hjem og lidt video, og har brug for 5-10 GB. Her er tre forskellige måder at sætte familiens mobilabonnementer sammen på.</p>
 <h3>Kombination 1: Alt hos YouSee</h3>
-<p>Den ene voksne har fri tale og 25 GB til 179 kr./md. De tre andre i familien har Familie-SIM til 129 kr./md. med dobbelt data. Det giver en månedlig pris på 566 kr. Vi har ikke regnet rabatten for internet med, da den kræver, at familien også har bredbånd fra YouSee.</p>
+<p>Den ene voksne har fri tale og {gb:ys-25} til {pris:ys-25} kr./md. De tre andre i familien har Familie-SIM til 129 kr./md. med dobbelt data. Det giver en månedlig pris på 566 kr. Vi har ikke regnet rabatten for internet med, da den kræver, at familien også har bredbånd fra YouSee.</p>
 <h3>Kombination 2: Oister til de voksne, Flexii til børnene</h3>
-<p>De voksne får hver fri tale og 100 GB hos Oister til 109 kr./md. (79 kr. de første 6 måneder) og kan dele data med "Gi' en GiGA". Børnene får Flexiis børneabonnement med fri tale og 5 GB til 35 kr./md. (17 kr. de første 3 måneder). Begge selskaber hører under 3 og kører på samme net. Normalprisen er 288 kr./md.</p>
+<p>De voksne får hver fri tale og {gb:oi-100} hos Oister til {pris:oi-100} kr./md. ({introtekst:oi-100}) og kan dele data med "Gi' en GiGA". Børnene får Flexiis byg-selv-abonnement med fri tale og {gb:fx-k10} til {pris:fx-k10} kr./md. ({introtekst:fx-k10}). Begge selskaber hører under 3 og kører på samme net. Normalprisen er 296 kr./md.</p>
 <h3>Kombination 3: Det billigste mix</h3>
-<p>De voksne får hver fri tale og 40 GB hos Lebara til 49 kr./md. Børnene får 5 GB og 5 timers tale hos Lyca Mobile til 19 kr./md. Alle fire abonnementer er uden binding, og prisen er 136 kr./md. for hele familien.</p>
+<p>De voksne får hver fri tale og {gb:lb-70} hos Lebara til {pris:lb-70} kr./md. – det billigste abonnement med fri tale i hele vores sammenligning. Børnene får {gb:ly-5} og 5 timers tale hos Lyca Mobile til {pris:ly-5} kr./md. Alle fire abonnementer er uden binding, og prisen er 156 kr./md. for hele familien.</p>
 <table>
 <thead><tr><th>Kombination</th><th>Voksne (2 stk.)</th><th>Børn (2 stk.)</th><th>Pr. md. (normal)</th><th>1. år</th><th>Pr. år (normal)</th></tr></thead>
 <tbody>
-<tr><td>1. Alt hos YouSee</td><td>179 kr. + 129 kr.</td><td>2 × 129 kr.</td><td>566 kr.</td><td>6.792 kr.</td><td>6.792 kr.</td></tr>
-<tr><td>2. Oister + Flexii</td><td>2 × 109 kr. (79 kr. i 6 mdr.)</td><td>2 × 35 kr. (17 kr. i 3 mdr.)</td><td>288 kr.</td><td>2.988 kr.</td><td>3.456 kr.</td></tr>
-<tr><td>3. Lebara + Lyca Mobile</td><td>2 × 49 kr.</td><td>2 × 19 kr.</td><td>136 kr.</td><td>1.632 kr.</td><td>1.632 kr.</td></tr>
+<tr><td>1. Alt hos YouSee</td><td>{pris:ys-25} kr. + 129 kr.</td><td>2 × 129 kr.</td><td>566 kr.</td><td>6.792 kr.</td><td>6.792 kr.</td></tr>
+<tr><td>2. Oister + Flexii</td><td>2 × {pris:oi-100} kr. ({intro:oi-100} kr. i 6 mdr.)</td><td>2 × {pris:fx-k10} kr. ({intro:fx-k10} kr. i 3 mdr.)</td><td>296 kr.</td><td>3.072 kr.</td><td>3.552 kr.</td></tr>
+<tr><td>3. Lebara + Lyca Mobile</td><td>2 × {pris:lb-70} kr.</td><td>2 × {pris:ly-5} kr.</td><td>156 kr.</td><td>1.872 kr.</td><td>1.872 kr.</td></tr>
 </tbody>
 </table>
-<p>Forskellen er stor. Kombination 3 er 5.160 kr. billigere om året end kombination 1. Kombination 2 koster 1.824 kr. mere om året end kombination 3 ved normalpris, men giver 5G til de voksne, 100 GB til hver voksen, fri tale til børnene og mulighed for data-deling. Kombination 1 giver mest service og butikker, men også den klart højeste pris.</p>
-<p>Første års pris i kombination 2 er udregnet sådan: Hver voksen betaler 6 × 79 kr. + 6 × 109 kr. = 1.128 kr., og hvert barn betaler 3 × 17 kr. + 9 × 35 kr. = 366 kr. I alt 2 × 1.128 + 2 × 366 = 2.988 kr.</p>
+<p>Forskellen er stor. Kombination 3 er 4.920 kr. billigere om året end kombination 1. Kombination 2 koster 1.680 kr. mere om året end kombination 3 ved normalpris, men giver 5G til de voksne, 100 GB til hver voksen, fri tale til børnene og mulighed for data-deling. Kombination 1 giver mest service og butikker, men også den klart højeste pris.</p>
+<p>Første års pris i kombination 2 er udregnet sådan: Hver voksen betaler 6 × 79 kr. + 6 × 109 kr. = 1.128 kr., og hvert barn betaler 3 × 19 kr. + 9 × 39 kr. = 408 kr. I alt 2 × 1.128 + 2 × 408 = 3.072 kr.</p>
 [[vaerktoej:sparberegner]]
 
 <h2>Hvorfor er familierabatter sjældne i Danmark?</h2>
 <p>I mange andre lande er familieabonnementer med fælles datapulje udbredte. I Danmark er priserne på enkeltabonnementer i forvejen så lave hos lavprisselskaberne, at en familierabat sjældent kan betale sig for selskaberne. Danmarks Statistiks prisindeks for mobilkommunikation faldt fra 101,9 i januar 2015 til 58,0 i januar 2022, så priserne næsten blev halveret<sup class="ref"><a href="#kilde-3">3</a></sup>. Siden er de steget igen, bl.a. med 8,6 % fra august 2025 til august 2026. Konkurrencen foregår derfor på prisen pr. abonnement og på introtilbud snarere end på familierabatter.</p>
-<p>De store koncerner har samtidig flere brands. TDC ejer både YouSee og Telmore, og Hi3G ejer 3, Oister og Flexii<sup class="ref"><a href="#kilde-4">4</a></sup>. Den familie, der vil have service og butikker, kan vælge det dyre brand, mens den prisbevidste familie kan vælge det billige brand fra samme koncern på samme net.</p>
+<p>De store koncerner har samtidig flere brands. TDC ejer YouSee, Telmore og eesy, Telenor ejer CBB, og Hi3G ejer 3, Oister og Flexii<sup class="ref"><a href="#kilde-4">4</a></sup>. Den familie, der vil have service og butikker, kan vælge det dyre brand, mens den prisbevidste familie kan vælge det billige brand fra samme koncern på samme net.</p>
 
 <h2>Data-deling: Giver det mening for familien?</h2>
-<p>Data-deling lyder smart: Én stor datapulje til hele familien, som alle bruger af. I praksis er det sjældent nødvendigt i dag, hvor 40 GB koster 49 kr./md. Til sammenligning brugte et gennemsnitligt dansk mobilabonnement 26,9 GB om måneden i anden halvdel af 2024<sup class="ref"><a href="#kilde-1">1</a></sup>, så 40 GB pr. voksen er rigeligt for de fleste. Det er ofte billigere at give hver person nok data fra starten end at betale for en fælles pulje.</p>
+<p>Data-deling lyder smart: Én stor datapulje til hele familien, som alle bruger af. I praksis er det sjældent nødvendigt i dag, hvor {gb:lb-70} koster {pris:lb-70} kr./md. Til sammenligning brugte et gennemsnitligt dansk mobilabonnement 26,9 GB om måneden i anden halvdel af 2024<sup class="ref"><a href="#kilde-1">1</a></sup>, så 70 GB pr. voksen er rigeligt for de fleste. Det er ofte billigere at give hver person nok data fra starten end at betale for en fælles pulje.</p>
 <p>Data-deling giver mest mening i to situationer:</p>
 <ul>
 <li><strong>Uens forbrug fra måned til måned.</strong> Har et barn en måned med fx lejrtur eller lang togrejse, kan forælderen give data via Oisters "Gi' en GiGA" i stedet for at købe ekstra data.</li>
 <li><strong>Flere apparater.</strong> Har familien tablets eller en bærbar, der skal på nettet uden wifi, kan Telmores ekstra datakort være praktiske.</li>
 </ul>
-<p>Er der én i familien, der bruger rigtig meget data, fx en teenager, så se vores side om <a href="/mobilabonnement-unge/">mobilabonnement til unge</a>, hvor 200 GB koster 119-129 kr./md. Det er ofte billigere end at give hele familien fri data. Overvej også et <a href="/mobilt-bredbaand/">mobilt bredbånd</a> til sommerhuset eller bilen, hvis det er der, familien bruger mest data.</p>
+<p>Er der én i familien, der bruger rigtig meget data, fx en teenager, så se vores side om <a href="/mobilabonnement-unge/">mobilabonnement til unge</a>, hvor 200 GB koster {pris:ly-200}-{pris:dk-200} kr./md. til normalpris og endnu mindre i introperioden Det er ofte billigere end at give hele familien fri data. Overvej også et <a href="/mobilt-bredbaand/">mobilt bredbånd</a> til sommerhuset eller bilen, hvis det er der, familien bruger mest data.</p>
 [[vaerktoej:databeregner]]
 
 <h2>Samme selskab eller forskellige selskaber?</h2>
 <p>Der er fordele ved at samle familien hos ét selskab, selvom det ikke giver rabat: ét login, én regning og én kundeservice at forholde sig til. Mange selskaber lader dig styre flere numre fra samme konto, så forældrene kan se børnenes forbrug og ændre deres abonnementer.</p>
 <p>Omvendt er det ikke svært at have abonnementer hos to eller tre forskellige selskaber. Alle betalinger kan køre automatisk, og ingen af lavprisselskaberne har binding. Det vigtigste er at holde styr på, hvornår intropriserne udløber, så I ikke betaler normalpris for noget, I kunne have fået billigere et andet sted.</p>
 <h3>Tænk på nettet</h3>
-<p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys og 3, hvor Telenor og Norlys deler TT-netværket. Lebara, Greentel og Duka kører på TT-netværket, Oister og Flexii på 3's net, mens Lyca Mobile – ligesom Telmore og YouSee – kører på TDC NET. Har familien et sted, hvor ét net er svagt, fx sommerhuset, kan det være en fordel at fordele abonnementerne på to forskellige net. Så har mindst én i familien dækning. Læs mere i vores guide til det <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>.</p>
+<p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys og 3, hvor Telenor og Norlys deler TT-netværket. Lebara, Lyca Mobile, Greentel, Duka og CBB kører på TT-netværket (Norlys/Telenor), Oister og Flexii på 3's net, mens Telmore, YouSee og eesy kører på TDC NET. Har familien et sted, hvor ét net er svagt, fx sommerhuset, kan det være en fordel at fordele abonnementerne på to forskellige net. Så har mindst én i familien dækning. Læs mere i vores guide til det <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>.</p>
 
 <h2>Familieferie i udlandet: Hvad skal I være opmærksomme på?</h2>
-<p>Når hele familien rejser, ganges eventuelle ekstraregninger med fire. Inden for EU og EØS kan alle bruge deres abonnementer som hjemme efter reglerne om "roam like at home", som gælder frem til 30. juni 2032<sup class="ref"><a href="#kilde-10">10</a></sup>. Men hvert abonnement har sin egen grænse for EU-data, og den varierer meget. Lebara 40 GB giver 6 GB i EU, Lyca Mobile 5 GB giver 4 GB, Oister 100 GB giver 30 GB, og Flexiis børneabonnement med 5 GB giver 5 GB i EU.</p>
-<p>På en to ugers ferie i Sydeuropa kan 6 GB pr. voksen godt slå til, hvis I bruger hotellets wifi til streaming. Skal I derimod bruge mobilen til navigation i lejebilen, se film til børnene på ventetiden i lufthavnen og dele billeder hver dag, kan det betale sig at have mindst ét abonnement med meget EU-data i familien. Så kan den ene forælder dele nettet med resten via hotspot.</p>
+<p>Når hele familien rejser, ganges eventuelle ekstraregninger med fire. Inden for EU og EØS kan alle bruge deres abonnementer som hjemme efter reglerne om "roam like at home", som gælder frem til 30. juni 2032<sup class="ref"><a href="#kilde-10">10</a></sup>. Men hvert abonnement har sin egen grænse for EU-data, og den varierer meget. Lebara {gb:lb-70} giver {eu:lb-70} GB i EU, Lyca Mobile {gb:ly-5} giver {eu:ly-5} GB, Oister {gb:oi-100} giver {eu:oi-100} GB, og Dukas {gb:dk-75} giver hele {eu:dk-75} GB i EU.</p>
+<p>På en to ugers ferie i Sydeuropa kan 20 GB pr. voksen godt slå til, hvis I bruger hotellets wifi til streaming. Skal I derimod bruge mobilen til navigation i lejebilen, se film til børnene på ventetiden i lufthavnen og dele billeder hver dag, kan det betale sig at have mindst ét abonnement med meget EU-data i familien. Så kan den ene forælder dele nettet med resten via hotspot.</p>
 <p>Uden for EU, fx i Storbritannien, Schweiz, USA eller Tyrkiet, gælder EU-reglerne ikke, og priserne kan være høje. Spær for roaming uden for EU på børnenes numre, og se vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement i udlandet</a>, hvis familien skal langt væk.</p>
 
 <h2>Når børnene bliver teenagere</h2>
-<p>Familiens behov ændrer sig hurtigt. Et barn på 9 år, der klarer sig med 5 GB, kan som 14-årig bruge 30-50 GB om måneden på TikTok, YouTube og spil. Det er her, mange familier opdager, at børneabonnementet løber tør midt i måneden. Fordi ingen af lavprisabonnementerne har binding, er løsningen enkel: Opgrader barnets abonnement, når forbruget vokser. Hos Lebara kan en teenager få fri tale og 40 GB for 49 kr./md., hvilket stadig er billigere end et enkelt Familie-SIM hos YouSee. Sæt gerne en fast dato hvert år, fx ved skolestart, hvor I gennemgår hele familiens abonnementer.</p>
+<p>Familiens behov ændrer sig hurtigt. Et barn på 9 år, der klarer sig med 5 GB, kan som 14-årig bruge 30-50 GB om måneden på TikTok, YouTube og spil. Det er her, mange familier opdager, at børneabonnementet løber tør midt i måneden. Fordi ingen af lavprisabonnementerne har binding, er løsningen enkel: Opgrader barnets abonnement, når forbruget vokser. Hos Lebara kan en teenager få fri tale og {gb:lb-70} for {pris:lb-70} kr./md., hvilket stadig er under halvdelen af et enkelt Familie-SIM hos YouSee. Sæt gerne en fast dato hvert år, fx ved skolestart, hvor I gennemgår hele familiens abonnementer.</p>
 
 <h2>Fordele og ulemper ved et familieabonnement</h2>
 <div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Én regning og ét login til hele familien</li><li>Data-deling hos Oister og ekstra datakort hos Telmore</li><li>YouSee: butikker, service og rabat sammen med internet</li><li>Forældre kan styre børnenes abonnementer</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Få selskaber har rigtige familierabatter</li><li>Familierabatter findes mest hos dyre selskaber</li><li>Ofte billigere at vælge det billigste til hver person</li><li>Kan binde familien til ét net</li></ul></div></div>
@@ -100,20 +100,20 @@ related: mobilabonnement-boern, mobilabonnement-unge, billigste-mobilabonnement,
 <blockquote class="expert"><p>Når vi regner på familier, er konklusionen næsten altid den samme: Den familie, der giver hvert medlem det rigtige lavprisabonnement, betaler en brøkdel af den familie, der samler alt hos et premiumselskab. Familierabatter er ikke dårlige, men de er sjældent billigst. Brug dem kun, hvis I værdsætter service og butikker.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
 
 <h2>Sådan har vi sammenlignet familieløsningerne</h2>
-<p>Vi har gennemgået priserne og familiefunktionerne hos de otte udbydere, vi dækker, og regnet både første års pris og normalpris på årsbasis. Vi har brugt en typisk familie på fire som eksempel, men jeres forbrug kan være anderledes, så brug regneeksemplet som en skabelon. Priserne er tjekket 7. oktober 2026. Læs mere om vores fremgangsmåde på siden om <a href="/metode/">metode</a>, eller find abonnementer til hver person i den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
+<p>Vi har gennemgået priserne og familiefunktionerne hos de {antal_udbydere} udbydere, vi dækker, og regnet både første års pris og normalpris på årsbasis. Vi har brugt en typisk familie på fire som eksempel, men jeres forbrug kan være anderledes, så brug regneeksemplet som en skabelon. Priserne er tjekket 7. oktober 2026. Læs mere om vores fremgangsmåde på siden om <a href="/metode/">metode</a>, eller find abonnementer til hver person i den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
 ===FAQ===
 Q: Findes der familieabonnementer til mobil i Danmark?
 A: Ja, men kun få. YouSee har Familie-SIM til 129 kr./md. med dobbelt data, Oister har data-deling via "Gi' en GiGA", og Telmore har op til 3 ekstra datakort. De fleste lavprisselskaber har ingen familierabat, men lave priser på hvert abonnement.
 Q: Hvad er det billigste familieabonnement?
-A: I vores regneeksempel er det billigste at vælge separate lavprisabonnementer: 2 × Lebara 40 GB med fri tale (49 kr.) og 2 × Lyca Mobile 5 GB (19 kr.). Det koster 136 kr./md. eller 1.632 kr. om året for en familie på fire.
+A: I vores regneeksempel er det billigste at vælge separate lavprisabonnementer: 2 × Lebara {gb:lb-70} med fri tale ({pris:lb-70} kr.) og 2 × Lyca Mobile {gb:ly-5} ({pris:ly-5} kr.). Det koster 156 kr./md. eller 1.872 kr. om året for en familie på fire.
 Q: Kan man dele data mellem familiemedlemmer?
 A: Ja, hos Oister kan du dele data med andre Oister-kunder via "Gi' en GiGA". Telmore tilbyder ekstra datakort, der bruger hovedabonnementets data. Flexii har ikke data-deling.
 Q: Kan det betale sig at have hele familien hos samme teleselskab?
-A: Det giver én regning og ét login, men sjældent den laveste pris. I vores eksempel er forskellen mellem at have alt hos YouSee og et billigt mix over 5.000 kr. om året. Vægter I service og butikker højt, kan YouSee stadig være det rigtige.
+A: Det giver én regning og ét login, men sjældent den laveste pris. I vores eksempel er forskellen mellem at have alt hos YouSee og et billigt mix næsten 5.000 kr. om året. Vægter I service og butikker højt, kan YouSee stadig være det rigtige.
 Q: Hvad koster YouSee Familie-SIM?
 A: YouSee Familie-SIM koster 129 kr./md. med dobbelt data. Mobilen er desuden 30 kr./md. billigere, hvis familien har internet fra YouSee. Tjek de aktuelle vilkår hos YouSee, før du bestiller.
 Q: Hvilket abonnement skal børnene i familien have?
-A: De fleste børn klarer sig med 5-10 GB. Lebara og Lyca Mobile har 5 GB og 5 timer for 19 kr./md., og Flexii har børneabonnementer med fri tale fra 35 kr./md. (17 kr. de første 3 måneder). Se vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.
+A: De fleste børn klarer sig med 5-10 GB. Lebara og Lyca Mobile har {gb:lb-5} og 5 timer for {pris:lb-5} kr./md., og Flexii har fri tale og {gb:fx-k10} for {pris:fx-k10} kr./md. ({introtekst:fx-k10}). Se vores side om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.
 Q: Kan forældre styre børnenes abonnementer?
 A: Ja. Står abonnementerne i forælderens navn, kan du se forbrug, ændre abonnementer og lave spærringer i selvbetjeningen. Barnet behøver ikke MitID.
 ===KILDER===

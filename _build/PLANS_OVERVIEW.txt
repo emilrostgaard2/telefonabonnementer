@@ -1,0 +1,59 @@
+cb-60      cbb       Fri tale + 60 GB                               129 kr | intro: 39 kr./md. i 2 mdr.              |    60 GB EU 30 | 5G | tags fri-tale,tilbud,udland
+cb-80      cbb       Fri tale + 80 GB                               139 kr | intro: 39 kr./md. i 2 mdr.              |    80 GB EU 30 | 5G | tags fri-tale,tilbud,udland
+cb-200     cbb       Fri tale + 200 GB                              149 kr | intro: 39 kr./md. i 2 mdr.              |   200 GB EU 30 | 5G | tags fri-tale,store-data,tilbud,udland
+cb-fri     cbb       Fri tale + fri data                            219 kr | intro: 49 kr./md. i 2 mdr.              |      fri EU 50 | 5G | tags fri-data,fri-tale,store-data,tilbud,udland
+cb-200-2   cbb       Fri tale + 200 GB + streaming (CBB Mix)        279 kr | intro: 149 kr./md. i 2 mdr.             |   200 GB EU 30 | 5G | tags fri-tale,store-data,streaming,tilbud,udland
+cb-100     cbb       Fri tale + 100 GB + streaming (CBB Mix)        279 kr | intro: 139 kr./md. i 2 mdr.             |   100 GB EU 30 | 5G | tags fri-tale,store-data,streaming,tilbud,udland
+cb-fri-2   cbb       Fri tale + fri data + streaming (CBB Mix)      309 kr | intro: 164 kr./md. i 2 mdr.             |      fri EU 30 | 5G | tags fri-data,fri-tale,store-data,streaming,tilbud,udland
+dk-6       duka      6 GB + 6 timer                                  59 kr | intro: -                                |     6 GB EU 6 | 4G | tags billig,boern,kun-tale,senior
+dk-30      duka      Fri tale + 30 GB                                99 kr | intro: -                                |    30 GB EU 30 | 5G | tags fri-tale,udland
+dk-50      duka      Fri tale + 50 GB                                99 kr | intro: -                                |    50 GB EU 20 | 5G | tags fri-tale,unge
+dk-55      duka      Fri tale + 55 GB                               119 kr | intro: -                                |    55 GB EU 55 | 5G | tags fri-tale,udland,unge
+dk-120     duka      Fri tale + 120 GB                              119 kr | intro: -                                |   120 GB EU 30 | 5G | tags fri-tale,store-data,udland,unge
+dk-200     duka      Fri tale + 200 GB                              129 kr | intro: 79 kr./md. til 31.3.2027         |   200 GB EU 30 | 5G | tags fri-tale,store-data,tilbud,udland
+dk-75      duka      Fri tale + 75 GB                               149 kr | intro: -                                |    75 GB EU 75 | 5G | tags fri-tale,udland
+dk-1000    duka      Fri tale + 1000 GB                             179 kr | intro: -                                |  1000 GB EU 35 | 5G | tags fri-tale,store-data,udland
+dk-fri     duka      Fri tale + fri data                            199 kr | intro: -                                |      fri EU 40 | 5G | tags fri-data,fri-tale,store-data,udland
+ee-30      eesy      Fri tale + 30 GB                               129 kr | intro: 35 kr./md. i 2 mdr.              |    30 GB EU 30 | 5G | tags fri-tale,tilbud,udland
+ee-80      eesy      Fri tale + 80 GB                               149 kr | intro: 45 kr./md. i 2 mdr.              |    80 GB EU 35 | 5G | tags fri-tale,tilbud,udland
+ee-fri     eesy      Fri tale + fri data                            219 kr | intro: 55 kr./md. i 2 mdr.              |      fri EU 50 | 5G | tags fri-data,fri-tale,store-data,tilbud,udland
+fx-k10     flexii    Fri tale + 10 GB (4G)                           39 kr | intro: 19 kr./md. i 3 mdr.              |    10 GB EU None | 4G | tags billig,boern,fri-tale,senior,tilbud
+fx-20-4g   flexii    Fri tale + 20 GB (4G)                           59 kr | intro: 52 kr./md. første år             |    20 GB EU 20 | 4G | tags billig,fri-tale,tilbud
+fx-20      flexii    Fri tale + 20 GB (5G)                           69 kr | intro: 59 kr./md. første år             |    20 GB EU 20 | 5G | tags fri-tale,tilbud
+fx-50-4g   flexii    Fri tale + 50 GB (4G)                           79 kr | intro: 69 kr./md. første år             |    50 GB EU 20 | 4G | tags fri-tale,tilbud,unge
+fx-50      flexii    Fri tale + 50 GB (5G)                           89 kr | intro: 79 kr./md. første år             |    50 GB EU 30 | 5G | tags fri-tale,tilbud,udland,unge
+fx-150-4g  flexii    Fri tale + 150 GB (4G)                          99 kr | intro: 84 kr./md. første år             |   150 GB EU 30 | 4G | tags fri-tale,store-data,tilbud,udland,unge
+fx-150     flexii    Fri tale + 150 GB (5G)                         109 kr | intro: 94 kr./md. første år             |   150 GB EU 30 | 5G | tags fri-tale,store-data,tilbud,udland,unge
+fx-fri-4g  flexii    Fri tale + fri data (4G)                       144 kr | intro: 124 kr./md. første år            |      fri EU 30 | 4G | tags fri-data,fri-tale,store-data,tilbud,udland
+fx-fri     flexii    Fri tale + fri data (5G)                       149 kr | intro: 129 kr./md. første år            |      fri EU 40 | 5G | tags fri-data,fri-tale,store-data,tilbud,udland
+gt-5       greentel  5 GB + 1 time                                   29 kr | intro: -                                |     5 GB EU None | 4G | tags billig,boern,kun-tale,senior
+gt-2       greentel  2 GB + 2 timer                                  48 kr | intro: -                                |     2 GB EU 2 | 4G | tags billig,boern,kun-tale,senior
+gt-10      greentel  Fri tale + 10 GB                                69 kr | intro: -                                |    10 GB EU 10 | 4G | tags boern,fri-tale,senior
+gt-30      greentel  Fri tale + 30 GB                                89 kr | intro: -                                |    30 GB EU 18 | 5G | tags fri-tale
+gt-50      greentel  Fri tale + 50 GB                                99 kr | intro: -                                |    50 GB EU 15 | 5G | tags fri-tale,unge
+lb-5       lebara    5 GB + 5 timer                                  19 kr | intro: -                                |     5 GB EU 3 | 4G | tags billig,boern,kun-tale,senior,udland
+lb-70      lebara    Fri tale + 70 GB                                59 kr | intro: -                                |    70 GB EU 20 | 4G | tags billig,fri-tale,udland,unge
+lb-100     lebara    Fri tale + 100 GB                               99 kr | intro: 49 kr./md. i 2 mdr.              |   100 GB EU 20 | 4G | tags fri-tale,store-data,tilbud,unge
+lb-160     lebara    Fri tale + 160 GB                              119 kr | intro: -                                |   160 GB EU 20 | 4G | tags fri-tale,store-data,udland,unge
+ly-5       lyca      5 GB + 5 timer                                  19 kr | intro: -                                |     5 GB EU 4 | 4G | tags billig,boern,forudbetalt,kun-tale,senior
+ly-30      lyca      30 GB + 15 timer                                49 kr | intro: 18 kr./md. i 3 mdr.              |    30 GB EU 9 | 4G | tags billig,forudbetalt,tilbud
+ly-100     lyca      Fri tale + 100 GB                               99 kr | intro: 69 kr./md. i 3 mdr.              |   100 GB EU 17 | 4G | tags forudbetalt,fri-tale,store-data,tilbud,unge
+ly-200     lyca      Fri tale + 200 GB                              119 kr | intro: 59 kr./md. i 6 mdr.              |   200 GB EU 20 | 4G | tags forudbetalt,fri-tale,store-data,tilbud,unge
+ly-500     lyca      Fri tale + 500 GB                              299 kr | intro: -                                |   500 GB EU 42 | 4G | tags forudbetalt,fri-tale,store-data,udland
+oi-12      oister    Fri tale + 12 GB                                69 kr | intro: -                                |    12 GB EU 12 | 5G | tags boern,fri-tale,senior
+oi-40      oister    Fri tale + 40 GB                                89 kr | intro: 59 kr./md. i 6 mdr.              |    40 GB EU 30 | 5G | tags fri-tale,tilbud,udland,unge
+oi-100     oister    Fri tale + 100 GB                              109 kr | intro: 79 kr./md. i 6 mdr.              |   100 GB EU 30 | 5G | tags fri-tale,store-data,tilbud,udland,unge
+oi-fri     oister    Fri tale + fri data                            189 kr | intro: 129 kr./md. i 6 mdr.             |      fri EU 50 | 5G | tags fri-data,fri-tale,store-data,tilbud,udland
+tm-3       telmore   3 GB + 3 timer                                  79 kr | intro: -                                |     3 GB EU 16 | 5G | tags kun-tale
+tm-50      telmore   Fri tale + 50 GB                               149 kr | intro: 69 kr./md. i 3 mdr.              |    50 GB EU 30 | 5G | tags fri-tale,tilbud,udland
+tm-200     telmore   Fri tale + 200 GB                              159 kr | intro: -                                |   200 GB EU 32 | 5G | tags fri-tale,store-data,udland
+tm-fri     telmore   Fri tale + fri data                            249 kr | intro: -                                |      fri EU 49 | 5G | tags fri-data,fri-tale,store-data,udland
+tm-play    telmore   Fri tale + fri data + 3 streamingtjenester     399 kr | intro: 99 kr. første måned              |      fri EU 83 | 5G | tags fri-data,fri-tale,store-data,streaming,tilbud,udland
+tm-fri-2   telmore   Fri tale + fri data + 4 streamingtjenester     449 kr | intro: 99 kr. første måned              |      fri EU 88 | 5G | tags fri-data,fri-tale,store-data,streaming,tilbud,udland
+tm-fri-4   telmore   Fri tale + fri data + 5 streamingtjenester     499 kr | intro: 99 kr. første måned              |      fri EU 98 | 5G | tags fri-data,fri-tale,store-data,streaming,tilbud,udland
+tm-fri-3   telmore   Fri tale + fri data + 9 streamingtjenester     599 kr | intro: 99 kr. første måned              |      fri EU 118 | 5G | tags fri-data,fri-tale,store-data,streaming,tilbud,udland
+ys-3       yousee    3 GB + 3 timer                                  99 kr | intro: -                                |     3 GB EU 3 | 4G | tags boern,kun-tale
+ys-25      yousee    Fri tale + 25 GB                               179 kr | intro: -                                |    25 GB EU 25 | 5G | tags fri-tale
+ys-50      yousee    Fri tale + 50 GB                               219 kr | intro: -                                |    50 GB EU 35 | 5G | tags fri-tale,udland
+ys-100     yousee    Fri tale + 100 GB                              249 kr | intro: -                                |   100 GB EU 40 | 5G | tags fri-tale,store-data,udland
+ys-fri     yousee    Fri tale + fri data                            299 kr | intro: -                                |      fri EU 50 | 5G | tags fri-data,fri-tale,store-data,udland
