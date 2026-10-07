@@ -590,7 +590,7 @@ def render(page):
             'Det koster ikke dig noget ekstra og påvirker hverken rækkefølgen i tabellerne (sorteret efter pris) eller vores karakterer. <a href="/annoncoeroplysning/">Læs annoncøroplysningen</a>.</p>')
     main = (f'<div class="wrap layout{" full" if not aside else ""}"><article class="content">{toc_m}{body}{faq_html}{author_box() if not page["slug"].startswith("forfatter") else ""}{src_html}'
             f'{related_html(page["related"])}{disc if not is_about else ""}</article>{aside}</div>')
-    return (head(page, url) + '<body><a class="skip" href="#main">Spring til indhold</a>' + ticker() + header()
+    return (head(page, url) + '<body><a class="skip" href="#main">Spring til indhold</a>' + header()
             + f'<main id="main">{hero(page, crumbs)}{answer_box(page)}{main}</main>' + footer() + tail())
 
 # ---------- home ----------
@@ -634,7 +634,7 @@ def render_home(page):
     main = (f'<div class="wrap layout"><article class="content">{body}{faq_html}{author_box()}{src_html}'
             '<p class="disclosure"><strong>Annoncøroplysning:</strong> Telefonabonnementer.dk er gratis at bruge. Vi kan modtage provision, når du køber via vores links. Det påvirker hverken rækkefølgen (sorteret efter pris) eller vores karakterer. <a href="/annoncoeroplysning/">Læs mere</a>.</p>'
             f'</article>{aside}</div>')
-    return (head(page, url) + '<body><a class="skip" href="#main">Spring til indhold</a>' + ticker() + header()
+    return (head(page, url) + '<body><a class="skip" href="#main">Spring til indhold</a>' + header()
             + f'<main id="main">{hero(page, crumbs, home=True)}{answer_box(page, True)}{sections}{main}</main>' + footer() + tail())
 
 # ---------- hub: abonnementer ----------
