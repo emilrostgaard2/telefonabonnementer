@@ -1,0 +1,61 @@
+name: Byg og deploy til Simply
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "15 4 * * *"   # hver nat: opdater priser + byg igen
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installér Pillow
+        run: pip install pillow
+
+      - name: Opdater priser fra Adtraction-feeds (hvis sat op)
+        env:
+          FEEDS_JSON: ${{ secrets.FEEDS_JSON }}
+        run: python3 _build/update_prices.py
+
+      - name: Byg sitet
+        run: |
+          sudo apt-get install -y fonts-dejavu-core >/dev/null 2>&1 || true
+          TZ=Europe/Copenhagen python3 _build/build.py
+          python3 _build/qa.py
+
+      - name: Gem opdateret build i repo
+        run: |
+          git config user.name "telefonabonnementer-bot"
+          git config user.email "bot@telefonabonnementer.dk"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Automatisk build $(date +%F)" && git push)
+
+      - name: Upload til Simply via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          server-dir: ${{ secrets.FTP_DIR || 'public_html/' }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            _build/**
+            README.md
