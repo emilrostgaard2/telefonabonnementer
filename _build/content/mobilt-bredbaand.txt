@@ -1,0 +1,166 @@
+---
+slug: mobilt-bredbaand
+title: Mobilt bredbånd → 1000 GB fra 179 kr. ({maaned})
+desc: Sammenlign mobilt bredbånd og data-SIM i {maaned}. 1000 GB med 5G fra 179 kr./md., 5G-hjemmeinternet og datakort til router, tablet og sommerhus.
+h1: Mobilt bredbånd
+kicker: Opdateret {maaned} · data-SIM, 5G-internet og datakort sammenlignet
+answer: Det billigste mobile bredbånd med rigtig meget data er i {maaned} et 5G-mobilabonnement med 1000 GB i en router: Duka til 179 kr./md. eller Greentel til 189 kr./md. Vil du have en ren hjemmeinternet-løsning, koster Duka 5G Internet 200 kr./md. til 31.3.2027 og derefter 269 kr./md., mens Oister sælger mobilt bredbånd med 10, 100 eller 1000 GB.
+lead: Skal du have internet i sommerhuset, i campingvognen eller som erstatning for fibernet? Her får du priserne på data-SIM, 5G-routere og datakort – og vores råd til at få mest muligt ud af signalet.
+crumb: Mobilt bredbånd
+section: typer
+related: 5g-mobilabonnement, mobilabonnement-fri-data, esim, guides/bedste-mobilnet, guides/hvor-meget-data
+---
+<h2>Mobilt bredbånd i {maaned}: de billigste løsninger lige nu</h2>
+<p>Mobilt bredbånd er internet, der kommer gennem mobilnettet i stedet for gennem et kabel i væggen. Du sætter et SIM-kort – et såkaldt data-SIM eller datakort – i en router, en tablet, en bærbar computer eller en mobil hotspot-enhed, og så er du på nettet alle steder med mobildækning. Med 5G er hastigheden i mange områder så høj, at mobilt bredbånd kan erstatte et almindeligt bredbånd til hele husstanden.</p>
+<p>Der er grundlæggende tre veje: et dedikeret 5G-hjemmeinternet med router, et rent dataabonnement uden tale, eller et almindeligt mobilabonnement med en meget stor datapakke, som du sætter i en router. Nedenfor ser du de abonnementer på vores liste, der har mest data for pengene. Alle priser er tjekket 7. oktober 2026.</p>
+[[tabel:store-data|sort=gb|titel=Mobilabonnementer med mest data – velegnet i router]]
+<div class="callout"><p><strong>Kort sagt:</strong> Har du brug for meget data til en router, er 1000 GB med 5G hos Duka (179 kr./md.) eller Greentel (189 kr./md.) det billigste pr. GB på markedet. Skal løsningen være officielt beregnet til hjemmeinternet med router inkluderet, er Duka 5G Internet og Oisters mobile bredbånd de oplagte bud. Tjek altid vilkårene for brug i router, før du bestiller.</p></div>
+
+<h2>Hvad er mobilt bredbånd, datakort og data-SIM?</h2>
+<p>Ordene bliver brugt i flæng, men de dækker over lidt forskellige ting:</p>
+<ul>
+<li><strong>Mobilt bredbånd</strong> er den samlede betegnelse for internet via mobilnettet. Det kan være alt fra et 5G-hjemmeinternet til hele familien til et lille datakort i en tablet.</li>
+<li><strong>Data-SIM</strong> er et SIM-kort, der kun kan bruges til data. Du kan ikke ringe eller sende sms fra det, men du betaler heller ikke for tale, du ikke bruger.</li>
+<li><strong>Datakort</strong> er typisk et ekstra SIM-kort, der deler data med dit eget mobilabonnement. Telmore tilbyder for eksempel op til tre ekstra datakort til et abonnement, så tabletten og bilen kan bruge af samme datapulje.</li>
+<li><strong>5G-hjemmeinternet</strong> er et abonnement, hvor du får en 5G-router, som står fast i boligen og erstatter et kablet bredbånd.</li>
+</ul>
+<p>Rene dataabonnementer er langt mere udbredte, end mange tror. Ifølge Digitaliseringsstyrelsens telestatistik var der 827.152 rene dataabonnementer i Danmark i andet halvår af 2024, og 63,1 % af dem havde adgang til 5G.<sup class="ref"><a href="#kilde-1">1</a></sup> Det er alt fra routere i sommerhuse og datakort i biler til tablets og alarmer.</p>
+<div class="stat-grid"><div class="stat"><b>827.152</b><span>rene dataabonnementer i Danmark (2. halvår 2024)</span></div><div class="stat"><b>63,1 %</b><span>af dataabonnementerne har 5G</span></div><div class="stat"><b>26,9 GB</b><span>gennemsnitligt dataforbrug pr. abonnement pr. måned</span></div><div class="stat"><b>100 %</b><span>af befolkningen er dækket af 5G</span></div></div>
+
+<h2>Hvem har brug for mobilt bredbånd?</h2>
+<p>Mobilt bredbånd giver især mening i fire situationer, og de stiller forskellige krav til datamængde og pris.</p>
+<h3>Sommerhus, kolonihave og campingvogn</h3>
+<p>I et sommerhus, der kun bruges i weekender og ferier, er det sjældent pengene værd at trække fiber eller betale for et fast bredbånd hele året. Et mobilabonnement uden binding i en router kan du starte i maj og opsige i september. Fordi forbrugere højst kan bindes i seks måneder, og de fleste lavprisselskaber slet ikke har binding, er det let at sætte abonnementet på pause ved at opsige det.<sup class="ref"><a href="#kilde-6">6</a></sup> Se også vores side om <a href="/mobilabonnement-uden-binding/">mobilabonnementer uden binding</a>.</p>
+<h3>Hjemmeinternet som erstatning for fiber eller kabel</h3>
+<p>Bor du et sted uden fiber, eller er du træt af at betale for et dyrt kablet bredbånd, kan 5G være et reelt alternativ. 5G dækker ifølge Danmarks Statistik hele befolkningen, og de fire danske mobilnet ligger på gennemsnitlige downloadhastigheder mellem 103,1 og 118,8 Mbit/s i Opensignals seneste måling.<sup class="ref"><a href="#kilde-4">4</a></sup><sup class="ref"><a href="#kilde-5">5</a></sup> Det er nok til streaming i høj kvalitet, videomøder og online spil i de fleste hjem – men hastigheden varierer meget med afstanden til masten og hvor mange der bruger den samme antenne om aftenen.</p>
+<h3>Tablet, bærbar og bil</h3>
+<p>Har du en tablet med SIM-kortplads eller en bil med indbygget hotspot, er et ekstra datakort ofte billigere end et selvstændigt abonnement. Alternativt kan du dele internet fra din telefon, hvis dit abonnement har rigeligt med data.</p>
+<h3>Midlertidig løsning ved flytning</h3>
+<p>Flytter du til en bolig, hvor bredbåndet først bliver installeret om flere uger, kan et mobilabonnement med 200 GB i en router bygge bro. Lyca har 200 GB for 119 kr./md. med 5G, og Duka har 200 GB for 129 kr./md. – begge uden binding.</p>
+
+<h2>Hvad koster mobilt bredbånd? Vores sammenligning</h2>
+<p>Vi har stillet de mest relevante løsninger op ved siden af hinanden og regnet prisen pr. GB ud, så du kan se, hvor du får mest internet for pengene. Prisen pr. GB er beregnet ud fra normalprisen og den fulde datapakke.</p>
+<table>
+<thead><tr><th>Løsning</th><th>Data</th><th>Pris pr. md.</th><th>Pris pr. GB</th><th>Net</th><th>Bemærkning</th></tr></thead>
+<tbody>
+<tr><td>Duka Fri tale + 1000 GB</td><td>1000 GB</td><td>179 kr.</td><td>0,18 kr.</td><td>TT-netværket, 5G</td><td>Mobilabonnement – tjek vilkår for router</td></tr>
+<tr><td>Greentel Fri tale + 1000 GB</td><td>1000 GB</td><td>189 kr.</td><td>0,19 kr.</td><td>TT-netværket, 5G</td><td>+10 kr./md. ved Betalingsservice</td></tr>
+<tr><td>Duka 5G Internet</td><td>Hjemmeinternet</td><td>200 kr. (til 31.3.2027), derefter 269 kr.</td><td>–</td><td>TT-netværket, 5G</td><td>Beregnet til router i hjemmet</td></tr>
+<tr><td>Oister mobilt bredbånd</td><td>10, 100 eller 1000 GB</td><td>Se aktuel pris hos Oister</td><td>–</td><td>3, 5G</td><td>Rent dataabonnement</td></tr>
+<tr><td>Flexii Fri tale + fri data</td><td>Fri data (fair use 2 TB)</td><td>149 kr. (129 kr. første år)</td><td>–</td><td>3, 5G</td><td>Mobilabonnement</td></tr>
+<tr><td>Lyca 500 GB + fri tale</td><td>500 GB</td><td>299 kr.</td><td>0,60 kr.</td><td>TDC NET, 5G</td><td>30-dages pakke</td></tr>
+<tr><td>Lyca 200 GB + fri tale</td><td>200 GB</td><td>119 kr.</td><td>0,60 kr.</td><td>TDC NET, 5G</td><td>30-dages pakke</td></tr>
+<tr><td>Duka Fri tale + 200 GB</td><td>200 GB</td><td>129 kr.</td><td>0,65 kr.</td><td>TT-netværket, 5G</td><td>Ingen binding</td></tr>
+</tbody>
+</table>
+<p>Tabellen viser tydeligt, at 1000 GB-abonnementerne er i en klasse for sig, når det gælder pris pr. GB. Hos Duka betaler du 18 øre pr. GB, mens du med en 200 GB-pakke betaler tre til fire gange så meget pr. GB. Til gengæld skal du kunne bruge dataen: hvis du kun bruger 80 GB om måneden i sommerhuset, er en 200 GB-pakke til 119-129 kr. billigere i kroner og ører.</p>
+
+<h2>5G-hjemmeinternet: Duka 5G Internet og Oister mobilt bredbånd</h2>
+<p>Hvis du vil bruge mobilt bredbånd som fast internet i boligen, er det mest gennemskuelige at vælge et produkt, der er lavet til netop det. Så er du sikker på, at brug i router er tilladt, og du får typisk en router med i købet eller tilbudt sammen med abonnementet.</p>
+<h3>Duka 5G Internet</h3>
+<p>Duka sælger 5G Internet for 200 kr./md. frem til 31. marts 2027. Derefter stiger prisen til 269 kr./md. Duka kører på TT-netværket, som Telenor og Norlys deler, og som i Opensignals måling havde en dækningsoplevelse på 9,2 ud af 10.<sup class="ref"><a href="#kilde-5">5</a></sup> Husk at regne med den høje pris, når du sammenligner – kampagnen varer kun et halvt år fra i dag.</p>
+<h3>Oister mobilt bredbånd</h3>
+<p>Oister, der er 3's lavprisbrand, sælger rene dataabonnementer med 10, 100 eller 1000 GB.<sup class="ref"><a href="#kilde-10">10</a></sup> De kører på 3's net med 5G. 10 GB-pakken passer til en tablet eller en bærbar, der kun bruges på farten, mens 1000 GB er beregnet til en router i hjemmet. Oister har 5G på alle abonnementer. Vær opmærksom på, at 3's net i Opensignals måling fik en lavere dækningsoplevelse (7,3 ud af 10) end de øvrige net, men til gengæld havde 3 den næsthøjeste gennemsnitlige downloadhastighed på 112,2 Mbit/s.<sup class="ref"><a href="#kilde-5">5</a></sup> I byerne er 3 derfor ofte et godt valg, mens et sommerhus langt ude på landet kan have bedre signal på et andet net.</p>
+[[cta:duka]]
+
+<h2>Alternativet: et billigt mobilabonnement med 1000 GB i en router</h2>
+<p>Mange vælger i stedet et almindeligt mobilabonnement med 1000 GB og sætter SIM-kortet i en 5G-router. Duka sælger fri tale og 1000 GB for 179 kr./md.,<sup class="ref"><a href="#kilde-2">2</a></sup> og Greentel sælger det samme for 189 kr./md.<sup class="ref"><a href="#kilde-3">3</a></sup> Begge har 5G på alle abonnementer og kører på TT-netværket.</p>
+<p>Prisforskellen til et rent 5G-hjemmeinternet er til at tage og føle på. Bestiller du i dag, ser regnestykket for de første 12 måneder sådan ud:</p>
+<ul>
+<li><strong>Duka 5G Internet:</strong> 6 måneder til 200 kr. + 6 måneder til 269 kr. = 2.814 kr.</li>
+<li><strong>Duka Fri tale + 1000 GB:</strong> 12 × 179 kr. = 2.148 kr.</li>
+<li><strong>Greentel Fri tale + 1000 GB:</strong> 12 × 189 kr. = 2.268 kr. (2.388 kr. hvis du betaler via Betalingsservice)</li>
+</ul>
+<p>Mobilabonnementet er altså 666 kr. billigere det første år end 5G Internet hos Duka, og fra andet år er forskellen 90 kr. om måneden – eller 1.080 kr. om året. Du får endda et telefonnummer med fri tale, som du fx kan bruge til en alarm eller en ekstra telefon.</p>
+<div class="callout warn"><p><strong>Vær ærlig over for dig selv om vilkårene:</strong> Et mobilabonnement er lavet til en telefon. Nogle selskaber har vilkår om, at abonnementet ikke må bruges som fast internet i en router, eller at der gælder fair use-regler, hvis forbruget ligger langt over det normale. Læs vilkårene hos udbyderen, inden du bestiller – og spørg kundeservice skriftligt, hvis du er i tvivl, så du har svaret på skrift.</p></div>
+<p>Der er også en praktisk forskel: Et hjemmeinternet-produkt er ofte prioriteret og prissat til mange brugere i samme husstand, mens et mobilabonnement i princippet er til én person. Hos de fleste selskaber vil du ikke mærke forskel i hverdagen, men det er værd at kende til, hvis nettet er presset om aftenen. Vil du se flere abonnementer med ubegrænset data, har vi samlet dem på siden om <a href="/mobilabonnement-fri-data/">mobilabonnementer med fri data</a>.</p>
+[[simo:Køb routeren uden abonnement og vælg en model med SIM-plads og 5G. Så kan du frit skifte data-SIM, hvis et andet selskab får et bedre tilbud – eller hvis du flytter sommerhuset til et område med bedre dækning på et andet net.]]
+
+<h2>Hvor meget data skal du bruge til mobilt bredbånd?</h2>
+<p>Den gennemsnitlige danske mobilabonnent brugte 26,9 GB om måneden i andet halvår af 2024 – en stigning på 20,8 % på et år.<sup class="ref"><a href="#kilde-1">1</a></sup> Men en router, der forsyner en hel husstand, bruger meget mere end en telefon, fordi tv'et, computerne og alle telefonerne kører over den samme forbindelse.</p>
+<p>Streaming er den største post. Netflix bruger ifølge deres egen hjælpeside op til 3 GB i timen i HD og op til 7 GB i timen i 4K.<sup class="ref"><a href="#kilde-7">7</a></sup> Ser familien to timers HD-streaming om dagen, bliver det til omkring 180 GB om måneden alene fra Netflix. Med 1000 GB har du plads til cirka 333 timers HD-streaming eller omkring 142 timer i 4K om måneden – mere end nok til de fleste.</p>
+<table>
+<thead><tr><th>Typisk brug</th><th>Forventet forbrug pr. md.</th><th>Anbefalet pakke</th></tr></thead>
+<tbody>
+<tr><td>Tablet til nyheder, mail og lidt video</td><td>5-15 GB</td><td>Datakort eller 10 GB-pakke</td></tr>
+<tr><td>Sommerhus i weekender med lidt streaming</td><td>50-150 GB</td><td>200 GB (fra 119 kr.)</td></tr>
+<tr><td>Hjemmearbejde med videomøder dagligt</td><td>100-250 GB</td><td>200 GB eller 1000 GB</td></tr>
+<tr><td>Hjemmeinternet til en familie med streaming</td><td>300-800 GB</td><td>1000 GB eller fri data</td></tr>
+</tbody>
+</table>
+<p>Tallene i tabellen er redaktionens skøn baseret på tjenesternes egne oplysninger om dataforbrug. Brug vores beregner herunder for at få et mere præcist tal for din husstand, eller læs guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>.</p>
+[[vaerktoej:databeregner]]
+
+<h2>Hvilket mobilnet er bedst til mobilt bredbånd?</h2>
+<p>Ved mobilt bredbånd betyder nettet mere end ved en telefon, fordi routeren står samme sted hele tiden. Er der dårligt signal i din stue, bliver det ikke bedre af sig selv. Danmark har fire fysiske mobilnet, og udbyderne på vores liste fordeler sig sådan:</p>
+<ul>
+<li><strong>TDC NET:</strong> Telmore, YouSee og Lyca Mobile. Højeste dækningsscore i Opensignal (9,3/10).</li>
+<li><strong>TT-netværket (Telenor og Norlys):</strong> Duka, Greentel og Lebara. Dækningsoplevelse 9,2/10, og Norlys havde den højeste downloadhastighed på 118,8 Mbit/s.</li>
+<li><strong>3:</strong> Oister og Flexii. 112,2 Mbit/s i gennemsnit, men dækningsoplevelse 7,3/10.</li>
+</ul>
+<p>Det bedste råd er at tjekke dækningen på præcis den adresse, hvor routeren skal stå. Det kan du gøre på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a>, som viser den forventede dækning fra alle net.<sup class="ref"><a href="#kilde-8">8</a></sup> Har du allerede en telefon med signal i sommerhuset, er det også en god indikator: hvis din telefon på Telenors net har fuldt 5G-signal i køkkenet, vil en router på samme net typisk gøre det endnu bedre. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">Danmarks bedste mobilnet</a> og på siden om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+
+<h3>Sådan placerer du routeren og antennen</h3>
+<p>Placeringen af routeren kan gøre en mærkbar forskel – fx mellem et skab midt i huset og en vindueskarm ud mod vejen. Mobilsignaler har svært ved at trænge gennem beton, energiruder og metal, og 5G på høje frekvenser er særligt følsomt. Her er vores råd:</p>
+<ol class="steps">
+<li><strong>Find den bedste plads med telefonen.</strong> Gå rundt i huset med en telefon på samme net og se, hvor signalet er stærkest. Mange telefoner kan vise signalstyrken i tal under indstillingerne eller i en gratis app.</li>
+<li><strong>Placér routeren højt og ved et vindue.</strong> Første sal er bedre end stueetagen, og en vindueskarm er bedre end et skab. Undgå at stille den bag tv'et eller i en metalreol.</li>
+<li><strong>Vend routeren mod masten.</strong> Mange routere har en app, der viser signalkvaliteten. Drej routeren lidt ad gangen og se, hvor tallet er bedst. Hvis du ved, hvor den nærmeste mast står, så peg mod den.</li>
+<li><strong>Overvej en udendørs antenne.</strong> I sommerhuse langt fra masten kan en ekstern antenne på taget eller gavlen gøre en stor forskel. Køb en router med antennestik, hvis du forventer at få brug for det.</li>
+<li><strong>Genstart, når du har flyttet den.</strong> Routeren vælger forbindelse ved opstart. En genstart på den nye placering sikrer, at den kobler på den bedste celle.</li>
+<li><strong>Brug kablet forbindelse til tv og computer.</strong> Wi-Fi gennem flere vægge kan æde en stor del af hastigheden. Et netværkskabel til tv'et sikrer stabil streaming.</li>
+</ol>
+[[simo:Står routeren i en vindueskarm, så hold øje med varmen om sommeren. En router, der står i direkte sol, kan blive så varm, at den skruer ned for hastigheden.]]
+
+<h2>Fordele og ulemper ved mobilt bredbånd</h2>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Ingen installation eller teknikerbesøg – det virker samme dag</li><li>Kan flyttes med til sommerhus, campingvogn og ny bolig</li><li>Ingen binding hos de fleste lavprisselskaber</li><li>1000 GB med 5G fra 179 kr./md.</li><li>Høje hastigheder i områder med god 5G-dækning</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Hastigheden svinger med signal og belastning af masten</li><li>Højere svartid (ping) end fiber – mærkes i konkurrencespil</li><li>Datagrænser – selv 1000 GB kan slippe op i store familier</li><li>Nogle mobilabonnementer må ikke bruges i router</li><li>Kampagnepriser stiger efter en periode</li></ul></div></div>
+
+<h2>Sådan vælger du det rigtige mobile bredbånd</h2>
+<p>Stil dig selv disse fem spørgsmål, før du vælger:</p>
+<ol class="steps">
+<li><strong>Hvor skal det bruges?</strong> Fast i hjemmet, i sommerhuset et par måneder om året, eller i en tablet på farten? Svaret afgør, om du skal have et hjemmeinternet-produkt, et abonnement uden binding eller et datakort.</li>
+<li><strong>Hvilket net er bedst på adressen?</strong> Tjek dækningen, før du ser på prisen. Det billigste abonnement er dyrt, hvis signalet er dårligt.</li>
+<li><strong>Hvor meget data bruger I?</strong> Brug beregneren ovenfor. Under 200 GB om måneden er en 200 GB-pakke billigst, over det er 1000 GB bedst.</li>
+<li><strong>Må abonnementet bruges i en router?</strong> Læs vilkårene. Vælg et dedikeret mobilt bredbånd, hvis du vil være helt sikker.</li>
+<li><strong>Hvad koster det efter kampagnen?</strong> Regn altid på normalprisen. Et tilbud til 200 kr. bliver til 269 kr., og det er den pris, du betaler på lang sigt.</li>
+</ol>
+<blockquote class="expert"><p>Til de fleste sommerhuse og som midlertidig løsning ville jeg vælge et mobilabonnement med 200 eller 1000 GB uden binding. Skal mobilt bredbånd være husstandens faste internet i mange år, ville jeg betale lidt ekstra for et produkt, der er lavet til router, så der aldrig er tvivl om vilkårene.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Datakort til tablet og mobilt bredbånd på rejsen</h2>
+<h3>Datakort til tablet og ekstra enheder</h3>
+<p>Har du kun brug for internet på en tablet eller i bilen, er et selvstændigt abonnement med 1000 GB overkill. Spørg i stedet dit nuværende selskab, om du kan få et ekstra datakort, der deler data med dit mobilabonnement. Telmore tilbyder op til tre ekstra datakort. Har du allerede fri data eller en stor pakke, er det ofte den billigste vej.</p>
+<p>Alternativet er at bruge telefonen som hotspot. Det kræver ingen ekstra SIM-kort, men det tærer på batteriet, og telefonen skal være i nærheden. Mange nyere tablets understøtter desuden eSIM, så du kan aktivere et datakort uden at skulle have et fysisk SIM-kort sendt hjem – læs mere på vores side om <a href="/esim/">eSIM</a>.</p>
+
+<h3>Mobilt bredbånd i udlandet</h3>
+<p>Tager du routeren med i campingvognen til Tyskland eller Italien, gælder EU's regler om roaming. Du kan bruge dit abonnement som hjemme i hele EU samt Norge, Island og Liechtenstein, men ved store datapakker og fri data gælder en fair use-grænse for, hvor meget du kan bruge i udlandet.<sup class="ref"><a href="#kilde-9">9</a></sup> Med Duka 1000 GB kan du bruge 35 GB i EU, mens Greentel 1000 GB giver 41 GB. Det er altså langt fra 1000 GB, når du er på ferie. Læs mere på vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement i udlandet</a>.</p>
+
+<h2>Sådan har vi sammenlignet</h2>
+<p>Alle priser på denne side er tjekket på udbydernes egne sider 7. oktober 2026. Pris pr. GB er beregnet på normalprisen. Vi vurderer abonnementerne ud fra pris, net, fleksibilitet og service, og ingen udbyder kan betale sig til en bedre placering. Læs den fulde gennemgang af <a href="/metode/">vores metode</a>, eller <a href="/">sammenlign alle telefonabonnementer</a> på forsiden.</p>
+===FAQ===
+Q: Hvad er forskellen på mobilt bredbånd og et mobilabonnement?
+A: Et mobilabonnement er lavet til en telefon og indeholder både tale og data, mens mobilt bredbånd er rene dataabonnementer beregnet til router, tablet eller computer. Mange bruger dog et mobilabonnement med 1000 GB i en router, fordi det er billigt – tjek bare, at vilkårene tillader det.
+Q: Hvad er det billigste mobile bredbånd med 1000 GB?
+A: Duka sælger fri tale og 1000 GB med 5G for 179 kr./md., og Greentel sælger det samme for 189 kr./md. Det svarer til under 20 øre pr. GB. Se flere i vores <a href="/mobilabonnement-fri-data/">oversigt over fri data</a>.
+Q: Kan 5G-mobilt bredbånd erstatte fiber?
+A: I mange hjem ja. De danske mobilnet ligger i gennemsnit på over 100 Mbit/s i download, hvilket er nok til streaming og hjemmearbejde. Fiber er dog mere stabilt og har lavere svartid, så til konkurrencespil og meget store familier er fiber stadig bedst.
+Q: Må jeg bruge mit mobilabonnement i en router?
+A: Det afhænger af selskabets vilkår. Nogle tillader det frit, andre har vilkår om, at abonnementet kun må bruges i en telefon, eller at der gælder fair use. Læs vilkårene, og spørg kundeservice skriftligt, hvis du er i tvivl.
+Q: Hvad koster Duka 5G Internet?
+A: Duka 5G Internet koster 200 kr./md. frem til 31. marts 2027. Derefter er prisen 269 kr./md. Regn med normalprisen, når du sammenligner med andre løsninger.
+Q: Hvor meget data bruger en familie på mobilt bredbånd?
+A: Det afhænger især af streaming. Netflix i HD bruger op til 3 GB i timen, så to timers streaming om dagen giver omkring 180 GB om måneden. En familie, der streamer meget, bør vælge 1000 GB eller fri data.
+Q: Hvordan får jeg bedre signal på min 5G-router?
+A: Stil routeren højt og ved et vindue, gerne ud mod den nærmeste mast, og undgå metal og beton omkring den. Brug routerens app til at finde den bedste placering, og overvej en udendørs antenne i sommerhuse langt fra masten.
+Q: Kan jeg få mobilt bredbånd uden binding?
+A: Ja. Duka, Greentel, Lyca, Lebara og Oister har abonnementer uden binding, så du kan opsige dem, når sommerhussæsonen er slut. Se flere på siden om <a href="/mobilabonnement-uden-binding/">abonnementer uden binding</a>.
+===KILDER===
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Duka – mobilabonnementer og priser | https://www.dukatale.dk/mobilabonnementer
+Greentel – mobilabonnementer og priser | https://www.greentel.dk/mobilabonnement
+Danmarks Statistik – SDG 9.c.1, befolkning dækket af mobilnet | https://www.dst.dk/da/Statistik/temaer/SDG/globale-verdensmaal/09-industri-innovation-og-infrastruktur/delmaal-c/indikator-1
+Opensignal – Denmark Mobile Network Experience, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Netflix Hjælp – Hvor meget data bruger Netflix? | https://help.netflix.com/da/node/87
+Tjek dit net – dækningskort | https://tjekditnet.dk
+Your Europe – Roamingafgifter i EU | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Oister – mobilabonnementer og mobilt bredbånd | https://www.oister.dk/mobilabonnement

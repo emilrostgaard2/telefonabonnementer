@@ -1,0 +1,152 @@
+---
+slug: guides/opsig-mobilabonnement
+title: Opsig mobilabonnement → Regler og skabelon ({maaned})
+desc: Sådan opsiger du dit mobilabonnement: regler for binding og varsel, gratis skabelon til opsigelse, fortrydelsesret, dødsfald og klage til Teleankenævnet.
+h1: Opsig mobilabonnement
+kicker: Opdateret {maaned} · Med skabelon til opsigelse
+answer: Du opsiger et mobilabonnement ved at skrive til selskabet via app, "Min side" eller mail – men skal du bare skifte selskab, skal du ikke opsige, for så klarer det nye selskab det ved nummerflytning. Bindingen må højst være 6 måneder, opsigelsesvarslet er typisk løbende måned plus 1 måned eller kortere, og varsler selskabet en prisstigning, kan du opsige uden omkostninger.
+lead: Her er reglerne for at opsige et mobilabonnement, en skabelon du kan kopiere, og svar på de situationer, hvor det bliver lidt mere kompliceret – fx ved dødsfald, binding eller en uventet slutregning.
+crumb: Opsig mobilabonnement
+section: guides
+related: guides/skift-mobilabonnement, mobilabonnement-uden-binding, billigste-mobilabonnement, taletidskort, mobilabonnement-tilbud
+---
+<h2>Sådan opsiger du dit mobilabonnement – kort overblik</h2>
+<p>Før du opsiger, så stil dig selv ét spørgsmål: Vil du beholde dit telefonnummer? Hvis ja, skal du <strong>ikke</strong> opsige. Så bestiller du blot et nyt abonnement og vælger at flytte dit nummer, og så opsiger det nye selskab det gamle abonnement for dig. Det er både hurtigere og sikrere, fordi du ikke risikerer at miste nummeret. Hele den proces gennemgår vi i guiden til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>.</p>
+<p>Skal du derimod helt af med nummeret – fordi du flytter til udlandet, har et ekstra nummer du ikke bruger, eller fordi et familiemedlem er gået bort – så skal du selv opsige. Det er heldigvis nemt, og reglerne er på din side.</p>
+<p>Opsiger du, fordi abonnementet er for dyrt, så se først, hvad du kan få i stedet. Her er de billigste abonnementer lige nu:</p>
+[[tabel:billig|sort=price|limit=6|titel=Billige alternativer – uden binding]]
+<div class="keypoints"><h3>Det vigtigste</h3><ul>
+<li>Skal du skifte selskab og beholde nummeret: Opsig ikke selv – lad det nye selskab gøre det.</li>
+<li>Bindingen må højst være 6 måneder for forbrugere (BEK 566 § 7).</li>
+<li>Varsler selskabet en prisstigning eller andre ændringer, kan du opsige uden omkostninger (BEK 566 § 6).</li>
+<li>Køber du online eller pr. telefon, har du 14 dages fortrydelsesret.</li>
+<li>Klag først skriftligt til selskabet – derefter kan du gå til Teleankenævnet for 175 kr.</li>
+</ul></div>
+
+<h2>Hvilke regler gælder for opsigelse af mobilabonnement?</h2>
+<p>Reglerne for forbrugeres teleabonnementer står primært i slutbrugerbekendtgørelsen, BEK nr. 566 af 24. maj 2023<sup class="ref"><a href="#kilde-1">1</a></sup>. Den bygger på EU's teledirektiv og giver dig en række rettigheder, som selskabet ikke kan aftale sig ud af.</p>
+<h3>Højst 6 måneders binding</h3>
+<p>Et teleselskab må højst binde en forbruger i 6 måneder. Det står i bekendtgørelsens § 7. Bindingen gælder fra den dag, abonnementet starter. Når de 6 måneder er gået, kan du opsige med det almindelige opsigelsesvarsel. I praksis tilbyder langt de fleste lavprisselskaber i dag abonnementer helt <a href="/mobilabonnement-uden-binding/">uden binding</a> – det gælder fx Telmore, Lebara, Oister, Flexii, Greentel og Duka.</p>
+<h3>Opsigelse ved prisstigning og ændrede vilkår</h3>
+<p>Vil selskabet hæve prisen eller ændre vilkårene, skal det varsle dig mindst 1 måned før ændringen træder i kraft. Samtidig skal det oplyse dig om, at du kan opsige aftalen uden omkostninger, hvis du ikke vil acceptere ændringen. Det står i § 6. Retten gælder også, selvom du er i binding. Den eneste undtagelse er ændringer, der udelukkende er til din fordel, eller som er rent administrative og ikke har negativ betydning for dig.</p>
+<p>Prisstigninger er ikke et teoretisk problem. Danmarks Statistiks prisindeks for mobilkommunikation steg 8,6 % fra august 2025 til august 2026<sup class="ref"><a href="#kilde-2">2</a></sup>. Får du et brev om en prisstigning, er det et oplagt tidspunkt at sammenligne – du kan se udviklingen i priserne på siden med <a href="/guides/mobilpriser-statistik/">mobilpriser og statistik</a>.</p>
+<h3>Selskabet skal fortælle dig om bedste tilbud</h3>
+<p>Efter § 8 skal dit teleselskab mindst én gang om året oplyse dig om det bedste tilbud, det har til dig, baseret på dit forbrug. Det er en god anledning til at tjekke, om du betaler for meget – både hos dit nuværende selskab og hos konkurrenterne.</p>
+
+<h2>Hvad er opsigelsesvarslet på et mobilabonnement?</h2>
+<p>Opsigelsesvarslet er den tid, der går fra du opsiger, til abonnementet faktisk stopper. Det fastsættes af det enkelte selskab i abonnementsvilkårene. Det mest almindelige er løbende måned plus 1 måned, men mange lavprisselskaber har kortere varsel, og abonnementer med forudbetaling stopper typisk bare, når perioden udløber.</p>
+<table>
+<thead><tr><th>Typisk varsel</th><th>Hvad det betyder</th><th>Eksempel: Opsiger 10. oktober</th></tr></thead>
+<tbody>
+<tr><td>Løbende måned + 1 måned</td><td>Abonnementet stopper ved udgangen af måneden efter opsigelsen</td><td>Stopper 30. november</td></tr>
+<tr><td>Løbende måned</td><td>Abonnementet stopper ved udgangen af den måned, du opsiger i</td><td>Stopper 31. oktober</td></tr>
+<tr><td>30 dage</td><td>Abonnementet stopper 30 dage efter opsigelsen</td><td>Stopper 9. november</td></tr>
+<tr><td>Forudbetalt periode (fx 30-dages pakke)</td><td>Pakken fornyes ikke, når den udløber</td><td>Stopper ved næste fornyelse</td></tr>
+<tr><td>I binding</td><td>Abonnementet kan tidligst stoppe, når bindingen udløber – eller du betaler resten</td><td>Afhænger af startdato</td></tr>
+</tbody>
+</table>
+<p>Tjek altid det præcise varsel i dine vilkår, som du finder på selskabets hjemmeside eller i din ordrebekræftelse. Lyca Mobile kører eksempelvis med 30-dages pakker, hvor du blot kan lade være med at forny.</p>
+[[simo:Opsig hellere tidligt i måneden end sidst. Med løbende måned + 1 betaler du det samme, uanset om du opsiger den 1. eller den 30. – så der er ingen grund til at vente.]]
+
+<h2>Sådan opsiger du trin for trin</h2>
+<ol class="steps">
+<li><strong>Beslut om du vil beholde nummeret.</strong> Hvis ja: Stop her og bestil nyt abonnement med nummerflytning i stedet.</li>
+<li><strong>Tjek binding, lån og varsel.</strong> Log ind på "Min side" eller i appen. Se om du har binding, et telefonlån eller ekstra tjenester.</li>
+<li><strong>Opsig skriftligt.</strong> Brug selskabets opsigelsesformular, app, chat eller mail. Skriftlig opsigelse giver dig dokumentation.</li>
+<li><strong>Få en kvittering.</strong> Bed om en skriftlig bekræftelse med den dato, abonnementet stopper.</li>
+<li><strong>Husk tilvalg og ekstra SIM-kort.</strong> Datakort, streamingtjenester og forsikringer opsiges ikke altid automatisk.</li>
+<li><strong>Stop betalingen – men først når slutregningen er betalt.</strong> Fjern Betalingsservice eller kortbetaling, når den sidste regning er afregnet.</li>
+<li><strong>Tjek slutregningen.</strong> Sammenlign den med dit opsigelsesvarsel og din kvittering.</li>
+</ol>
+
+<h2>Skabelon: Opsigelse af mobilabonnement</h2>
+<p>Har selskabet ikke en opsigelsesformular, eller vil du hellere skrive selv, kan du kopiere teksten herunder og sende den via selskabets kontaktformular eller pr. mail. Udfyld felterne i kantede parenteser.</p>
+<div class="callout"><p><strong>Emne:</strong> Opsigelse af mobilabonnement – [telefonnummer]</p>
+<p>Til [selskabets navn]</p>
+<p>Jeg opsiger hermed mit mobilabonnement med telefonnummer [telefonnummer], kundenummer [kundenummer], med det kortest mulige varsel efter mine abonnementsvilkår.</p>
+<p>Abonnementet står i navnet [dit fulde navn], [adresse].</p>
+<p>Jeg ønsker ikke at flytte nummeret til et andet selskab. [Eller: Jeg opsiger med henvisning til jeres varsel om prisændring af [dato], jf. slutbrugerbekendtgørelsens § 6, og forventer derfor ingen omkostninger ved opsigelsen.]</p>
+<p>Jeg beder om en skriftlig bekræftelse af opsigelsen med angivelse af den dato, abonnementet ophører, samt oplysning om eventuel slutregning.</p>
+<p>Med venlig hilsen<br>[Navn]<br>[Dato]</p></div>
+<p>Gem en kopi af din mail eller et skærmbillede af den udfyldte formular. Hvis der senere opstår uenighed om datoen, er det din dokumentation.</p>
+
+<h2>Kan jeg opsige mit mobilabonnement i bindingsperioden?</h2>
+<p>Ja, du kan altid opsige. Men er du i binding, skal du som udgangspunkt betale for den resterende del af bindingsperioden. Har du fx et abonnement til 199 kr./md. og 3 måneder tilbage af bindingen, kan du se frem til en regning på 597 kr.</p>
+<p>Der er to vigtige undtagelser:</p>
+<ul>
+<li><strong>Prisstigning eller ændrede vilkår til din ulempe:</strong> Så kan du opsige uden omkostninger, også i binding (BEK 566 § 6).</li>
+<li><strong>Nummerflytning:</strong> Du kan altid flytte dit nummer, selvom du er i binding. Restbindingen skal dog betales.</li>
+</ul>
+<h3>Hvad med telefonlån og SIM-lås?</h3>
+<p>Har du købt en telefon på afbetaling sammen med abonnementet, er det en selvstændig kreditaftale. Den fortsætter efter opsigelsen, eller restgælden skal indfries efter vilkårene. Og har telefonen SIM-lås, skal selskabet fjerne den gratis efter højst 6 måneder<sup class="ref"><a href="#kilde-1">1</a></sup>. Bed om oplåsning, inden du opsiger.</p>
+
+<h2>Fortrydelsesret: Opsig inden for 14 dage</h2>
+<p>Har du bestilt dit abonnement online eller over telefonen, har du efter forbrugeraftaleloven 14 dages fortrydelsesret<sup class="ref"><a href="#kilde-3">3</a></sup>. Fristen løber som udgangspunkt fra den dag, aftalen blev indgået. Du skal give selskabet tydelig besked om, at du fortryder – det er ikke nok bare at lade være med at bruge SIM-kortet.</p>
+<p>Har du brugt abonnementet i fortrydelsesperioden, fordi du bad om at få det aktiveret med det samme, kan selskabet kræve betaling for den del, du har brugt. Fortrydelsesretten er en god sikkerhed, hvis du vil teste dækningen på et nyt net – se vores guide til <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>. Flexii giver for eksempel 14 dages returret.</p>
+<div class="callout warn"><p><strong>Bemærk:</strong> Køber du i en fysisk butik, har du ikke lovpligtig fortrydelsesret. Nogle butikker giver frivillig returret, men det skal fremgå af aftalen.</p></div>
+
+<h2>Opsigelse af mobilabonnement ved dødsfald</h2>
+<p>Når et familiemedlem dør, er mobilabonnementet en af de mange praktiske ting, der skal ordnes. Det er sjældent noget, der haster den første uge, men gør det inden for den første måned, så dødsboet ikke betaler unødigt.</p>
+<ol class="steps">
+<li><strong>Find selskab og nummer.</strong> Se efter regninger i e-Boks, på kontoudtog eller i Betalingsservice-oversigten.</li>
+<li><strong>Kontakt selskabet.</strong> De fleste selskaber har en særlig procedure eller en formular for dødsfald. Du skal typisk sende en kopi af skifteretsattesten eller dødsattesten.</li>
+<li><strong>Beslut om nummeret skal overtages.</strong> Mange vil gerne beholde en afdøds nummer for at kunne modtage beskeder eller bevare kontakter. Nummeret kan typisk overdrages til en efterladt, som så bliver ny abonnent.</li>
+<li><strong>Bed om ophør uden varsel.</strong> Mange selskaber lader abonnementet ophøre fra dødsdagen eller med kort varsel. Spørg direkte.</li>
+<li><strong>Tjek tilknyttede tjenester.</strong> Telefonlån, MobilePay og to-faktor-koder til netbank kan være knyttet til nummeret. Tænk over, om nummeret skal holdes aktivt et stykke tid af den grund.</li>
+</ol>
+<p>Er der binding på abonnementet, vil de fleste selskaber i praksis frafalde den ved dødsfald, men det er selskabets egen politik, ikke en lovpligtig regel. Spørg altid.</p>
+
+<h2>Slutregningen – hvad skal du tjekke?</h2>
+<p>Efter opsigelsen får du en slutregning. Den kommer typisk nogle uger efter, at abonnementet er stoppet, fordi forbrug fra de sidste dage skal med. Tjek disse ting:</p>
+<ul>
+<li><strong>Perioden:</strong> Betaler du kun frem til den dato, der stod i opsigelsesbekræftelsen?</li>
+<li><strong>Dobbeltbetaling:</strong> Har du betalt forud for en periode, du ikke får? Så skal du have penge tilbage.</li>
+<li><strong>Forbrug udover abonnementet:</strong> Opkald til udlandet, roaming uden for EU og betalingstjenester (fx SMS-køb) står som særskilte linjer.</li>
+<li><strong>Restbinding og lån:</strong> Er beløbet korrekt i forhold til din aftale?</li>
+<li><strong>Gebyrer:</strong> Et selskab må ikke tage gebyr for nummerflytning. Ser du det, så klag.</li>
+</ul>
+<h3>Regneeksempel</h3>
+<p>Du opsiger et abonnement til 249 kr./md. den 10. oktober med løbende måned + 1. Abonnementet stopper 30. november, og du skal betale for oktober og november – i alt 498 kr. Skifter du i stedet med nummerflytning til et abonnement til 99 kr., flyttes nummeret senest ved udgangen af næstfølgende arbejdsdag<sup class="ref"><a href="#kilde-5">5</a></sup>. Hvad du skal betale til det gamle selskab efter flytningen, afhænger af dine vilkår, så tjek slutregningen. Til gengæld sparer du 150 kr. om måneden – 1.800 kr. om året – på det nye abonnement.</p>
+[[vaerktoej:sparberegner]]
+
+<h2>Uenig med selskabet? Sådan klager du</h2>
+<p>Hvis du mener, at du er blevet opkrævet forkert, eller at selskabet ikke respekterer din opsigelse, så gør sådan her:</p>
+<ol class="steps">
+<li><strong>Klag skriftligt til selskabet.</strong> Beskriv problemet, hvad du ønsker, og vedhæft dokumentation (fx kvittering for opsigelse). Det er et krav, før du kan gå videre.</li>
+<li><strong>Giv selskabet tid til at svare.</strong> Gem alt korrespondance.</li>
+<li><strong>Klag til Teleankenævnet.</strong> Får du afslag eller intet svar, kan du klage til Teleankenævnet. Gebyret er 175 kr., og det får du som udgangspunkt tilbage, hvis du får helt eller delvist medhold<sup class="ref"><a href="#kilde-4">4</a></sup>.</li>
+</ol>
+<p>Teleankenævnet behandler klager fra forbrugere over teleselskaber, fx om regninger, opsigelse, binding og nummerflytning. Det er langt billigere end en retssag.</p>
+
+<h2>Sådan vælger du dit næste abonnement</h2>
+<p>Opsiger du, fordi du vil spare penge, så tænk dig om, før du vælger nyt. Vi anbefaler at se på tre ting: hvor meget data du reelt bruger (brug guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>), om abonnementet er uden binding, og hvad normalprisen er efter et eventuelt introtilbud. På <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a> ser du de aktuelle kampagner, og har du kun brug for telefonen en gang imellem, kan et <a href="/taletidskort/">taletidskort</a> være det billigste.</p>
+<div class="proscons"><div class="pros"><h4>Fordele ved abonnement uden binding</h4><ul><li>Du kan opsige med kort varsel</li><li>Du kan altid skifte, når der kommer bedre tilbud</li><li>Ingen regning for restbinding</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Introtilbud kræver nogle steder, at du bliver en periode</li><li>Telefon på afbetaling følger sjældent med</li><li>Du skal selv holde øje med priserne</li></ul></div></div>
+<p>Vil du se alle abonnementer på ét sted, så brug vores <a href="/">sammenligning af telefonabonnementer</a> eller den fulde oversigt over <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a>.</p>
+
+<h2>Sådan har vi lavet guiden</h2>
+<p>Guiden bygger på slutbrugerbekendtgørelsen, forbrugeraftaleloven og Teleankenævnets oplysninger, som vi har læst i de gældende udgaver. Opsigelsesvarsler varierer mellem selskaber, så tjek altid dine egne vilkår. Guiden er ikke juridisk rådgivning. Læs om vores arbejdsmetode på <a href="/metode/">metode-siden</a>.</p>
+===FAQ===
+Q: Hvordan opsiger jeg mit mobilabonnement?
+A: Log ind på selskabets app eller "Min side" og brug opsigelsesfunktionen, eller send en skriftlig opsigelse via kontaktformular eller mail. Bed altid om en skriftlig bekræftelse med ophørsdatoen. Skal du blot skifte selskab og beholde nummeret, skal du ikke opsige – det nye selskab gør det.
+Q: Hvad er opsigelsesvarslet på et mobilabonnement?
+A: Det fastsættes af selskabet, men er typisk løbende måned plus 1 måned eller kortere. Forudbetalte pakker stopper blot, når perioden udløber. Tjek dine abonnementsvilkår.
+Q: Kan jeg opsige mit mobilabonnement, hvis prisen stiger?
+A: Ja. Efter slutbrugerbekendtgørelsens § 6 skal en prisstigning varsles mindst 1 måned før, og du kan opsige uden omkostninger, også selvom du er i binding.
+Q: Hvor lang binding må et mobilabonnement have?
+A: Højst 6 måneder for forbrugere, jf. slutbrugerbekendtgørelsens § 7. De fleste lavprisselskaber tilbyder i dag abonnementer helt uden binding.
+Q: Hvordan opsiger jeg et mobilabonnement for en afdød?
+A: Kontakt selskabet og send en kopi af skifteretsattesten eller dødsattesten. Spørg om abonnementet kan ophøre uden varsel, og overvej om nummeret skal overdrages til en efterladt, fx af hensyn til to-faktor-koder.
+Q: Har jeg fortrydelsesret på et mobilabonnement?
+A: Ja, hvis du har købt det online eller over telefonen. Så har du 14 dages fortrydelsesret efter forbrugeraftaleloven. Køb i fysisk butik giver ikke lovpligtig fortrydelsesret.
+Q: Hvad koster det at klage til Teleankenævnet?
+A: Gebyret er 175 kr. Du skal først have klaget skriftligt til selskabet. Får du helt eller delvist medhold, får du som udgangspunkt gebyret tilbage.
+Q: Skal jeg opsige mit gamle abonnement, når jeg skifter selskab?
+A: Nej, ikke hvis du beholder dit nummer. Anmodningen om nummerflytning fungerer som opsigelse, og det gamle abonnement stopper automatisk, når nummeret flyttes. Se vores <a href="/guides/skift-mobilabonnement/">guide til at skifte mobilabonnement</a>.
+===KILDER===
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Danmarks Statistik, Statistikbanken PRIS01 – forbrugerprisindeks | https://www.statistikbanken.dk/PRIS01
+Forbrugeraftaleloven, LBK nr. 1457 af 17/12/2014 | https://www.retsinformation.dk/eli/lta/2014/1457
+Teleankenævnet | https://www.teleanke.dk/
+Lov om elektroniske kommunikationsnet og -tjenester, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Lyca Mobile | https://www.lycamobile.dk
+Flexii – mobilabonnementer | https://www.flexii.dk/mobilabonnement

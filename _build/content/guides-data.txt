@@ -1,0 +1,165 @@
+---
+slug: guides/hvor-meget-data
+title: Hvor meget data har jeg brug for? → Beregner ({maaned})
+desc: Find ud af, hvor meget mobildata du bruger. Se GB pr. time for Netflix, YouTube, Spotify og Zoom, beregn dit behov og find et abonnement der passer fra 19 kr.
+h1: Hvor meget data har jeg brug for?
+kicker: Opdateret {maaned} · Med databeregner
+answer: De fleste har nok i 20-40 GB om måneden: Den gennemsnitlige danske mobilkunde brugte 26,9 GB pr. måned i 2. halvår 2024. Bruger du primært mail, beskeder og lidt musik, rækker 5-10 GB, mens du ved daglig video eller streaming på mobilen bør gå efter 60-100 GB eller fri data.
+lead: Brug vores databeregner, se hvor meget data Netflix, YouTube, Spotify og videoopkald bruger i timen, og find den abonnementsstørrelse der passer til dig – uden at betale for GB, du aldrig bruger.
+crumb: Hvor meget data
+section: guides
+related: mobilabonnement-fri-data, billigste-mobilabonnement, mobilabonnement-streaming, mobilt-bredbaand, guides/mobilpriser-statistik
+---
+<h2>Hvor meget data har du brug for? Brug beregneren</h2>
+<p>Det korte svar er: sandsynligvis mindre, end du betaler for – eller mere, end du tror. Det afhænger næsten udelukkende af én ting, nemlig hvor meget video du ser på mobilnettet. Mails, beskeder, kort og nyheder fylder næsten ingenting. En times Netflix i HD kan til gengæld bruge 3 GB<sup class="ref"><a href="#kilde-2">2</a></sup>.</p>
+<p>Start med beregneren herunder. Indtast hvor mange timer du typisk bruger på de forskellige aktiviteter, når du ikke er på WiFi, så får du et bud på dit månedlige forbrug.</p>
+[[vaerktoej:databeregner]]
+<p>Når du har dit tal, kan du se de abonnementer, der passer bedst. Her er de billigste med store datamængder lige nu:</p>
+[[tabel:store-data|sort=price|limit=6|titel=Billigste abonnementer med meget data]]
+<div class="stat-grid">
+<div class="stat"><b>26,9 GB</b><span>gennemsnitligt forbrug pr. abonnement pr. måned (2H24)</span></div>
+<div class="stat"><b>+20,8 %</b><span>stigning i dataforbrug på ét år</span></div>
+<div class="stat"><b>3 GB</b><span>en times Netflix i HD</span></div>
+<div class="stat"><b>43 MB</b><span>en times Spotify i normal kvalitet</span></div>
+</div>
+
+<h2>Hvor meget data bruger Netflix, YouTube, Spotify og Zoom?</h2>
+<p>Tabellen viser, hvor meget data de mest brugte tjenester bruger pr. time. Tallene er baseret på tjenesternes egne oplysninger om bitrate og omregnet til GB eller MB pr. time. Det er estimater – det faktiske forbrug svinger med indhold, skærmstørrelse og netforhold.</p>
+<table>
+<thead><tr><th>Aktivitet</th><th>Kvalitet</th><th>Data pr. time</th><th>Kilde</th></tr></thead>
+<tbody>
+<tr><td>Netflix</td><td>Lav</td><td>op til 0,3 GB</td><td>Netflix</td></tr>
+<tr><td>Netflix</td><td>Middel</td><td>ca. 0,7 GB</td><td>Netflix</td></tr>
+<tr><td>Netflix</td><td>Høj (SD)</td><td>ca. 1 GB</td><td>Netflix</td></tr>
+<tr><td>Netflix</td><td>HD</td><td>ca. 3 GB</td><td>Netflix</td></tr>
+<tr><td>Netflix</td><td>4K</td><td>ca. 7 GB</td><td>Netflix</td></tr>
+<tr><td>YouTube</td><td>480p</td><td>ca. 0,5 GB</td><td>Google (omregnet)</td></tr>
+<tr><td>YouTube</td><td>720p</td><td>ca. 1,1 GB</td><td>Google (omregnet)</td></tr>
+<tr><td>YouTube</td><td>1080p</td><td>ca. 2,25 GB</td><td>Google (omregnet)</td></tr>
+<tr><td>Spotify</td><td>Lav (24 kbit/s)</td><td>ca. 11 MB</td><td>Spotify (omregnet)</td></tr>
+<tr><td>Spotify</td><td>Normal (96 kbit/s)</td><td>ca. 43 MB</td><td>Spotify (omregnet)</td></tr>
+<tr><td>Spotify</td><td>Høj (160 kbit/s)</td><td>ca. 72 MB</td><td>Spotify (omregnet)</td></tr>
+<tr><td>Spotify</td><td>Meget høj (320 kbit/s)</td><td>ca. 144 MB</td><td>Spotify (omregnet)</td></tr>
+<tr><td>Zoom, gruppeopkald</td><td>720p</td><td>ca. 0,8 GB ned + 1,2 GB op</td><td>Zoom (omregnet)</td></tr>
+<tr><td>TikTok, Reels, video-feeds</td><td>Standard</td><td>ca. 0,5-1,5 GB</td><td>Redaktionelt skøn</td></tr>
+</tbody>
+</table>
+<p>Kilder: Netflix<sup class="ref"><a href="#kilde-2">2</a></sup>, YouTube<sup class="ref"><a href="#kilde-3">3</a></sup>, Spotify<sup class="ref"><a href="#kilde-4">4</a></sup> og Zoom<sup class="ref"><a href="#kilde-5">5</a></sup>. Tallet for sociale medier er vores eget skøn, fordi Meta og TikTok ikke oplyser faste bitrates.</p>
+<h3>Hvad betyder tallene i praksis?</h3>
+<p>Det store spring sker, når der er levende billeder. Musik er billigt i data: Selv i højeste Spotify-kvalitet kan du lytte omkring 7 timer for 1 GB. Video er dyrt: En enkelt film i HD på mobilnettet kan sluge 6 GB, hvilket er mere end et helt månedsforbrug for mange ældre brugere. Videoopkald ligger midt imellem, men husk at de også bruger meget upload – et Zoom-møde på en time i 720p kan samlet koste omkring 2 GB.</p>
+
+<h2>Hvor meget data bruger en gennemsnitlig dansker?</h2>
+<p>Ifølge Digitaliseringsstyrelsens telestatistik brugte et gennemsnitligt mobilabonnement i Danmark 26,9 GB om måneden i andet halvår 2024. Det er 20,8 % mere end året før<sup class="ref"><a href="#kilde-1">1</a></sup>. Den samlede mobildatatrafik var omkring 1,5 millioner TB i andet halvår 2024 – mere end en fordobling (+121 %) i forhold til andet halvår 2020.</p>
+<p>Et gennemsnit dækker dog over meget store forskelle. En pensionist, der bruger telefonen til opkald, MitID og nyheder, ligger måske på 2-3 GB, mens en studerende, der streamer i bussen og laver hotspot til computeren, kan bruge over 100 GB. Brug derfor gennemsnittet som pejlemærke og ikke som facit. Vil du se flere tal, har vi samlet dem på siden med <a href="/guides/mobilpriser-statistik/">mobilpriser og statistik</a>.</p>
+[[simo:De fleste telefoner viser dit forbrug de seneste 30 dage. Tjek tre måneder i træk, før du vælger størrelse – én måned med ferie eller hjemmearbejde kan give et skævt billede.]]
+
+<h2>Hvilken brugertype er du?</h2>
+<p>Vi har inddelt brugerne i fire profiler, som dækker langt de fleste. Find den, der minder mest om dig.</p>
+<table>
+<thead><tr><th>Profil</th><th>Typisk forbrug</th><th>Eksempel på brug uden WiFi</th><th>Billigste eksempel (normalpris)</th></tr></thead>
+<tbody>
+<tr><td>Let bruger</td><td>5-10 GB</td><td>Beskeder, mail, kort, lidt musik, nyheder</td><td>Lebara eller Lyca 5 GB: 19 kr./md.</td></tr>
+<tr><td>Middel bruger</td><td>20-40 GB</td><td>Sociale medier dagligt, podcasts, lidt YouTube</td><td>Lebara 40 GB + fri tale: 49 kr./md.</td></tr>
+<tr><td>Tung bruger</td><td>60-100+ GB</td><td>Streaming på farten, video-feeds, hotspot</td><td>Lebara 70 GB + fri tale: 59 kr./md.</td></tr>
+<tr><td>Fri data</td><td>Ubegrænset</td><td>Mobilen som eneste internet, meget hotspot</td><td>Flexii fri data (5G): 149 kr./md.</td></tr>
+</tbody>
+</table>
+<h3>Let bruger: 5-10 GB</h3>
+<p>Du bruger telefonen til opkald, SMS, beskeder på Messenger og WhatsApp, mail, MitID og måske lidt musik i bilen. Du er på WiFi derhjemme og på arbejdet. Her er 5-10 GB rigeligt, og du kan få et abonnement fra 19 kr. om måneden. Ringer du meget, så se efter et abonnement med <a href="/fri-tale/">fri tale</a> og få GB. Ældre brugere kan også finde gode bud på vores side om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
+<h3>Middel bruger: 20-40 GB</h3>
+<p>Det er her, de fleste danskere ligger. Du scroller Instagram og Facebook, hører podcasts på vej til arbejde og ser et par YouTube-klip om dagen. Gennemsnittet på 26,9 GB placerer sig lige midt i dette interval. Lebara giver 40 GB og fri tale for 49 kr., mens Duka giver 30 GB med 5G for 55 kr. i en kampagne frem til 31. marts 2027 (normalpris 99 kr.).</p>
+<h3>Tung bruger: 60-100+ GB</h3>
+<p>Du ser serier i toget, bruger TikTok eller Reels flere timer dagligt eller deler internet til din computer. Her bliver prisen pr. GB meget lav: Lebara giver 70 GB for 59 kr. og 100 GB for 99 kr., og Oister giver 100 GB for 79 kr. de første seks måneder (derefter 109 kr.).</p>
+<h3>Fri data: når du ikke vil tænke over det</h3>
+<p>Bruger du mobilen som dit eneste internet, eller vil du bare aldrig se en advarsel om, at din data er ved at slippe op, så er <a href="/mobilabonnement-fri-data/">fri data</a> løsningen. Flexii er billigst med 149 kr./md. (129 kr. det første år), og her er en fair use-grænse på 2 TB. Husk at fri data i Danmark ikke betyder fri data i EU – læs om fair use på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+
+<h2>Sådan tjekker du dit dataforbrug på iPhone og Android</h2>
+<p>Den mest præcise måde at finde dit behov på er at se, hvad du faktisk har brugt. Her er, hvordan du gør.</p>
+<h3>iPhone</h3>
+<ol class="steps">
+<li><strong>Åbn Indstillinger.</strong> Tryk på "Mobildata" (på nogle modeller "Mobilnetværk").</li>
+<li><strong>Se "Aktuel periode".</strong> Her står dit samlede forbrug siden sidste nulstilling.</li>
+<li><strong>Se forbrug pr. app.</strong> Rul ned for at se, hvilke apps der har brugt mest.</li>
+<li><strong>Nulstil statistik.</strong> Nederst kan du nulstille tallet, så du fremover kan måle én måned ad gangen. iPhone nulstiller ikke selv.</li>
+</ol>
+<h3>Android (Samsung, Google Pixel m.fl.)</h3>
+<ol class="steps">
+<li><strong>Åbn Indstillinger.</strong> Vælg "Forbindelser" (Samsung) eller "Netværk og internet" (Pixel).</li>
+<li><strong>Vælg "Databrug".</strong> Tryk på "Mobildataforbrug".</li>
+<li><strong>Indstil faktureringscyklus.</strong> Sæt startdatoen til den dag, dit abonnement fornyes, så tallet passer til din måned.</li>
+<li><strong>Sæt en advarsel.</strong> Du kan få besked, når du nærmer dig en grænse, du selv vælger.</li>
+</ol>
+<p>Du kan også logge ind i dit teleselskabs app. Her ser du det forbrug, selskabet faktisk har registreret, og det er det tal, der tæller i forhold til dit abonnement.</p>
+
+<h2>Hvor meget data bruger forskellige aktiviteter om måneden?</h2>
+<p>Timetal er abstrakte, så lad os regne på en almindelig hverdag. Forestil dig en pendler, der hver arbejdsdag bruger 40 minutter i toget og 20 minutter i frokostpausen på telefonen uden WiFi – i alt en time om dagen, 22 dage om måneden.</p>
+<h3>Regneeksempel 1: Musik og nyheder</h3>
+<p>Hører pendleren Spotify i normal kvalitet hele timen, bruger det ca. 43 MB om dagen. Over 22 arbejdsdage giver det knap 1 GB om måneden. Læg nyheder, mail og beskeder oveni, og vi lander stadig under 5 GB. Her er et abonnement til 19 kr./md. rigeligt.</p>
+<h3>Regneeksempel 2: Sociale medier med video</h3>
+<p>Bruger pendleren i stedet timen på TikTok eller Reels, ligger forbruget efter vores skøn på 0,5-1,5 GB om dagen. Over 22 dage bliver det 11-33 GB om måneden – plus weekender. Her passer et abonnement på 30-40 GB, fx Lebara med 40 GB for 49 kr./md.</p>
+<h3>Regneeksempel 3: Serier i HD</h3>
+<p>Ser pendleren Netflix i HD hele timen, bruger det ca. 3 GB om dagen eller 66 GB om måneden alene på arbejdsdage. Her skal der et abonnement på 100 GB eller mere til. Sætter pendleren i stedet kvaliteten ned til "Middel" (ca. 0,7 GB i timen), falder forbruget til ca. 15 GB om måneden. Den lille indstilling kan altså flytte dig fra et abonnement til 99 kr. til et til 49 kr. – en forskel på 600 kr. om året.</p>
+
+<h2>Hvad sker der, hvis du bruger al din data?</h2>
+<p>Hos de fleste danske selskaber bliver du ikke opkrævet ekstra uden at vide det. Når din data er brugt, bliver forbindelsen enten lukket eller sat ned til en meget lav hastighed, og du får en SMS med tilbud om at købe ekstra data. Prisen for ekstra data er typisk væsentligt højere pr. GB end i selve abonnementet. Sker det mere end en gang eller to om året, kan det betale sig at gå et trin op i størrelse.</p>
+<p>Omvendt: Har du 100 GB, men bruger 15, betaler du for luft. Det er en af de mest almindelige grunde til, at folk sparer penge, når de <a href="/guides/skift-mobilabonnement/">skifter mobilabonnement</a>.</p>
+<h3>Regneeksempel: Hvad koster for meget data?</h3>
+<p>Du har fri tale og 100 GB hos YouSee til 249 kr./md., men bruger 25 GB. Et abonnement med 30 GB hos Greentel koster 89 kr./md. med 5G. Forskellen er 160 kr. om måneden eller 1.920 kr. om året – for data, du alligevel ikke brugte.</p>
+
+<h2>Sådan sparer du på mobildata</h2>
+<p>Vil du klare dig med et mindre abonnement, kan disse vaner gøre en stor forskel:</p>
+<ul>
+<li><strong>Download på WiFi.</strong> Netflix, Spotify, YouTube Premium og de fleste podcast-apps lader dig hente indhold hjemmefra, så du kan se og lytte offline.</li>
+<li><strong>Sænk videokvaliteten.</strong> Netflix i "Middel" bruger ca. 0,7 GB i timen mod 3 GB i HD. På en mobilskærm er forskellen lille.</li>
+<li><strong>Slå autoplay fra</strong> i Facebook, Instagram og X, så videoer ikke starter af sig selv.</li>
+<li><strong>Brug Spotify i "Normal".</strong> 43 MB i timen mod 144 MB i "Meget høj".</li>
+<li><strong>Slå iCloud- og Google Fotos-backup over mobildata fra.</strong> Lad billeder og videoer synkronisere på WiFi.</li>
+<li><strong>Tjek apps i baggrunden.</strong> Se i forbrugsstatistikken, om en app bruger uforholdsmæssigt meget, og slå mobildata fra for den.</li>
+<li><strong>Brug databesparelse.</strong> Både iPhone ("Lav datatilstand") og Android ("Datasparefunktion") har en indbygget funktion.</li>
+</ul>
+[[simo:Hotspot er en skjult datasluger. En computer opdaterer gerne programmer og synkroniserer filer, så snart den får forbindelse – sæt forbindelsen som "forbrugsafregnet" i Windows eller "lav datatilstand" på Mac.]]
+
+<h2>Hvor meget data bruger du i EU?</h2>
+<p>Rejser du i EU, kan du bruge dit abonnement som hjemme takket være EU's roamingregler. Men har du fri data eller meget store datamængder, gælder en fair use-grænse. Grænsen afhænger af abonnementets pris, og derfor kan et billigt abonnement med 1000 GB give væsentligt mindre EU-data end et dyrere med 100 GB. Brug vores roamingberegner til at regne din grænse ud.</p>
+[[vaerktoej:roaming]]
+
+<h2>Sådan vælger du den rigtige datamængde</h2>
+<p>Når du har fundet dit forbrug, er her vores anbefaling:</p>
+<ol class="steps">
+<li><strong>Tag dit højeste forbrug de seneste tre måneder.</strong> Ikke gennemsnittet – så undgår du at løbe tør i de travle måneder.</li>
+<li><strong>Læg 20-30 % oveni.</strong> Forbruget stiger år for år; i 2024 med 20,8 %.</li>
+<li><strong>Rund op til nærmeste pakke.</strong> Ofte er spring i data billige: Hos Lebara koster 70 GB kun 10 kr. mere end 40 GB.</li>
+<li><strong>Sammenlign normalprisen.</strong> Introtilbud er gode, men regn på hele året.</li>
+<li><strong>Tjek EU-data, hvis du rejser.</strong> Det kan ændre, hvilken pakke der reelt er bedst.</li>
+</ol>
+<div class="proscons"><div class="pros"><h4>Fordele ved meget data</h4><ul><li>Du løber aldrig tør</li><li>Lav pris pr. GB</li><li>Kan erstatte bredbånd i perioder</li></ul></div><div class="cons"><h4>Ulemper ved meget data</h4><ul><li>Du betaler for data, du måske ikke bruger</li><li>Fair use begrænser EU-data</li><li>Fri data koster fra 149 kr./md.</li></ul></div></div>
+<p>Skal du bruge data til en computer eller en router derhjemme, så kig også på <a href="/mobilt-bredbaand/">mobilt bredbånd</a>. Og streamer du meget, kan et abonnement med streamingtjenester inkluderet være billigere samlet – se <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
+
+<h2>Sådan har vi beregnet tallene</h2>
+<p>Dataforbruget pr. time er omregnet fra de bitrates, som Netflix, Google, Spotify og Zoom selv oplyser. Gennemsnitsforbruget kommer fra Digitaliseringsstyrelsens telestatistik. Priserne er normalpriser tjekket på selskabernes sider den 7. oktober 2026. Læs mere om, hvordan vi arbejder, under <a href="/metode/">vores metode</a>.</p>
+===FAQ===
+Q: Er 10 GB data nok til en måned?
+A: Ja, hvis du primært bruger telefonen til beskeder, mail, kort og musik og er på WiFi derhjemme. Ser du video på mobilnettet, rækker 10 GB kun til omkring 3 timers Netflix i HD. Du kan få 10 GB og fri tale fra 69 kr./md.
+Q: Hvor mange GB bruger en gennemsnitlig dansker?
+A: Ifølge Digitaliseringsstyrelsens telestatistik brugte et gennemsnitligt mobilabonnement 26,9 GB om måneden i andet halvår 2024. Det var 20,8 % mere end året før.
+Q: Hvor meget data bruger en time Netflix?
+A: Det afhænger af kvaliteten: op til 0,3 GB i lav, ca. 0,7 GB i middel, ca. 1 GB i SD, ca. 3 GB i HD og ca. 7 GB i 4K, ifølge Netflix selv.
+Q: Hvor meget data bruger Spotify?
+A: Omkring 43 MB i timen i normal kvalitet og op til ca. 144 MB i timen i meget høj kvalitet. Med 1 GB kan du lytte i 20-23 timer i normal kvalitet.
+Q: Bruger opkald over WhatsApp eller Messenger meget data?
+A: Taleopkald bruger meget lidt data, mens videoopkald bruger væsentligt mere. Et Zoom-gruppeopkald i 720p bruger ifølge Zoom ca. 0,8 GB ned og 1,2 GB op pr. time, og videoopkald i andre apps ligger typisk i samme størrelsesorden.
+Q: Er det billigere at vælge fri data?
+A: Kun hvis du bruger meget. Fri data koster fra 149 kr./md. hos Flexii, mens 100 GB fås fra 99 kr. hos Lebara. Bruger du under 100 GB, er et abonnement med fast datamængde næsten altid billigere.
+Q: Hvordan ser jeg mit dataforbrug på iPhone?
+A: Gå til Indstillinger, Mobildata, og se under "Aktuel periode". Nulstil statistikken nederst på siden én gang om måneden, hvis du vil følge dit månedlige forbrug.
+Q: Bruger 5G mere data end 4G?
+A: Nej, selve teknologien bruger ikke mere data. Men den højere hastighed kan få apps til at vælge højere videokvalitet automatisk, og så stiger forbruget. Sæt videokvaliteten manuelt, hvis du vil styre det.
+===KILDER===
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Netflix Hjælpecenter: Hvor meget data bruger Netflix? | https://help.netflix.com/da/node/87
+YouTube Hjælp: Anbefalede bitrates | https://support.google.com/youtube/answer/78358
+Spotify Support: Lydkvalitet | https://support.spotify.com/dk/article/audio-quality/
+Zoom Support: Båndbreddekrav | https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060748
+Din Europa: Roamingomkostninger | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Lebara | https://www.lebara.dk
+Flexii – mobilabonnementer | https://www.flexii.dk/mobilabonnement

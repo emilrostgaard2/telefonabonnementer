@@ -1,0 +1,158 @@
+---
+slug: udbydere/lebara
+provider: lebara
+title: Lebara mobilabonnement → Fra {fra:udbyder-lebara} kr. + test ({mdkort})
+desc: Lebara anmeldelse {maaned}: 5 GB fra 19 kr., fri tale + 40 GB for 49 kr. og minutter til udlandet. Se net, EU-data, 5G og ulemper, før du vælger Lebara.
+h1: Lebara anmeldelse og priser
+kicker: Opdateret {maaned} · 6 Lebara-abonnementer gennemgået
+answer: Lebara får 8,5 ud af 10 i vores test og hører til de billigste i Danmark: 5 GB koster 19 kr./md., og fri tale + 40 GB koster 49 kr./md. Du kører på TT-netværket (Telenor/Norlys) uden binding, men vores prisdata viser ingen 5G, og du får mindre EU-data end hos konkurrenterne. Lebara passer bedst til prisbevidste brugere, der ringer til udlandet og primært bruger telefonen i Danmark.
+lead: Vi har gennemgået alle Lebaras abonnementer, netværket, EU-data, eSIM og vilkår og sammenlignet med de nærmeste konkurrenter, så du kan se, hvor meget du sparer – og hvad du giver afkald på.
+crumb: Lebara
+section: udbydere
+related: udbydere/lyca-mobile, udbydere/duka, billigste-mobilabonnement, fri-tale, mobilabonnement-udlandet
+---
+[[udbyderkort:lebara]]
+
+<div class="callout"><p><strong>Kort sagt:</strong> Lebara giver meget data for pengene i den lave og mellemste prisklasse. Har du ikke brug for 5G eller meget data på rejser i EU, er det svært at finde et billigere fri tale-abonnement. Kundeservice er primært online, og EU-data er sparsomt på de billige pakker.</p></div>
+
+<h2>Alle Lebara-abonnementer og priser</h2>
+<p>Lebara har seks mobilabonnementer i {maaned}, fra en lille pakke med 5 GB til 200 GB med fri tale. Vi har tjekket priserne på Lebaras egen side den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup> og krydstjekket dem mod en uafhængig prisoversigt, fordi Lebaras kampagner og pakker ændrer sig ofte. Tabellen kan sorteres efter pris, data og EU-data.</p>
+
+[[tabel:udbyder-lebara]]
+
+<p>Det, der springer i øjnene, er prisen pr. GB. Fri tale + 40 GB for 49 kr. svarer til godt 1,20 kr. pr. GB, og 160 GB for 119 kr. er under 75 øre pr. GB. Til sammenligning koster Telmores fri tale + 45 GB 149 kr./md., altså over 3 kr. pr. GB. Det er Lebaras styrke i en nøddeskal: meget data og fri tale for lidt penge.</p>
+<p>To af abonnementerne – 70 GB til 59 kr. og 160 GB til 119 kr. – har i øjeblikket første måned gratis. Det er en enkel kampagne uden prisstigning senere, fordi månedsprisen fra måned to er den samme normalpris, som står i tabellen.</p>
+
+<h3>Hvad koster Lebara om året?</h3>
+<p>Vælger du 40 GB med fri tale, betaler du 12 × 49 kr. = 588 kr. om året. Vælger du 70 GB med første måned gratis, betaler du 11 × 59 kr. = 649 kr. det første år og 708 kr. de følgende år. Betaler du i dag 149 kr./md. for et tilsvarende abonnement, sparer du 1.200 kr. om året ved at skifte til Lebaras 40 GB-abonnement. Brug sparberegneren til at regne på dit eget abonnement.</p>
+
+[[vaerktoej:sparberegner]]
+
+<h3>Det billigste abonnement: 5 GB for 19 kr.</h3>
+<p>Lebaras mindste abonnement giver 5 GB og 5 timers tale for 19 kr./md. Det deler førstepladsen som Danmarks billigste mobilabonnement med Lyca Mobiles tilsvarende pakke. Det er oplagt til børn med deres første telefon, til ældre, der mest ringer, og som reservenummer. Se flere muligheder på vores side om det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a> og om <a href="/mobilabonnement-pensionister/">mobilabonnement til pensionister</a>.</p>
+
+[[simo:Bruger du under 40 GB om måneden, er Lebaras 49 kr.-abonnement svært at slå. Tjek dit forbrug i telefonens indstillinger, før du vælger en større pakke.]]
+
+<h2>Netværk og dækning: Hvilket net bruger Lebara?</h2>
+<p>Lebara kører på TT-netværket, som er det fælles radionet, Telenor og Norlys (tidligere Telia) driver sammen. Telenor og Norlys ejer hver halvdelen af nettet og har i flere år udbygget det med nye antenner<sup class="ref"><a href="#kilde-2">2</a></sup>. Det er det samme net, som fx CBB, Duka og Greentel bruger.</p>
+<p>I Opensignals rapport fra februar 2026 (målinger fra oktober-december 2025) fik Telenor og Norlys begge 9,2 ud af 10 for dækningsoplevelse – kun 0,1 under TDC, som fik 9,3. 3 lå på 7,3<sup class="ref"><a href="#kilde-3">3</a></sup>. Med andre ord får du hos Lebara et af landets bedste net i dækning, til discountpris.</p>
+
+<div class="stat-grid"><div class="stat"><b>9,2/10</b><span>Dækningsoplevelse for Telenor og Norlys (Opensignal)</span></div><div class="stat"><b>118,8 Mbit/s</b><span>Gns. download hos Norlys – hurtigst i DK</span></div><div class="stat"><b>107,4 Mbit/s</b><span>Gns. download hos Telenor</span></div><div class="stat"><b>19 kr.</b><span>Lebaras billigste abonnement pr. måned</span></div></div>
+
+<p>Opensignal måler Telenor og Norlys hver for sig, selv om de deler radionettet, og de to scorer ens på dækning. Forskellen ligger i hastigheden, hvor Norlys målte 118,8 Mbit/s og Telenor 107,4 Mbit/s i gennemsnit. Tjek altid dækningen på din adresse på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup>. Læs mere om forskellene i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
+
+<h2>Hastighed og 5G: Har Lebara 5G?</h2>
+<p>Her er Lebaras største svaghed. I de abonnementer, vi har gennemgået i {maaned}, er ingen markeret med 5G – du kører på 4G. Forbrugerrådet Tænk har ligeledes påpeget, at flere af Lebaras abonnementer kun er 4G<sup class="ref"><a href="#kilde-11">11</a></sup>. Tjek derfor altid produktbeskrivelsen ved bestilling, hvis 5G er vigtigt for dig, da Lebara kan ændre det.</p>
+<p>Hvor meget betyder det? For de fleste mindre, end man tror. 4G er rigeligt til streaming, videoopkald og sociale medier. Netflix i HD bruger ca. 3 GB i timen, svarende til under 7 Mbit/s, og selv 4K bruger omkring 16 Mbit/s – hastigheder, 4G nemt leverer, når dækningen er god. 5G gør en forskel ved meget store downloads, i tætpakkede områder som koncerter og stationer, og hvis du bruger telefonen som internet til computeren.</p>
+<p>Ifølge Digitaliseringsstyrelsen havde 85,8 % af alle standardabonnementer i Danmark 5G i 2. halvår 2024<sup class="ref"><a href="#kilde-4">4</a></sup>, og 5G bar 41,2 % af al mobildata. Vil du være sikker på 5G i samme prisklasse, er Lyca Mobile (5G på alle pakker) og Duka oplagte alternativer. Se alle muligheder på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+
+<h2>Lebara i EU og udlandet</h2>
+<p>Lebara har to sider, når det gælder udlandet. Den gode: Flere abonnementer har inkluderede minutter til opkald til udlandet – 2 timer på 40 GB og 70 GB, 5 timer på 160 GB og 200 GB. Det er en reel fordel, hvis du ringer til familie i andre lande, og det er Lebaras historiske kernemålgruppe.</p>
+<p>Den mindre gode: EU-datamængden er lav. 40 GB-abonnementet giver 6 GB i EU, 70 GB og 100 GB giver 10 GB, og de største giver 20 GB. Til sammenligning giver Oister 30 GB i EU på 40 GB-abonnementet, og Lyca giver 10 GB i EU på sin 30 GB-pakke til 49 kr.</p>
+<p>EU's "Roam like at home"-regler gælder til 30. juni 2032 og dækker EU, Norge, Island og Liechtenstein – og fra 1. januar 2026 også Ukraine og Moldova<sup class="ref"><a href="#kilde-8">8</a></sup>. Opkald og SMS koster det samme som herhjemme. Bruger du mere data end din EU-kvote, må selskabet maksimalt opkræve 1,30 € pr. GB i tillæg. UK og Schweiz er ikke omfattet, så tjek Lebaras egne priser der.</p>
+<p><strong>Regneeksempel:</strong> Tager du to uger til Spanien og bruger 1 GB om dagen, har du brug for ca. 14 GB. Med 40 GB-abonnementet har du 6 GB i EU, og de sidste 8 GB kan koste op til 8 × 1,30 € ≈ 78 kr. ekstra. Rejser du ofte, bør du overveje et abonnement med mere EU-data – se vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+
+<h2>eSIM og opstart hos Lebara</h2>
+<p>Lebara tilbyder eSIM, ingen binding og WiFi-opkald, så du kan ringe over WiFi, hvor mobildækningen er dårlig – fx i en kælder. Det er en fordel, der ofte overses, men som kan løse indendørs dækningsproblemer.</p>
+<ol class="steps">
+<li><strong>Tjek eSIM-understøttelse.</strong> Se under Indstillinger på telefonen, om den understøtter eSIM. Apple har en liste over danske selskaber med eSIM<sup class="ref"><a href="#kilde-10">10</a></sup>.</li>
+<li><strong>Vælg abonnement.</strong> Vælg abonnement på Lebaras side, og vælg eSIM.</li>
+<li><strong>Beholde nummer?</strong> Angiv dit nuværende nummer, hvis du vil flytte det.</li>
+<li><strong>Aktivér.</strong> Scan QR-koden eller følg vejledningen, mens du er på WiFi.</li>
+<li><strong>Slå WiFi-opkald til.</strong> Find indstillingen under Mobil/Telefon, så du kan ringe indendørs med dårlig dækning.</li>
+</ol>
+<p>Læs mere i vores <a href="/esim/">guide til eSIM</a>.</p>
+
+<h2>Kundeservice og vilkår: binding, oprettelse og betaling</h2>
+<p>Lebara har ingen binding på abonnementerne, så du kan skifte, når du vil. Det er vigtigt for et selskab, hvor priserne er lave, men kampagnerne skifter. Som forbruger kan du højst bindes i 6 måneder, og varsler selskabet en prisstigning, skal det ske mindst én måned før, så du kan opsige uden omkostninger<sup class="ref"><a href="#kilde-6">6</a></sup>.</p>
+<p>Kundeservice er Lebaras svageste punkt i vores vurdering, hvor selskabet får 6,4 ud af 10 for service. Kundeservicen er primært online – via chat, app og selvbetjening – og der er ingen fysiske butikker. Det fungerer fint, hvis du er vant til at klare tingene digitalt, men er mindre oplagt, hvis du vil have personlig hjælp i telefonen eller i en butik. Hvis du er utilfreds, skal du først klage skriftligt til selskabet, og derefter kan du gå til Teleankenævnet<sup class="ref"><a href="#kilde-7">7</a></sup>.</p>
+<p>Læs altid betalingsvilkårene, når du bestiller: Hvordan du betaler (kort, MobilePay eller andet), og om abonnementet fornyes automatisk, står i Lebaras vilkår.</p>
+
+[[cta:lebara]]
+
+<h2>Ejerskab og historie: Hvem ejer Lebara?</h2>
+<p>Lebara blev grundlagt i 2001 og er en del af Lebara Group, der i dag er ejet af kapitalfonden Waterland Private Equity. Lebara er et såkaldt virtuelt mobilselskab (MVNO): Det ejer ikke selv antenner, men lejer kapacitet på TT-netværket. Det er en almindelig model i Danmark og en af grundene til, at Lebara kan holde priserne nede.</p>
+<p>Lebara har altid haft fokus på kunder, der ringer til udlandet, hvilket stadig ses i de inkluderede udlandsminutter. I de senere år er selskabet blevet kendt i Danmark for de lave priser på store datamængder, og Lebara går ofte igen som billigste fri tale-abonnement i prisoversigter.</p>
+
+<h2>Lebara vs. alternativer</h2>
+<p>Hvordan står Lebara sig mod andre selskaber på TT-netværket og i samme prisklasse? Vi har sammenlignet med de mest oplagte alternativer.</p>
+<table>
+<thead><tr><th>Selskab</th><th>Net</th><th>Billigste fri tale</th><th>Ca. 200 GB</th><th>5G</th><th>EU-data (billigste fri tale)</th></tr></thead>
+<tbody>
+<tr><td>Lebara</td><td>TT-netværket</td><td>40 GB: 49 kr.</td><td>159 kr.</td><td>Nej (iflg. vores data)</td><td>6 GB</td></tr>
+<tr><td>Lyca Mobile</td><td>TDC NET</td><td>100 GB: 99 kr.</td><td>119 kr.</td><td>Ja</td><td>20 GB</td></tr>
+<tr><td>Duka</td><td>TT-netværket</td><td>6 GB: 59 kr.</td><td>129 kr.</td><td>Ja</td><td>6 GB</td></tr>
+<tr><td>Greentel</td><td>TT-netværket</td><td>10 GB: 69 kr.</td><td>1000 GB: 189 kr.</td><td>Ja</td><td>10 GB</td></tr>
+</tbody>
+</table>
+<p>Konklusionen er klar: Til fri tale med moderat data er Lebara billigst. Men ved 200 GB er Lyca (119 kr.) og Duka (129 kr.) billigere end Lebara (159 kr.) – og begge giver 5G. Duka har desuden 30 GB + fri tale for 55 kr./md. i en kampagne til 31.3.2027. Lebaras 160 GB til 119 kr. er dog stadig konkurrencedygtig. Se vores anmeldelser af <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>, <a href="/udbydere/duka/">Duka</a> og <a href="/udbydere/greentel/">Greentel</a>.</p>
+
+<blockquote class="expert"><p>Lebara er vores klare anbefaling, hvis du vil have fri tale og 40-70 GB til så lidt som muligt. Du kører på et net, der scorer næsten lige så højt som TDC NET i dækning. Men du skal acceptere 4G, beskeden EU-data og en kundeservice, der primært er online. Skal du bruge 200 GB, er der billigere muligheder med 5G.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Hvem passer Lebara til – og hvem bør vælge noget andet?</h2>
+<h3>Lebara passer til dig, der</h3>
+<ul>
+<li>vil have fri tale og meget data til den lavest mulige pris</li>
+<li>ringer til familie eller venner i udlandet og kan bruge de inkluderede minutter</li>
+<li>er studerende eller ung og bruger meget data – se <a href="/mobilabonnement-unge/">mobilabonnement til unge</a></li>
+<li>skal bruge et billigt abonnement til et barn eller en ældre – 19 kr./md.</li>
+<li>er tryg ved selvbetjening og chat</li>
+</ul>
+<h3>Lebara passer ikke til dig, der</h3>
+<ul>
+<li>vil være sikker på 5G</li>
+<li>rejser meget i EU og bruger meget data i udlandet</li>
+<li>vil have personlig kundeservice i telefon eller butik</li>
+<li>skal bruge 200 GB eller mere – der findes billigere med 5G</li>
+</ul>
+
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Billigste fri tale (40 GB for 49 kr.)</li><li>Fri tale fra 49 kr./md.</li><li>Abonnement fra 19 kr./md.</li><li>Inkluderede minutter til udlandet</li><li>TT-netværket med 9,2/10 i dækning</li><li>Ingen binding, eSIM og WiFi-opkald</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ingen 5G på abonnementerne i vores data</li><li>Mindre EU-data end konkurrenterne</li><li>Kundeservice primært online</li><li>200 GB er dyrere end hos Lyca og Duka</li></ul></div></div>
+
+<h2>Sådan vælger du det rigtige Lebara-abonnement</h2>
+<p>Gennemsnitsdanskeren brugte 26,9 GB mobildata om måneden i 2. halvår 2024<sup class="ref"><a href="#kilde-4">4</a></sup>, og forbruget steg 20,8 % på et år. For de fleste er 40 GB derfor nok med lidt luft. Streamer du meget på farten eller deler internet til en computer, kan 70 GB eller 100 GB give mening. Brug databeregneren, eller læs vores guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</p>
+
+[[vaerktoej:databeregner]]
+
+<p>Sådan har vi vurderet: Lebara får 9,6 for pris, 7,6 for net, 9,0 for fleksibilitet og 6,4 for service – i alt 8,5. Netscoren trækkes ned af manglende 5G, ikke af dækningen. Læs om vores <a href="/metode/">metode</a>.</p>
+
+<h2>Sådan skifter du til Lebara</h2>
+<p>Du beholder dit nummer, og efter teleloven skal nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag. Du behøver ikke opsige dit gamle abonnement selv, og flytningen koster ikke noget særskilt<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
+<ol class="steps">
+<li><strong>Tjek din binding.</strong> Har du binding hos dit nuværende selskab, kan du stadig flytte nummeret, men betaler resten af perioden.</li>
+<li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk og se TT-netværkets dækning.</li>
+<li><strong>Bestil hos Lebara.</strong> Vælg abonnement, eSIM eller SIM-kort, og angiv at du vil beholde dit nummer.</li>
+<li><strong>Vent på besked.</strong> Lebara klarer nummerflytningen og opsigelsen hos dit gamle selskab.</li>
+<li><strong>Aktivér og test.</strong> Indsæt SIM-kortet eller aktivér eSIM, ring et opkald og slå mobildata til.</li>
+</ol>
+<p>Du har 14 dages fortrydelsesret ved køb online. Læs mere i vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>.</p>
+
+[[cta:lebara]]
+===FAQ===
+Q: Hvilket net bruger Lebara?
+A: Lebara kører på TT-netværket, som Telenor og Norlys deler. Begge fik 9,2 ud af 10 for dækningsoplevelse i Opensignals rapport fra februar 2026 – kun 0,1 under TDC. Tjek din adresse på tjekditnet.dk.
+Q: Har Lebara 5G?
+A: I de abonnementer, vi har gennemgået i oktober 2026, er ingen markeret med 5G, og Forbrugerrådet Tænk har også påpeget, at flere er kun 4G. Tjek produktbeskrivelsen ved bestilling, hvis 5G er vigtigt for dig.
+Q: Hvad er det billigste Lebara-abonnement?
+A: 5 GB og 5 timers tale for 19 kr./md. Det billigste med fri tale er 40 GB for 49 kr./md., som er et af de billigste fri tale-abonnementer i Danmark.
+Q: Har Lebara binding?
+A: Nej, Lebaras abonnementer er uden binding, så du kan skifte eller opsige, når du vil.
+Q: Hvor meget EU-data får jeg hos Lebara?
+A: Det afhænger af abonnementet: 3 GB på 5 GB-pakken, 6 GB på 40 GB, 10 GB på 70 GB og 100 GB og 20 GB på 160 GB og 200 GB. Det er mindre end hos mange konkurrenter.
+Q: Kan jeg ringe til udlandet med Lebara?
+A: Ja. 40 GB- og 70 GB-abonnementerne har 2 timers opkald til udlandet inkluderet, og 160 GB og 200 GB har 5 timer. Se hvilke lande der indgår på Lebaras side.
+Q: Er Lebara eller Lyca Mobile billigst?
+A: Begge har en 5 GB-pakke til 19 kr. Lebara er billigst med fri tale (40 GB for 49 kr.), mens Lyca er billigst ved 200 GB (119 kr.) og har 5G. Se vores anmeldelse af <a href="/udbydere/lyca-mobile/">Lyca Mobile</a>.
+Q: Har Lebara eSIM?
+A: Ja, Lebara tilbyder eSIM og WiFi-opkald. Læs mere i vores <a href="/esim/">guide til eSIM</a>.
+===KILDER===
+Lebara – mobilabonnementer og priser | https://www.lebara.dk
+Ritzau – Norlys og Telenor udbygger deres fælles mobilnetværk | https://via.ritzau.dk/pressemeddelelse/14251151/norlys-og-telenor-udbygger-deres-faelles-mobilnetvaerk-med-rekordmange-nye-mobilantenner-i-ar?lang=da
+Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Teleankenævnet | https://www.teleanke.dk/
+Your Europe – Roamingafgifter i EU | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Tjek dit net – dækning på din adresse | https://tjekditnet.dk
+Apple – Danske udbydere med eSIM | https://support.apple.com/da-dk/101569
+Forbrugerrådet Tænk – Hvor god er din mobildækning? | https://taenk.dk/forbrugerliv/elektronik-og-digitale-tjenester/hvor-god-er-din-mobildaekning

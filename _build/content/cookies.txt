@@ -1,0 +1,36 @@
+---
+slug: cookies
+title: Cookiepolitik → Ingen egne trackingcookies
+desc: Vi sætter ingen ikke-nødvendige cookies selv. Se hvilke cookies Adtraction og udbydere kan sætte, når du klikker videre, og hvordan du sletter dem.
+h1: Cookiepolitik
+kicker: Kort og klart om cookies
+answer: Telefonabonnementer.dk sætter ingen ikke-nødvendige cookies selv. Når du klikker videre til en udbyder, kan Adtraction eller udbyderen sætte cookies for at registrere klikket, og dem kan du til enhver tid slette i din browser.
+lead: Her kan du læse, hvilke cookies der bruges, når du besøger os og klikker videre, og hvordan du fjerner dem.
+crumb: Cookies
+section: om
+related: privatlivspolitik, annoncoeroplysning, kontakt
+---
+<h2>Hvad er cookies?</h2>
+<p>En cookie er en lille tekstfil, som en hjemmeside gemmer i din browser. Cookies kan bruges til at få en side til at fungere, til at huske dine valg eller til at måle trafik og registrere, hvor besøgende kommer fra.</p>
+
+<h2>Cookies på telefonabonnementer.dk</h2>
+<p>Vi sætter ingen ikke-nødvendige cookies selv. Det betyder, at vi ikke bruger egne cookies til statistik, markedsføring eller sporing af dig, mens du er på sitet.</p>
+<p>Hvis vi senere tager et analyseværktøj i brug, der sætter cookies, beder vi om dit samtykke først og opdaterer denne side.</p>
+
+<h2>Cookies, når du klikker videre</h2>
+<p>Når du klikker på et link til en udbyder, sendes du videre via et sporingslink. Her kan affiliatenetværket Adtraction eller udbyderen selv sætte cookies i din browser. De bruges til at registrere, at du kom fra telefonabonnementer.dk, så vi kan modtage provision, hvis du bestiller et abonnement. Det koster dig ikke noget ekstra – læs mere i vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.</p>
+<p>Disse cookies sættes hos Adtraction og udbyderen, ikke hos os, og det er dem, der er ansvarlige for dem og for at indhente samtykke, hvor det kræves. Du kan læse mere i deres egne cookie- og privatlivspolitikker.</p>
+
+<h2>Sådan sletter eller blokerer du cookies</h2>
+<p>Du kan altid slette cookies, der allerede er gemt, og indstille din browser til at blokere nye:</p>
+<ul>
+<li><strong>Chrome:</strong> Indstillinger → Privatliv og sikkerhed → Slet browserdata.</li>
+<li><strong>Safari (Mac):</strong> Indstillinger → Anonymitet → Administrer webstedsdata.</li>
+<li><strong>Safari (iPhone):</strong> Indstillinger → Safari → Ryd historik og webstedsdata.</li>
+<li><strong>Firefox:</strong> Indstillinger → Privatliv &amp; sikkerhed → Cookies og webstedsdata → Ryd data.</li>
+<li><strong>Edge:</strong> Indstillinger → Cookies og webstedstilladelser → Administrer og slet cookies.</li>
+</ul>
+<p>Blokerer du cookies fra tredjeparter, kan du stadig bruge sitet og bestille abonnementer, men udbyderen kan måske ikke registrere, at du kom fra os.</p>
+
+<h2>Spørgsmål</h2>
+<p>Læs mere om, hvordan vi behandler personoplysninger, i vores <a href="/privatlivspolitik/">privatlivspolitik</a>, eller <a href="/kontakt/">kontakt os</a> på kontakt@forsikringspakken.dk.</p>

@@ -1,0 +1,691 @@
+{
+ "_note": "Priser tjekket 7. oktober 2026 på udbydernes egne sider (Lebara/Lyca via mobilabonnementer.dk). gb=null betyder fri data. 'intro' er kampagnepris i 'intro_txt'. feed_id kan bruges til at matche Adtraction-feed.",
+ "checked": "2026-10-07",
+ "plans": [
+  {
+   "id": "lb-5",
+   "p": "lebara",
+   "name": "5 GB / 5 timer",
+   "price": 19,
+   "gb": 5,
+   "eu": 3,
+   "talk": "5 t",
+   "g5": false,
+   "tags": [
+    "billig",
+    "kun-tale",
+    "senior",
+    "boern"
+   ]
+  },
+  {
+   "id": "lb-40",
+   "p": "lebara",
+   "name": "40 GB + fri tale",
+   "price": 49,
+   "gb": 40,
+   "eu": 6,
+   "talk": "fri",
+   "g5": false,
+   "tags": [
+    "billig",
+    "fri-tale",
+    "unge",
+    "udland"
+   ],
+   "extra": "2 timer til udlandet"
+  },
+  {
+   "id": "lb-70",
+   "p": "lebara",
+   "name": "70 GB + fri tale",
+   "price": 59,
+   "gb": 70,
+   "eu": 10,
+   "talk": "fri",
+   "g5": false,
+   "intro": 0,
+   "intro_txt": "1. måned gratis",
+   "tags": [
+    "billig",
+    "fri-tale",
+    "unge"
+   ],
+   "extra": "2 timer til udlandet"
+  },
+  {
+   "id": "lb-100",
+   "p": "lebara",
+   "name": "100 GB + fri tale",
+   "price": 99,
+   "gb": 100,
+   "eu": 10,
+   "talk": "fri",
+   "g5": false,
+   "tags": [
+    "store-data",
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "lb-160",
+   "p": "lebara",
+   "name": "160 GB + fri tale",
+   "price": 119,
+   "gb": 160,
+   "eu": 20,
+   "talk": "fri",
+   "g5": false,
+   "intro": 0,
+   "intro_txt": "1. måned gratis",
+   "tags": [
+    "store-data",
+    "fri-tale",
+    "udland"
+   ],
+   "extra": "5 timer til udlandet"
+  },
+  {
+   "id": "lb-200",
+   "p": "lebara",
+   "name": "200 GB + fri tale",
+   "price": 159,
+   "gb": 200,
+   "eu": 20,
+   "talk": "fri",
+   "g5": false,
+   "tags": [
+    "store-data",
+    "fri-tale"
+   ],
+   "extra": "5 timer til udlandet"
+  },
+  {
+   "id": "ly-5",
+   "p": "lyca",
+   "name": "5 GB / 5 timer",
+   "price": 19,
+   "gb": 5,
+   "eu": 4,
+   "talk": "5 t",
+   "g5": true,
+   "tags": [
+    "billig",
+    "kun-tale",
+    "senior",
+    "boern",
+    "forudbetalt"
+   ]
+  },
+  {
+   "id": "ly-30",
+   "p": "lyca",
+   "name": "30 GB / 15 timer",
+   "price": 49,
+   "gb": 30,
+   "eu": 10,
+   "talk": "15 t",
+   "g5": true,
+   "tags": [
+    "billig",
+    "forudbetalt",
+    "udland"
+   ]
+  },
+  {
+   "id": "ly-60",
+   "p": "lyca",
+   "name": "60 GB / 60 timer",
+   "price": 69,
+   "gb": 60,
+   "eu": 14,
+   "talk": "60 t",
+   "g5": true,
+   "tags": [
+    "forudbetalt",
+    "udland"
+   ]
+  },
+  {
+   "id": "ly-100",
+   "p": "lyca",
+   "name": "100 GB + fri tale",
+   "price": 99,
+   "gb": 100,
+   "eu": 20,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data",
+    "forudbetalt",
+    "udland"
+   ]
+  },
+  {
+   "id": "ly-200",
+   "p": "lyca",
+   "name": "200 GB + fri tale",
+   "price": 119,
+   "gb": 200,
+   "eu": 24,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data",
+    "forudbetalt"
+   ]
+  },
+  {
+   "id": "ly-500",
+   "p": "lyca",
+   "name": "500 GB + fri tale",
+   "price": 299,
+   "gb": 500,
+   "eu": 42,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "store-data",
+    "forudbetalt"
+   ]
+  },
+  {
+   "id": "fx-20",
+   "p": "flexii",
+   "name": "Fri tale + 20 GB (5G)",
+   "price": 69,
+   "intro": 59,
+   "intro_txt": "59 kr./md. første år",
+   "gb": 20,
+   "eu": 20,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "billig",
+    "fri-tale",
+    "senior"
+   ]
+  },
+  {
+   "id": "fx-50",
+   "p": "flexii",
+   "name": "Fri tale + 50 GB (5G)",
+   "price": 89,
+   "intro": 79,
+   "intro_txt": "79 kr./md. første år",
+   "gb": 50,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "unge"
+   ]
+  },
+  {
+   "id": "fx-150",
+   "p": "flexii",
+   "name": "Fri tale + 150 GB (5G)",
+   "price": 109,
+   "intro": 94,
+   "intro_txt": "94 kr./md. første år",
+   "gb": 150,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data"
+   ]
+  },
+  {
+   "id": "fx-fri",
+   "p": "flexii",
+   "name": "Fri tale + fri data (5G)",
+   "price": 149,
+   "intro": 129,
+   "intro_txt": "129 kr./md. første år",
+   "gb": null,
+   "eu": 40,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-data",
+    "fri-tale",
+    "store-data"
+   ],
+   "extra": "Fair use 2 TB"
+  },
+  {
+   "id": "fx-k5",
+   "p": "flexii",
+   "name": "Børn: fri tale + 5 GB",
+   "price": 35,
+   "intro": 17,
+   "intro_txt": "17 kr./md. i 3 mdr.",
+   "gb": 5,
+   "eu": 5,
+   "talk": "fri",
+   "g5": false,
+   "tags": [
+    "boern"
+   ]
+  },
+  {
+   "id": "fx-k10",
+   "p": "flexii",
+   "name": "Børn: fri tale + 10 GB",
+   "price": 39,
+   "intro": 19,
+   "intro_txt": "19 kr./md. i 3 mdr.",
+   "gb": 10,
+   "eu": 10,
+   "talk": "fri",
+   "g5": false,
+   "tags": [
+    "boern"
+   ]
+  },
+  {
+   "id": "oi-12",
+   "p": "oister",
+   "name": "12 timer + 12 GB",
+   "price": 69,
+   "gb": 12,
+   "eu": 12,
+   "talk": "12 t",
+   "g5": true,
+   "tags": [
+    "billig",
+    "kun-tale",
+    "senior",
+    "boern"
+   ]
+  },
+  {
+   "id": "oi-40",
+   "p": "oister",
+   "name": "Fri tale + 40 GB",
+   "price": 99,
+   "intro": 69,
+   "intro_txt": "69 kr./md. i 6 mdr.",
+   "gb": 40,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "unge"
+   ]
+  },
+  {
+   "id": "oi-100",
+   "p": "oister",
+   "name": "Fri tale + 100 GB",
+   "price": 109,
+   "intro": 79,
+   "intro_txt": "79 kr./md. i 6 mdr.",
+   "gb": 100,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data",
+    "tilbud"
+   ]
+  },
+  {
+   "id": "oi-fri",
+   "p": "oister",
+   "name": "Fri tale + fri data",
+   "price": 199,
+   "intro": 139,
+   "intro_txt": "139 kr./md. i 6 mdr.",
+   "gb": null,
+   "eu": 40,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-data",
+    "fri-tale",
+    "store-data",
+    "tilbud"
+   ]
+  },
+  {
+   "id": "oi-stream",
+   "p": "oister",
+   "name": "45 GB + streamingtjeneste",
+   "price": 169,
+   "gb": 45,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "streaming",
+    "fri-tale"
+   ],
+   "extra": "Vælg Disney+, Viaplay, TV 2 Play, Podimo el. Deezer"
+  },
+  {
+   "id": "dk-6",
+   "p": "duka",
+   "name": "Fri tale + 6 GB",
+   "price": 59,
+   "gb": 6,
+   "eu": 6,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "senior",
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "dk-30",
+   "p": "duka",
+   "name": "Fri tale + 30 GB",
+   "price": 99,
+   "intro": 55,
+   "intro_txt": "55 kr./md. til 31.3.2027",
+   "gb": 30,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "billig",
+    "fri-tale",
+    "tilbud",
+    "udland"
+   ]
+  },
+  {
+   "id": "dk-120",
+   "p": "duka",
+   "name": "Fri tale + 120 GB",
+   "price": 119,
+   "gb": 120,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data"
+   ]
+  },
+  {
+   "id": "dk-200",
+   "p": "duka",
+   "name": "Fri tale + 200 GB",
+   "price": 129,
+   "gb": 200,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data"
+   ]
+  },
+  {
+   "id": "dk-1000",
+   "p": "duka",
+   "name": "Fri tale + 1000 GB",
+   "price": 179,
+   "gb": 1000,
+   "eu": 35,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "store-data",
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "dk-fri",
+   "p": "duka",
+   "name": "Fri tale + fri data",
+   "price": 199,
+   "gb": null,
+   "eu": 40,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-data",
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "dk-30w",
+   "p": "duka",
+   "name": "30 GB + World (USA m.fl.)",
+   "price": 139,
+   "gb": 30,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "udland",
+    "fri-tale"
+   ],
+   "extra": "Data i 10 lande uden for EU, bl.a. USA, Canada, Thailand og Tyrkiet"
+  },
+  {
+   "id": "gt-2",
+   "p": "greentel",
+   "name": "2 timer + 2 GB",
+   "price": 48,
+   "gb": 2,
+   "eu": 2,
+   "talk": "2 t",
+   "g5": true,
+   "tags": [
+    "kun-tale",
+    "senior"
+   ]
+  },
+  {
+   "id": "gt-10",
+   "p": "greentel",
+   "name": "Fri tale + 10 GB",
+   "price": 69,
+   "gb": 10,
+   "eu": 10,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "senior"
+   ]
+  },
+  {
+   "id": "gt-30",
+   "p": "greentel",
+   "name": "Fri tale + 30 GB",
+   "price": 89,
+   "gb": 30,
+   "eu": 18,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "gt-100",
+   "p": "greentel",
+   "name": "Fri tale + 100 GB",
+   "price": 119,
+   "gb": 100,
+   "eu": 26,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data"
+   ]
+  },
+  {
+   "id": "gt-1000",
+   "p": "greentel",
+   "name": "Fri tale + 1000 GB",
+   "price": 189,
+   "gb": 1000,
+   "eu": 41,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data"
+   ]
+  },
+  {
+   "id": "tm-3t",
+   "p": "telmore",
+   "name": "3 timer + 3 GB",
+   "price": 79,
+   "gb": 3,
+   "eu": 16,
+   "talk": "3 t",
+   "g5": false,
+   "tags": [
+    "kun-tale"
+   ]
+  },
+  {
+   "id": "tm-45",
+   "p": "telmore",
+   "name": "Fri tale + 45 GB",
+   "price": 149,
+   "intro": 26,
+   "intro_txt": "26 kr./md. i 2 mdr. (til 18.10.2026)",
+   "gb": 45,
+   "eu": 30,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "tilbud"
+   ]
+  },
+  {
+   "id": "tm-80",
+   "p": "telmore",
+   "name": "Fri tale + 80 GB",
+   "price": 159,
+   "gb": 80,
+   "eu": 32,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data"
+   ]
+  },
+  {
+   "id": "tm-60m",
+   "p": "telmore",
+   "name": "Fri tale + 60 GB + Musik",
+   "price": 179,
+   "intro": 26,
+   "intro_txt": "26 kr./md. i 2 mdr.",
+   "gb": 60,
+   "eu": 36,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "streaming",
+    "tilbud"
+   ]
+  },
+  {
+   "id": "tm-fri",
+   "p": "telmore",
+   "name": "Fri tale + fri data",
+   "price": 249,
+   "gb": null,
+   "eu": 49,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-data",
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "tm-play",
+   "p": "telmore",
+   "name": "Play: fri data + 3 streamingtjenester",
+   "price": 399,
+   "intro": 99,
+   "intro_txt": "99 kr. første måned",
+   "gb": null,
+   "eu": 83,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "streaming",
+    "fri-data"
+   ]
+  },
+  {
+   "id": "ys-3t",
+   "p": "yousee",
+   "name": "3 timer + 3 GB",
+   "price": 99,
+   "gb": 3,
+   "eu": 3,
+   "talk": "3 t",
+   "g5": true,
+   "tags": [
+    "kun-tale"
+   ]
+  },
+  {
+   "id": "ys-25",
+   "p": "yousee",
+   "name": "Fri tale + 25 GB",
+   "price": 179,
+   "gb": 25,
+   "eu": null,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale"
+   ]
+  },
+  {
+   "id": "ys-100",
+   "p": "yousee",
+   "name": "Fri tale + 100 GB",
+   "price": 249,
+   "gb": 100,
+   "eu": 60,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-tale",
+    "store-data",
+    "udland"
+   ]
+  },
+  {
+   "id": "ys-fri",
+   "p": "yousee",
+   "name": "Fri tale + fri data",
+   "price": 299,
+   "gb": null,
+   "eu": 70,
+   "talk": "fri",
+   "g5": true,
+   "tags": [
+    "fri-data",
+    "fri-tale",
+    "udland"
+   ]
+  }
+ ]
+}

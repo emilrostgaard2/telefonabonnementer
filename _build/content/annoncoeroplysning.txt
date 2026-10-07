@@ -1,0 +1,52 @@
+---
+slug: annoncoeroplysning
+title: Annoncøroplysning → Sådan tjener vi penge
+desc: Vi kan modtage provision, når du skifter via vores links – uden at det koster dig mere. Læs hvordan modellen virker, og hvem vi samarbejder med.
+h1: Annoncøroplysning
+kicker: Åbenhed om vores indtjening
+answer: Telefonabonnementer.dk kan modtage provision fra udbyderen, når du bestiller et abonnement via vores links – enten via netværket Adtraction eller via direkte aftaler. Det koster dig ikke mere, ikke alle udbydere er partnere (fx linker vi til YouSee uden provision), og provisionen påvirker ikke karakterer eller placeringer.
+lead: Her forklarer vi præcis, hvordan vi tjener penge, hvem vi samarbejder med, og hvordan vi sikrer, at det ikke påvirker vores sammenligninger.
+crumb: Annoncøroplysning
+section: om
+related: metode, redaktionel-politik, om-os, privatlivspolitik
+---
+<h2>Kort fortalt</h2>
+<div class="callout"><p><strong>Kort sagt:</strong> Når du klikker på et link til en udbyder og bestiller et abonnement, kan vi modtage en provision fra udbyderen. Du betaler det samme, som hvis du var gået direkte til udbyderens side. Provisionen har ingen indflydelse på vores karakterer eller på rækkefølgen i vores tabeller.</p></div>
+
+<h2>Hvordan virker modellen?</h2>
+<p>Telefonabonnementer.dk er gratis at bruge og viser ikke bannerreklamer. I stedet finansieres sitet gennem provision fra udbydere. Det fungerer sådan:</p>
+<ol class="steps">
+<li><strong>Du klikker på et link.</strong> Når du klikker på en knap som "Gå til udbyder" eller et link til et abonnement, sendes du videre til udbyderens hjemmeside.</li>
+<li><strong>Klikket registreres.</strong> Linket indeholder en kode, så udbyderen eller netværket kan se, at du kom fra os. Det sker typisk med en cookie, som sættes hos netværket eller udbyderen – læs mere i vores <a href="/cookies/">cookiepolitik</a>.</li>
+<li><strong>Du bestiller.</strong> Bestiller du et abonnement inden for en vis periode, registreres salget.</li>
+<li><strong>Vi får provision.</strong> Udbyderen betaler et beløb til os for at have formidlet kunden.</li>
+</ol>
+<h3>Adtraction og direkte partnere</h3>
+<p>En stor del af vores samarbejder går gennem Adtraction, et affiliatenetværk der formidler aftaler mellem udgivere som os og annoncører som teleselskaberne. Adtraction registrerer klik og salg og afregner provisionen. Med andre udbydere har vi eller kan vi få direkte aftaler, hvor udbyderen selv står for registreringen.</p>
+
+<h2>Koster det dig mere?</h2>
+<p>Nej. Provisionen betales af udbyderen ud af deres markedsføringsbudget. Prisen på abonnementet er den samme, uanset om du kommer via vores link eller går direkte til udbyderens hjemmeside. Hvis en udbyder tilbyder en særlig rabat via os, skriver vi det tydeligt.</p>
+
+<h2>Er alle udbydere partnere?</h2>
+<p>Nej. Vi sammenligner alle abonnementer efter samme metode og linker til alle de udbydere, vi dækker – men vi modtager kun provision fra nogle af dem. YouSee er et eksempel på en udbyder, vi linker til uden at modtage provision. YouSee er med i vores tabeller og har sin egen <a href="/udbydere/yousee/">udbyderside</a> på lige fod med de andre.</p>
+<p>Hvilke udbydere vi har aftaler med, kan ændre sig over tid. Det ændrer ikke på, hvordan abonnementerne bliver vurderet.</p>
+
+<h2>Hvordan sikrer vi, at det ikke påvirker vurderingerne?</h2>
+<ul>
+<li><strong>Faste kriterier.</strong> Karakterer beregnes ud fra pris (40 %), net og dækning (25 %), fleksibilitet og vilkår (20 %) og service (15 %). Provision er ikke et kriterie. Se den fulde <a href="/metode/">metode</a>.</li>
+<li><strong>Sortering efter normalpris.</strong> Tabellerne sorteres som udgangspunkt efter normalpris, datamængde eller EU-data – aldrig efter, hvor meget vi tjener.</li>
+<li><strong>Ingen købte placeringer.</strong> Vi sælger ikke pladser øverst i tabeller, sponsorerede omtaler eller titler som "bedst i test".</li>
+<li><strong>Redaktionel kontrol.</strong> Udbydere kan ikke godkende eller ændre vores tekster. Læs mere i vores <a href="/redaktionel-politik/">redaktionelle politik</a>.</li>
+</ul>
+
+<h2>Markedsføringsloven og skjult reklame</h2>
+<p>Efter markedsføringsloven skal det tydeligt fremgå, når indhold er reklame, og det er ikke tilladt at skjule en kommerciel hensigt. Forbrugerombudsmanden har udgivet retningslinjer for, hvordan bl.a. hjemmesider og sociale medier skal markere reklame og kommercielle samarbejder. Vi efterlever reglerne ved at:</p>
+<ul>
+<li>oplyse om vores indtjeningsmodel på denne side og i en fast tekst på sider med links til udbydere,</li>
+<li>aldrig udgive betalt indhold forklædt som redaktionelt indhold,</li>
+<li>tydeligt skelne mellem vores egne vurderinger og udbydernes kampagner.</li>
+</ul>
+<p>Mener du, at noget på sitet ikke lever op til reglerne, vil vi gerne høre fra dig.</p>
+
+<h2>Kontakt</h2>
+<p>Spørgsmål om vores samarbejder kan sendes til <a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a>. Telefonabonnementer.dk udgives af Emro Media, CVR 46727533, Lundbyesgade 13, 8000 Aarhus C. Se også <a href="/om-os/">om os</a> og <a href="/kontakt/">kontakt</a>.</p>

@@ -1,0 +1,70 @@
+---
+slug: om-os
+title: Om telefonabonnementer.dk → Hvem står bag?
+desc: Telefonabonnementer.dk udgives af Emro Media i Aarhus. Læs om vores mission, hvordan vi tjener penge, hvem der skriver, og hvordan du kontakter redaktionen.
+h1: Om telefonabonnementer.dk
+kicker: Udgivet af Emro Media · Aarhus
+answer: Telefonabonnementer.dk er en uafhængig sammenligningstjeneste for danske mobilabonnementer, udgivet af Emro Media (CVR 46727533) i Aarhus. Vi sammenligner 45 abonnementer fra otte udbydere, viser altid normalprisen og kan modtage provision, når du skifter via vores links – uden at det påvirker karaktererne.
+lead: Her kan du læse, hvorfor sitet findes, hvem der står bag, hvordan vi tjener penge, og hvad du kan forvente af os.
+crumb: Om os
+section: om
+related: metode, forfatter/emil-rostgaard-clausen, annoncoeroplysning, kontakt
+---
+<h2>Vores mission</h2>
+<p>Telefonabonnementer.dk skal gøre det let at finde det mobilabonnement, der passer til dit forbrug – til den pris, du faktisk kommer til at betale. Det lyder enkelt, men det er det sjældent. Udbyderne konkurrerer på kampagnepriser, datamængder og ekstra tjenester, og det kan være svært at gennemskue, om 26 kr. i to måneder er bedre end 129 kr. hele året.</p>
+<p>Samtidig er der penge at spare. Priserne på mobilkommunikation steg 8,6 % fra august 2025 til august 2026 ifølge Danmarks Statistik, og Forbrugerrådet Tænk vurderer, at man ikke behøver at betale over 100 kr. om måneden for markedets bedste abonnementer. Alligevel bliver mange hos det samme selskab i årevis. Vi vil gerne gøre det nemmere at tjekke, om man betaler for meget, og at skifte, hvis man gør.</p>
+
+<h2>Hvad finder du på sitet?</h2>
+<ul>
+<li><strong>Sammenligninger</strong> af 45 abonnementer fra Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka – fra de <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a> til <a href="/mobilabonnement-fri-data/">fri data</a>.</li>
+<li><strong>Udbydersider</strong> med karakterer, net, fordele og ulemper for hvert selskab. Se alle på <a href="/udbydere/">oversigten over udbydere</a>.</li>
+<li><strong>Guides</strong> om fx <a href="/guides/skift-mobilabonnement/">at skifte mobilabonnement</a>, <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a> og <a href="/guides/bedste-mobilnet/">hvilket mobilnet der er bedst</a>.</li>
+<li><strong>Værktøjer</strong>, der beregner dit dataforbrug, din besparelse og din EU-data.</li>
+</ul>
+
+<h2>Hvem står bag?</h2>
+<p>Telefonabonnementer.dk udgives af Emro Media, en dansk virksomhed med adresse i Aarhus. Emro Media udgiver sammenligninger og guides til forbrugere inden for blandt andet forsikring og bolig, og telefonabonnementer.dk er den nyeste i rækken.</p>
+<p>Ansvarshavende redaktør er <a href="/forfatter/emil-rostgaard-clausen/">Emil Rostgaard Clausen</a>, der driver Emro Media. Emil har baggrund i digital markedsføring og dataanalyse og flere års erfaring med at analysere forbrugerpriser og vilkår. Han skriver, redigerer og faktatjekker indholdet på sitet og er personligt ansvarlig for, at vores principper bliver overholdt.</p>
+
+<h2>Uafhængighed</h2>
+<p>Vi er ikke ejet af, og ejer ikke, noget teleselskab. Ingen udbyder har indflydelse på, hvad vi skriver, hvilke karakterer vi giver, eller hvordan abonnementerne er sorteret i vores tabeller.</p>
+<p>Det betyder konkret:</p>
+<ul>
+<li>Vi sælger ikke placeringer, og ingen kan betale sig til en bedre karakter.</li>
+<li>Vi viser også udbydere, vi ikke tjener penge på. YouSee er fx med i vores sammenligninger, selvom vi ikke modtager provision derfra.</li>
+<li>Udbydere kan gøre os opmærksom på faktuelle fejl, men de kan ikke godkende eller ændre vores tekster.</li>
+<li>Karaktererne bygger på faste kriterier, som er beskrevet åbent på siden om vores <a href="/metode/">metode</a>.</li>
+</ul>
+
+<h2>Hvordan tjener vi penge?</h2>
+<p>Det koster ikke noget at bruge telefonabonnementer.dk, og vi viser ikke bannerreklamer. Vi tjener penge på en anden måde, og det vil vi gerne være åbne om:</p>
+<p>Når du klikker på et link til en udbyder og bestiller et abonnement, kan vi modtage en provision fra udbyderen. Det sker enten via affiliatenetværket Adtraction eller via direkte aftaler med udbydere. Provisionen betales af udbyderen og gør ikke abonnementet dyrere for dig – du betaler den samme pris, som hvis du var gået direkte til udbyderens hjemmeside.</p>
+<p>Ikke alle udbydere er partnere. Vi linker til alle de udbydere, vi sammenligner, men vi modtager kun provision fra nogle af dem. Om vi tjener penge eller ej, har ingen betydning for, hvor et abonnement står i vores tabeller. Du kan læse detaljerne i vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.</p>
+
+<h2>Sådan arbejder redaktionen</h2>
+<h3>Data fra kilden</h3>
+<p>Alle priser hentes fra udbydernes egne prissider. Den seneste samlede gennemgang blev lavet 7. oktober 2026, og priserne opdateres løbende, når selskaberne ændrer dem. Statistik og markedstal kommer fra officielle kilder som Digitaliseringsstyrelsen og Danmarks Statistik, og målinger af mobilnettene fra Opensignal og Teknologisk Institut – altid med oplysning om, hvem der står bag.</p>
+<h3>Normalpris før kampagnepris</h3>
+<p>Vi viser altid normalprisen som fra-pris og kampagnepriser for sig, med tydelig angivelse af hvor længe de gælder. Når det er relevant, regner vi en 12-måneders totalpris, så du kan se, hvad et abonnement koster over et helt år.</p>
+<h3>Kontrol og rettelser</h3>
+<p>Alt indhold gennemlæses og faktatjekkes, før det bliver udgivet. Vi bruger digitale værktøjer, herunder AI-assisterede skriveværktøjer, men alle tal kontrolleres manuelt mod kilderne. Finder vi eller vores læsere en fejl, retter vi den hurtigst muligt. Læs mere i vores <a href="/redaktionel-politik/">redaktionelle politik</a>.</p>
+
+<h2>Hvem er sitet til?</h2>
+<p>Sitet er til alle, der vil betale en rimelig pris for deres mobil – uanset om du leder efter det billigste abonnement til en <a href="/mobilabonnement-pensionister/">pensionist</a>, et første abonnement til dit <a href="/mobilabonnement-boern/">barn</a> eller fri data til hele familien. Vi forsøger at skrive, så du kan træffe en beslutning på få minutter, men vi giver også de detaljer, der skal til, hvis du vil grave dybere – fx fair use-grænser, EU-data og hvilket net en udbyder bruger.</p>
+
+<h2>Hvad vi ikke er</h2>
+<p>Vi er ikke et teleselskab og sælger ikke selv abonnementer. Har du spørgsmål til din regning, dit forbrug, din dækning eller dit konkrete abonnement, skal du kontakte dit teleselskab direkte. Er du uenig med dit selskab, kan du klage – først skriftligt til selskabet og derefter til Teleankenævnet.</p>
+
+<h2>Kontakt og virksomhedsoplysninger</h2>
+<table>
+<thead><tr><th>Oplysning</th><th>Detaljer</th></tr></thead>
+<tbody>
+<tr><td>Udgiver</td><td>Emro Media</td></tr>
+<tr><td>CVR-nummer</td><td><a href="https://datacvr.virk.dk/enhed/virksomhed/46727533" rel="noopener">46727533</a></td></tr>
+<tr><td>Adresse</td><td>Lundbyesgade 13, 8000 Aarhus C</td></tr>
+<tr><td>E-mail</td><td><a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a></td></tr>
+<tr><td>Ansvarshavende redaktør</td><td>Emil Rostgaard Clausen</td></tr>
+<tr><td>Svartid</td><td>Typisk inden for 2 hverdage</td></tr>
+</tbody>
+</table>
+<p>Du er velkommen til at skrive til os med spørgsmål, rettelser eller forslag til udbydere, vi bør tage med. Se flere muligheder på vores <a href="/kontakt/">kontaktside</a>.</p>

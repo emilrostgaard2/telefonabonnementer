@@ -1,0 +1,137 @@
+---
+slug: mobilabonnement-pensionister
+title: Mobil til pensionister → Fra {fra:senior} kr. ({maaned})
+desc: Billigt mobilabonnement til pensionister og ældre i {maaned}. Fri tale fra 59 kr., rabat til Ældre Sagen-medlemmer og kundeservice på telefon. Se listen.
+h1: Mobilabonnement til pensionister
+kicker: Opdateret {maaned} · Til ældre og seniorer
+answer: Det billigste mobilabonnement til pensionister koster i {maaned} 19 kr./md. hos Lebara og Lyca Mobile (5 GB og 5 timers tale). Ønsker du fri tale, koster det 59 kr./md. hos Duka (6 GB, 5G) eller 69 kr./md. hos Flexii (20 GB, 59 kr. første år) og Greentel (10 GB), hvor Ældre Sagen-medlemmer får 10 kr. i rabat om måneden.
+lead: De fleste pensionister betaler for meget for deres mobil. Her ser du de bedste abonnementer med lidt data og fri tale, hvem der har kundeservice på telefon, og hvordan du undgår gebyrer og svindel.
+crumb: Pensionister
+section: typer
+related: billigste-mobilabonnement, fri-tale, mobilabonnement-uden-data, udbydere/greentel, guides/skift-mobilabonnement
+---
+<h2>Hvad er det bedste mobilabonnement til pensionister?</h2>
+<p>Det bedste mobilabonnement til pensionister og ældre har fri tale eller rigeligt med taletid, en lille datapakke og en kundeservice, man kan ringe til. Mange seniorer har stadig et abonnement, der blev valgt for mange år siden, ofte hos et af de store selskaber, og betaler 150-250 kr. om måneden for data, de aldrig bruger. Til samme brug kan man i dag nøjes med 19-69 kr. om måneden.</p>
+<p>Tabellen viser de abonnementer, vi anbefaler til pensionister. Priserne er normalpriser tjekket 7. oktober 2026.</p>
+[[tabel:senior]]
+<div class="callout"><p><strong>Kort sagt:</strong> Ringer du kun lidt, er Lebara eller Lyca Mobile til 19 kr./md. billigst. Vil du have fri tale, er Duka med 6 GB og 5G til 59 kr./md. et godt valg. Er du medlem af Ældre Sagen, får du fri tale og 10 GB hos Greentel for 59 kr./md. efter rabat. Vil du kunne ringe til kundeservice, så undgå Flexii, som kun har chat.</p></div>
+
+<h2>Hvor meget data har en pensionist brug for?</h2>
+<p>Et gennemsnitligt dansk mobilabonnement brugte 26,9 GB om måneden i anden halvdel af 2024<sup class="ref"><a href="#kilde-1">1</a></sup>. Det tal trækkes kraftigt op af yngre brugere, der streamer video. De fleste pensionister bruger telefonen til opkald, SMS, MitID, netbank, billeder til børnebørnene, lidt nyheder og måske et videoopkald over Messenger eller FaceTime. Det kræver ikke meget.</p>
+<table>
+<thead><tr><th>Brug</th><th>Forbrug pr. måned (ca.)</th><th>Anbefalet datamængde</th></tr></thead>
+<tbody>
+<tr><td>Opkald, SMS, MitID og netbank</td><td>Under 1 GB</td><td>2-5 GB</td></tr>
+<tr><td>+ nyheder, mails og billeder på beskeder</td><td>1-3 GB</td><td>5-6 GB</td></tr>
+<tr><td>+ videoopkald med familien et par gange om ugen</td><td>3-8 GB</td><td>10-12 GB</td></tr>
+<tr><td>+ radio, podcasts eller tv på mobilen uden wifi</td><td>8-20 GB</td><td>20 GB eller mere</td></tr>
+</tbody>
+</table>
+<p>Tallene er vores redaktionelle skøn. Det vigtigste at huske er, at alt det, du gør på wifi derhjemme, ikke tæller med. Har du internet i huset, og står telefonen på wifi, bruger du kun mobildata, når du er ude. Er du i tvivl, så brug vores beregner.</p>
+[[vaerktoej:databeregner]]
+<p>Bruger du næsten ingen data, kan du også se vores side om <a href="/mobilabonnement-uden-data/">mobilabonnement uden data</a>, hvor vi har samlet de rene taleabonnementer.</p>
+
+<h2>Fri tale eller timer: Hvad passer til dig?</h2>
+<p>Mange ældre ringer mere, end de bruger data. Det er ikke usædvanligt at tale med børn, børnebørn og venner flere timer om ugen. Derfor er fri tale ofte den bedste løsning, også selvom det koster lidt mere end et abonnement med et fast antal timer. Med fri tale behøver man aldrig at holde øje med, hvor meget taletid der er tilbage.</p>
+<h3>Taleabonnementer med timer</h3>
+<p>Lebara og Lyca Mobile har 5 timers tale og 5 GB for 19 kr./md. Greentel har 2 timer og 2 GB for 48 kr./md., og Oister har 12 timer og 12 GB for 69 kr./md. med 5G. Ringer du under en time om ugen, er 5 timer om måneden typisk nok.</p>
+<h3>Fri tale</h3>
+<p>Duka har fri tale og 6 GB med 5G for 59 kr./md. Flexii har fri tale og 20 GB for 69 kr./md. (59 kr. første år), og Greentel har fri tale og 10 GB for 69 kr./md. Lebara har fri tale og 40 GB for 49 kr./md., men kører på 4G og har primært online kundeservice. Se alle muligheder på vores side om <a href="/fri-tale/">abonnementer med fri tale</a>.</p>
+[[simo:Tjek din seneste regning eller selvbetjeningen: Står der, at du har ringet mere end 5 timer om måneden, så vælg fri tale. Så undgår du ekstraregninger.]]
+
+<h2>Kundeservice på telefon eller chat: Det skal du vide</h2>
+<p>For mange ældre er det et vigtigt krav, at man kan ringe og tale med et menneske, hvis der opstår problemer. Det er netop her, lavprisselskaberne adskiller sig fra hinanden. Nogle har sparet telefonsupporten helt væk og tilbyder kun chat og e-mail.</p>
+<table>
+<thead><tr><th>Udbyder</th><th>Det ved vi om servicen</th><th>Fysiske butikker</th><th>Vores servicekarakter</th></tr></thead>
+<tbody>
+<tr><td>YouSee</td><td>Stærk support og butikker</td><td>Ja</td><td>9,4</td></tr>
+<tr><td>Greentel</td><td>Høj servicekarakter, tjek åbningstider</td><td>Nej</td><td>8,6</td></tr>
+<tr><td>Telmore</td><td>Høj servicekarakter, tjek åbningstider</td><td>Nej</td><td>8,6</td></tr>
+<tr><td>Oister</td><td>Tjek kontaktformer og åbningstider</td><td>Nej</td><td>8,4</td></tr>
+<tr><td>Duka</td><td>Tjek kontaktformer og åbningstider</td><td>Nej</td><td>8,2</td></tr>
+<tr><td>Flexii</td><td>Kun chat</td><td>Nej</td><td>7,6</td></tr>
+<tr><td>Lebara</td><td>Primært online</td><td>Nej</td><td>6,4</td></tr>
+<tr><td>Lyca Mobile</td><td>Begrænset fysisk service</td><td>Nej</td><td>6,4</td></tr>
+</tbody>
+</table>
+<p>Servicekarakteren er vores egen vurdering på en skala fra 1 til 10 (se <a href="/metode/">metode</a>). Åbningstider og kontaktformer ændrer sig løbende, så tjek altid selskabets kontaktside, inden du bestiller, hvis telefonsupport er vigtig for dig. Det tager to minutter og kan spare dig for meget bøvl senere.</p>
+<h3>Flexii: billig, men kun chat</h3>
+<p>Flexii er et af de billigste selskaber med fri tale, men det har ingen telefonsupport. Alt foregår på chat. Det fungerer fint for mange, men er du ikke vant til at skrive med en kundeservice på en hjemmeside eller i en app, kan det være en ulempe, især hvis der opstår problemer med SIM-kort eller nummerflytning.</p>
+<h3>YouSee: butikker i hele landet</h3>
+<p>YouSee er det eneste af de selskaber, vi dækker, der har fysiske butikker. Det kan være trygt at kunne gå ind og få hjælp til at sætte telefonen op eller flytte et SIM-kort. Til gengæld er YouSee blandt de dyreste: Fri tale og 25 GB koster 179 kr./md., og der er 99 kr. i oprettelse, hvis du bestiller i butikken. Har du internet fra YouSee, er mobilen 30 kr./md. billigere. Læs vores <a href="/udbydere/yousee/">anmeldelse af YouSee</a>.</p>
+
+<h2>Greentel: Rabat til medlemmer af Ældre Sagen</h2>
+<p>Greentel er et uafhængigt dansk selskab, der giver medlemmer af Ældre Sagen 10 kr. i rabat om måneden. Det betyder, at fri tale og 10 GB med 5G koster 59 kr./md. i stedet for 69 kr. Abonnementet med 2 timer og 2 GB kommer ned på 38 kr./md. Greentel har 5G på alle abonnementer og kører på TT-netværket, som Telenor og Norlys deler<sup class="ref"><a href="#kilde-3">3</a></sup>.</p>
+<p>Der er en vigtig detalje: Betaler du via Betalingsservice, koster det 10 kr. ekstra om måneden hos Greentel. Betaler du med betalingskort, slipper du for gebyret. Bruger du Betalingsservice og har rabatten fra Ældre Sagen, går de to beløb altså lige op. Læs mere i vores <a href="/udbydere/greentel/">anmeldelse af Greentel</a>.</p>
+[[cta:greentel]]
+
+<h2>Betalingsservice, gebyrer og papirregninger</h2>
+<p>Mange pensionister foretrækker at betale via Betalingsservice, så regningen trækkes automatisk og står på bankens oversigt. Det er trygt og nemt, men flere selskaber tager et gebyr for det. Greentel tager 10 kr. om måneden. Det svarer til 120 kr. om året, hvilket er en mærkbar del af prisen på et billigt abonnement.</p>
+<p>Gode råd om betaling:</p>
+<ul>
+<li><strong>Spørg om gebyret, før du bestiller.</strong> Tjek selskabets prisliste for gebyrer ved Betalingsservice og papirfaktura.</li>
+<li><strong>Overvej kortbetaling.</strong> Hos de fleste lavprisselskaber er automatisk kortbetaling gratis.</li>
+<li><strong>Se oprettelsesgebyret.</strong> Telmore, Oister, Greentel og Duka har ingen oprettelse. YouSee tager 99 kr. ved bestilling i butik, og Telmore Go har 99 kr. i oprettelse.</li>
+</ul>
+<h3>Regneeksempel: Så meget kan du spare</h3>
+<p>En pensionist med fri tale og 25 GB hos YouSee til 179 kr./md. betaler 2.148 kr. om året. Ved at skifte til Duka med fri tale og 6 GB til 59 kr./md. bliver det 708 kr. om året, en besparelse på 1.440 kr. Vælger man Greentel med Ældre Sagen-rabat og kortbetaling til 59 kr./md., er besparelsen den samme. Ringer man mindre end 5 timer om måneden, kan man gå ned til 19 kr./md. hos Lebara eller Lyca og spare 1.920 kr. om året. Er der to i husstanden, kan man gange beløbet med to.</p>
+[[vaerktoej:sparberegner]]
+
+<h2>Skal man have en simpel telefon?</h2>
+<p>Ikke alle har lyst til en smartphone. En simpel telefon med store knapper, en tydelig skærm og en SOS-knap kan være et godt valg til den, der kun skal ringe og sende SMS. Næsten alle abonnementer virker i en simpel telefon, så længe telefonen understøtter 4G. Alle 3G-net i Danmark er lukket: TT-netværket slukkede 3G i april 2023, og 3 lukkede sit 3G-net 1. december 2025<sup class="ref"><a href="#kilde-4">4</a></sup>. En gammel telefon, der kun kan 2G og 3G, kan derfor have svært ved at fungere.</p>
+<p>Skal man bruge MitID-appen, netbank, Sundhed.dk eller Rejsekort-appen, kræver det en smartphone. Her er en mellemstor Android-telefon eller en ældre iPhone ofte nok. Begge har indstillinger for større tekst og forenklede startskærme, som gør dem lettere at bruge. Ved køb af ny telefon kan man også overveje <a href="/esim/">eSIM</a>, hvor der ikke er et lille SIM-kort at bøvle med, men nogle ældre foretrækker det fysiske kort, fordi det er lettere at flytte mellem telefoner.</p>
+[[simo:Køb telefonen for sig og abonnementet for sig. Så undgår du binding, og du kan altid skifte til et billigere abonnement.]]
+
+<h2>Sikkerhed: Sådan undgår du svindel på SMS og telefon</h2>
+<p>Svindel via SMS og telefon rammer alle aldre, men svindlerne går ofte målrettet efter ældre. Det typiske eksempel er en SMS, der ser ud til at komme fra PostNord, banken, Skat eller MitID, med et link, hvor man skal "bekræfte" sine oplysninger. Et andet er opkald fra en person, der udgiver sig for at være fra banken eller politiet og beder om koder eller om at godkende noget i MitID.</p>
+<ol class="steps">
+<li><strong>Tryk aldrig på links i uventede SMS'er.</strong> Gå i stedet selv ind på den rigtige hjemmeside eller app.</li>
+<li><strong>Godkend aldrig MitID, hvis du ikke selv har startet handlingen.</strong> Banken og myndighederne ringer aldrig og beder dig godkende noget i MitID.</li>
+<li><strong>Læg på ved tvivl.</strong> Ring selv tilbage til banken på det nummer, der står på dit kort eller i netbanken.</li>
+<li><strong>Spær for overtakserede numre og betaling via mobilregningen.</strong> Så kan ingen lægge køb på din telefonregning.</li>
+<li><strong>Tal med familien.</strong> Aftal at man altid ringer til hinanden, hvis man modtager en mærkelig besked fra et familiemedlem, der beder om penge.</li>
+</ol>
+<p>YouSee inkluderer tjenesten MobilSikker i sine abonnementer. Hos de andre selskaber kan du bede kundeservice om at spærre for overtakserede tjenester.</p>
+
+<h2>Fordele og ulemper ved lavprisabonnementer for ældre</h2>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Fri tale fra 49-59 kr./md.</li><li>Ingen binding, så du kan skifte, når du vil</li><li>Du beholder dit telefonnummer</li><li>Rabat hos Greentel for medlemmer af Ældre Sagen</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Ikke alle har kundeservice på telefon</li><li>Ingen fysiske butikker (undtagen YouSee)</li><li>Gebyr for Betalingsservice hos nogle</li><li>Bestilling foregår typisk online med MitID</li></ul></div></div>
+
+<h2>Sådan vælger du mobilabonnement som pensionist</h2>
+<ol class="steps">
+<li><strong>Find dit forbrug.</strong> Se på regningen eller i selvbetjeningen, hvor meget du ringer og bruger data.</li>
+<li><strong>Vælg fri tale, hvis du ringer meget.</strong> Ellers er 5 timer og 5 GB til 19 kr. ofte nok.</li>
+<li><strong>Prioriter service.</strong> Vil du kunne ringe til kundeservice, så tjek kontaktsiden før bestilling. YouSee har butikker, og Greentel og Telmore har høje servicekarakterer hos os. Flexii har kun chat.</li>
+<li><strong>Undersøg rabatter og gebyrer.</strong> Er du medlem af Ældre Sagen, så se på Greentel. Tjek gebyret for Betalingsservice.</li>
+<li><strong>Bestil med hjælp.</strong> Det kan være en god idé at sidde sammen med et familiemedlem, når du bestiller online. Det nye selskab sørger for at flytte nummeret og opsige det gamle abonnement.</li>
+</ol>
+<p>Du beholder altid dit nummer, og nummerflytningen sker senest ved udgangen af næstfølgende arbejdsdag<sup class="ref"><a href="#kilde-2">2</a></sup>. Se vores trinvise guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>. Vil du se alle abonnementer på markedet, kan du også bruge oversigten over det <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
+<blockquote class="expert"><p>Når vi hjælper familie og venner med at skifte, er det sjældent data, der er problemet. Det er et gammelt abonnement til 150-200 kr., som ingen har kigget på i årevis. For de fleste pensionister er fri tale og 5-10 GB fra et selskab med telefonsupport det rigtige valg, og det koster under 70 kr. om måneden.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Sådan har vi sammenlignet abonnementerne til pensionister</h2>
+<p>Vi har gennemgået priser og vilkår hos de otte udbydere, vi dækker, og udvalgt abonnementer med fri tale eller rigelig taletid og en lille datapakke. Ud over prisen har vi vægtet kundeservice, gebyrer og rabatter, der er relevante for ældre. Priserne er tjekket 7. oktober 2026. Læs mere om vores fremgangsmåde på siden om <a href="/metode/">metode</a>, eller find det rette abonnement i den fulde <a href="/">sammenligning af telefonabonnementer</a>.</p>
+===FAQ===
+Q: Hvad er det billigste mobilabonnement til pensionister?
+A: Lebara og Lyca Mobile har 5 timers tale og 5 GB for 19 kr./md. Det er nok til de fleste, der ringer mindre end en time om ugen. Vil du have fri tale, starter prisen ved 49 kr. hos Lebara og 59 kr. hos Duka.
+Q: Giver Ældre Sagen rabat på mobilabonnement?
+A: Ja, Greentel giver medlemmer af Ældre Sagen 10 kr. i rabat om måneden. Fri tale og 10 GB med 5G koster dermed 59 kr./md. Husk at Greentel tager 10 kr./md. ekstra for Betalingsservice. Se vores <a href="/udbydere/greentel/">anmeldelse af Greentel</a>.
+Q: Hvilke teleselskaber har kundeservice på telefon?
+A: YouSee har stærk support og fysiske butikker. Flexii har kun chat, og Lebara og Lyca Mobile har primært online service. Hos Greentel, Telmore, Oister og Duka bør du tjekke kontaktformer og åbningstider på selskabets kontaktside, før du bestiller.
+Q: Kan jeg beholde mit telefonnummer, når jeg skifter?
+A: Ja. Nummeret flyttes med, og det nye selskab klarer det hele, inklusive opsigelsen af det gamle abonnement. Efter teleloven skal nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag, og det koster ikke ekstra.
+Q: Virker min gamle mobiltelefon stadig?
+A: Det afhænger af, om den understøtter 4G. Alle 3G-net i Danmark er lukket, så en telefon, der kun kan 2G og 3G, kan få problemer. De fleste telefoner købt inden for de seneste 8-10 år understøtter 4G.
+Q: Hvad koster det at betale mobilabonnement med Betalingsservice?
+A: Det varierer. Greentel tager 10 kr./md. ekstra for Betalingsservice. Andre selskaber har andre gebyrer eller kræver kortbetaling. Tjek prislisten, før du bestiller, eller vælg automatisk kortbetaling.
+Q: Kan jeg få et abonnement uden data til min gamle telefon?
+A: De billigste abonnementer har næsten alle lidt data med, men det gør ikke noget, hvis du ikke bruger det. Lebara og Lyca med 5 timer og 5 GB til 19 kr. er billigere end de fleste rene taleabonnementer. Se også <a href="/mobilabonnement-uden-data/">mobilabonnement uden data</a>.
+Q: Hvordan undgår jeg SMS-svindel?
+A: Tryk aldrig på links i uventede SMS'er, og godkend aldrig MitID, hvis du ikke selv har startet handlingen. Bed dit teleselskab om at spærre for overtakserede numre og betaling via mobilregningen.
+===KILDER===
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Lov om elektroniske kommunikationsnet og -tjenester (teleloven), LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Norlys og Telenor udbygger deres fælles mobilnetværk, Ritzau | https://via.ritzau.dk/pressemeddelelse/14251151/norlys-og-telenor-udbygger-deres-faelles-mobilnetvaerk-med-rekordmange-nye-mobilantenner-i-ar?lang=da
+Mulig kommende lukning af 2G-mobilnettene, Digitaliseringsstyrelsen | https://digst.dk/tele/nye-teknologier/mulig-kommende-lukning-af-2g-mobilnettene/
+Greentel mobilabonnementer | https://www.greentel.dk/mobilabonnement
+Duka mobilabonnementer | https://www.dukatale.dk/mobilabonnementer
+YouSee mobilabonnementer | https://yousee.dk/mobil/abonnementer
+Flexii mobilabonnementer | https://www.flexii.dk/mobilabonnement

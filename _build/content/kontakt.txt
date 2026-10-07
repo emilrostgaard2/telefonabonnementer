@@ -1,0 +1,52 @@
+---
+slug: kontakt
+title: Kontakt telefonabonnementer.dk → Svar inden for 2 hverdage
+desc: Kontakt redaktionen om fejl, rettelser, presse eller samarbejde. Skriv til kontakt@forsikringspakken.dk – vi svarer typisk inden for 2 hverdage.
+h1: Kontakt os
+kicker: Emro Media · Aarhus C
+answer: Du kontakter telefonabonnementer.dk på kontakt@forsikringspakken.dk, og vi svarer typisk inden for 2 hverdage. Vi er ikke et teleselskab, så spørgsmål om din regning eller dit abonnement skal sendes til din udbyder.
+lead: Har du fundet en fejl, et spørgsmål til en sammenligning eller en henvendelse fra pressen? Her finder du vores kontaktoplysninger.
+crumb: Kontakt
+section: om
+related: om-os, redaktionel-politik, guides/opsig-mobilabonnement, privatlivspolitik
+---
+<h2>Kontaktoplysninger</h2>
+<table>
+<thead><tr><th>Oplysning</th><th>Detaljer</th></tr></thead>
+<tbody>
+<tr><td>E-mail</td><td><a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a></td></tr>
+<tr><td>Adresse</td><td>Emro Media, Lundbyesgade 13, 8000 Aarhus C</td></tr>
+<tr><td>CVR</td><td><a href="https://datacvr.virk.dk/enhed/virksomhed/46727533" rel="noopener">46727533</a></td></tr>
+<tr><td>Ansvarshavende redaktør</td><td><a href="/forfatter/emil-rostgaard-clausen/">Emil Rostgaard Clausen</a></td></tr>
+</tbody>
+</table>
+<p>Vi svarer typisk inden for 2 hverdage. E-mail er den hurtigste vej til os, og vi har ikke telefonisk kundeservice. Skriv gerne så præcist som muligt, hvad din henvendelse drejer sig om, så kan vi sende den direkte videre til den rette.</p>
+
+<h2>Hvad kan vi hjælpe med?</h2>
+<ul>
+<li>Spørgsmål til vores sammenligninger, karakterer og <a href="/metode/">metode</a>.</li>
+<li>Fejl i priser, vilkår eller andre oplysninger på sitet.</li>
+<li>Forslag til udbydere eller abonnementer, vi bør tage med.</li>
+<li>Henvendelser fra presse og samarbejdspartnere.</li>
+<li>Spørgsmål om dine personoplysninger – se vores <a href="/privatlivspolitik/">privatlivspolitik</a>.</li>
+</ul>
+
+<h2>Hvad kan vi ikke hjælpe med?</h2>
+<p>Vi er ikke et teleselskab og sælger ikke selv abonnementer. Vi har derfor ikke adgang til din konto og kan ikke hjælpe med:</p>
+<ul>
+<li>regninger, betaling og forbrug,</li>
+<li>bestilling, opsigelse eller ændring af dit abonnement,</li>
+<li>nummerflytning, SIM-kort og eSIM-aktivering,</li>
+<li>dækningsproblemer på din adresse.</li>
+</ul>
+<p>Kontakt i stedet din udbyder direkte. Er du uenig med selskabet, skal du først klage skriftligt til det, og derefter kan du klage til Teleankenævnet. Vores guides om at <a href="/guides/opsig-mobilabonnement/">opsige dit mobilabonnement</a> og <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a> kan måske også hjælpe.</p>
+
+<h2>Har du fundet en fejl?</h2>
+<p>Skriv til os med link til siden og en kort beskrivelse af, hvad der er forkert – gerne med et link til udbyderens side, hvor den korrekte oplysning står. Vi kontrollerer oplysningen og retter bekræftede fejl hurtigst muligt. Læs mere om, hvordan vi håndterer rettelser, i vores <a href="/redaktionel-politik/">redaktionelle politik</a>.</p>
+
+<h2>Forslag og ris og ros</h2>
+<p>Mangler du en udbyder i vores sammenligninger, eller synes du, at en side kunne være klarere? Vi læser alle forslag og bruger dem, når vi udvider og forbedrer sitet.</p>
+
+<h2>Presse</h2>
+<p>Journalister er velkomne til at kontakte redaktionen om prisudviklingen på mobilmarkedet, vores sammenligninger eller data. Skriv "Presse" i emnefeltet, så prioriterer vi din henvendelse. Du kan bruge vores tal med kildeangivelse til telefonabonnementer.dk.</p>
+<p>Udbydere og samarbejdspartnere kan også skrive til samme adresse. Bemærk, at samarbejder aldrig påvirker vores vurderinger – se vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.</p>

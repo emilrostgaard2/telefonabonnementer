@@ -1,0 +1,150 @@
+---
+slug: mobilabonnement-streaming
+title: Mobilabonnement med streaming → Fra {fra:streaming} kr. ({maaned})
+desc: Mobilabonnement med Viaplay, Disney+ eller TV 2 Play? Oister giver 45 GB + streaming for 169 kr. Se om pakken kan betale sig, og regn dit dataforbrug ud.
+h1: Mobilabonnement med streaming
+kicker: Opdateret {maaned} · streamingpakker fra Oister, Telmore og YouSee
+answer: Det billigste mobilabonnement med en streamingtjeneste er i {maaned} Oister 45 GB + streaming til 169 kr./md., hvor du vælger mellem Disney+, Viaplay, TV 2 Play, Podimo eller Deezer. Telmore Play til 399 kr./md. giver fri data og tre streamingtjenester, og Telmore 60 GB + Telmore Musik koster 179 kr./md. Pakken kan betale sig, hvis du alligevel ville betale for tjenesten.
+lead: Vi regner på, om et mobilabonnement med streaming faktisk er billigere end at købe abonnement og streaming hver for sig – og viser, hvor meget data en time Netflix bruger på mobilen.
+crumb: Streaming
+section: typer
+related: mobilabonnement-fri-data, udbydere/oister, udbydere/telmore, udbydere/yousee, guides/hvor-meget-data
+---
+<h2>Hvilke mobilabonnementer har streaming inkluderet?</h2>
+<p>Et mobilabonnement med streaming er et almindeligt abonnement med tale og data, hvor en eller flere streamingtjenester – fx Viaplay, Disney+, TV 2 Play eller en musiktjeneste – er bygget ind i månedsprisen. I oktober 2026 er der tre selskaber blandt dem, vi sammenligner, der tilbyder streaming sammen med mobilabonnementet: Oister og Telmore som faste pakker og YouSee som tilvalg. Tabellen viser de abonnementer, hvor streaming er en del af selve abonnementet.</p>
+[[tabel:streaming]]
+<div class="callout"><p><strong>Kort sagt:</strong> Oister 45 GB + én streamingtjeneste til 169 kr./md. er det billigste bud. Telmore Play til 399 kr./md. er pakken for dem, der vil have fri data og tre tjenester samlet på én regning. Telmore 60 GB + Telmore Musik til 179 kr./md. passer til dig, der primært streamer musik. YouSee har streaming som tilvalg i stedet for som en fast pakke.</p></div>
+<p>Priserne er tjekket den 7. oktober 2026 på selskabernes egne sider. Hvordan vi vurderer abonnementerne, kan du læse på siden <a href="/metode/">Sådan har vi sammenlignet</a>.</p>
+
+<h2>Oister: 45 GB og en valgfri streamingtjeneste for 169 kr.</h2>
+<p>Oisters streamingabonnement koster 169 kr./md. og indeholder fri tale, 45 GB data, 5G og 30 GB i EU. Oveni vælger du én streamingtjeneste blandt Disney+, Viaplay, TV 2 Play, Podimo og Deezer<sup class="ref"><a href="#kilde-1">1</a></sup>. Det er den mest fleksible pakke på markedet, fordi du ikke er låst til én bestemt tjeneste, og fordi du kan vælge en lydtjeneste som Podimo eller Deezer, hvis du ikke ser meget tv.</p>
+<p>Oister kører på 3's net, og alle Oisters abonnementer har 5G. Du kan læse mere om selskabet i vores <a href="/udbydere/oister/">anmeldelse af Oister</a>.</p>
+<h3>Hvad koster de 45 GB alene?</h3>
+<p>For at vurdere pakken skal du sammenligne med det, du ellers ville købe. Oisters eget abonnement med fri tale og 40 GB koster 99 kr./md. (69 kr. de første 6 måneder), og fri tale med 100 GB koster 109 kr./md. Det betyder, at streamingdelen i praksis koster dig omkring 60-70 kr./md. i forhold til de almindelige abonnementer – og at du får færre GB end i 100 GB-pakken.</p>
+[[cta:oister]]
+
+<h2>Telmore Play og Telmore Musik</h2>
+<h3>Telmore Play: fri data og tre streamingtjenester</h3>
+<p>Telmore Play er den store pakke. For 399 kr./md. får du fri tale, fri data, 5G, 83 GB i EU og tre streamingtjenester<sup class="ref"><a href="#kilde-2">2</a></sup>. Den første måned koster 99 kr. Telmore kører på TDC NET, som fik den højeste dækningsscore i Opensignals måling fra februar 2026<sup class="ref"><a href="#kilde-6">6</a></sup>. Hvilke tjenester du kan vælge imellem, skifter Telmore løbende, så tjek udvalget på Telmores side, før du bestiller.</p>
+<p>Til sammenligning koster Telmores almindelige abonnement med fri tale og fri data 249 kr./md. Forskellen på 150 kr./md. er altså prisen for de tre tjenester – plus lidt mere EU-data (83 GB mod 49 GB). Det er 1.800 kr. om året.</p>
+<h3>Telmore 60 GB + Musik</h3>
+<p>Telmore har også et abonnement med 60 GB og Telmore Musik til 179 kr./md. med fri tale, 5G og 36 GB i EU. Lige nu kan du få det for 26 kr./md. de første to måneder. Telmores abonnement med fri tale og 80 GB koster 159 kr./md., så musikken koster i praksis ca. 20 kr. ekstra om måneden – og du får 20 GB mindre. Læs mere i vores <a href="/udbydere/telmore/">anmeldelse af Telmore</a>.</p>
+[[cta:telmore]]
+
+<h2>YouSee: streaming som tilvalg og YouSee Musik inkluderet</h2>
+<p>YouSee har en anden model. I stedet for en fast streamingpakke kan du som mobilkunde tilvælge streamingtjenester. Med tilvalget får du to tjenester for 90 kr./md. de første 3 måneder, og derefter 180 kr./md.<sup class="ref"><a href="#kilde-3">3</a></sup>. Desuden er YouSee Musik inkluderet i YouSees mobilabonnementer sammen med MobilSikker.</p>
+<p>YouSee er blandt de dyreste på normalpris – fri tale og fri data koster 299 kr./md. – men har til gengæld butikker, stærk kundeservice og 30 kr./md. i rabat, hvis du også har internet hos YouSee. Har du i forvejen tv og bredbånd hos YouSee, kan det samlede regnestykke se anderledes ud. Se vores <a href="/udbydere/yousee/">anmeldelse af YouSee</a>.</p>
+<table>
+<thead><tr><th>Pakke</th><th>Pris/md.</th><th>Data</th><th>EU-data</th><th>Streaming</th></tr></thead>
+<tbody>
+<tr><td>Oister 45 GB + streaming</td><td>169 kr.</td><td>45 GB</td><td>30 GB</td><td>1 tjeneste: Disney+, Viaplay, TV 2 Play, Podimo el. Deezer</td></tr>
+<tr><td>Telmore 60 GB + Musik</td><td>179 kr. (26 kr. i 2 mdr.)</td><td>60 GB</td><td>36 GB</td><td>Telmore Musik</td></tr>
+<tr><td>Telmore Play</td><td>399 kr. (99 kr. 1. md.)</td><td>Fri</td><td>83 GB</td><td>3 tjenester</td></tr>
+<tr><td>YouSee + streamingtilvalg</td><td>Abonnement + 180 kr. (90 kr. i 3 mdr.)</td><td>Efter abonnement</td><td>Efter abonnement</td><td>2 tjenester + YouSee Musik</td></tr>
+</tbody>
+</table>
+
+<h2>Kan et mobilabonnement med streaming betale sig?</h2>
+<p>Det korte svar er: kun hvis du alligevel ville betale for streamingtjenesten, og kun hvis den indbyggede tjeneste er den, du faktisk ser. Priserne på streamingtjenester ændrer sig ofte, og de findes i flere varianter med og uden reklamer. Vi angiver derfor ikke streamingpriser som faste fakta, men viser, hvordan du regner det ud med tjenestens aktuelle pris fra dens egen side.</p>
+<h3>Formlen</h3>
+<p><strong>Pakken betaler sig, hvis: pakkepris &lt; pris for et tilsvarende abonnement + det du ville betale for tjenesten.</strong></p>
+<h3>Regneeksempel 1: Oister med én tjeneste</h3>
+<p>Lad os sige, at den tjeneste, du ønsker, koster X kr./md., når du køber den direkte. Et abonnement med fri tale og lignende datamængde koster fx 99 kr./md. hos Oister (40 GB) eller 89 kr./md. hos Flexii (50 GB, 79 kr. det første år).</p>
+<ul>
+<li>Hvis tjenesten koster <strong>ca. 60 kr./md.</strong>: 99 + 60 = 159 kr. separat mod 169 kr. i pakke. Separat er 10 kr./md. eller 120 kr./år billigere.</li>
+<li>Hvis tjenesten koster <strong>ca. 100 kr./md.</strong>: 99 + 100 = 199 kr. separat mod 169 kr. i pakke. Pakken sparer dig 30 kr./md. eller 360 kr./år.</li>
+<li>Hvis tjenesten koster <strong>ca. 150 kr./md.</strong>: 99 + 150 = 249 kr. separat. Pakken sparer dig 80 kr./md. – 960 kr. om året.</li>
+</ul>
+<p>Grænsen ligger med andre ord omkring 70 kr./md. Er den tjeneste, du vælger, dyrere end det, vinder pakken. Det taler for at vælge den dyreste af de tjenester, du kan bruge.</p>
+<h3>Regneeksempel 2: Telmore Play med tre tjenester</h3>
+<p>Telmore Play koster 399 kr./md. Et fri data-abonnement koster 249 kr./md. hos Telmore, men kun 149 kr./md. hos Flexii (129 kr. det første år) og 199 kr./md. hos Oister og Duka. Det rigtige sammenligningsgrundlag er det billigste fri data-abonnement, du ville have valgt.</p>
+<ul>
+<li>Sammenlignet med Telmore Fri data (249 kr.): Tre tjenester skal tilsammen koste mere end 150 kr./md., før Play betaler sig.</li>
+<li>Sammenlignet med Flexii Fri data (149 kr.): Tre tjenester skal tilsammen koste mere end 250 kr./md., før Play betaler sig.</li>
+</ul>
+<p>Hvis de tre tjenester, du vil have, koster fx ca. 100 kr., ca. 80 kr. og ca. 60 kr. – i alt ca. 240 kr. – er Flexii plus tjenesterne købt separat ca. 389 kr./md., mens Telmore Play koster 399 kr. Forskellen er lille, og så handler valget om andet: TDC NET's dækning, EU-data (83 GB mod 40 GB) og om du kan lide at have det hele på én regning. Ser du kun to af tjenesterne, taber Play.</p>
+<h3>Regneeksempel 3: YouSee-tilvalget over et år</h3>
+<p>YouSees tilvalg koster 90 kr./md. i 3 måneder og derefter 180 kr./md. Det første år koster det altså 3 × 90 + 9 × 180 = 1.890 kr., og fra år to 2.160 kr. om året. Tilvalget kan betale sig, hvis de to tjenester tilsammen koster mere end 180 kr./md. købt direkte. Husk at regne YouSees abonnementspris med – den ligger højere end lavprisselskabernes.</p>
+[[simo:Tjek altid, om streamingtjenesten i pakken er med eller uden reklamer. Den billigste variant er ofte med reklamer, og så er sammenligningen med din nuværende tjeneste ikke fair.]]
+
+<h2>Hvor meget data bruger streaming på mobilen?</h2>
+<p>Streaming er den aktivitet, der bruger klart mest data på en mobil. Netflix oplyser selv følgende forbrug pr. time<sup class="ref"><a href="#kilde-4">4</a></sup>:</p>
+<table>
+<thead><tr><th>Netflix-kvalitet</th><th>Data pr. time</th><th>Timer med 45 GB</th><th>Timer med 60 GB</th></tr></thead>
+<tbody>
+<tr><td>Lav</td><td>op til 0,3 GB</td><td>ca. 150 timer</td><td>ca. 200 timer</td></tr>
+<tr><td>Middel</td><td>op til 0,7 GB</td><td>ca. 64 timer</td><td>ca. 86 timer</td></tr>
+<tr><td>Høj (SD)</td><td>op til 1 GB</td><td>ca. 45 timer</td><td>ca. 60 timer</td></tr>
+<tr><td>HD</td><td>op til 3 GB</td><td>ca. 15 timer</td><td>ca. 20 timer</td></tr>
+<tr><td>4K</td><td>op til 7 GB</td><td>ca. 6 timer</td><td>ca. 8,5 timer</td></tr>
+</tbody>
+</table>
+<p>Musik bruger langt mindre. Spotify bruger ca. 43 MB pr. time i normal kvalitet og ca. 144 MB pr. time i den højeste kvalitet<sup class="ref"><a href="#kilde-5">5</a></sup>. Hører du musik en time om dagen i højeste kvalitet, bruger du altså ca. 4,3 GB om måneden. YouTube i 1080p bruger ca. 2,25 GB i timen, mens 720p bruger ca. 1,1 GB.</p>
+<h3>Regneeksempel: pendleren</h3>
+<p>Ser du en time serie i middelkvalitet hver hverdag på vej til og fra arbejde, bruger du ca. 0,7 GB × 22 dage = ca. 15 GB om måneden. Hertil kommer sociale medier, kort og mail. Til det er 45 GB hos Oister nok. Ser du i HD, bliver det ca. 66 GB, og så skal du over på fri data som Telmore Play eller et af abonnementerne på siden om <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
+[[vaerktoej:databeregner]]
+<p>På en mobilskærm er forskellen på middel og HD sjældent stor. Sæt streamingappen til at bruge lavere kvalitet på mobildata og fuld kvalitet på wifi – det kan skære kraftigt ned på forbruget. Vi har samlet flere tal i guiden <a href="/guides/hvor-meget-data/">Hvor meget data har jeg brug for?</a></p>
+<div class="stat-grid">
+<div class="stat"><b>26,9 GB</b><span>gennemsnitligt forbrug pr. abonnement pr. måned (2H24)</span></div>
+<div class="stat"><b>3 GB</b><span>Netflix i HD pr. time</span></div>
+<div class="stat"><b>144 MB</b><span>Spotify i højeste kvalitet pr. time</span></div>
+</div>
+<p>Det gennemsnitlige danske abonnement brugte 26,9 GB pr. måned i 2. halvår 2024 – en stigning på 20,8 % på et år, ifølge Digitaliseringsstyrelsen<sup class="ref"><a href="#kilde-7">7</a></sup>. Video er en stor del af forklaringen.</p>
+
+<h2>Sådan vælger du det rigtige streamingabonnement</h2>
+<ol class="steps">
+<li><strong>Find ud af, hvilke tjenester du faktisk bruger.</strong> Se dine kontoudtog. Mange betaler for en tjeneste, de ikke har åbnet i måneder.</li>
+<li><strong>Tjek om pakkens tjeneste er den rigtige variant.</strong> Med eller uden reklamer, HD eller 4K, én eller flere skærme.</li>
+<li><strong>Regn dit dataforbrug ud.</strong> Brug databeregneren ovenfor. Streamer du mest på wifi, behøver du ikke fri data.</li>
+<li><strong>Sammenlign med det billigste alternativ.</strong> Ikke med samme selskabs dyre abonnement, men med det billigste abonnement med samme datamængde – fx hos Flexii, Duka eller Lebara.</li>
+<li><strong>Læs vilkårene om kampagner.</strong> Både Oister, Telmore og YouSee bruger introrabatter. Regn på normalprisen.</li>
+<li><strong>Overvej at tilmelde tjenesten separat.</strong> Så kan du skifte mobilselskab uden at miste din streamingprofil.</li>
+</ol>
+<div class="proscons"><div class="pros"><h4>Fordele ved streaming i abonnementet</h4><ul><li>Én regning for mobil og streaming</li><li>Kan være billigere, hvis tjenesten er dyr</li><li>Oister lader dig vælge mellem fem tjenester</li><li>Telmore Play giver fri data og 83 GB i EU</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Du betaler ofte for mindre data end i et almindeligt abonnement</li><li>Skifter du mobilselskab, mister du streamingen</li><li>Tjenesterne kan være de billigere varianter</li><li>Introrabatter skjuler normalprisen</li></ul></div></div>
+
+<h2>Hvad sker der med streamingen, hvis jeg skifter selskab?</h2>
+<p>Det er den største ulempe, som sjældent nævnes. Når streamingen er en del af mobilabonnementet, følger den med abonnementet – ikke med dig. Skifter du mobilselskab, stopper tjenesten typisk, når abonnementet ophører. Din profil, dine lister og din historik hos fx Viaplay eller Disney+ er normalt knyttet til din konto hos tjenesten, så de forsvinder ikke nødvendigvis, men du skal selv begynde at betale direkte.</p>
+<p>Du kan tage dit nummer med dig, når du skifter – nummerflytningen skal ske senest ved udgangen af næstfølgende arbejdsdag, og det koster ikke noget særskilt. Se trin for trin i guiden <a href="/guides/skift-mobilabonnement/">Sådan skifter du mobilabonnement</a>.</p>
+<h3>Binding og opsigelse</h3>
+<p>For forbrugere må binding højst være 6 måneder. De streamingpakker, vi har gennemgået, er alle uden lang binding, men læs vilkårene for kampagneperioder. Hos YouSee stiger tilvalget automatisk fra 90 til 180 kr. efter 3 måneder – sæt en påmindelse i kalenderen, hvis du kun vil prøve det. Læs mere om <a href="/mobilabonnement-uden-binding/">mobilabonnementer uden binding</a>.</p>
+
+<h2>Alternativ: billigt abonnement og streaming købt separat</h2>
+<p>For mange er den billigste løsning at vælge et billigt abonnement med nok data og købe streaming direkte. To eksempler fra vores data:</p>
+<ul>
+<li><strong>Flexii Fri tale + 50 GB:</strong> 89 kr./md. (79 kr. det første år), 5G og 30 GB i EU<sup class="ref"><a href="#kilde-8">8</a></sup>. Lægger du en streamingtjeneste til X kr., betaler du 89 + X.</li>
+<li><strong>Duka Fri tale + 120 GB:</strong> 119 kr./md., 5G og 30 GB i EU. Nok til ca. 40 timer HD-streaming om måneden.</li>
+<li><strong>Flexii Fri tale + fri data:</strong> 149 kr./md. (129 kr. det første år) med fair use på 2 TB. For den, der streamer meget på mobildata.</li>
+</ul>
+<p>Sammenlignet med Telmore Play til 399 kr. sparer du 250 kr./md. – 3.000 kr. om året – ved at vælge Flexii fri data, før du har købt nogen tjenester. Om det kan betale sig, afhænger af, hvor mange tjenester du ville have købt. Se flere muligheder blandt <a href="/billigste-mobilabonnement/">de billigste mobilabonnementer</a> og i vores <a href="/mobilabonnement-tilbud/">aktuelle tilbud</a>.</p>
+[[simo:Har du allerede Netflix gennem en anden pakke – fx dit tv – så tjek, at du ikke betaler dobbelt. Det sker oftere, end man tror.]]
+<blockquote class="expert"><p>Streamingpakker er bedst for dem, der vil have det hele samlet og i forvejen betaler for de samme tjenester. Er du prisjæger, slår et billigt abonnement plus én tjeneste købt direkte oftest pakken.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Streaming på mobilen i EU</h2>
+<p>Streamer du på ferie, gælder EU's fair use-regler for data. Oisters streamingpakke giver 30 GB i EU, Telmore 60 GB + Musik giver 36 GB, og Telmore Play giver 83 GB. Med 30 GB kan du se ca. 10 timer Netflix i HD eller ca. 43 timer i middelkvalitet i EU. Vær opmærksom på, at nogle tjenesters indhold kan variere fra land til land, men EU-reglerne om portabilitet sikrer, at du kan se det indhold, du betaler for i Danmark, på en midlertidig rejse i EU. Læs mere om EU-data på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement med udlandet</a>.</p>
+<p>Vil du have hurtigst mulig streaming, kan det også betale sig at vælge et net med god dækning, hvor du færdes. Se resultaterne i guiden om <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a> og vores side om <a href="/5g-mobilabonnement/">5G-abonnementer</a>.</p>
+===FAQ===
+Q: Hvilket mobilabonnement har Netflix inkluderet?
+A: Blandt de abonnementer, vi sammenligner i oktober 2026, er Netflix ikke fast inkluderet i Oisters pakke, som tilbyder Disney+, Viaplay, TV 2 Play, Podimo eller Deezer. Telmore Play og YouSees streamingtilvalg lader dig vælge blandt flere tjenester, og udvalget skifter – tjek selskabets side for det aktuelle udvalg.
+Q: Hvad er det billigste mobilabonnement med streaming?
+A: Oister 45 GB + streamingtjeneste til 169 kr./md. er det billigste med en tv-streamingtjeneste. Telmore 60 GB + Telmore Musik koster 179 kr./md. (26 kr./md. de første 2 måneder), hvis du primært vil have musik.
+Q: Hvor meget data bruger en time Netflix?
+A: Ifølge Netflix bruger lav kvalitet op til 0,3 GB i timen, middel op til 0,7 GB, høj SD op til 1 GB, HD op til 3 GB og 4K op til 7 GB i timen. Med 45 GB kan du altså se ca. 15 timer i HD.
+Q: Kan det betale sig med Telmore Play?
+A: Kun hvis du ellers ville købe tre tjenester, der tilsammen koster mere end forskellen til et almindeligt fri data-abonnement. Sammenlignet med Telmore Fri data (249 kr.) skal tjenesterne koste over 150 kr./md., og sammenlignet med Flexii Fri data (149 kr.) over 250 kr./md.
+Q: Hvad koster YouSees streamingtilvalg?
+A: Med YouSees tilvalg får du to streamingtjenester for 90 kr./md. de første 3 måneder og derefter 180 kr./md. YouSee Musik er desuden inkluderet i YouSees mobilabonnementer.
+Q: Mister jeg min streamingtjeneste, hvis jeg skifter mobilselskab?
+A: Ja, tjenesten følger normalt abonnementet og stopper, når du opsiger det. Din profil hos tjenesten kan typisk fortsætte, hvis du selv begynder at betale direkte. Du kan tage nummeret med dig – læs <a href="/guides/skift-mobilabonnement/">guiden til at skifte</a>.
+Q: Hvor meget data bruger Spotify?
+A: Spotify bruger ca. 11 MB i timen i lav kvalitet, ca. 43 MB i normal, ca. 72 MB i høj og ca. 144 MB i meget høj kvalitet. Selv en time om dagen i højeste kvalitet er kun ca. 4,3 GB om måneden.
+Q: Kan jeg streame i EU med mit streamingabonnement?
+A: Ja, du kan bruge både mobildata og din streamingtjeneste på rejser i EU. Data trækkes fra dit EU-loft: 30 GB hos Oister, 36 GB hos Telmore 60 GB + Musik og 83 GB hos Telmore Play.
+===KILDER===
+Oister – mobilabonnementer og streaming | https://www.oister.dk/mobilabonnement
+Telmore – mobilabonnementer, Telmore Play og Musik | https://www.telmore.dk/mobilabonnement
+YouSee – mobilabonnementer og tilvalg | https://yousee.dk/mobil/abonnementer
+Hvor meget data bruger Netflix?, Netflix Hjælpecenter | https://help.netflix.com/da/node/87
+Lydkvalitet, Spotify Support | https://support.spotify.com/dk/article/audio-quality/
+Opensignal – Denmark Mobile Network Experience, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Flexii – mobilabonnementer | https://www.flexii.dk/mobilabonnement

@@ -1,0 +1,159 @@
+---
+slug: guides/skift-mobilabonnement
+title: Skift mobilabonnement → Behold dit nummer ({maaned})
+desc: Sådan skifter du mobilabonnement og beholder dit nummer. Nummerflytning er gratis, sker på 1-2 hverdage, og du skal ikke selv opsige. Se guiden trin for trin.
+h1: Skift mobilabonnement
+kicker: Opdateret {maaned} · Guide til nummerflytning
+answer: Du skifter mobilabonnement ved at bestille det nye abonnement og vælge "behold dit nummer" – så opsiger det nye selskab det gamle for dig. Efter teleloven § 26-28 skal nummeret flyttes senest ved udgangen af den næstfølgende arbejdsdag, nummerflytningen må ikke koste noget særskilt, og du kan flytte nummeret, selvom du stadig er i binding.
+lead: Her får du hele processen for at skifte mobilabonnement og flytte dit nummer – trin for trin, med de regler der beskytter dig, en tidslinje og de fejl der oftest forsinker skiftet.
+crumb: Skift mobilabonnement
+section: guides
+related: billigste-mobilabonnement, mobilabonnement-uden-binding, esim, guides/opsig-mobilabonnement, mobilabonnement-tilbud
+---
+<h2>Sådan skifter du mobilabonnement – kort fortalt</h2>
+<p>At skifte mobilabonnement i Danmark er langt nemmere, end mange tror. Du behøver ikke ringe til dit nuværende selskab, du behøver ikke sende en opsigelse, og du mister ikke dit telefonnummer. Du bestiller blot dit nye abonnement, krydser af i, at du vil beholde dit nummer, og så klarer det nye selskab resten. Det kaldes nummerflytning eller nummerportering, og det er en rettighed, der står i teleloven<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
+<p>Når vi på redaktionen selv har skiftet selskab, har selve flytningen gået hurtigt, og telefonen har kun været uden forbindelse i kort tid den dag, nummeret blev overført. Det største arbejde er faktisk at finde det rigtige abonnement. Derfor starter vi her med de billigste abonnementer lige nu, så du kan se, hvad du kan skifte til.</p>
+[[tabel:billig|sort=price|limit=8|titel=Billige abonnementer du kan skifte til i dag]]
+<div class="keypoints"><h3>Det vigtigste</h3><ul>
+<li>Du skal <strong>ikke</strong> selv opsige dit gamle abonnement, når du flytter nummeret – det nye selskab gør det.</li>
+<li>Nummeret skal flyttes senest ved udgangen af den næstfølgende arbejdsdag, efter du har givet besked (teleloven § 26).</li>
+<li>Selve nummerflytningen må ikke koste dig noget særskilt.</li>
+<li>Du kan flytte nummeret, selvom du er i binding – men en eventuel restbinding eller et telefonlån skal stadig betales.</li>
+<li>Du har ret til at flytte nummeret i mindst 1 måned efter, at dit abonnement er ophørt.</li>
+</ul></div>
+
+<h2>Skift mobilabonnement trin for trin</h2>
+<p>Processen er stort set den samme, uanset om du skifter fra YouSee til Lebara, fra Telmore til Oister eller fra et lille selskab til et stort. Her er de syv trin, vi selv følger, når vi skifter:</p>
+<ol class="steps">
+<li><strong>Find dit nuværende forbrug.</strong> Tjek, hvor mange GB du bruger om måneden, og om du ringer meget. Det står i telefonens indstillinger eller i din app hos selskabet. Brug evt. vores guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</li>
+<li><strong>Tjek din binding og eventuelle lån.</strong> Log ind hos dit nuværende selskab og se, om du har binding, et telefonlån eller en SIM-lås. Det ændrer ikke på, om du kan skifte, men det kan påvirke din slutregning.</li>
+<li><strong>Sammenlign og vælg nyt abonnement.</strong> Brug vores <a href="/">sammenligning af telefonabonnementer</a>, og husk at se på normalprisen og ikke kun introprisen.</li>
+<li><strong>Bestil og vælg "behold nummer".</strong> Under bestillingen vælger du at overføre dit nuværende nummer. Du skal typisk oplyse nummeret og bekræfte med MitID.</li>
+<li><strong>Vælg dato for skiftet.</strong> Mange selskaber lader dig vælge "hurtigst muligt" eller en bestemt dato, fx når din binding udløber.</li>
+<li><strong>Modtag SIM-kort eller eSIM.</strong> Et fysisk SIM-kort kommer typisk med posten på et par dage. Et eSIM kan ofte aktiveres samme dag.</li>
+<li><strong>Skift SIM, når du får besked.</strong> Du får en SMS eller mail, når nummeret er flyttet. Først da skifter du SIM-kortet eller aktiverer eSIM'et, og så er du kørende.</li>
+</ol>
+[[simo:Lad være med at sætte det nye SIM-kort i, før du får besked om, at nummeret er flyttet. Indtil da kører opkald og SMS stadig over dit gamle kort.]]
+
+<h2>Hvad siger loven om nummerflytning?</h2>
+<p>Retten til at tage dit nummer med står i lov om elektroniske kommunikationsnet og -tjenester – i daglig tale teleloven. Den gældende udgave er LBK nr. 681 af 16. juni 2025, og reglerne om nummerflytning findes i § 26-28<sup class="ref"><a href="#kilde-1">1</a></sup>. Her er de vigtigste punkter forklaret i almindeligt sprog.</p>
+<h3>Nummeret skal flyttes senest næstfølgende arbejdsdag</h3>
+<p>Når du har bedt om nummerflytning, skal nummeret være flyttet og aktiveret senest ved udgangen af den næstfølgende arbejdsdag. Bestiller du altså en mandag og vælger "hurtigst muligt", skal skiftet være på plads senest onsdag aften. I praksis går det ofte hurtigere. Har du selv valgt en senere dato, er det selvfølgelig den dato, der gælder.</p>
+<h3>Du skal ikke vente på, at bindingen udløber</h3>
+<p>Mange tror, at de er låst fast, indtil bindingsperioden er slut. Det er de ikke. Loven siger, at nummerflytningen ikke må afhænge af, at en binding eller en opsigelsesperiode er udløbet. Du kan altså flytte nummeret nu. Det, du ikke slipper for, er at betale de resterende måneder af bindingen til det gamle selskab, hvis du har en. Og husk: For forbrugere må bindingen højst være 6 måneder efter slutbrugerbekendtgørelsen<sup class="ref"><a href="#kilde-2">2</a></sup>, så der er sjældent mange penge på spil.</p>
+<h3>Ingen særskilt betaling for at flytte nummeret</h3>
+<p>Det gamle selskab må ikke tage et gebyr for at lade dig flytte nummeret. Det nye selskab må heller ikke tage betaling specifikt for nummerflytningen. Du kan godt møde et oprettelsesgebyr for selve det nye abonnement – fx tager YouSee 99 kr. i oprettelse, hvis du bestiller i butik – men flytningen af nummeret er gratis.</p>
+<h3>Retten gælder i mindst 1 måned efter opsigelse</h3>
+<p>Har du allerede opsagt dit abonnement og fortrudt, at du ikke tog nummeret med? Så er der hjælp at hente. Du har ret til at flytte nummeret i mindst 1 måned efter, at abonnementet er ophørt. Skynd dig dog, for derefter kan nummeret blive frigivet og givet til en anden.</p>
+<h3>Kompensation ved forsinkelse</h3>
+<p>Hvis nummerflytningen bliver forsinket ud over fristen, har du efter loven ret til kompensation. Oplever du forsinkelse, så klag skriftligt til selskabet først. Får du ikke en rimelig løsning, kan du gå videre til Teleankenævnet<sup class="ref"><a href="#kilde-4">4</a></sup>. Læs mere i vores guide til at <a href="/guides/opsig-mobilabonnement/">opsige dit mobilabonnement</a>, hvor vi også gennemgår klagevejen.</p>
+
+<h2>Skal jeg selv opsige mit gamle abonnement?</h2>
+<p>Nej – og det er nok det vigtigste råd i hele guiden. Når du beder om at få dit nummer flyttet, fungerer anmodningen samtidig som opsigelse af det gamle abonnement. Det nye selskab sender besked til det gamle, og abonnementet ophører automatisk på den dag, nummeret flyttes.</p>
+<p>Opsiger du selv det gamle abonnement først, risikerer du faktisk at miste nummeret, hvis opsigelsen træder i kraft, før det nye selskab har nået at hente det. Det er en klassisk fejl. Gør det derfor i denne rækkefølge: Bestil nyt abonnement med nummerflytning, og lad det gamle selskab være i fred.</p>
+<div class="callout warn"><p><strong>Undtagelse:</strong> Har du flere numre eller ekstra datakort hos det gamle selskab, opsiges kun det nummer, der flyttes. Ekstra datakort, tilvalg som streamingtjenester og fx et bredbånd i samme pakke skal du selv opsige.</p></div>
+<p>Vil du ikke beholde dit nummer, men blot have et nyt, skal du derimod selv opsige det gamle abonnement. Det er beskrevet i <a href="/guides/opsig-mobilabonnement/">guiden til opsigelse</a>.</p>
+
+<h2>Hvor lang tid tager det at skifte mobilabonnement?</h2>
+<p>Den samlede tid afhænger mest af, om du vælger fysisk SIM-kort eller eSIM, og om du skifter med det samme eller venter på en bestemt dato. Her er en typisk tidslinje, når du skifter "hurtigst muligt":</p>
+<table>
+<thead><tr><th>Tidspunkt</th><th>Hvad sker der</th><th>Hvad skal du gøre</th></tr></thead>
+<tbody>
+<tr><td>Dag 0</td><td>Du bestiller nyt abonnement og vælger at beholde nummeret</td><td>Bekræft med MitID, oplys nummer</td></tr>
+<tr><td>Dag 0-1</td><td>Det nye selskab sender anmodning til det gamle</td><td>Intet – brug din telefon som normalt</td></tr>
+<tr><td>Dag 0 (eSIM)</td><td>eSIM-QR-kode eller aktivering i appen</td><td>Installér eSIM, men vent med at aktivere hvis selskabet beder om det</td></tr>
+<tr><td>Dag 1-3 (fysisk SIM)</td><td>SIM-kortet kommer med posten</td><td>Gem kortet til skiftedagen</td></tr>
+<tr><td>Senest næstfølgende arbejdsdag efter anmodning</td><td>Nummeret flyttes, gammelt abonnement ophører</td><td>Skift SIM eller aktivér eSIM, genstart telefonen</td></tr>
+<tr><td>Typisk nogle uger efter</td><td>Slutregning fra det gamle selskab</td><td>Tjek at du ikke betaler for perioden efter skiftet</td></tr>
+</tbody>
+</table>
+<p>Bemærk, at fristen i loven regnes fra det tidspunkt, hvor selskabet har modtaget din anmodning med de nødvendige oplysninger. Venter du på et fysisk SIM-kort, sætter mange selskaber flytningen til at ske, når kortet er nået frem. Det er derfor, et skifte med fysisk SIM i praksis tit tager nogle dage fra bestilling til færdigt skifte.</p>
+
+<h2>Skift mobilabonnement med eSIM</h2>
+<p>Har du en nyere iPhone, Samsung Galaxy eller Google Pixel, kan du som regel bruge eSIM – et digitalt SIM-kort, der installeres direkte i telefonen. Alle otte selskaber, vi dækker – Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka – tilbyder eSIM. Apple har en opdateret liste over danske selskaber med eSIM-understøttelse<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
+<p>Fordelen ved eSIM er, at du slipper for at vente på posten. Typisk kan du aktivere eSIM'et i selskabets app kort efter bestillingen, og så er det kun nummerflytningen, du venter på.</p>
+<h3>Sådan gør du med eSIM ved nummerflytning</h3>
+<ul>
+<li><strong>Installér eSIM'et</strong> via QR-kode eller selskabets app, når du får det.</li>
+<li><strong>Behold dit gamle SIM i telefonen</strong>, indtil du får besked om, at nummeret er flyttet. De fleste telefoner kan have to SIM aktive på én gang.</li>
+<li><strong>Slå det gamle SIM fra</strong>, når flytningen er bekræftet, og vælg det nye som standard for opkald, SMS og data.</li>
+<li><strong>Genstart telefonen</strong>, så den registrerer sig korrekt på det nye net.</li>
+</ul>
+<p>Læs mere om fordele og faldgruber i vores side om <a href="/esim/">eSIM i Danmark</a>.</p>
+
+<h2>Hvad med telefonlån, SIM-lås og binding?</h2>
+<p>Mange holder sig fra at skifte, fordi de har købt telefonen sammen med abonnementet. Det er sjældent en god grund.</p>
+<h3>Telefonlån</h3>
+<p>Har du købt telefonen på afbetaling hos dit nuværende selskab, er lånet en selvstændig aftale. Du kan stadig flytte nummeret, men du skal fortsætte med at betale lånet af – eller indfri restgælden – efter de vilkår, du har skrevet under på. Nogle selskaber kræver, at restbeløbet betales på én gang, når abonnementet ophører. Tjek din lånekontrakt, før du skifter, så du ikke bliver overrasket af en stor slutregning.</p>
+<h3>SIM-lås</h3>
+<p>En SIM-låst telefon virker kun med SIM-kort fra det selskab, der har solgt den. Efter slutbrugerbekendtgørelsen § 7 skal selskabet fjerne SIM-låsen gratis senest efter 6 måneder<sup class="ref"><a href="#kilde-2">2</a></sup>. Bed om en oplåsningskode, inden du bestiller nyt abonnement, så telefonen er klar på skiftedagen. De fleste telefoner, der købes i dag, er dog ikke SIM-låste.</p>
+<h3>Binding</h3>
+<p>Som nævnt må en forbruger højst bindes i 6 måneder. Er du i binding, kan du sagtens skifte nu, men du hæfter for de resterende måneder. Regn det igennem: Har du to måneder tilbage på et abonnement til 249 kr., koster det 498 kr. at skifte nu. Sparer du 150 kr. om måneden på det nye abonnement, har du tjent de penge hjem på godt tre måneder. Vil du helt undgå det næste gang, så vælg et <a href="/mobilabonnement-uden-binding/">mobilabonnement uden binding</a> – det er standard hos de fleste lavprisselskaber.</p>
+
+<h2>Hvorfor skal du bruge MitID?</h2>
+<p>Når du bestiller et nyt abonnement med nummerflytning, beder selskabet næsten altid om MitID. Det er for at sikre, at det er dig, der ejer nummeret, så ingen kan "kapre" dit telefonnummer og fx modtage dine engangskoder fra banken. Selskabet sammenholder dit navn og CPR-nummer med oplysningerne hos det gamle selskab.</p>
+<p>Det betyder også, at nummerflytningen kan blive afvist, hvis abonnementet står i en andens navn – fx en forælder, en tidligere partner eller en arbejdsgiver. Står abonnementet i en andens navn, skal I enten overdrage abonnementet til dig først, eller også skal den registrerede ejer godkende flytningen. Har du et firmabetalt nummer, du gerne vil tage med som privat, skal arbejdsgiveren typisk give tilladelse – se mere på vores side om <a href="/erhvervsabonnement/">erhvervsabonnementer</a>.</p>
+
+<h2>Fejl der forsinker skiftet</h2>
+<p>De fleste nummerflytninger går glat. Når de ikke gør, skyldes det næsten altid en af disse fejl:</p>
+<ul>
+<li><strong>Forkert navn eller CPR.</strong> Abonnementet står i en andens navn end dit, eller der er en stavefejl. Tjek, hvem der står som abonnent hos det gamle selskab.</li>
+<li><strong>Du har selv opsagt det gamle abonnement.</strong> Så kan nummeret være lukket, før det nye selskab henter det. Opsig aldrig selv ved nummerflytning.</li>
+<li><strong>Forkert nummer eller tastefejl.</strong> Et forkert ciffer betyder, at anmodningen bliver afvist. Dobbelttjek.</li>
+<li><strong>Taletidskort i stedet for abonnement.</strong> Har du et <a href="/taletidskort/">taletidskort</a>, skal du nogle gange oplyse SIM-kortnummeret (ICC-nummeret) for at bevise, at du ejer nummeret.</li>
+<li><strong>SIM-låst telefon.</strong> Nummeret er flyttet, men telefonen vil ikke tage det nye kort. Få oplåst telefonen på forhånd.</li>
+<li><strong>Du venter ikke på bekræftelsen.</strong> Sætter du det nye kort i for tidligt, virker det ikke, og du tror, noget er gået galt.</li>
+<li><strong>Weekend og helligdage.</strong> Fristen regnes i arbejdsdage. Bestiller du en fredag eftermiddag, kan skiftet først ske i den efterfølgende uge.</li>
+</ul>
+
+<h2>Hvor meget kan du spare ved at skifte?</h2>
+<p>Det er her, det for alvor bliver interessant. Vi har gennemgået 45 abonnementer, og prisforskellen på sammenlignelige abonnementer er stor. Tre regneeksempler med normalpriser pr. 7. oktober 2026:</p>
+<ul>
+<li><strong>Fri data:</strong> Betaler du 299 kr./md. for fri tale og fri data hos YouSee, og skifter du til Flexii til 149 kr./md., sparer du 150 kr. om måneden – 1.800 kr. om året. Det første år er Flexiis pris 129 kr./md., så her er besparelsen 2.040 kr.</li>
+<li><strong>Mellemstort forbrug:</strong> Har du fri tale og 45 GB hos Telmore til 149 kr./md., og skifter du til Lebara med 40 GB og fri tale til 49 kr./md., sparer du 100 kr. om måneden eller 1.200 kr. om året. Du får dog 5 GB mindre data og kun 4G.</li>
+<li><strong>Lille forbrug:</strong> Skifter du fra et abonnement med 3 timer og 3 GB til 99 kr./md. til Lebara eller Lyca Mobile med 5 GB og 5 timer til 19 kr./md., sparer du 80 kr. om måneden – 960 kr. om året.</li>
+</ul>
+[[vaerktoej:sparberegner]]
+<p>Har du en husstand med flere numre, ganges besparelsen op. Se vores side om <a href="/familieabonnement/">familieabonnementer</a>, hvis I er flere, der vil skifte samtidig.</p>
+
+<h2>Sådan vælger du det rigtige abonnement, når du skifter</h2>
+<p>Et skifte er en god anledning til at sikre, at du ikke betaler for mere, end du bruger. Vi anbefaler at tage stilling til disse fire ting:</p>
+<h3>1. Data: Hvor meget bruger du egentlig?</h3>
+<p>Det gennemsnitlige danske mobilabonnement brugte 26,9 GB om måneden i andet halvår 2024<sup class="ref"><a href="#kilde-3">3</a></sup>. Bruger du markant mindre, kan et billigt abonnement være nok. Bruger du meget mere, kan <a href="/mobilabonnement-fri-data/">fri data</a> eller et stort dataabonnement betale sig.</p>
+<h3>2. Net: Hvilket mobilnet virker bedst hos dig?</h3>
+<p>Skifter du til et selskab på et andet net, ændrer din dækning sig. Telmore, YouSee og Lyca Mobile kører på TDC NET, Oister og Flexii på 3's net, mens Lebara, Greentel og Duka bruger TT-netværket, som Telenor og Norlys deler. Tjek din adresse, før du skifter – vi forklarer hvordan i guiden til <a href="/guides/bedste-mobilnet/">bedste mobilnet i Danmark</a>.</p>
+<h3>3. Normalpris – ikke kun intropris</h3>
+<p>Mange abonnementer har en lav pris i 2, 6 eller 12 måneder. Det er fint, men regn med normalprisen, når du sammenligner over et år. Se aktuelle kampagner på <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a>.</p>
+<h3>4. Udland og EU-data</h3>
+<p>Rejser du meget, så tjek, hvor meget af din data du kan bruge i EU, og om du kan bruge telefonen i fx Storbritannien eller USA. Læs mere på vores side om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+<div class="proscons"><div class="pros"><h4>Fordele ved at skifte</h4><ul><li>Ofte flere hundrede kroner sparet om året</li><li>Gratis og lovsikret nummerflytning</li><li>Du skal ikke selv opsige det gamle abonnement</li><li>Mulighed for introtilbud hos det nye selskab</li></ul></div><div class="cons"><h4>Ulemper at være opmærksom på</h4><ul><li>Et nyt net kan give anden dækning hjemme</li><li>Restbinding og telefonlån skal stadig betales</li><li>Kort periode uden forbindelse på skiftedagen</li><li>Introtilbud udløber – prisen stiger senere</li></ul></div></div>
+[[simo:Sæt en påmindelse i kalenderen, når et introtilbud udløber. Så kan du tage stilling til, om du skal blive eller skifte igen.]]
+
+<h2>Sådan har vi lavet guiden</h2>
+<p>Reglerne i guiden bygger på teleloven og slutbrugerbekendtgørelsen, som vi har læst i de gældende udgaver på Retsinformation. Priserne er normalpriser tjekket på selskabernes egne sider den 7. oktober 2026. Vores erfaringer med nummerflytning stammer fra redaktionens egne skift. Læs hvordan vi sammenligner abonnementer og vurderer selskaber på siden om <a href="/metode/">vores metode</a>.</p>
+===FAQ===
+Q: Mister jeg mit nummer, hvis jeg skifter mobilabonnement?
+A: Nej. Når du bestiller dit nye abonnement, vælger du at beholde dit nummer, og så flytter det nye selskab det for dig. Det er en lovsikret ret efter teleloven § 26, og den gælder også i mindst 1 måned efter, at dit gamle abonnement er ophørt.
+Q: Skal jeg opsige mit gamle mobilabonnement, når jeg flytter nummeret?
+A: Nej. Anmodningen om nummerflytning fungerer som opsigelse, og det gamle abonnement ophører automatisk den dag, nummeret flyttes. Opsiger du selv først, risikerer du at miste nummeret. Ekstra datakort og tilvalg skal du dog selv opsige.
+Q: Hvor lang tid tager en nummerflytning?
+A: Nummeret skal være flyttet senest ved udgangen af den næstfølgende arbejdsdag, efter selskabet har modtaget din anmodning. Med eSIM går det ofte på under et døgn. Med fysisk SIM-kort venter mange selskaber på, at kortet er nået frem, så regn med nogle dage fra bestilling.
+Q: Kan jeg skifte mobilabonnement, selvom jeg har binding?
+A: Ja. Nummerflytningen må ikke afhænge af, at bindingen er udløbet. Du skal dog betale de resterende måneder af bindingen til det gamle selskab. For forbrugere må bindingen højst være 6 måneder.
+Q: Koster det noget at flytte sit nummer?
+A: Nej, nummerflytningen må ikke koste noget særskilt. Du kan dog have et oprettelsesgebyr for det nye abonnement hos enkelte selskaber, og eventuel restbinding eller telefonlån hos det gamle selskab skal betales.
+Q: Hvad gør jeg, hvis min nummerflytning bliver forsinket?
+A: Kontakt først det nye selskab og spørg, hvor sagen står. Er fristen overskredet, har du ret til kompensation efter teleloven. Klag skriftligt til selskabet, og får du ikke medhold, kan du klage til <a href="https://www.teleanke.dk/" rel="noopener">Teleankenævnet</a>.
+Q: Kan jeg flytte et nummer fra et taletidskort?
+A: Ja, også numre på taletidskort kan flyttes. Du skal ofte oplyse SIM-kortets ICC-nummer for at bevise, at du ejer nummeret, da der ikke altid er et navn registreret på kortet.
+Q: Kan jeg flytte mit arbejdsnummer til et privat abonnement?
+A: Det kræver normalt, at din arbejdsgiver, som står som abonnent, giver tilladelse eller overdrager nummeret til dig. Aftal det med arbejdsgiveren, før du bestiller det nye abonnement.
+===KILDER===
+Lov om elektroniske kommunikationsnet og -tjenester, LBK nr. 681 af 16/06/2025 (§ 26-28) | https://www.retsinformation.dk/eli/lta/2025/681
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Teleankenævnet | https://www.teleanke.dk/
+Apple: Danske mobilselskaber med eSIM | https://support.apple.com/da-dk/101569
+Flexii – mobilabonnementer | https://www.flexii.dk/mobilabonnement
+Lebara | https://www.lebara.dk
+YouSee – mobilabonnementer | https://yousee.dk/mobil/abonnementer

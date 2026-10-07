@@ -1,0 +1,146 @@
+---
+slug: guides/bedste-mobilnet
+title: Bedste mobilnet i Danmark → Test og dækning ({aar})
+desc: Hvilket mobilnet er bedst? Se Opensignals 2026-tal for TDC, Norlys, Telenor og 3, hvilke selskaber kører på hvilket net, og tjek dækningen på din adresse.
+h1: Bedste mobilnet i Danmark
+kicker: Opdateret {maaned} · Opensignal og Teknologisk Institut
+answer: Der er ingen entydig vinder: I Opensignals rapport fra februar 2026 har Norlys den højeste downloadhastighed (118,8 Mbit/s), mens TDC NET har den bedste dækningsoplevelse (9,3 af 10) tæt fulgt af Telenor og Norlys (9,2). 3 er hurtig (112,2 Mbit/s), men scorer lavest på dækning (7,3). Telmore, YouSee og Lyca Mobile kører på TDC NET, Oister og Flexii på 3, og Lebara, Greentel og Duka på TT-netværket.
+lead: Vi gennemgår de fire danske mobilnet med de nyeste uafhængige målinger, viser hvilke selskaber der bruger hvilket net, og forklarer hvordan du finder det net, der virker bedst præcis der, hvor du bor.
+crumb: Bedste mobilnet
+section: guides
+related: 5g-mobilabonnement, udbydere, udbydere/telmore, udbydere/oister, billigste-mobilabonnement
+---
+<h2>Hvilket mobilnet er bedst i Danmark? Kort overblik</h2>
+<p>Danmark har fire fysiske mobilnet: TDC NET, Telenor, Norlys (tidligere Telia) og 3. Telenor og Norlys deler dog selve radionettet – master og antenner – i det fælles TT-netværk, som de ejer 50/50<sup class="ref"><a href="#kilde-3">3</a></sup>. I praksis vælger du derfor mellem tre net-familier, når du vælger mobilabonnement: TDC NET, TT-netværket eller 3.</p>
+<p>Det korte svar på, hvilket net der er bedst, er, at alle tre fungerer godt de fleste steder, og at forskellene er størst i landområder og indendørs. TDC NET og TT-netværket scorer højest på dækning, mens 3 og Norlys er hurtigst i Opensignals seneste måling. Den bedste beslutning tager du ved at tjekke din egen adresse – mere om det længere nede.</p>
+[[tabel:5g|sort=price|limit=8|titel=Billige 5G-abonnementer på alle tre net]]
+<div class="stat-grid">
+<div class="stat"><b>4</b><span>fysiske mobilnet – men kun 3 radionet</span></div>
+<div class="stat"><b>100 %</b><span>af befolkningen er dækket af 5G</span></div>
+<div class="stat"><b>85,8 %</b><span>af standardabonnementer har 5G (2H24)</span></div>
+<div class="stat"><b>9,3/10</b><span>TDC's dækningsscore hos Opensignal</span></div>
+</div>
+
+<h2>Opensignal 2026: Sådan klarer de fire net sig</h2>
+<p>Opensignal er et uafhængigt analysefirma, der måler mobilnettenes ydelse ud fra målinger på almindelige brugeres telefoner. Rapporten fra februar 2026 bygger på data indsamlet i oktober til december 2025<sup class="ref"><a href="#kilde-1">1</a></sup>. Det er altså ikke en laboratorietest, men et billede af, hvordan nettene opleves i hverdagen.</p>
+<table>
+<thead><tr><th>Mobilnet</th><th>Download-hastighed</th><th>Dækningsoplevelse (0-10)</th><th>5G-tilgængelighed</th></tr></thead>
+<tbody>
+<tr><td>Norlys</td><td>118,8 Mbit/s</td><td>9,2</td><td>92,7-94,1 %*</td></tr>
+<tr><td>3</td><td>112,2 Mbit/s</td><td>7,3</td><td>92,7-94,1 %*</td></tr>
+<tr><td>Telenor</td><td>107,4 Mbit/s</td><td>9,2</td><td>92,7-94,1 %*</td></tr>
+<tr><td>TDC NET</td><td>103,1 Mbit/s</td><td>9,3</td><td>92,7-94,1 %*</td></tr>
+</tbody>
+</table>
+<p>*Opensignal angiver 5G-tilgængelighed mellem 92,7 og 94,1 % for alle fire operatører – forskellen er så lille, at den i praksis ikke betyder noget for dit valg. Kilde: Opensignal, Denmark Mobile Network Experience Report, februar 2026<sup class="ref"><a href="#kilde-1">1</a></sup>.</p>
+<h3>Hastighed: Små forskelle i praksis</h3>
+<p>Forskellen mellem den hurtigste (Norlys, 118,8 Mbit/s) og den langsomste (TDC, 103,1 Mbit/s) er godt 15 Mbit/s. Det lyder af meget, men til de ting, de fleste bruger telefonen til, er det umærkeligt. YouTube i 1080p bruger omkring 5 Mbit/s<sup class="ref"><a href="#kilde-9">9</a></sup>, så selv flere samtidige videoer har rigeligt med plads i 100 Mbit/s. Hastighed er derfor sjældent den parameter, du skal vælge net efter.</p>
+<h3>Dækningsoplevelse: Her er forskellen størst</h3>
+<p>Dækningsoplevelsen måler, hvor ofte brugerne overhovedet har forbindelse, når de prøver at bruge telefonen. Her ligger TDC (9,3), Telenor (9,2) og Norlys (9,2) tæt, mens 3 (7,3) er markant efter. Bor du i en by, mærker du sjældent forskellen. Bor du på landet eller i et sommerhusområde, kan det være mærkbart.</p>
+
+<h2>Teknologisk Institut-målingen 2026</h2>
+<p>I februar og marts 2026 målte Teknologisk Institut mobilnetværksoplevelsen i Danmark. Målingen er bestilt og betalt af TDC NET, hvilket er værd at have i baghovedet, når man læser resultaterne<sup class="ref"><a href="#kilde-2">2</a></sup>. Det betyder ikke, at tallene er forkerte – Teknologisk Institut er en anerkendt og uafhængig institution – men det er naturligt, at et selskab offentliggør en måling, der går dets vej.</p>
+<table>
+<thead><tr><th>Mobilnet</th><th>Samlet kvalitet</th></tr></thead>
+<tbody>
+<tr><td>TDC NET</td><td>96 %</td></tr>
+<tr><td>Norlys</td><td>94 %</td></tr>
+<tr><td>Telenor</td><td>93 %</td></tr>
+<tr><td>3</td><td>91 %</td></tr>
+</tbody>
+</table>
+<p>Rækkefølgen ligner Opensignals dækningsscore: TDC øverst, TT-netværkets to operatører i midten og 3 nederst. Forskellen mellem nummer et og nummer fire er dog kun 5 procentpoint. Vores læsning er, at begge målinger peger i samme retning – TDC NET og TT-netværket har en lille fordel på stabilitet og dækning – men at alle net leverer en høj kvalitet.</p>
+<blockquote class="expert"><p>Når læsere spørger os, hvilket net de skal vælge, er svaret næsten altid: Tjek din adresse og dit arbejde. En national gennemsnitsscore siger meget lidt om, hvordan forbindelsen er i dit køkken eller i dit sommerhus.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Hvilke mobilselskaber kører på hvilket net?</h2>
+<p>De fleste mobilselskaber ejer ikke selv et net. De lejer sig ind hos en af netejerne. Det betyder, at et lavprisselskab kan give dig præcis samme dækning som et dyrt selskab på samme net. Her er fordelingen for de selskaber, vi sammenligner, og andre kendte brands<sup class="ref"><a href="#kilde-4">4</a></sup>:</p>
+<table>
+<thead><tr><th>Net</th><th>Selskaber vi sammenligner</th><th>Andre brands på nettet</th><th>Billigste normalpris hos os</th></tr></thead>
+<tbody>
+<tr><td>TDC NET</td><td><a href="/udbydere/telmore/">Telmore</a>, <a href="/udbydere/yousee/">YouSee</a>, <a href="/udbydere/lyca-mobile/">Lyca Mobile</a></td><td>Eesy, Relatel</td><td>19 kr./md. (Lyca 5 GB)</td></tr>
+<tr><td>TT-netværket (Telenor/Norlys)</td><td><a href="/udbydere/lebara/">Lebara</a>, <a href="/udbydere/greentel/">Greentel</a>, <a href="/udbydere/duka/">Duka</a></td><td>Telenor, CBB, Norlys, Call me</td><td>19 kr./md. (Lebara 5 GB)</td></tr>
+<tr><td>3 (Hi3G)</td><td><a href="/udbydere/oister/">Oister</a>, <a href="/udbydere/flexii/">Flexii</a></td><td>3</td><td>69 kr./md. (Flexii 20 GB og Oister 12 GB)</td></tr>
+</tbody>
+</table>
+<p>Interessant er, at prisniveauet er meget forskelligt på de tre net. I vores datasæt med 45 abonnementer er medianprisen 99 kr./md. på 3's net og 109 kr./md. på TT-netværket, mens den er 154 kr./md. på TDC NET. Du betaler altså typisk mere for at være på det net, der scorer højest på dækning. Om det er pengene værd, afhænger af, hvor du bor.</p>
+[[simo:Er du glad for dækningen i dag, så skift til et billigere selskab på samme net. Så får du samme forbindelse – bare billigere.]]
+<h3>Norlys og Telia – hvad skete der?</h3>
+<p>Norlys købte Telia Danmark for 6,25 mia. kr., og handlen blev gennemført i april 2024. Telia Mobil skiftede navn til Norlys Mobil den 5. maj 2025. Derfor ser du stadig nogle steder Telia nævnt i ældre målinger og artikler – det er det samme net, som i dag hedder Norlys.</p>
+
+<h2>Sådan tjekker du dækningen på din adresse</h2>
+<p>Den bedste kilde til dækning på en bestemt adresse er tjekditnet.dk<sup class="ref"><a href="#kilde-5">5</a></sup>. Her kan du indtaste en adresse og se den forventede dækning for hvert mobilnet – både udendørs og indendørs – for 4G og 5G.</p>
+<ol class="steps">
+<li><strong>Gå til tjekditnet.dk.</strong> Skriv din adresse i søgefeltet.</li>
+<li><strong>Vælg teknologi.</strong> Se på både 4G og 5G – nogle abonnementer har stadig kun 4G.</li>
+<li><strong>Sammenlign udendørs og indendørs.</strong> Indendørsdækningen er den, du mærker til daglig.</li>
+<li><strong>Tjek flere adresser.</strong> Gør det samme for din arbejdsplads, dit sommerhus og andre steder, du ofte er.</li>
+<li><strong>Spørg naboerne.</strong> Konkrete erfaringer fra folk i samme område er guld værd, især i landområder.</li>
+</ol>
+<p>Husk, at kort altid er beregninger. Et nyt hus med energiruder kan blokere signalet mere end kortet viser, og en bakke eller et skovstykke kan gøre en stor forskel. Er du i tvivl, så vælg et abonnement <a href="/mobilabonnement-uden-binding/">uden binding</a> og test det et par uger. Bestiller du online, har du desuden 14 dages fortrydelsesret.</p>
+
+<h2>Indendørs dækning: Hvorfor virker telefonen dårligt i huset?</h2>
+<p>Mange oplever god dækning udenfor, men dårlig forbindelse inde. Det skyldes typisk bygningen og ikke nettet. Moderne energiruder har en metalbelægning, der dæmper mobilsignaler, og beton, isolering og tagplader af metal kan gøre det samme. Kælderlejligheder og de inderste rum i store bygninger er særligt udsatte.</p>
+<h3>Hvad kan du gøre?</h3>
+<ul>
+<li><strong>Slå WiFi-opkald til.</strong> Det er den nemmeste og billigste løsning, hvis du har bredbånd (se næste afsnit).</li>
+<li><strong>Prøv et andet net.</strong> Frekvenser og mastens placering betyder meget. Et andet net kan sagtens være markant bedre i netop dit hus.</li>
+<li><strong>Brug en udendørsantenne</strong> til mobilt bredbånd, hvis du bruger mobilnettet som internet derhjemme. Læs mere på siden om <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</li>
+<li><strong>Gå efter 4G frem for kun 5G</strong> i de dårligste rum – lavfrekvent 4G trænger ofte bedre gennem mure end højfrekvent 5G.</li>
+</ul>
+
+<h2>WiFi-opkald: Løsningen på dårlig indendørs dækning</h2>
+<p>WiFi-opkald (også kaldet VoWiFi eller WiFi Calling) betyder, at telefonen ringer og sender SMS over dit trådløse netværk i stedet for over mobilmasten. Opkaldet foregår stadig fra dit almindelige nummer og afregnes som et normalt opkald, men lyden går via internettet. Har du dårlig dækning indendørs, men godt bredbånd, kan det løse problemet helt.</p>
+<p>Langt de fleste danske selskaber understøtter WiFi-opkald i dag – blandt andet nævner Lebara det som en fordel – men det kræver, at både selskab og telefon understøtter det. Sådan slår du det til:</p>
+<ul>
+<li><strong>iPhone:</strong> Indstillinger → Mobildata (eller Telefon) → WiFi-opkald → slå til.</li>
+<li><strong>Android:</strong> Indstillinger → Forbindelser eller Netværk → WiFi-opkald → slå til. Placeringen varierer mellem producenter.</li>
+</ul>
+
+<h2>Landområder vs. by: Hvor er forskellen størst?</h2>
+<p>I de store byer er alle tre net udbygget med mange master, og du vil sjældent opleve forskel i dækning – højst i hastighed i myldretiden. Det er på landet, i små øsamfund og i sommerhusområder, at forskellene viser sig. Her betyder afstanden til nærmeste mast og terrænet meget mere.</p>
+<p>Opensignals dækningstal peger på, at TDC NET og TT-netværket generelt klarer sig bedst uden for byerne, mens 3 halter efter. Det betyder ikke, at 3 er dårligt alle steder på landet – 3 kan sagtens have en mast tæt på dig – men det betyder, at du bør tjekke din adresse ekstra grundigt, før du vælger Oister eller Flexii, hvis du bor uden for byerne. Telenor og Norlys udbygger løbende TT-netværket med nye antenner<sup class="ref"><a href="#kilde-3">3</a></sup>, og også de øvrige net investerer, så billedet ændrer sig fra år til år.</p>
+<h3>5G og 3G-lukning</h3>
+<p>Ifølge Danmarks Statistik dækker 5G 100 % af befolkningen<sup class="ref"><a href="#kilde-6">6</a></sup>. Og ifølge telestatistikken havde 85,8 % af alle standardabonnementer adgang til 5G i andet halvår 2024<sup class="ref"><a href="#kilde-8">8</a></sup>. Samtidig er alle 3G-net lukket: TT-netværket slukkede 3G i april 2023, og 3 lukkede sit 3G-net 1. december 2025<sup class="ref"><a href="#kilde-7">7</a></sup>. Har du en meget gammel telefon, der kun kan 3G, virker den derfor ikke til data længere. Læs mere om fordelene ved 5G på siden om <a href="/5g-mobilabonnement/">5G-mobilabonnementer</a>.</p>
+
+<h2>Sådan vælger du det rigtige mobilnet</h2>
+<p>Vores anbefaling i fire trin:</p>
+<ol class="steps">
+<li><strong>Bor du i en by:</strong> Vælg efter pris. Alle tre net fungerer godt, og du kan spare mange penge på et lavprisselskab.</li>
+<li><strong>Bor du på landet:</strong> Tjek tjekditnet.dk for din adresse. TDC NET og TT-netværket er det sikre valg ifølge målingerne, men 3 kan være fint lokalt.</li>
+<li><strong>Har du dårlig dækning indendørs:</strong> Slå WiFi-opkald til, før du skifter. Det løser ofte problemet.</li>
+<li><strong>Er du i tvivl:</strong> Vælg et abonnement uden binding, og test nettet i et par uger. Du kan altid <a href="/guides/skift-mobilabonnement/">skifte og beholde dit nummer</a>.</li>
+</ol>
+<h3>Regneeksempel: Hvad koster dækningen?</h3>
+<p>Vil du have fri tale og cirka 100 GB på TDC NET, koster det 249 kr./md. hos YouSee – eller 99 kr./md. hos Lyca Mobile, der også kører på TDC NET. På TT-netværket får du fri tale og 100 GB hos Lebara for 99 kr./md., og på 3's net får du 100 GB hos Oister for 79 kr. de første seks måneder og derefter 109 kr. Forskellen mellem YouSee og Lebara/Lyca er 150 kr. om måneden – 1.800 kr. om året. Prisforskellen handler altså mere om selskab og service end om net.</p>
+<div class="proscons"><div class="pros"><h4>Fordele ved TDC NET</h4><ul><li>Højeste dækningsscore i begge målinger</li><li>Stabil forbindelse i landområder</li><li>Bredt udvalg hos Telmore, YouSee og Lyca Mobile</li></ul></div><div class="cons"><h4>Ulemper ved TDC NET</h4><ul><li>Højere medianpris end på de andre net</li><li>Lavest downloadhastighed hos Opensignal</li><li>Færre lavprisselskaber at vælge imellem end på TT-netværket</li></ul></div></div>
+<p>Vil du se alle selskaber samlet med net og karakterer, så se vores <a href="/udbydere/">oversigt over mobilselskaber</a>. Og vil du finde de billigste abonnementer uanset net, finder du dem på <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
+
+<h2>Sådan har vi sammenlignet mobilnettene</h2>
+<p>Vi har ikke selv lavet en national måling af mobilnettene – det kræver tusindvis af målinger over hele landet. I stedet bruger vi de nyeste uafhængige målinger fra Opensignal og Teknologisk Institut, og vi oplyser altid, hvem der har bestilt en måling. Selskabernes netkarakter i vores vurderinger bygger på disse kilder. Læs mere på siden om <a href="/metode/">vores metode</a>.</p>
+===FAQ===
+Q: Hvilket mobilnet har den bedste dækning i Danmark?
+A: Ifølge Opensignal (februar 2026) har TDC NET den bedste dækningsoplevelse med 9,3 af 10, tæt fulgt af Telenor og Norlys med 9,2. 3 scorer 7,3. Teknologisk Institut-målingen, som TDC NET bestilte, giver samme rækkefølge.
+Q: Hvilket mobilnet er hurtigst?
+A: I Opensignals rapport fra februar 2026 har Norlys den højeste gennemsnitlige downloadhastighed med 118,8 Mbit/s, fulgt af 3 med 112,2, Telenor med 107,4 og TDC med 103,1 Mbit/s.
+Q: Hvilket net bruger Lebara?
+A: Lebara bruger TT-netværket, som Telenor og Norlys deler. Det samme gør Greentel og Duka, mens Lyca Mobile – ligesom Telmore og YouSee – kører på TDC NET.
+Q: Hvilket net bruger Telmore og YouSee?
+A: Både Telmore og YouSee kører på TDC NET, som de deler med blandt andet Eesy og Relatel. Alle er en del af TDC-koncernen.
+Q: Hvilket net bruger Oister og Flexii?
+A: Oister og Flexii er begge ejet af Hi3G og kører på 3's mobilnet.
+Q: Hvordan tjekker jeg dækningen på min adresse?
+A: Brug <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a>, hvor du kan se forventet dækning for hvert net, både indendørs og udendørs og for 4G og 5G. Tjek også din arbejdsplads og andre steder, du ofte opholder dig.
+Q: Hvad er WiFi-opkald?
+A: WiFi-opkald lader telefonen ringe og sende SMS via dit trådløse netværk i stedet for mobilmasten. Det er en god løsning, hvis du har dårlig dækning indendørs, og det slås til i telefonens indstillinger.
+Q: Kan jeg stadig bruge 3G i Danmark?
+A: Nej. TT-netværket lukkede 3G i april 2023, og 3 lukkede sit 3G-net 1. december 2025. Telefoner, der kun understøtter 3G, kan ikke længere bruge mobildata.
+===KILDER===
+Opensignal: Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Teknologisk Institut: Måling af mobilnetværksoplevelse (bestilt af TDC NET), april 2026 | https://tdcnet.dk/media/1geazoql/maaling-af-mobilnetvaerksoplevelse-rapport-30-04-2026.pdf
+Ritzau: Norlys og Telenor udbygger deres fælles mobilnetværk | https://via.ritzau.dk/pressemeddelelse/14251151/norlys-og-telenor-udbygger-deres-faelles-mobilnetvaerk-med-rekordmange-nye-mobilantenner-i-ar?lang=da
+Digitaliseringsstyrelsen: Udbyderliste og koncerner 2025 | https://digst.dk/media/f2lbwqjn/udbyderliste-og-koncerncer-2025.pdf
+Tjek dit net | https://tjekditnet.dk
+Danmarks Statistik: SDG 9.c.1 – mobilnetdækning | https://www.dst.dk/da/Statistik/temaer/SDG/globale-verdensmaal/09-industri-innovation-og-infrastruktur/delmaal-c/indikator-1
+3: 3G lukker | https://www.3.dk/info/3g-lukker/
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+YouTube Hjælp: Anbefalede bitrates | https://support.google.com/youtube/answer/78358

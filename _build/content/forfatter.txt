@@ -1,0 +1,84 @@
+---
+slug: forfatter/emil-rostgaard-clausen
+title: Emil Rostgaard Clausen → Redaktør på telefonabonnementer.dk
+desc: Mød Emil Rostgaard Clausen, redaktør på telefonabonnementer.dk. Læs om hans baggrund, hvordan han tjekker priser, og hvilke guides han har skrevet.
+h1: Emil Rostgaard Clausen
+kicker: Ansvarshavende redaktør · Emro Media
+answer: Emil Rostgaard Clausen er ansvarshavende redaktør og forfatter på telefonabonnementer.dk og driver Emro Media, der udgiver forbrugersammenligninger. Han har baggrund i digital markedsføring og dataanalyse og står for prisopsamling, karaktergivning og faktatjek af alle sider på sitet.
+lead: Her kan du læse, hvem der skriver og står inde for indholdet på telefonabonnementer.dk, hvordan han arbejder med priser og kilder, og hvordan du kommer i kontakt med ham.
+crumb: Emil Rostgaard Clausen
+section: om
+related: metode, redaktionel-politik, om-os, kontakt
+---
+<h2>Hvem er Emil Rostgaard Clausen?</h2>
+<p>Emil Rostgaard Clausen er ansvarshavende redaktør på telefonabonnementer.dk og den person, der skriver, redigerer og godkender indholdet på sitet. Han driver virksomheden Emro Media fra Aarhus, som udgiver sammenligninger og guides til danske forbrugere – blandt andet inden for forsikring, bolig og nu også telefoni.</p>
+<p>Fælles for alle Emro Medias sites er idéen om, at det skal være let at se, hvad man faktisk får for pengene. Mobilabonnementer er et godt eksempel på et marked, hvor det ikke er let: Priserne skifter ofte, kampagnepriser fylder mere end normalpriserne, og forskellen på 40 GB og fri data er svær at mærke, før man har prøvet begge dele. Det var udgangspunktet for at starte telefonabonnementer.dk.</p>
+
+<h2>Baggrund og erfaring</h2>
+<p>Emil har en baggrund i digital markedsføring og dataanalyse. Det betyder i praksis, at han i en årrække har arbejdet med at indsamle, rense og sammenligne data – og med at formidle dem, så de giver mening for almindelige læsere. Han har flere års erfaring med at analysere forbrugerpriser og vilkår på tværs af brancher, hvor små forskelle i det med småt ofte betyder mere for regningen end den pris, der står med store tal på forsiden.</p>
+<p>Erfaringen fra forsikrings- og boligområdet har givet en fast arbejdsgang, som også bruges her: Først findes den pris, du rent faktisk kommer til at betale over et år. Derefter kigges der på vilkårene – binding, opsigelse, gebyrer, prisstigninger – og først til sidst på de ting, selskaberne selv helst vil tale om.</p>
+<p>Som forbruger har Emil selv skiftet mobilselskab flere gange og bruger i dag eSIM. Det giver en praktisk viden om, hvordan et skifte foregår i virkeligheden: hvor lang tid nummerflytningen tager, hvad der sker med det gamle abonnement, og hvor man typisk støder på bøvl. Den viden bruger vi, når vi skriver guides som <a href="/guides/skift-mobilabonnement/">sådan skifter du mobilabonnement</a> og <a href="/esim/">guiden til eSIM</a>.</p>
+
+<h2>Ekspertiseområder</h2>
+<p>På telefonabonnementer.dk har Emil ansvaret for alle sider, men hans faglige fokus ligger især her:</p>
+<ul>
+<li><strong>Prissammenligning og totalpris.</strong> Omregning af kampagnepriser til en reel 12-måneders pris, pris pr. GB og sammenligning af abonnementer, der ikke umiddelbart ligner hinanden.</li>
+<li><strong>Vilkår og forbrugerregler.</strong> Binding, opsigelse, nummerflytning og varsling af prisændringer, med udgangspunkt i slutbrugerbekendtgørelsen og teleloven.</li>
+<li><strong>Mobilnet og dækning.</strong> Hvilke net de forskellige selskaber kører på, og hvordan uafhængige målinger fra fx Opensignal skal læses.</li>
+<li><strong>Roaming og data i udlandet.</strong> EU's regler om "roam like at home" og fair use-grænser på abonnementer med store datamængder.</li>
+<li><strong>Markedsdata.</strong> Udvikling i priser og forbrug ud fra Danmarks Statistik og Digitaliseringsstyrelsens telestatistik.</li>
+</ul>
+
+<h2>Sådan arbejder Emil med priser og kilder</h2>
+<h3>Prisopsamling direkte hos udbyderne</h3>
+<p>Alle priser på sitet hentes fra udbydernes egne prissider. Hvor vi har et samarbejde, bruges partnerens produktfeed som supplement, men prisen sammenholdes altid med det, der står på udbyderens egen side. Seneste fulde gennemgang af priserne blev lavet 7. oktober 2026, og priserne opdateres løbende, når selskaberne ændrer dem. Når en kampagne har en udløbsdato, noteres den, så siden kan rettes, når tilbuddet slutter.</p>
+<h3>Kildekritik</h3>
+<p>Emil skelner skarpt mellem kilder. Officielle tal fra myndigheder som Digitaliseringsstyrelsen og Danmarks Statistik vægtes højest. Uafhængige målinger bruges med angivelse af, hvem der står bag – fx er det tydeligt markeret på vores sider, at Teknologisk Instituts måling af mobilnettene fra 2026 er bestilt af TDC NET. Udbydernes egne markedsføringstal ("Danmarks bedste net" og lignende) bruges ikke som dokumentation.</p>
+<h3>Ingen opdigtede tal</h3>
+<p>Hvis vi ikke kan dokumentere et tal, skriver vi det ikke. Hvor vi bruger skøn – fx hvor meget data en time på sociale medier bruger – står det tydeligt, at der er tale om et redaktionelt skøn. Du kan læse hele fremgangsmåden på siden <a href="/metode/">Sådan sammenligner og bedømmer vi</a>.</p>
+<h3>Uafhængighed</h3>
+<p>Telefonabonnementer.dk kan tjene penge, når du skifter via vores links. Det påvirker ikke karaktererne, og ingen udbyder kan købe sig til en bedre placering. Emil er personligt ansvarlig for, at den regel bliver overholdt. Læs mere i vores <a href="/annoncoeroplysning/">annoncøroplysning</a> og <a href="/redaktionel-politik/">redaktionelle politik</a>.</p>
+
+<blockquote class="expert"><p>Det vigtigste råd, jeg kan give, er at regne på hele året og ikke kun den første måned. En kampagnepris på 26 kr. ser fantastisk ud, men det er normalprisen, du betaler i de næste ti måneder.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Sider skrevet af Emil Rostgaard Clausen</h2>
+<p>Emil har skrevet eller redigeret alle sider på telefonabonnementer.dk. Her er et udvalg:</p>
+<ul>
+<li><a href="/billigste-mobilabonnement/">Billigste mobilabonnement</a> – overblik over de billigste abonnementer lige nu, fra 19 kr./md.</li>
+<li><a href="/mobilabonnement-fri-data/">Mobilabonnement med fri data</a> – sammenligning af fri data, fair use og normalpris efter kampagnen.</li>
+<li><a href="/fri-tale/">Fri tale</a> – de billigste abonnementer med fri tale og data.</li>
+<li><a href="/5g-mobilabonnement/">5G-mobilabonnement</a> – hvem tilbyder 5G, og hvornår betyder det noget.</li>
+<li><a href="/mobilabonnement-udlandet/">Mobilabonnement til udlandet</a> – EU-roaming, fair use og lande uden for EU.</li>
+<li><a href="/mobilabonnement-boern/">Mobilabonnement til børn</a> – billige abonnementer med styr på forbruget.</li>
+<li><a href="/esim/">eSIM</a> – hvilke selskaber understøtter eSIM, og hvordan du aktiverer det.</li>
+<li><a href="/guides/skift-mobilabonnement/">Sådan skifter du mobilabonnement</a> – trin for trin, inkl. dine rettigheder ved nummerflytning.</li>
+<li><a href="/guides/bedste-mobilnet/">Hvilket mobilnet er bedst?</a> – gennemgang af de fire danske mobilnet og uafhængige målinger.</li>
+<li><a href="/guides/mobilpriser-statistik/">Mobilpriser i tal</a> – hvordan priserne har udviklet sig ifølge Danmarks Statistik.</li>
+</ul>
+<p>Du kan også se alle selskaber samlet på <a href="/udbydere/">oversigten over udbydere</a>.</p>
+
+<h2>Redaktionelt ansvar</h2>
+<p>Som ansvarshavende redaktør står Emil inde for, at indholdet på sitet er korrekt efter bedste evne, at kilder er angivet, og at fejl bliver rettet hurtigt. Hvis du finder en forkert pris eller en upræcis oplysning, går henvendelsen direkte til ham. Rettelser foretages som regel samme dag, som vi har kunnet bekræfte fejlen hos udbyderen eller i den oprindelige kilde.</p>
+<p>Emil bruger digitale værktøjer, herunder AI-assisterede skriveværktøjer, i arbejdet med at strukturere og formulere tekster. Alle tal, priser og påstande kontrolleres dog manuelt mod kilderne, før de bliver publiceret, og ingen tekst udgives uden redaktionel gennemlæsning.</p>
+
+<h2>Kontakt Emil</h2>
+<p>Du er velkommen til at skrive, hvis du har spørgsmål til en sammenligning, har fundet en fejl eller er journalist og vil bruge vores data.</p>
+<ul>
+<li><strong>E-mail:</strong> <a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/emil-rostgaard-702809195/" rel="noopener">Emil Rostgaard Clausen på LinkedIn</a></li>
+<li><strong>Post:</strong> Emro Media, Lundbyesgade 13, 8000 Aarhus C</li>
+<li><strong>CVR:</strong> <a href="https://datacvr.virk.dk/enhed/virksomhed/46727533" rel="noopener">46727533</a></li>
+</ul>
+<p>Vi svarer typisk inden for 2 hverdage. Bemærk, at vi ikke er et teleselskab og derfor ikke kan hjælpe med regninger eller dit konkrete abonnement – se mere på <a href="/kontakt/">kontaktsiden</a>.</p>
+===FAQ===
+Q: Hvem skriver artiklerne på telefonabonnementer.dk?
+A: Alle sider skrives eller redigeres af Emil Rostgaard Clausen, der er ansvarshavende redaktør og driver udgiveren Emro Media. Han står for prisopsamling, karakterer og faktatjek.
+Q: Er Emil Rostgaard Clausen ansat hos et teleselskab?
+A: Nej. Emil er ikke ansat hos eller ejer af noget teleselskab. Telefonabonnementer.dk udgives af Emro Media, som er uafhængig af udbyderne. Vi kan modtage provision, når du skifter via vores links, hvilket er beskrevet i vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.
+Q: Hvordan sikrer redaktøren, at priserne er korrekte?
+A: Priserne hentes fra udbydernes egne prissider og sammenholdes med partnerfeeds. Seneste fulde gennemgang var 7. oktober 2026, og priserne opdateres løbende. Fremgangsmåden står på siden om vores <a href="/metode/">metode</a>.
+Q: Hvordan kontakter jeg Emil, hvis jeg finder en fejl?
+A: Skriv til kontakt@forsikringspakken.dk med et link til siden og en beskrivelse af fejlen. Vi svarer typisk inden for 2 hverdage og retter bekræftede fejl hurtigst muligt.
+===KILDER===
+Emil Rostgaard Clausen – LinkedIn-profil | https://www.linkedin.com/in/emil-rostgaard-702809195/
+Emro Media – CVR-registrering, Erhvervsstyrelsen | https://datacvr.virk.dk/enhed/virksomhed/46727533

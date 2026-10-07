@@ -1,0 +1,142 @@
+---
+slug: mobilabonnement-fri-data
+title: Mobilabonnement med fri data → Fra {fra:fri-data} kr. ({maaned})
+desc: Sammenlign mobilabonnementer med fri data i {maaned}. Fri data og 5G fra 129 kr./md., EU-data op til 83 GB. Se fair use og om 1000 GB er billigere.
+h1: Mobilabonnement med fri data
+kicker: Opdateret {maaned} · 6 abonnementer med fri data sammenlignet
+answer: Det billigste mobilabonnement med fri data er Flexii til 149 kr./md. (129 kr./md. det første år) med fri tale, 5G og 40 GB EU-data, men med en fair use-grænse på 2 TB. Oister og Duka koster 199 kr./md., Telmore 249 kr. og YouSee 299 kr. Bruger du under 1000 GB, er Duka 1000 GB til 179 kr. billigere end alle fri data-abonnementer på normalpris.
+lead: Vi har sammenlignet alle seks abonnementer med fri data fra de otte udbydere, vi dækker, og regnet EU-data, fair use og pris pr. måned igennem. Du får også svar på, om du overhovedet har brug for fri data – eller om 1000 GB er det klogere køb.
+crumb: Fri data
+section: typer
+related: billigste-mobilabonnement, mobilt-bredbaand, mobilabonnement-streaming, mobilabonnement-udlandet, udbydere/flexii
+---
+<h2>Hvilke mobilabonnementer har fri data?</h2>
+<p>Seks abonnementer i vores sammenligning har fri data i Danmark: Flexii, Oister, Duka, Telmore, YouSee og Telmore Play. Alle seks har også fri tale og 5G. Prisen spænder fra 129 kr. om måneden (Flexii det første år) til 399 kr. (Telmore Play med tre streamingtjenester). Der er altså op til 270 kr. om måneden – eller 3.240 kr. om året – til forskel på abonnementer, som i Danmark giver dig præcis det samme: ubegrænset data.</p>
+<p>Forskellene ligger i tre ting: hvilket mobilnet du kører på, hvor meget data du må bruge i EU, og hvilke ekstra ydelser der følger med. Nedenfor ser du alle seks sorteret efter pris.</p>
+[[tabel:fri-data|sort=price|titel=Alle mobilabonnementer med fri data i {maaned}]]
+<table>
+<thead><tr><th>Abonnement</th><th>Net</th><th>EU-data</th><th>Normalpris</th><th>Kampagne</th><th>Pris første år</th></tr></thead>
+<tbody>
+<tr><td>Flexii fri tale + fri data</td><td>3</td><td>40 GB</td><td>149 kr.</td><td>129 kr. første år</td><td>1.548 kr.</td></tr>
+<tr><td>Oister fri tale + fri data</td><td>3</td><td>40 GB</td><td>199 kr.</td><td>139 kr. i 6 mdr.</td><td>2.028 kr.</td></tr>
+<tr><td>Duka fri tale + fri data</td><td>TT-netværket</td><td>40 GB</td><td>199 kr.</td><td>–</td><td>2.388 kr.</td></tr>
+<tr><td>Telmore fri tale + fri data</td><td>TDC NET</td><td>49 GB</td><td>249 kr.</td><td>–</td><td>2.988 kr.</td></tr>
+<tr><td>YouSee fri tale + fri data</td><td>TDC NET</td><td>70 GB</td><td>299 kr.</td><td>–</td><td>3.588 kr.</td></tr>
+<tr><td>Telmore Play (fri data + 3 streaming)</td><td>TDC NET</td><td>83 GB</td><td>399 kr.</td><td>99 kr. første md.</td><td>4.488 kr.</td></tr>
+</tbody>
+</table>
+<div class="keypoints"><h3>Det vigtigste</h3><ul><li>Billigst: Flexii, 129 kr./md. første år og 149 kr. derefter – men fair use på 2 TB</li><li>Billigst på TDC NET: Telmore, 249 kr./md.</li><li>Mest EU-data: Telmore Play med 83 GB og YouSee med 70 GB</li><li>Bruger du under 1000 GB, er Duka 1000 GB til 179 kr. billigere end fri data hos alle andre end Flexii</li></ul></div>
+
+<h2>Hvad betyder fri data egentlig?</h2>
+<p>Fri data betyder, at du kan bruge så meget mobildata i Danmark, som du vil, uden at hastigheden bliver sat ned, og uden at du skal købe ekstra pakker. Du kan streame film i høj kvalitet, se fodbold på mobilen og bruge telefonen som hotspot til computeren, uden at tænke over et loft.</p>
+<p>Men "fri" gælder i praksis kun i Danmark. I EU har alle abonnementer med fri data et fast antal GB, som du kan bruge til hjemmepris, og det tal er langt lavere end den ubegrænsede mængde hjemme. Desuden har nogle udbydere en fair use-grænse, som skal forhindre misbrug, for eksempel at abonnementet bruges som fast internet til en hel virksomhed. Flexii skriver det direkte: fair use er 2 TB om måneden. Det svarer til 2.000 GB, og det rammer meget få almindelige brugere.</p>
+<h3>Hvor meget er 2 TB?</h3>
+<p>For at give en fornemmelse: Netflix i HD bruger op til 3 GB i timen, og i 4K op til 7 GB i timen<sup class="ref"><a href="#kilde-4">4</a></sup>. Med 2 TB kan du altså se omkring 660 timer HD eller 285 timer 4K om måneden. Det er mere end 20 timer HD-video hver eneste dag. Et gennemsnitligt dansk mobilabonnement brugte 26,9 GB om måneden i andet halvår af 2024<sup class="ref"><a href="#kilde-1">1</a></sup>, så fair use-grænsen er cirka 75 gange gennemsnittet. Fair use er relevant, hvis du bruger mobilen som eneste internet i en husstand med flere personer, der streamer meget.</p>
+
+<h2>Hvem har brug for fri data?</h2>
+<p>Danskernes dataforbrug stiger år for år. Den samlede mobildata i Danmark var omkring 1,5 mio. TB i andet halvår af 2024, en stigning på 121 % i forhold til fire år tidligere, og gennemsnittet pr. abonnement steg 20,8 % på et år<sup class="ref"><a href="#kilde-1">1</a></sup>. Alligevel er de fleste langt fra at have brug for ubegrænset data. Fri data er typisk det rigtige valg, hvis du:</p>
+<ul>
+<li>bruger mobilen som eneste internetforbindelse og deler den med computer eller tv,</li>
+<li>pendler meget og streamer video eller tv i toget eller bussen,</li>
+<li>arbejder hjemmefra via hotspot og har mange videomøder (et Zoom-møde i 720p bruger omkring 0,8 GB ned og 1,2 GB op pr. time),</li>
+<li>bare ikke vil tænke på forbruget – også det er en gyldig grund, så længe du kender prisen.</li>
+</ul>
+<p>Bruger du derimod 20-60 GB om måneden, betaler du let 100 kr. eller mere om måneden for en frihed, du ikke bruger. Lebara giver 70 GB med fri tale for 59 kr., og Flexii giver 150 GB med 5G for 109 kr. Er du i tvivl om dit forbrug, så prøv beregneren herunder, eller læs guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>.</p>
+[[vaerktoej:databeregner]]
+
+<h2>Fri data vs. 1000 GB: hvornår er 1000 GB bedre?</h2>
+<p>Her ligger den største skjulte besparelse på markedet. Duka sælger fri tale + 1000 GB med 5G for 179 kr. om måneden, og Greentel har det samme for 189 kr. Begge kører på TT-netværket (Telenor/Norlys). 1000 GB er 37 gange det danske gennemsnit, og i praksis opleves det som fri data for næsten alle.</p>
+<table>
+<thead><tr><th>Sammenligning</th><th>Pris/md.</th><th>Pris/år</th><th>Forskel/år vs. Duka 1000 GB</th></tr></thead>
+<tbody>
+<tr><td>Duka 1000 GB</td><td>179 kr.</td><td>2.148 kr.</td><td>–</td></tr>
+<tr><td>Greentel 1000 GB</td><td>189 kr.</td><td>2.268 kr.</td><td>+120 kr.</td></tr>
+<tr><td>Flexii fri data (normalpris)</td><td>149 kr.</td><td>1.788 kr.</td><td>−360 kr.</td></tr>
+<tr><td>Duka fri data</td><td>199 kr.</td><td>2.388 kr.</td><td>+240 kr.</td></tr>
+<tr><td>Oister fri data (normalpris)</td><td>199 kr.</td><td>2.388 kr.</td><td>+240 kr.</td></tr>
+<tr><td>Telmore fri data</td><td>249 kr.</td><td>2.988 kr.</td><td>+840 kr.</td></tr>
+<tr><td>YouSee fri data</td><td>299 kr.</td><td>3.588 kr.</td><td>+1.440 kr.</td></tr>
+</tbody>
+</table>
+<p>Konklusionen er klar: <a href="/udbydere/flexii/">Flexii</a> er det eneste fri data-abonnement, der er billigere end 1000 GB-pakkerne. Alle andre koster mere. Skal du vælge mellem <a href="/udbydere/duka/">Dukas</a> egne abonnementer, sparer du 240 kr. om året ved at tage 1000 GB frem for fri data, og de to abonnementer har næsten samme EU-data (35 GB mod 40 GB). Medmindre du reelt bruger over 1.000 GB om måneden, er der ingen grund til at betale de 20 kr. ekstra.</p>
+<p>Hvornår er fri data så bedre end 1000 GB? Hvis du vil på TDC NET, som har den højeste dækningsscore i Opensignals måling, og som Telmore og YouSee bruger. Hvis du vil have mest muligt EU-data. Eller hvis du vil have streaming med i prisen. Og selvfølgelig, hvis du bruger mobilen som internet til hele husstanden og nærmer dig 1 TB. Så kan det også være værd at overveje et rigtigt <a href="/mobilt-bredbaand/">mobilt bredbånd</a> ved siden af telefonen.</p>
+[[simo:Har du fri data, men bruger under 100 GB om måneden? Så kan du typisk spare 50-150 kr. om måneden ved at gå ned i en pakke med 150-200 GB.]]
+
+<h2>EU-data på fri data: sådan regnes din grænse ud</h2>
+<p>Når du rejser i EU, gælder reglen "Roam like at home", som ifølge EU-forordning 2022/612 er gældende til 30. juni 2032<sup class="ref"><a href="#kilde-2">2</a></sup>. Den omfatter EU-landene plus Norge, Island og Liechtenstein, og fra 1. januar 2026 også Ukraine og Moldova. Storbritannien og Schweiz er ikke omfattet, og der afhænger det af selskabet.</p>
+<p>Men fri data i Danmark betyder ikke fri data i EU. Reglerne tillader udbyderen at sætte en fair use-grænse for data i EU, når du har et abonnement med fri eller meget data. Grænsen skal mindst være:</p>
+<div class="callout"><p><strong>Formel:</strong> EU-data (GB) ≥ 2 × (månedspris ekskl. moms ÷ engrosloftet pr. GB). Engrosloftet er 1,30 € pr. GB i 2026 og falder til 1,10 € i 2027<sup class="ref"><a href="#kilde-3">3</a></sup>.</p></div>
+<h3>Regneeksempel med Flexii</h3>
+<p>Flexiis fri data koster 149 kr. om måneden. Uden 25 % moms er det 119,20 kr. Omregnet med euroens faste kurs på cirka 7,46 kr. er det 15,98 €. Delt med 1,30 € giver det 12,3, og ganget med 2 giver det en minimumsgrænse på cirka 24,6 GB. Flexii giver faktisk 40 GB i EU, altså mere end lovens minimum.</p>
+<table>
+<thead><tr><th>Abonnement</th><th>Pris/md.</th><th>Lovens minimum (ca.)</th><th>Udbyderen giver</th></tr></thead>
+<tbody>
+<tr><td>Flexii fri data</td><td>149 kr.</td><td>24,6 GB</td><td>40 GB</td></tr>
+<tr><td>Oister fri data</td><td>199 kr.</td><td>32,8 GB</td><td>40 GB</td></tr>
+<tr><td>Duka fri data</td><td>199 kr.</td><td>32,8 GB</td><td>40 GB</td></tr>
+<tr><td>Telmore fri data</td><td>249 kr.</td><td>41,1 GB</td><td>49 GB</td></tr>
+<tr><td>YouSee fri data</td><td>299 kr.</td><td>49,3 GB</td><td>70 GB</td></tr>
+<tr><td>Telmore Play</td><td>399 kr.</td><td>65,8 GB</td><td>83 GB</td></tr>
+</tbody>
+</table>
+<p>Minimumsgrænsen regnes ud fra den pris, du betaler. Det betyder i princippet, at en lavere intropris giver et lavere lovkrav, men udbyderne angiver i praksis et fast tal pr. abonnement. Bruger du mere end grænsen, må udbyderen opkræve et tillæg på højst 1,30 € pr. GB i 2026. Uden for EU spærres data som udgangspunkt, når du har brugt for 50 €, medmindre du selv har valgt en anden grænse.</p>
+<p>Rejser du ofte eller længe, så brug roaming-beregneren herunder til at se, hvor langt din EU-data rækker. Rejser du uden for EU, kan Dukas 30 GB + World til 139 kr. være et alternativ, fordi det inkluderer data i lande som USA, Canada, Thailand og Tyrkiet. Se flere muligheder på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+[[vaerktoej:roaming]]
+
+<h2>Kan du bruge fri data som hotspot?</h2>
+<p>Som udgangspunkt ja. Hotspot er en funktion i telefonen, og du kan dele forbindelsen med computer, tablet eller en anden telefon. Tjek dog altid udbyderens vilkår for fair use, før du bruger mobilen som fast internet. Det er en af de største fordele ved fri data: du kan erstatte en separat dataforbindelse til computeren og spare et ekstra abonnement.</p>
+<p>Der er dog et par ting at være opmærksom på. For det første tæller hotspot med i fair use – hos Flexii altså de 2 TB. For det andet bliver telefonen varm og bruger meget strøm som hotspot, så den bør sidde i opladeren ved længere brug. Og for det tredje er en telefon ikke bygget til at være router for en hel husstand. Skal mobilen erstatte fast internet hjemme, giver en router med et rent dataabonnement ofte bedre signal og stabilitet. I andet halvår af 2024 var der 827.152 rene dataabonnementer i Danmark<sup class="ref"><a href="#kilde-1">1</a></sup>, så det er en udbredt løsning. Læs mere om <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
+<p>Flere udbydere tilbyder desuden ekstra datakort, som deler af abonnementets data. <a href="/udbydere/telmore/">Telmore</a> har op til 3 ekstra datakort, så du kan sætte et SIM-kort i en tablet eller en bil uden at bruge telefonen som hotspot.</p>
+
+<h2>Fri data med streaming: er Telmore Play og Oister pengene værd?</h2>
+<p>Telmore Play koster 399 kr. om måneden og giver fri data, fri tale, 83 GB EU-data og tre streamingtjenester. Første måned koster 99 kr. Sammenlignet med Telmores almindelige fri data til 249 kr. betaler du altså 150 kr. om måneden for de tre streamingtjenester og 34 GB ekstra EU-data. Om det er en god handel, afhænger helt af, om du i forvejen betaler for tre tjenester. Betaler du kun for én, er det dyrt.</p>
+<p>Oister har også et streamingabonnement til 169 kr. med 45 GB og én tjeneste efter eget valg (Disney+, Viaplay, TV 2 Play, Podimo eller Deezer). Det er ikke fri data, men for mange er 45 GB nok, hvis de primært streamer over WiFi derhjemme. Vi har samlet alle streamingpakker på siden om <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
+
+<h2>Hvilket net er bedst til fri data?</h2>
+<p>Med fri data betyder hastigheden mere, fordi du bruger mobilen til tunge opgaver. Opensignals rapport fra februar 2026 (data fra oktober-december 2025) viste en gennemsnitlig downloadhastighed på 118,8 Mbit/s hos Norlys, 112,2 hos 3, 107,4 hos Telenor og 103,1 hos TDC<sup class="ref"><a href="#kilde-5">5</a></sup>. Til gengæld fik TDC den højeste dækningsscore (9,3 af 10), Telenor og Norlys 9,2 og 3 kun 7,3.</p>
+<p>Det betyder groft sagt: Flexii og Oister (3's net) er billigst og hurtige i byerne, men 3's dækning er svagere i landområder. Duka og Greentel kører på TT-netværket med høj hastighed og god dækning. Telmore og YouSee på TDC NET har den bedste dækningsscore, men koster mest. Bor du på landet, så tjek din adresse på tjekditnet.dk, før du vælger. Mere om netværkene i guiden til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
+
+<h2>Fordele og ulemper ved fri data</h2>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Du skal aldrig tænke på forbruget i Danmark</li><li>Kan erstatte et ekstra dataabonnement via hotspot</li><li>Alle seks abonnementer har 5G og fri tale</li><li>Op til 83 GB EU-data</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Koster 129-399 kr. om måneden</li><li>EU-data er begrænset trods "fri" data</li><li>Fair use kan gælde (Flexii 2 TB)</li><li>1000 GB er ofte billigere og i praksis lige så godt</li></ul></div></div>
+<blockquote class="expert"><p>Vores råd er enkelt: Tjek dit forbrug. Ligger du under 200 GB om måneden, er fri data næsten altid spild af penge. Ligger du over, er Flexii den billigste løsning – og hvis 3's net ikke dækker godt der, hvor du bor, er Dukas 1000 GB på TT-netværket det bedste alternativ.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Sådan vælger du det rigtige abonnement med fri data</h2>
+<ol class="steps">
+<li><strong>Bekræft, at du har brug for det.</strong> Se dit forbrug de seneste tre måneder. Under 200 GB? Så kig på store datapakker i stedet.</li>
+<li><strong>Tjek dækningen.</strong> Brug tjekditnet.dk på din adresse og på arbejdet, og vælg net derefter.</li>
+<li><strong>Se på EU-dataen.</strong> Rejser du meget i Europa, kan 70-83 GB hos YouSee eller Telmore Play være værd at betale for.</li>
+<li><strong>Regn prisen over 12 og 24 måneder.</strong> Intropriserne hos Flexii og Oister udløber, og så stiger prisen med 20-60 kr. om måneden.</li>
+<li><strong>Bestil med nummerflytning.</strong> Du beholder dit nummer, og det flyttes senest ved udgangen af næste arbejdsdag. Vælger du <a href="/esim/">eSIM</a>, er du kørende samme dag. Se guiden <a href="/guides/skift-mobilabonnement/">skift mobilabonnement</a>.</li>
+</ol>
+[[simo:Ingen af abonnementerne med fri data har binding ud over opsigelsesperioden. Er 3's net for svagt hjemme hos dig, kan du skifte videre uden at betale for det.]]
+[[cta:flexii]]
+
+<h2>Sådan har vi sammenlignet abonnementer med fri data</h2>
+<p>Vi har gennemgået alle abonnementer med ubegrænset data hos de otte udbydere, vi dækker, og noteret normalpris, intropris, EU-data, net og ekstra ydelser. Priserne er tjekket 7. oktober 2026 på udbydernes egne sider. Lovens minimum for EU-data har vi selv regnet ud efter formlen fra EU's regler, med en eurokurs på ca. 7,46 kr. Vi ser også på abonnementer med 1000 GB, fordi de i praksis konkurrerer direkte med fri data. Læs hele fremgangsmåden under <a href="/metode/">sådan sammenligner vi</a>.</p>
+===FAQ===
+Q: Hvad er det billigste mobilabonnement med fri data?
+A: Flexii er billigst med fri tale, fri data og 5G for 129 kr./md. det første år og 149 kr./md. derefter. Der gælder en fair use-grænse på 2 TB om måneden. Oister koster 139 kr. i 6 måneder og derefter 199 kr.
+Q: Er fri data virkelig ubegrænset?
+A: I Danmark ja, men nogle udbydere har en fair use-grænse mod misbrug – hos Flexii er den 2 TB om måneden. I EU har alle fri data-abonnementer et fast antal GB, typisk 40-83 GB.
+Q: Hvor meget EU-data får jeg med fri data?
+A: Flexii, Oister og Duka giver 40 GB, Telmore 49 GB, YouSee 70 GB og Telmore Play 83 GB. Lovens minimum er 2 × (månedspris ekskl. moms ÷ 1,30 €), og alle seks giver mere end minimum.
+Q: Er 1000 GB billigere end fri data?
+A: Ja, i de fleste tilfælde. Duka 1000 GB koster 179 kr./md., mens fri data koster 199-299 kr. hos alle udbydere undtagen Flexii (149 kr.). Med 1000 GB har du 37 gange det danske gennemsnitsforbrug.
+Q: Må jeg bruge fri data som hotspot?
+A: Som udgangspunkt ja – hotspot er en funktion i telefonen, men forbruget tæller med i en eventuel fair use-grænse, så tjek udbyderens vilkår. Skal mobilen være fast internet for hele husstanden, er <a href="/mobilt-bredbaand/">mobilt bredbånd</a> med router ofte bedre.
+Q: Hvad sker der, hvis jeg bruger mere end min EU-data?
+A: Udbyderen må opkræve et tillæg på højst 1,30 € pr. GB i 2026 (1,10 € i 2027). Du får typisk en SMS, når du nærmer dig grænsen.
+Q: Har alle abonnementer med fri data 5G?
+A: Ja. Alle seks abonnementer med fri data i vores sammenligning har 5G inkluderet. Læs mere om <a href="/5g-mobilabonnement/">5G mobilabonnementer</a>.
+Q: Kan jeg få fri data uden binding?
+A: Ja. Ingen af de seks abonnementer har binding ud over den løbende opsigelsesperiode, og for forbrugere er binding højst 6 måneder ifølge loven.
+===KILDER===
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Forordning (EU) 2022/612 om roaming | https://eur-lex.europa.eu/eli/reg/2022/612/oj
+Roaming i EU – Dine rettigheder, Your Europe | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Hvor meget data bruger Netflix?, Netflix Hjælpecenter | https://help.netflix.com/da/node/87
+Denmark Mobile Network Experience Report, Opensignal (feb. 2026) | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Priser og abonnementer, Flexii | https://www.flexii.dk/mobilabonnement
+Priser og abonnementer, Oister | https://www.oister.dk/mobilabonnement
+Priser og abonnementer, Duka | https://www.dukatale.dk/mobilabonnementer
+Priser og abonnementer, Telmore | https://www.telmore.dk/mobilabonnement

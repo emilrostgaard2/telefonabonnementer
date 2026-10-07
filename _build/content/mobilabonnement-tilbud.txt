@@ -1,0 +1,143 @@
+---
+slug: mobilabonnement-tilbud
+title: Mobilabonnement tilbud → Kampagner fra 26 kr. ({maaned})
+desc: Se de bedste tilbud på mobilabonnement i {maaned}: Telmore 26 kr., Duka 30 GB til 55 kr. og Flexii fri data til 129 kr. Se den reelle pris for 12 mdr.
+h1: Mobilabonnement tilbud
+kicker: Opdateret {maaned} · 14 kampagner gennemregnet
+answer: De bedste tilbud på mobilabonnement i {maaned} er Duka fri tale + 30 GB med 5G for 55 kr./md. til 31.3.2027 (77 kr./md. i snit over 12 mdr.), Telmore fri tale + 45 GB for 26 kr./md. i 2 mdr. (bestil senest 18.10.2026) og Flexii fri data for 129 kr./md. det første år. Regnet over 12 måneder er Flexii 20 GB til 59 kr./md. det billigste tilbud med fri tale og 5G.
+lead: Et tilbud er kun godt, hvis det stadig er billigt, når kampagnen slutter. Vi har regnet den reelle 12-måneders pris ud for alle aktuelle kampagner, så du kan se, hvad du faktisk betaler – og hvordan du lovligt hopper videre til næste tilbud.
+crumb: Tilbud
+section: typer
+related: billigste-mobilabonnement, mobilabonnement-uden-binding, guides/skift-mobilabonnement, fri-tale, udbydere/telmore
+---
+<h2>Hvad er de bedste tilbud på mobilabonnement lige nu?</h2>
+<p>Vi har gennemgået kampagnerne hos de otte udbydere, vi dækker, den 7. oktober 2026. Der er tre tilbud, der skiller sig ud. Duka giver fri tale, 30 GB og 5G for 55 kr. om måneden frem til 31. marts 2027. Telmore sælger fri tale og 45 GB for 26 kr. om måneden i to måneder, hvis du bestiller senest 18. oktober 2026. Og Flexii har fri tale og fri data med 5G for 129 kr. om måneden hele det første år.</p>
+<p>Men den laveste kampagnepris er ikke nødvendigvis det bedste tilbud. Telmores 26 kr. lyder af meget, men normalprisen er 149 kr., og over et år ender du med at betale mere end hos flere konkurrenter uden kampagne. Derfor har vi regnet alle tilbud om til en reel 12-måneders pris. Herunder ser du først de aktuelle kampagner.</p>
+[[tabel:tilbud]]
+<div class="keypoints"><h3>Det vigtigste</h3><ul><li>Bedste tilbud med fri tale og 5G: Duka 30 GB for 55 kr./md. til 31.3.2027</li><li>Laveste kampagnepris: Telmore 26 kr./md. i 2 mdr. – men 149 kr./md. derefter</li><li>Billigste fri data: Flexii 129 kr./md. det første år</li><li>Kampagner med "1. måned gratis": Lebara 70 GB og 160 GB</li><li>Ingen af tilbuddene har binding, så du kan skifte, når kampagnen slutter</li></ul></div>
+
+<h2>Den reelle pris: alle tilbud regnet over 12 måneder</h2>
+<p>For at sammenligne kampagner retfærdigt har vi brugt en enkel formel: <strong>intropris × antal kampagnemåneder + normalpris × resten af de 12 måneder</strong>. Resultatet er den samlede pris for det første år, og gennemsnittet pr. måned er den pris, du reelt betaler. Vi har også regnet besparelsen ud i forhold til at betale normalpris hele året.</p>
+<table>
+<thead><tr><th>Tilbud</th><th>Kampagne</th><th>Normalpris</th><th>Reel pris 12 mdr.</th><th>Snit pr. md.</th><th>Besparelse år 1</th></tr></thead>
+<tbody>
+<tr><td>Telmore fri tale + 45 GB</td><td>26 kr. i 2 mdr. (til 18.10.2026)</td><td>149 kr.</td><td>1.542 kr.</td><td>128,50 kr.</td><td>246 kr.</td></tr>
+<tr><td>Telmore 60 GB + Telmore Musik</td><td>26 kr. i 2 mdr.</td><td>179 kr.</td><td>1.842 kr.</td><td>153,50 kr.</td><td>306 kr.</td></tr>
+<tr><td>Duka fri tale + 30 GB</td><td>55 kr. til 31.3.2027 (ca. 6 mdr.)</td><td>99 kr.</td><td>924 kr.</td><td>77,00 kr.</td><td>264 kr.</td></tr>
+<tr><td>Oister fri tale + 40 GB</td><td>69 kr. i 6 mdr.</td><td>99 kr.</td><td>1.008 kr.</td><td>84,00 kr.</td><td>180 kr.</td></tr>
+<tr><td>Oister fri tale + 100 GB</td><td>79 kr. i 6 mdr.</td><td>109 kr.</td><td>1.128 kr.</td><td>94,00 kr.</td><td>180 kr.</td></tr>
+<tr><td>Oister fri tale + fri data</td><td>139 kr. i 6 mdr.</td><td>199 kr.</td><td>2.028 kr.</td><td>169,00 kr.</td><td>360 kr.</td></tr>
+<tr><td>Flexii fri tale + 20 GB</td><td>59 kr. første år</td><td>69 kr.</td><td>708 kr.</td><td>59,00 kr.</td><td>120 kr.</td></tr>
+<tr><td>Flexii fri tale + 50 GB</td><td>79 kr. første år</td><td>89 kr.</td><td>948 kr.</td><td>79,00 kr.</td><td>120 kr.</td></tr>
+<tr><td>Flexii fri tale + 150 GB</td><td>94 kr. første år</td><td>109 kr.</td><td>1.128 kr.</td><td>94,00 kr.</td><td>180 kr.</td></tr>
+<tr><td>Flexii fri tale + fri data</td><td>129 kr. første år</td><td>149 kr.</td><td>1.548 kr.</td><td>129,00 kr.</td><td>240 kr.</td></tr>
+<tr><td>Flexii børn: fri tale + 5 GB</td><td>17 kr. i 3 mdr.</td><td>35 kr.</td><td>366 kr.</td><td>30,50 kr.</td><td>54 kr.</td></tr>
+<tr><td>Lebara 70 GB + fri tale</td><td>1. måned gratis</td><td>59 kr.</td><td>649 kr.</td><td>54,08 kr.</td><td>59 kr.</td></tr>
+<tr><td>Lebara 160 GB + fri tale</td><td>1. måned gratis</td><td>119 kr.</td><td>1.309 kr.</td><td>109,08 kr.</td><td>119 kr.</td></tr>
+<tr><td>Telmore Play (fri data + 3 streaming)</td><td>99 kr. første måned</td><td>399 kr.</td><td>4.488 kr.</td><td>374,00 kr.</td><td>300 kr.</td></tr>
+</tbody>
+</table>
+<p>Dukas kampagne er regnet med seks måneder til 55 kr., hvilket passer, hvis du starter i oktober 2026. Starter du senere, får du færre måneder til kampagnepris, fordi tilbuddet har en fast slutdato.</p>
+<h3>Hvad viser tabellen?</h3>
+<p>Tre ting springer i øjnene. For det første er Telmores 26 kr.-tilbud ikke det billigste over et år. Med en reel pris på 128,50 kr. om måneden er det dyrere end Oisters 100 GB (94 kr.) og Flexiis 150 GB (94 kr.), som begge giver mere data. Telmores styrke er TDC NET og den bedste dækningsscore, ikke prisen.</p>
+<p>For det andet er Flexiis tilbud de mest gennemskuelige. Rabatten gælder hele det første år, så den reelle pris er lig med kampagneprisen. Med fri tale, 20 GB og 5G for 59 kr. om måneden – 708 kr. for et helt år – er det det billigste tilbud med fri tale og 5G over 12 måneder.</p>
+<p>For det tredje er Lebaras 70 GB uden kampagne allerede billigt. Første måned gratis gør det til 54 kr. i snit, og det er den laveste 12-måneders pris for et abonnement med over 50 GB. Det kører dog uden 5G.</p>
+[[simo:Kig altid på kolonnen "Snit pr. md." – ikke på kampagneprisen. Det er det tal, der fortæller dig, hvad tilbuddet reelt koster.]]
+
+<h2>De aktuelle kampagner gennemgået</h2>
+<h3>Telmore: 26 kr. i 2 måneder (til 18.10.2026)</h3>
+<p>Telmore sælger fri tale + 45 GB og 60 GB + Telmore Musik for 26 kr. om måneden de første to måneder. Kampagnen skal bestilles senest 18. oktober 2026. Derefter koster abonnementerne 149 kr. og 179 kr. Telmore kører på TDC NET og har 0 kr. i oprettelse og ingen binding. Tilbuddet er godt, hvis du vil prøve TDC NET's dækning billigt, eller hvis du planlægger at skifte igen efter to måneder. Læs vores anmeldelse af <a href="/udbydere/telmore/">Telmore</a>.</p>
+<h3>Duka: 30 GB med fri tale for 55 kr. (til 31.3.2027)</h3>
+<p>Dukas tilbud er efter vores vurdering det stærkeste lige nu. Du får fri tale, 30 GB, 30 GB i EU og 5G for 55 kr. om måneden frem til 31. marts 2027. Derefter er prisen 99 kr. Duka er et uafhængigt dansk selskab på TT-netværket (Telenor/Norlys), som har god dækning. Se mere om <a href="/udbydere/duka/">Duka</a>.</p>
+<h3>Oister: introrabat i 6 måneder</h3>
+<p>Oister giver rabat de første seks måneder på flere abonnementer: fri tale + 40 GB for 69 kr. (derefter 99 kr.), fri tale + 100 GB for 79 kr. (derefter 109 kr.) og fri data for 139 kr. (derefter 199 kr.). Alle har 5G, og Oister kører på 3's net. Prisspringet på fri data er 60 kr. om måneden, og det er værd at sætte en påmindelse om. Læs mere om <a href="/udbydere/oister/">Oister</a>.</p>
+<h3>Flexii: rabat hele det første år</h3>
+<p>Flexii giver 10-20 kr. rabat om måneden i 12 måneder på deres voksenabonnementer. Fri data koster 129 kr. det første år og 149 kr. derefter, og det er stadig markedets billigste fri data på normalpris. Børneabonnementerne koster 17 og 19 kr. de første tre måneder. Flexii kører på 3's net og har kun chat-support. Se vores side om <a href="/udbydere/flexii/">Flexii</a>.</p>
+<h3>Lebara: første måned gratis</h3>
+<p>Lebara giver første måned gratis på 70 GB- og 160 GB-abonnementerne med fri tale. Begge inkluderer udlandsminutter (2 og 5 timer). Abonnementerne er uden 5G.</p>
+<h3>Telmore Play: 99 kr. første måned</h3>
+<p>Telmore Play med fri data og tre streamingtjenester koster 99 kr. den første måned og derefter 399 kr. Det giver en reel pris på 374 kr. om måneden det første år. Tilbuddet giver kun mening, hvis du i forvejen betaler for tre streamingtjenester. Se flere muligheder på siden om <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
+
+<h2>Fælder ved intropriser: det skal du holde øje med</h2>
+<p>Kampagnepriser er lovlige og kan være gode, men de er designet til at få dig ind ad døren. Selskaberne regner med, at mange bliver hængende til normalpris. Her er de fælder, vi oftest ser:</p>
+<h3>1. Prisspringet, du glemmer</h3>
+<p>Det største problem er, at man glemmer, hvornår kampagnen slutter. Med Oisters fri data stiger prisen fra 139 til 199 kr. efter seks måneder – 720 kr. om året ekstra, hvis du bliver. Sæt en påmindelse i kalenderen den dag, du bestiller.</p>
+<h3>2. Lav kampagnepris, høj normalpris</h3>
+<p>Telmores 26 kr. ser billigt ud, men normalprisen på 149 kr. er 50 kr. højere end Oisters og Dukas tilsvarende abonnementer. Bliver du hos Telmore i to år, betaler du 3.330 kr. – mod 2.112 kr. hos Duka med 30 GB i samme periode (6 × 55 + 18 × 99).</p>
+<h3>3. Kampagner med slutdato</h3>
+<p>Dukas tilbud gælder til en fast dato, ikke et fast antal måneder. Jo senere du bestiller, jo færre måneder får du til kampagnepris. Bestiller du i januar 2027, får du kun tre måneder til 55 kr.</p>
+<h3>4. Gebyrer, der spiser rabatten</h3>
+<p>Hos nogle selskaber koster det ekstra at betale med Betalingsservice (Greentel: 10 kr./md.), eller der er oprettelsesgebyr (YouSee: 99 kr. i butik, Telmore Go: 99 kr.). Et gebyr på 99 kr. udligner det meste af rabatten på et tilbud med 1. måned gratis.</p>
+<div class="callout warn"><p><strong>Husk:</strong> Udbyderen skal mindst én gang om året oplyse dig om deres bedste tilbud<sup class="ref"><a href="#kilde-1">1</a></sup>. Men ingen ringer dig op, når din egen kampagne udløber – det skal du selv holde styr på.</p></div>
+
+<h2>Sådan "kampagne-hopper" du lovligt</h2>
+<p>Kampagne-hopping betyder, at du skifter selskab, når et tilbud udløber, og tager det næste. Det er helt lovligt, og reglerne er faktisk skrevet til fordel for dig. For forbrugere må binding højst være 6 måneder, og ingen af de tilbud, vi har gennemgået, har binding ud over opsigelsesperioden<sup class="ref"><a href="#kilde-1">1</a></sup>. Når du skifter, tager du dit nummer med.</p>
+<h3>Reglerne, der gør det muligt</h3>
+<ul>
+<li><strong>Nummerflytning er gratis.</strong> Ifølge teleloven skal dit nummer flyttes senest ved udgangen af næstfølgende arbejdsdag, og det må ikke koste noget særskilt<sup class="ref"><a href="#kilde-2">2</a></sup>.</li>
+<li><strong>Du skal ikke selv opsige.</strong> Når du bestiller hos det nye selskab og beder om nummerflytning, sørger de for opsigelsen. Du skal ikke vente på, at en binding udløber, før nummeret flyttes.</li>
+<li><strong>Retten til nummeret bevares.</strong> Har du allerede opsagt, har du stadig ret til at flytte nummeret i mindst en måned efter.</li>
+<li><strong>Kompensation ved forsinkelse.</strong> Bliver nummerflytningen forsinket, har du ret til kompensation.</li>
+<li><strong>Fortrydelsesret.</strong> Køber du online eller over telefonen, har du 14 dages fortrydelsesret<sup class="ref"><a href="#kilde-3">3</a></sup>.</li>
+</ul>
+<h3>Trin for trin</h3>
+<ol class="steps">
+<li><strong>Notér slutdatoen.</strong> Skriv i kalenderen, hvornår din kampagne udløber – gerne to uger før.</li>
+<li><strong>Find næste tilbud.</strong> Tjek denne side eller vores <a href="/">sammenligning af telefonabonnementer</a>.</li>
+<li><strong>Tjek opsigelsesperioden.</strong> Hos de fleste lavprisselskaber er den løbende måned plus 30 dage eller kortere. Du betaler for perioden, men nummeret flyttes med det samme.</li>
+<li><strong>Bestil hos det nye selskab.</strong> Vælg nummerflytning og angiv dit nuværende nummer. Vælger du <a href="/esim/">eSIM</a>, behøver du ikke vente på et SIM-kort med posten.</li>
+<li><strong>Vent på skiftet.</strong> Nummeret skifter senest ved udgangen af næste arbejdsdag efter den aftalte dato. Det gamle abonnement opsiges automatisk.</li>
+</ol>
+<p>Læs den fulde gennemgang i vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a> og om at <a href="/guides/opsig-mobilabonnement/">opsige dit mobilabonnement</a>.</p>
+[[simo:Bestil det nye abonnement et par uger før din kampagne udløber. Så når du at få nummeret flyttet, inden prisen stiger.]]
+
+<h2>Regneeksempel: hvad sparer en kampagne-hopper på et år?</h2>
+<p>Lad os sige, at du bruger omkring 30-40 GB om måneden og gerne vil have fri tale og 5G. Her er to scenarier over 12 måneder:</p>
+<p><strong>Scenarie A – du bliver:</strong> Du tager Oisters fri tale + 40 GB og bliver hele året. Det koster 6 × 69 + 6 × 99 = 1.008 kr.</p>
+<p><strong>Scenarie B – du hopper:</strong> Du tager Dukas 30 GB til 55 kr. i oktober 2026 og har kampagneprisen til og med marts 2027 (6 × 55 = 330 kr.). I april skifter du til Flexiis fri tale + 20 GB til 59 kr. første år eller 50 GB til 79 kr. Med 50 GB: 6 × 79 = 474 kr. I alt 804 kr. for 12 måneder – og du har stadig et halvt år tilbage til kampagnepris hos Flexii.</p>
+<p>Forskellen er 204 kr. det første år for én person, og den vokser, jo længere tid du er god til at skifte. I forhold til at blive hængende hos Telmore på normalpris (1.788 kr. om året for 45 GB) sparer kampagne-hopperen næsten 1.000 kr. Prøv dine egne tal i beregneren.</p>
+[[vaerktoej:sparberegner]]
+
+<h2>Fordele og ulemper ved at jagte tilbud</h2>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Du kan spare flere hundrede kroner om året</li><li>Ingen binding hos de selskaber, vi sammenligner</li><li>Gratis nummerflytning, ofte på under et døgn</li><li>Mulighed for at prøve forskellige net</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kræver, at du holder styr på slutdatoer</li><li>Skift af SIM eller eSIM tager lidt tid</li><li>Nogle kampagner er kun for nye kunder</li><li>Du kan komme til at vælge et net med dårligere dækning hos dig</li></ul></div></div>
+<blockquote class="expert"><p>Det bedste tilbud er det, der stadig er godt efter kampagnen. Vælg et selskab, hvor normalprisen også er acceptabel, så er det ikke en katastrofe, hvis du glemmer at skifte. Duka og Flexii er gode eksempler: Selv efter kampagnen er de blandt de billigste.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Sådan vælger du det rigtige tilbud</h2>
+<ol class="steps">
+<li><strong>Find dit behov.</strong> Hvor meget data bruger du, og har du brug for 5G og EU-data? Brug guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>.</li>
+<li><strong>Regn 12-måneders prisen.</strong> Brug formlen intropris × måneder + normalpris × resten.</li>
+<li><strong>Tjek normalprisen.</strong> Er den høj, så planlæg at skifte, eller vælg et andet tilbud.</li>
+<li><strong>Tjek dækningen.</strong> Et billigt tilbud på et net, der ikke dækker hos dig, er ikke billigt. Brug tjekditnet.dk.</li>
+<li><strong>Læs vilkårene.</strong> Er tilbuddet kun for nye kunder, og er der gebyrer?</li>
+</ol>
+<p>Leder du generelt efter de laveste priser uden kampagner, så se vores oversigt over <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a> eller <a href="/mobilabonnement-uden-binding/">mobilabonnement uden binding</a>.</p>
+[[cta:duka]]
+
+<h2>Hvor ofte opdaterer vi tilbuddene?</h2>
+<p>Kampagnerne på teleområdet skifter ofte, nogle gange fra uge til uge. Vi tjekker priser og kampagner på udbydernes egne sider og opdaterer siden, når vi ser ændringer. Tallene på denne side er tjekket 7. oktober 2026. Reelle 12-måneders priser er udregnet af os ud fra kampagnens varighed og normalprisen. Læs mere om, <a href="/metode/">hvordan vi sammenligner</a>, og om vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.</p>
+===FAQ===
+Q: Hvad er det bedste tilbud på mobilabonnement lige nu?
+A: Duka fri tale + 30 GB med 5G for 55 kr./md. til 31.3.2027 giver den bedste værdi efter vores beregning. Flexii fri tale + 20 GB for 59 kr./md. det første år er det billigste tilbud med fri tale og 5G over 12 måneder.
+Q: Hvor længe gælder Telmores tilbud til 26 kr.?
+A: Telmores tilbud skal bestilles senest 18. oktober 2026 og giver 26 kr./md. i 2 måneder. Derefter koster fri tale + 45 GB 149 kr./md., så den reelle pris over 12 måneder er 1.542 kr.
+Q: Hvordan regner jeg den reelle pris på et tilbud ud?
+A: Gang kampagneprisen med antal kampagnemåneder, og læg normalprisen gange de resterende måneder til. Del med 12 for at få snitprisen pr. måned. Husk at lægge eventuelle gebyrer til.
+Q: Er det lovligt at skifte selskab, hver gang en kampagne udløber?
+A: Ja. Binding må højst være 6 måneder for forbrugere, og nummerflytning er gratis og sker senest ved udgangen af næste arbejdsdag. Ingen af de tilbud, vi har gennemgået, har binding.
+Q: Mister jeg mit telefonnummer, når jeg skifter?
+A: Nej. Vælg nummerflytning, når du bestiller hos det nye selskab, så flytter de nummeret og opsiger det gamle abonnement for dig. Se vores <a href="/guides/skift-mobilabonnement/">guide til at skifte</a>.
+Q: Gælder tilbuddene også for eksisterende kunder?
+A: Ofte ikke. Mange kampagner er kun for nye kunder. Er du eksisterende kunde, kan du spørge om at få et bedre tilbud – udbyderen skal mindst én gang om året oplyse dig om deres bedste tilbud.
+Q: Hvad sker der, når kampagneprisen udløber?
+A: Abonnementet fortsætter til normalprisen. Du får typisk ikke en særskilt besked, så sæt en påmindelse i kalenderen og vurder, om du vil blive eller skifte.
+Q: Hvilket tilbud er bedst på fri data?
+A: Flexii fri data for 129 kr./md. det første år er billigst (1.548 kr. over 12 mdr.). Oister koster 139 kr. i 6 mdr. og derefter 199 kr. – i alt 2.028 kr. det første år.
+===KILDER===
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Forbrugeraftaleloven, LBK nr. 1457 | https://www.retsinformation.dk/eli/lta/2014/1457
+Priser og kampagner, Telmore | https://www.telmore.dk/mobilabonnement
+Priser og kampagner, Duka | https://www.dukatale.dk/mobilabonnementer
+Priser og kampagner, Oister | https://www.oister.dk/mobilabonnement
+Priser og kampagner, Flexii | https://www.flexii.dk/mobilabonnement
+Priser og kampagner, Lebara | https://www.lebara.dk

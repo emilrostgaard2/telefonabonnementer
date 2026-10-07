@@ -1,0 +1,244 @@
+{
+ "_note": "Affiliate-links: TJEK dem markeret verify=true i Adtraction (Annoncører -> program -> Links). Ret kun 'url' her og kør build.py igen.",
+ "telmore": {
+  "name": "Telmore",
+  "logo": "telmore",
+  "network": "TDC NET",
+  "owner": "TDC Group (Nuuday)",
+  "url": "https://on.telmore.dk/t/t?a=1721073357&as=2098496514&t=2&tk=1",
+  "verify": false,
+  "site": "https://www.telmore.dk/mobilabonnement",
+  "founded": 1995,
+  "esim": true,
+  "score": 8.7,
+  "scores": {
+   "pris": 8.1,
+   "net": 9.4,
+   "fleksibilitet": 9.0,
+   "service": 8.6
+  },
+  "short": "Danmarks største lavprisselskab på TDC NET – stærk dækning, gode kampagner og eSIM.",
+  "pros": [
+   "Kører på TDC NET med landets bedste dækningsscore",
+   "Ofte stærke introtilbud (fx 26 kr. i 2 mdr.)",
+   "Ingen binding og 0 kr. i oprettelse",
+   "eSIM og op til 3 ekstra datakort"
+  ],
+  "cons": [
+   "Normalpriserne ligger over discountselskaberne",
+   "Ingen decideret familierabat",
+   "Fri data koster 249 kr./md."
+  ]
+ },
+ "lebara": {
+  "name": "Lebara",
+  "logo": "lebara",
+  "network": "TT-netværket (Telenor/Norlys)",
+  "owner": "Lebara Group (Waterland Private Equity)",
+  "url": "https://go.adt228.com/t/t?a=1873806342&as=2102885611&t=2&tk=1",
+  "verify": true,
+  "site": "https://www.lebara.dk",
+  "founded": 2001,
+  "esim": true,
+  "score": 8.5,
+  "scores": {
+   "pris": 9.6,
+   "net": 7.6,
+   "fleksibilitet": 9.0,
+   "service": 6.4
+  },
+  "short": "Prisvinder på store datamængder – 40 GB og fri tale for 49 kr. og gratis udlandsminutter.",
+  "pros": [
+   "Markedets laveste pris pr. GB",
+   "Fri tale fra 49 kr./md.",
+   "Inkluderede minutter til udlandet",
+   "Ingen binding, eSIM og WiFi-opkald"
+  ],
+  "cons": [
+   "Flere abonnementer er kun 4G",
+   "Mindre EU-data end konkurrenterne",
+   "Kundeservice primært online"
+  ]
+ },
+ "lyca": {
+  "name": "Lyca Mobile",
+  "logo": "lyca-mobile",
+  "network": "TDC NET",
+  "owner": "Lyca Group",
+  "url": "https://on.lycamobile.dk/t/t?a=1816729297&as=2102885611&t=2&tk=1",
+  "verify": false,
+  "site": "https://www.lycamobile.dk",
+  "founded": 2006,
+  "esim": true,
+  "score": 8.2,
+  "scores": {
+   "pris": 8.8,
+   "net": 8.0,
+   "fleksibilitet": 8.6,
+   "service": 6.4
+  },
+  "short": "Billige 30-dages pakker med 5G på TDC NET og opkald til 50+ lande – oplagt hvis du ringer til udlandet.",
+  "pros": [
+   "Pakker fra 19 kr. med 5G",
+   "Opkald til EU/USA inkluderet",
+   "Op til 500 GB data",
+   "Ingen binding"
+  ],
+  "cons": [
+   "Fri tale først fra 99 kr.-pakken",
+   "Pakkestruktur kan være uoverskuelig",
+   "Begrænset fysisk service"
+  ]
+ },
+ "oister": {
+  "name": "Oister",
+  "logo": "oister-internet",
+  "network": "3 (Hi3G)",
+  "owner": "Hi3G Denmark",
+  "url": "https://go.adt256.com/t/t?a=1667317668&as=2098496514&t=2&tk=1",
+  "verify": true,
+  "site": "https://www.oister.dk/mobilabonnement",
+  "founded": 2010,
+  "esim": true,
+  "score": 8.8,
+  "scores": {
+   "pris": 9.0,
+   "net": 8.4,
+   "fleksibilitet": 9.2,
+   "service": 8.4
+  },
+  "short": "3's lavprisbrand med 5G på alt, introrabat i 6 måneder og data-deling via 'Gi' en GiGA'.",
+  "pros": [
+   "5G på alle abonnementer",
+   "100 GB fra 79 kr./md. de første 6 mdr.",
+   "Gratis eSIM og ingen oprettelse",
+   "Streaming-pakker med Disney+, Viaplay m.fl."
+  ],
+  "cons": [
+   "Prisen stiger efter 6 måneder",
+   "3's net har lavere dækningsscore i landområder",
+   "Fri data koster 199 kr. efter intro"
+  ]
+ },
+ "yousee": {
+  "name": "YouSee",
+  "logo": "yousee",
+  "network": "TDC NET",
+  "owner": "TDC Group (Nuuday)",
+  "url": "https://yousee.dk/mobil/abonnementer",
+  "verify": false,
+  "noaffiliate": true,
+  "site": "https://yousee.dk/mobil/abonnementer",
+  "founded": 2007,
+  "esim": true,
+  "score": 8.0,
+  "scores": {
+   "pris": 6.4,
+   "net": 9.4,
+   "fleksibilitet": 8.4,
+   "service": 9.4
+  },
+  "short": "Premium-valget med butikker, familie-SIM og musik inkluderet – men du betaler for det.",
+  "pros": [
+   "Fysiske butikker og stærk support",
+   "Familie-SIM med dobbelt data",
+   "YouSee Musik og MobilSikker inkluderet",
+   "Rabat sammen med internet"
+  ],
+  "cons": [
+   "Blandt markedets dyreste normalpriser",
+   "Fri data koster 299 kr./md.",
+   "99 kr. i oprettelse i butik"
+  ]
+ },
+ "flexii": {
+  "name": "Flexii",
+  "logo": "flexii",
+  "network": "3 (Hi3G)",
+  "owner": "Hi3G Denmark",
+  "url": "https://go.adt256.com/t/t?a=1751759538&as=2102885611&t=2&tk=1",
+  "verify": true,
+  "site": "https://www.flexii.dk/mobilabonnement",
+  "founded": 2016,
+  "esim": true,
+  "score": 8.9,
+  "scores": {
+   "pris": 9.5,
+   "net": 8.4,
+   "fleksibilitet": 9.4,
+   "service": 7.6
+  },
+  "short": "Billigste fri data i Danmark – 129 kr./md. det første år og byg-selv-abonnement.",
+  "pros": [
+   "Fri data fra 129 kr./md. (første år)",
+   "Vælg mellem 4G- og 5G-pris",
+   "Billige børneabonnementer fra 17 kr.",
+   "14 dages returret, ingen binding"
+  ],
+  "cons": [
+   "Ingen telefonsupport – kun chat",
+   "Prisen stiger efter år 1",
+   "Ingen data-deling"
+  ]
+ },
+ "greentel": {
+  "name": "Greentel",
+  "logo": "greentel",
+  "network": "TT-netværket (Norlys/Telenor)",
+  "owner": "Uafhængigt dansk selskab",
+  "url": "https://go.adt284.net/t/t?a=1666103641&as=2039465708&t=2&tk=1",
+  "verify": true,
+  "site": "https://www.greentel.dk/mobilabonnement",
+  "founded": 2009,
+  "esim": true,
+  "score": 8.4,
+  "scores": {
+   "pris": 8.1,
+   "net": 8.8,
+   "fleksibilitet": 8.4,
+   "service": 8.6
+  },
+  "short": "Dansk og uafhængigt selskab med 5G på alle abonnementer og et klimafokus.",
+  "pros": [
+   "5G inkluderet på alle abonnementer",
+   "1000 GB for 189 kr./md.",
+   "Rabat for Ældre Sagen-medlemmer",
+   "Ingen binding og gratis oprettelse"
+  ],
+  "cons": [
+   "Betalingsservice koster 10 kr./md. ekstra",
+   "Ikke de laveste priser på små pakker",
+   "Mindre kendt brand"
+  ]
+ },
+ "duka": {
+  "name": "Duka",
+  "logo": "duka",
+  "network": "TT-netværket (Telenor/Norlys)",
+  "owner": "Uafhængigt dansk selskab",
+  "url": "https://ion.dukatale.dk/t/t?a=1666106721&as=2102885611&t=2&tk=1",
+  "verify": false,
+  "site": "https://www.dukatale.dk/mobilabonnementer",
+  "founded": 2011,
+  "esim": true,
+  "score": 8.6,
+  "scores": {
+   "pris": 8.6,
+   "net": 8.6,
+   "fleksibilitet": 8.8,
+   "service": 8.2
+  },
+  "short": "Dansk selskab med 5G, fri tale på alt og 'World'-abonnementer der dækker USA, Thailand og Tyrkiet.",
+  "pros": [
+   "Fri tale og 5G på alle abonnementer",
+   "30 GB for 55 kr./md. (kampagne)",
+   "World-abonnementer til rejser uden for EU",
+   "Ingen gebyrer for oprettelse"
+  ],
+  "cons": [
+   "Ingen børne- eller familieabonnementer",
+   "Fri data koster 199 kr./md.",
+   "Kampagner er tidsbegrænsede"
+  ]
+ }
+}

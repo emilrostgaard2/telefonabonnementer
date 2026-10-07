@@ -1,0 +1,194 @@
+---
+slug: guides/mobilpriser-statistik
+title: Mobilpriser statistik → Gennemsnitspris og data ({aar})
+desc: Hvad koster et mobilabonnement i gennemsnit? Se vores prisindeks for 45 abonnementer, DST's prisudvikling siden 2015, dataforbrug, 5G-andel og kundetal.
+h1: Mobilpriser i Danmark – statistik
+kicker: Opdateret {maaned} · 45 abonnementer · Offentlige data
+answer: Et mobilabonnement i Danmark koster i oktober 2026 i gennemsnit 128 kr./md. og i median 109 kr./md. (normalpris, 45 abonnementer hos 8 selskaber). Fri data koster fra 149 kr. og i median 224 kr./md. Ifølge Danmarks Statistik steg priserne på mobiltjenester 8,6 % fra august 2025 til august 2026, efter at de var næsten halveret fra 2015 til 2022.
+lead: Den mest omfattende samling af tal om danske mobilpriser: vores eget prisindeks beregnet på 45 abonnementer, Danmarks Statistiks prisudvikling, telestatistikkens tal for abonnementer, 5G og dataforbrug – og kundetal for de store koncerner. Frit at citere med kildeangivelse.
+crumb: Mobilpriser statistik
+section: guides
+related: billigste-mobilabonnement, mobilabonnement-fri-data, guides/hvor-meget-data, guides/bedste-mobilnet, mobilabonnement-tilbud
+---
+<h2>Hvad koster et mobilabonnement i gennemsnit?</h2>
+<p>Et dansk mobilabonnement koster i oktober 2026 i gennemsnit 128 kr. om måneden, og medianprisen – den midterste pris, når alle abonnementer stilles op efter pris – er 109 kr. Det viser vores eget prisindeks, som bygger på normalpriserne for 45 abonnementer hos otte selskaber: Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka. Priserne er tjekket på selskabernes egne sider den 7. oktober 2026.</p>
+<p>At gennemsnittet ligger 19 kr. over medianen skyldes, at et lille antal dyre abonnementer – fx fri data med streaming til 399 kr. – trækker gennemsnittet op. Medianen er derfor det bedste bud på, hvad et "typisk" abonnement koster.</p>
+<div class="stat-grid">
+<div class="stat"><b>109 kr.</b><span>medianpris pr. måned (normalpris, 45 abonnementer)</span></div>
+<div class="stat"><b>128 kr.</b><span>gennemsnitspris pr. måned</span></div>
+<div class="stat"><b>2,48 kr.</b><span>median pris pr. GB</span></div>
+<div class="stat"><b>+8,6 %</b><span>prisudvikling aug. 2025 – aug. 2026 (DST)</span></div>
+</div>
+[[tabel:alle|sort=price|limit=10|titel=De 10 billigste abonnementer i vores indeks]]
+
+<h2>Vores prisindeks: Mobilpriser i oktober 2026</h2>
+<p>Vi har beregnet nøgletallene herunder direkte fra vores database. Alle tal er normalpriser pr. måned inkl. moms. Introtilbud og kampagner indgår ikke, fordi de er tidsbegrænsede og ville give et for rosenrødt billede af, hvad du betaler over tid.</p>
+<table>
+<thead><tr><th>Nøgletal</th><th>Værdi</th></tr></thead>
+<tbody>
+<tr><td>Antal abonnementer i indekset</td><td>45 (8 selskaber)</td></tr>
+<tr><td>Medianpris</td><td>109 kr./md.</td></tr>
+<tr><td>Gennemsnitspris</td><td>128,2 kr./md.</td></tr>
+<tr><td>Billigste abonnement</td><td>19 kr./md. (Lebara og Lyca Mobile, 5 GB / 5 timer)</td></tr>
+<tr><td>Dyreste abonnement</td><td>399 kr./md. (Telmore Play, fri data + 3 streamingtjenester)</td></tr>
+<tr><td>Median datamængde (abonnementer med fast GB)</td><td>45 GB</td></tr>
+<tr><td>Median pris pr. GB</td><td>2,48 kr.</td></tr>
+<tr><td>Laveste pris pr. GB</td><td>0,18 kr. (Duka, 1000 GB for 179 kr.)</td></tr>
+<tr><td>Højeste pris pr. GB</td><td>33 kr. (YouSee, 3 GB for 99 kr.)</td></tr>
+<tr><td>Abonnementer med 5G</td><td>36 af 45 (80 %)</td></tr>
+<tr><td>Abonnementer med introtilbud</td><td>15 af 45</td></tr>
+</tbody>
+</table>
+<h3>Prisfordeling: Hvor ligger abonnementerne?</h3>
+<p>Ser vi på, hvordan de 45 abonnementer fordeler sig på prisintervaller, ligger knap halvdelen (21) under 100 kr. om måneden. Kun 5 abonnementer koster 200 kr. eller mere, og de er alle enten fri data hos de dyrere selskaber, streaming eller meget store datapakker (YouSee 100 GB og Lyca 500 GB).</p>
+<table>
+<thead><tr><th>Prisinterval (normalpris)</th><th>Antal abonnementer</th><th>Andel</th></tr></thead>
+<tbody>
+<tr><td>Under 50 kr.</td><td>7</td><td>16 %</td></tr>
+<tr><td>50-99 kr.</td><td>14</td><td>31 %</td></tr>
+<tr><td>100-149 kr.</td><td>10</td><td>22 %</td></tr>
+<tr><td>150-199 kr.</td><td>9</td><td>20 %</td></tr>
+<tr><td>200 kr. og derover</td><td>5</td><td>11 %</td></tr>
+</tbody>
+</table>
+<h3>Pris pr. GB falder kraftigt med datamængden</h3>
+<p>Jo mere data, desto billigere bliver hver GB. Det er den mest markante tendens i vores data. For små abonnementer på op til 10 GB betaler du i median 7 kr. pr. GB. For abonnementer med 150 GB eller mere er medianen 0,62 kr. pr. GB – mere end 11 gange billigere.</p>
+<table>
+<thead><tr><th>Datamængde</th><th>Antal abonnementer</th><th>Medianpris pr. md.</th><th>Median pris pr. GB</th></tr></thead>
+<tbody>
+<tr><td>1-10 GB</td><td>9</td><td>48 kr.</td><td>7,00 kr.</td></tr>
+<tr><td>11-49 GB</td><td>11</td><td>99 kr.</td><td>3,31 kr.</td></tr>
+<tr><td>50-149 GB</td><td>11</td><td>109 kr.</td><td>1,15 kr.</td></tr>
+<tr><td>150 GB og mere</td><td>8</td><td>144 kr.</td><td>0,62 kr.</td></tr>
+<tr><td>Fri data</td><td>6</td><td>224 kr.</td><td>–</td></tr>
+</tbody>
+</table>
+<p>Pointen for forbrugeren: Går du fra 40 GB til 100 GB, stiger prisen i median langt mindre end datamængden. Bruger du dog kun 10 GB, er det stadig billigst at vælge et lille abonnement – en lav pris pr. GB hjælper ikke, hvis du ikke bruger dataene. Se vores guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</p>
+
+<h2>Hvad koster fri data i gennemsnit?</h2>
+<p>Seks abonnementer i vores indeks har fri data. Den billigste koster 149 kr./md. (Flexii, 5G, 129 kr. det første år), og den dyreste 399 kr. (Telmore Play med tre streamingtjenester). Medianprisen er 224 kr., og gennemsnittet er 249 kr.</p>
+<table>
+<thead><tr><th>Selskab</th><th>Abonnement</th><th>Normalpris</th><th>EU-data</th></tr></thead>
+<tbody>
+<tr><td><a href="/udbydere/flexii/">Flexii</a></td><td>Fri tale + fri data (5G)</td><td>149 kr.</td><td>40 GB</td></tr>
+<tr><td><a href="/udbydere/oister/">Oister</a></td><td>Fri tale + fri data</td><td>199 kr.</td><td>40 GB</td></tr>
+<tr><td><a href="/udbydere/duka/">Duka</a></td><td>Fri tale + fri data</td><td>199 kr.</td><td>40 GB</td></tr>
+<tr><td><a href="/udbydere/telmore/">Telmore</a></td><td>Fri tale + fri data</td><td>249 kr.</td><td>49 GB</td></tr>
+<tr><td><a href="/udbydere/yousee/">YouSee</a></td><td>Fri tale + fri data</td><td>299 kr.</td><td>70 GB</td></tr>
+<tr><td>Telmore</td><td>Telmore Play (fri data + 3 streaming)</td><td>399 kr.</td><td>83 GB</td></tr>
+</tbody>
+</table>
+<p>Forskellen mellem det billigste og det dyreste almindelige fri data-abonnement (Flexii og YouSee) er 150 kr. om måneden eller 1.800 kr. om året. Til gengæld giver YouSee mere EU-data. Se alle muligheder på <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
+
+<h2>Prisniveau pr. selskab og net</h2>
+<p>Selskaberne har vidt forskelligt prisniveau. Tabellen viser medianprisen på de abonnementer, vi har registreret for hvert selskab. Bemærk, at antallet af abonnementer er lille for nogle selskaber, så tallene skal læses som en indikation af prisniveauet, ikke som en rangliste.</p>
+<table>
+<thead><tr><th>Selskab</th><th>Net</th><th>Abonnementer</th><th>Billigste</th><th>Dyreste</th><th>Median</th></tr></thead>
+<tbody>
+<tr><td>Lebara</td><td>TT-netværket</td><td>6</td><td>19 kr.</td><td>159 kr.</td><td>79 kr.</td></tr>
+<tr><td>Flexii</td><td>3</td><td>6</td><td>35 kr.</td><td>149 kr.</td><td>79 kr.</td></tr>
+<tr><td>Lyca Mobile</td><td>TDC NET</td><td>6</td><td>19 kr.</td><td>299 kr.</td><td>84 kr.</td></tr>
+<tr><td>Greentel</td><td>TT-netværket</td><td>5</td><td>48 kr.</td><td>189 kr.</td><td>89 kr.</td></tr>
+<tr><td>Oister</td><td>3</td><td>5</td><td>69 kr.</td><td>199 kr.</td><td>109 kr.</td></tr>
+<tr><td>Duka</td><td>TT-netværket</td><td>7</td><td>59 kr.</td><td>199 kr.</td><td>129 kr.</td></tr>
+<tr><td>Telmore</td><td>TDC NET</td><td>6</td><td>79 kr.</td><td>399 kr.</td><td>169 kr.</td></tr>
+<tr><td>YouSee</td><td>TDC NET</td><td>4</td><td>99 kr.</td><td>299 kr.</td><td>214 kr.</td></tr>
+</tbody>
+</table>
+<p>Grupperer vi efter mobilnet, er medianprisen 99 kr. på 3's net (11 abonnementer) og 109 kr. på TT-netværket (18 abonnementer), mens den er 154 kr. på TDC NET (16 abonnementer). TDC NET scorer til gengæld højest på dækning i de uafhængige målinger – se <a href="/guides/bedste-mobilnet/">guiden til bedste mobilnet</a>.</p>
+[[simo:Medianprisen hos Lebara og Flexii er 90 kr. lavere end hos Telmore. Tjek om dækningen er god hos dig på deres net – så kan du spare over 1.000 kr. om året.]]
+
+<h2>Hvordan har mobilpriserne udviklet sig? Danmarks Statistik</h2>
+<p>Danmarks Statistik følger prisudviklingen på mobiltjenester i forbrugerprisindekset under posten "Mobilkommunikationstjenester" (tabel PRIS01)<sup class="ref"><a href="#kilde-1">1</a></sup>. Indekset viser ikke kroner og øre, men hvordan priserne udvikler sig relativt over tid.</p>
+<h3>2015-2022: Priserne blev næsten halveret</h3>
+<p>Fra januar 2015 til januar 2022 faldt indekset fra 101,9 til 58,0. Det svarer til et fald på 43 % – priserne på mobiltjenester blev altså næsten halveret på syv år. Faldet faldt sammen med hård konkurrence mellem lavprisselskaberne og langt mere data for pengene.</p>
+<h3>2022-2026: Priserne stiger igen</h3>
+<p>Siden 2022 er udviklingen vendt. Indekset steg 5,2 % i 2022, 3,8 % i 2023 og 6,1 % i december 2025 målt år til år. Senest viser tallene en stigning på 8,6 % fra august 2025 til august 2026. Det er en markant stigning.</p>
+<table>
+<thead><tr><th>Periode</th><th>Udvikling</th></tr></thead>
+<tbody>
+<tr><td>Jan. 2015 → jan. 2022</td><td>Indeks fra 101,9 til 58,0 (−43 %)</td></tr>
+<tr><td>2022</td><td>+5,2 %</td></tr>
+<tr><td>2023</td><td>+3,8 %</td></tr>
+<tr><td>Dec. 2025 (år til år)</td><td>+6,1 %</td></tr>
+<tr><td>Aug. 2025 → aug. 2026</td><td>+8,6 %</td></tr>
+</tbody>
+</table>
+<p>Selvom priserne stiger igen, ligger de stadig markant under niveauet fra 2015. Og stigningen i normalpriser betyder ikke, at du skal betale mere: Forbrugerrådet Tænk konkluderede i september 2026, at man ikke behøver at betale over 100 kr. om måneden for markedets bedste abonnementer<sup class="ref"><a href="#kilde-4">4</a></sup>. Det stemmer med vores data, hvor 21 af 45 abonnementer koster under 100 kr. Får du varslet en prisstigning, kan du i øvrigt opsige uden omkostninger – læs hvordan i guiden til at <a href="/guides/opsig-mobilabonnement/">opsige dit mobilabonnement</a>.</p>
+
+<h2>Hvor mange mobilabonnementer er der i Danmark?</h2>
+<p>Digitaliseringsstyrelsens telestatistik er den officielle kilde til tal om det danske telemarked. Den seneste narrative rapport dækker andet halvår 2024<sup class="ref"><a href="#kilde-2">2</a></sup>. Fra 2025 udkommer statistikken årligt som dataark.</p>
+<table>
+<thead><tr><th>Nøgletal (2. halvår 2024)</th><th>Værdi</th></tr></thead>
+<tbody>
+<tr><td>Mobilbredbåndsabonnementer i alt</td><td>8.866.531 (+1,7 % år/år)</td></tr>
+<tr><td>Standardabonnementer (tale + data)</td><td>7.549.492</td></tr>
+<tr><td>Rene dataabonnementer</td><td>827.152</td></tr>
+<tr><td>Standardabonnementer med 5G</td><td>6.196.962 (85,8 %)</td></tr>
+<tr><td>Dataabonnementer med 5G</td><td>63,1 %</td></tr>
+<tr><td>Samlet mobildatatrafik</td><td>ca. 1,5 mio. TB (+121 % ift. 2H20)</td></tr>
+<tr><td>5G's andel af trafikken</td><td>41,2 %</td></tr>
+<tr><td>Gennemsnitligt forbrug pr. abonnement</td><td>26,9 GB pr. måned (+20,8 % år/år)</td></tr>
+</tbody>
+</table>
+<p>Med knap 8,9 millioner mobilbredbåndsabonnementer er der langt flere abonnementer end danskere. Det skyldes blandt andet ekstra datakort, mobilt bredbånd, tablets, smartwatches og firmatelefoner.</p>
+<h3>Dataforbruget vokser hurtigt</h3>
+<p>Den samlede mobildatatrafik er mere end fordoblet på fire år, og hvert abonnement brugte i gennemsnit 26,9 GB om måneden i andet halvår 2024 – en stigning på 20,8 % på bare ét år. Fortsætter væksten, vil mange, der i dag har et abonnement med 30 GB, skulle op i størrelse inden for et par år. Det er værd at have i baghovedet, når du sammenligner pris pr. GB.</p>
+<h3>5G er blevet standard</h3>
+<p>85,8 % af standardabonnementerne havde 5G i andet halvår 2024, og 5G bar 41,2 % af al mobildatatrafik. 5G-dækningen er ifølge Danmarks Statistik 100 % af befolkningen<sup class="ref"><a href="#kilde-3">3</a></sup>. I vores eget indeks har 80 % af abonnementerne 5G. Find de billigste på <a href="/5g-mobilabonnement/">5G-mobilabonnement</a>.</p>
+
+<h2>Hvem har flest mobilkunder? Kundetal pr. koncern</h2>
+<p>Det danske mobilmarked er domineret af nogle få koncerner, som ejer en række brands. Ifølge fagmediet iNPUT (juli 2025) er 3 nu Danmarks næststørste mobilselskab<sup class="ref"><a href="#kilde-5">5</a></sup>.</p>
+<table>
+<thead><tr><th>Koncern</th><th>Mobilkunder (jul. 2025)</th><th>Brands (udvalg)</th></tr></thead>
+<tbody>
+<tr><td>TDC / Nuuday</td><td>2,9+ mio.</td><td>YouSee, Telmore, Eesy, Relatel</td></tr>
+<tr><td>3 (Hi3G)</td><td>1,72 mio.</td><td>3, Oister, Flexii</td></tr>
+<tr><td>Telenor</td><td>1,697 mio.</td><td>Telenor, CBB</td></tr>
+</tbody>
+</table>
+<p>Norlys, som købte Telia Danmark i 2024, ejer blandt andet Norlys Mobil og Call me, men indgår ikke i iNPUTs opgørelse med et sammenligneligt tal. Uafhængige selskaber som Greentel og Duka samt internationale lavprisselskaber som Lebara og Lyca Mobile lejer sig ind på de store net. Koncernstrukturen fremgår af Digitaliseringsstyrelsens udbyderliste<sup class="ref"><a href="#kilde-6">6</a></sup>, og du kan se alle selskaber på vores <a href="/udbydere/">oversigt over udbydere</a>.</p>
+
+<h2>Hvad betyder tallene for dig? Regneeksempler</h2>
+<p>Statistik er kun interessant, hvis den kan bruges. Her er tre eksempler på, hvad tallene betyder for en almindelig husstand:</p>
+<ul>
+<li><strong>Betaler du medianprisen (109 kr.),</strong> men bruger gennemsnittets 26,9 GB, kan du få 30-40 GB for 49-89 kr./md. Det er en besparelse på 240-720 kr. om året.</li>
+<li><strong>En familie på fire,</strong> der hver betaler gennemsnitsprisen på 128 kr., bruger 6.144 kr. om året. Vælger de i stedet abonnementer til 69 kr. med fri tale og 20 GB hos Flexii, betaler de 3.312 kr. – en besparelse på 2.832 kr. Se mere på <a href="/familieabonnement/">familieabonnement</a>.</li>
+<li><strong>Har du fri data til 299 kr.,</strong> sparer du 1.800 kr. om året ved at skifte til det billigste fri data-abonnement til 149 kr.</li>
+</ul>
+[[vaerktoej:sparberegner]]
+<p>Vil du gøre noget ved det, så se vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a> – det er gratis at tage nummeret med. Og find de aktuelle kampagner på <a href="/mobilabonnement-tilbud/">mobilabonnement tilbud</a>.</p>
+
+<h2>Sådan har vi beregnet vores prisindeks</h2>
+<p>Vores prisindeks bygger på de 45 abonnementer, vi sammenligner på telefonabonnementer.dk. Vi har registreret normalpris, datamængde, EU-data, tale og 5G for hvert abonnement på selskabernes egne sider (Lebara og Lyca Mobile delvist via mobilabonnementer.dk). Fri data-abonnementer indgår ikke i beregningen af pris pr. GB. Introtilbud indgår ikke i median og gennemsnit. Indekset dækker ikke hele markedet – blandt andet indgår 3, Telenor, CBB, Eesy og Norlys ikke – og det er ikke vægtet efter antal kunder. Det er derfor et billede af prisniveauet hos de selskaber, vi følger, og ikke et officielt markedsgennemsnit. Læs mere om vores tilgang på <a href="/metode/">metode-siden</a>.</p>
+
+<h2>Sådan citerer du tallene</h2>
+<p>Du er velkommen til at bruge tallene på denne side i artikler, opgaver, præsentationer og på din egen hjemmeside. Vi beder blot om, at du angiver kilden med et link til denne side, så læserne kan finde de opdaterede tal og vores metode. Tallene opdateres løbende, når priserne ændrer sig.</p>
+<div class="callout"><p><strong>Foreslået kildeangivelse:</strong> "Kilde: telefonabonnementer.dk, Mobilpriser i Danmark – statistik (oktober 2026)" med link til https://telefonabonnementer.dk/guides/mobilpriser-statistik/</p>
+<p><strong>Eksempel på citat:</strong> "Et mobilabonnement i Danmark koster i median 109 kr. om måneden, og fri data fås fra 149 kr., viser en opgørelse af 45 abonnementer fra telefonabonnementer.dk (oktober 2026)."</p></div>
+<p>Citerer du de officielle tal fra Danmarks Statistik eller Digitaliseringsstyrelsen, så henvis gerne direkte til den oprindelige kilde – du finder links i kildelisten nederst. Er du journalist og har brug for flere data eller en kommentar, kan du skrive til redaktionen via <a href="/kontakt/">kontaktsiden</a>.</p>
+===FAQ===
+Q: Hvad koster et mobilabonnement i gennemsnit?
+A: I vores opgørelse af 45 abonnementer hos 8 selskaber koster et mobilabonnement i gennemsnit 128 kr. og i median 109 kr. om måneden (normalpriser, oktober 2026). Billigste abonnement koster 19 kr. og det dyreste 399 kr.
+Q: Hvad er en normal pris for et mobilabonnement?
+A: En pris på omkring 100 kr. om måneden er normal for et abonnement med fri tale og 30-100 GB. Forbrugerrådet Tænk vurderede i september 2026, at man ikke behøver betale over 100 kr. for markedets bedste abonnementer, og knap halvdelen af abonnementerne i vores indeks koster under 100 kr.
+Q: Hvad koster fri data i gennemsnit?
+A: Medianprisen for fri data er 224 kr. om måneden i vores indeks, og gennemsnittet er 249 kr. Billigst er Flexii til 149 kr. (129 kr. det første år).
+Q: Er mobilabonnementer blevet dyrere?
+A: Ja, de seneste år. Danmarks Statistiks prisindeks for mobiltjenester steg 8,6 % fra august 2025 til august 2026. Men priserne faldt næsten til det halve fra 2015 til 2022, så de ligger stadig væsentligt lavere end for ti år siden.
+Q: Hvor meget data bruger danskerne?
+A: Et gennemsnitligt mobilabonnement brugte 26,9 GB om måneden i andet halvår 2024 ifølge Digitaliseringsstyrelsen. Det var 20,8 % mere end året før.
+Q: Hvor mange mobilabonnementer er der i Danmark?
+A: Der var 8.866.531 mobilbredbåndsabonnementer i andet halvår 2024, heraf 7.549.492 standardabonnementer med tale og data og 827.152 rene dataabonnementer.
+Q: Hvilket teleselskab har flest kunder i Danmark?
+A: TDC-koncernen (Nuuday) med brands som YouSee og Telmore har over 2,9 millioner mobilkunder. 3 har 1,72 millioner og Telenor 1,697 millioner (iNPUT, juli 2025).
+Q: Må jeg bruge tallene på min egen side?
+A: Ja. Du må gerne citere og bruge tallene, så længe du angiver telefonabonnementer.dk som kilde med et link til denne side.
+===KILDER===
+Danmarks Statistik, Statistikbanken PRIS01 – forbrugerprisindeks | https://www.statistikbanken.dk/PRIS01
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Danmarks Statistik: SDG 9.c.1 – mobilnetdækning | https://www.dst.dk/da/Statistik/temaer/SDG/globale-verdensmaal/09-industri-innovation-og-infrastruktur/delmaal-c/indikator-1
+Forbrugerrådet Tænk: Hvor god er din mobildækning? | https://taenk.dk/forbrugerliv/elektronik-og-digitale-tjenester/hvor-god-er-din-mobildaekning
+iNPUT: Teleselskabet 3 er nu Danmarks andetstørste | https://www.inputmag.dk/teleselskabet-3-er-nu-danmarks-andetstoerste/
+Digitaliseringsstyrelsen: Udbyderliste og koncerner 2025 | https://digst.dk/media/f2lbwqjn/udbyderliste-og-koncerncer-2025.pdf
+Digitaliseringsstyrelsen: Telestatistik (dataark) | https://digst.dk/tele/statistik/telestatistik/

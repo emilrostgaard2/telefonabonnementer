@@ -1,0 +1,163 @@
+---
+slug: esim
+title: eSIM mobilabonnement → Fra {fra:billig} kr./md. ({maaned})
+desc: Sammenlign eSIM-mobilabonnementer i {maaned}. Alle 8 udbydere tilbyder eSIM fra 19 kr./md. Se hvordan du aktiverer eSIM på iPhone og Android trin for trin
+h1: eSIM mobilabonnement
+kicker: Opdateret {maaned} · 8 udbydere med eSIM sammenlignet
+answer: Alle otte udbydere, vi sammenligner – Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka – tilbyder eSIM i {maaned}. Det billigste eSIM-abonnement koster 19 kr./md. (Lebara og Lyca, 5 GB og 5 timer). eSIM aktiveres typisk ved at scanne en QR-kode, og det virker i iPhone XS/XR og nyere samt de fleste nyere Android-telefoner.
+lead: Med eSIM slipper du for at vente på et SIM-kort med posten. Her får du en oversigt over eSIM hos de danske udbydere, en trin-for-trin-guide til iPhone og Android og svar på, hvad du gør, hvis telefonen går i stykker.
+crumb: eSIM
+section: typer
+related: billigste-mobilabonnement, mobilabonnement-udlandet, erhvervsabonnement, guides/skift-mobilabonnement, mobilt-bredbaand
+---
+<h2>eSIM i {maaned}: alle udbydere tilbyder det – her er de billigste</h2>
+<p>eSIM er blevet standard i Danmark. Alle otte udbydere på vores liste tilbyder eSIM, så du kan vælge abonnement efter pris, net og data – ikke efter om eSIM er en mulighed. Det billigste eSIM-abonnement koster 19 kr./md., og du kan typisk være i gang samme dag, som du bestiller. Tabellen viser de billigste abonnementer på tværs af alle udbydere. Alle priser er tjekket 7. oktober 2026.</p>
+[[tabel:billig|sort=price|titel=Billigste mobilabonnementer – alle fås som eSIM]]
+<div class="callout"><p><strong>Kort sagt:</strong> Du behøver ikke vælge abonnement efter eSIM, for alle de store danske lavprisselskaber tilbyder det. Vælg det abonnement, der passer til dit forbrug, og bed om eSIM ved bestillingen. Du aktiverer det med en QR-kode på få minutter – og du kan have to numre i samme telefon.</p></div>
+
+<h2>Hvad er eSIM?</h2>
+<p>eSIM står for "embedded SIM" – et indbygget SIM. I stedet for et lille plastikkort, du sætter i en skuffe i telefonen, er SIM-chippen loddet fast på telefonens printplade. Når du køber et abonnement, henter telefonen en digital profil fra teleselskabet, som fortæller den, hvilket nummer og hvilket net den skal bruge.</p>
+<p>For dig som bruger betyder det tre ting:</p>
+<ul>
+<li><strong>Du skal ikke vente på posten.</strong> Bestiller du et abonnement online, kan du typisk aktivere det samme dag via en QR-kode eller en app.</li>
+<li><strong>Du kan have flere abonnementer i samme telefon.</strong> De fleste telefoner kan gemme flere eSIM-profiler og bruge to numre ad gangen.</li>
+<li><strong>Der er intet kort at miste.</strong> eSIM'et kan ikke falde ud, og en tyv kan ikke bare tage kortet ud og bruge det i en anden telefon.</li>
+</ul>
+<p>Et eSIM fungerer præcis som et fysisk SIM-kort, når det først er aktiveret. Du får samme net, samme hastighed og samme dækning. Om du har 5G, afhænger af abonnementet og telefonen – ikke af om det er eSIM eller plastikkort.</p>
+<div class="stat-grid"><div class="stat"><b>8 af 8</b><span>udbydere på vores liste tilbyder eSIM</span></div><div class="stat"><b>19 kr.</b><span>billigste abonnement, der fås som eSIM</span></div><div class="stat"><b>2</b><span>numre aktive på én gang i en dual SIM-telefon</span></div></div>
+
+<h2>Hvilke udbydere tilbyder eSIM?</h2>
+<p>Alle udbydere, vi dækker, tilbyder eSIM. Apple holder desuden en liste over teleselskaber i Danmark, der understøtter eSIM på iPhone, og her finder du både de store netejere og flere af lavprisselskaberne.<sup class="ref"><a href="#kilde-1">1</a></sup> Her er en oversigt over de otte udbydere med det net, de kører på, og deres billigste abonnement:</p>
+<table>
+<thead><tr><th>Udbyder</th><th>eSIM</th><th>Net</th><th>Billigste abonnement</th><th>Pris pr. md.</th></tr></thead>
+<tbody>
+<tr><td>Lebara</td><td>Ja</td><td>TT-netværket</td><td>5 GB / 5 timer</td><td>19 kr.</td></tr>
+<tr><td>Lyca Mobile</td><td>Ja</td><td>TDC NET</td><td>5 GB / 5 timer (5G)</td><td>19 kr.</td></tr>
+<tr><td>Greentel</td><td>Ja</td><td>TT-netværket</td><td>2 timer + 2 GB</td><td>48 kr.</td></tr>
+<tr><td>Duka</td><td>Ja</td><td>TT-netværket</td><td>Fri tale + 6 GB</td><td>59 kr.</td></tr>
+<tr><td>Flexii</td><td>Ja</td><td>3</td><td>Fri tale + 20 GB</td><td>69 kr. (59 kr. første år)</td></tr>
+<tr><td>Oister</td><td>Ja</td><td>3</td><td>12 timer + 12 GB</td><td>69 kr.</td></tr>
+<tr><td>Telmore</td><td>Ja</td><td>TDC NET</td><td>3 timer + 3 GB</td><td>79 kr.</td></tr>
+<tr><td>YouSee</td><td>Ja</td><td>TDC NET</td><td>3 timer + 3 GB</td><td>99 kr.</td></tr>
+</tbody>
+</table>
+<p>Fremgangsmåden varierer lidt. Hos nogle selskaber vælger du eSIM direkte i bestillingen og får en QR-kode på mail, hos andre aktiverer du eSIM'et i selskabets app. Oister reklamerer med gratis eSIM og ingen oprettelse<sup class="ref"><a href="#kilde-8">8</a></sup>, og Telmore tilbyder både eSIM og op til tre ekstra datakort. Tjek altid udbyderens egen side for den aktuelle fremgangsmåde.</p>
+
+<h2>Hvilke telefoner understøtter eSIM?</h2>
+<p>De fleste smartphones fra de seneste år understøtter eSIM. Her er en tommelfingerregel:</p>
+<ul>
+<li><strong>iPhone:</strong> iPhone XS, XS Max, XR og alle nyere modeller understøtter eSIM. Nyere iPhones kan have flere eSIM-profiler gemt og bruge to ad gangen. iPhone Air bruger udelukkende eSIM og har ingen SIM-skuffe.</li>
+<li><strong>Samsung:</strong> De fleste Galaxy S- og Z-modeller fra de seneste år samt mange nyere A-modeller.</li>
+<li><strong>Google Pixel:</strong> Pixel 3 og nyere.</li>
+<li><strong>Andre mærker:</strong> Mange nyere modeller fra fx Motorola, OnePlus og Xiaomi understøtter eSIM, men ikke alle – især billigere modeller mangler det.</li>
+<li><strong>Smartwatches og tablets:</strong> Apple Watch med mobilnetværk, flere Samsung Galaxy Watch-modeller og iPads med mobildata understøtter eSIM.</li>
+</ul>
+<p>Er du i tvivl, kan du tjekke det på telefonen. På iPhone går du til Indstillinger, Mobilnetværk og ser, om der står "Tilføj eSIM". På Android finder du typisk muligheden under Forbindelser eller Netværk og internet, SIM-kort. En sikker metode er at taste *#06# – står der et EID-nummer, har telefonen eSIM.</p>
+<p>Bemærk, at telefoner købt i udlandet kan være låst til et bestemt selskab eller have begrænsninger. Har du købt telefonen med abonnement i Danmark, skal SIM-låsen fjernes gratis senest efter seks måneder.<sup class="ref"><a href="#kilde-5">5</a></sup></p>
+[[simo:Tast *#06# på telefonen. Ser du et langt EID-nummer, understøtter din telefon eSIM – så kan du bestille eSIM med det samme.]]
+
+<h2>Sådan aktiverer du eSIM – trin for trin</h2>
+<p>Selve aktiveringen tager typisk kun få minutter. Den vigtigste forudsætning er, at telefonen er forbundet til Wi-Fi under aktiveringen, og at du har QR-koden klar på en anden skærm eller printet ud.</p>
+<h3>Sådan aktiverer du eSIM på iPhone</h3>
+<ol class="steps">
+<li><strong>Bestil eSIM.</strong> Vælg eSIM i bestillingen hos udbyderen. Du modtager en QR-kode på mail eller i selskabets app.</li>
+<li><strong>Forbind til Wi-Fi.</strong> Telefonen skal have internet for at hente eSIM-profilen.</li>
+<li><strong>Åbn Indstillinger, Mobilnetværk.</strong> Tryk på "Tilføj eSIM" og vælg "Brug QR-kode".</li>
+<li><strong>Scan QR-koden.</strong> Hold kameraet over koden. Har du kun koden på telefonen selv, kan du ofte indtaste oplysningerne manuelt eller trykke på koden i mailen.</li>
+<li><strong>Navngiv dit abonnement.</strong> Kald det fx "Privat" eller "Arbejde", hvis du har flere numre.</li>
+<li><strong>Vælg standardlinje.</strong> Vælg, hvilket nummer der skal bruges til opkald, beskeder og mobildata.</li>
+<li><strong>Genstart og test.</strong> Ring et opkald og slå Wi-Fi fra for at teste mobildata.</li>
+</ol>
+<h3>Sådan aktiverer du eSIM på Android</h3>
+<ol class="steps">
+<li><strong>Bestil eSIM og forbind til Wi-Fi.</strong> Som på iPhone skal du have QR-koden klar og være på Wi-Fi.</li>
+<li><strong>Åbn Indstillinger.</strong> Gå til Netværk og internet, SIM-kort eller Forbindelser, SIM-administration. Navnet varierer fra mærke til mærke.</li>
+<li><strong>Tilføj eSIM.</strong> Tryk på "Tilføj eSIM", "Tilføj mobilabonnement" eller "Download SIM".</li>
+<li><strong>Scan QR-koden.</strong> Følg vejledningen på skærmen.</li>
+<li><strong>Aktivér og vælg standard.</strong> Slå det nye eSIM til og vælg, hvilket nummer der bruges til data og opkald.</li>
+<li><strong>Test forbindelsen.</strong> Ring et opkald, send en sms og test mobildata uden Wi-Fi.</li>
+</ol>
+<div class="callout warn"><p><strong>Pas på QR-koden:</strong> En eSIM-QR-kode kan typisk kun bruges én gang. Slet ikke eSIM-profilen fra telefonen, medmindre du er sikker på, at du ikke skal bruge den – eller har en ny QR-kode fra selskabet. Del aldrig QR-koden med andre.</p></div>
+
+<h3>eSIM Quick Transfer: flyt eSIM'et til en ny iPhone</h3>
+<p>Får du en ny iPhone, kan du med funktionen eSIM Quick Transfer flytte dit eSIM direkte fra den gamle telefon uden at kontakte selskabet eller få en ny QR-kode. Det sker under opsætningen af den nye iPhone, eller senere under Indstillinger, Mobilnetværk, "Overfør fra iPhone i nærheden".</p>
+<p>Funktionen kræver, at teleselskabet understøtter den. Apples liste over danske eSIM-selskaber viser, hvilke selskaber der understøtter eSIM Quick Transfer.<sup class="ref"><a href="#kilde-1">1</a></sup> Hos selskaber uden Quick Transfer skal du bestille en ny eSIM-profil – typisk i selskabets app eller via kundeservice. Det tager oftest kort tid, men kan i nogle tilfælde koste et gebyr, så tjek prislisten. Skifter du mellem Android og iPhone, skal du som udgangspunkt altid have en ny eSIM-profil fra selskabet.</p>
+
+<h2>Dual SIM: to numre i én telefon</h2>
+<p>En af de største fordele ved eSIM er, at du kan have to numre i samme telefon. De fleste nyere telefoner kan bruge et fysisk SIM og et eSIM samtidig – eller to eSIM'er på én gang. Det er oplagt i flere situationer:</p>
+<h3>Arbejde og privat</h3>
+<p>Har du en arbejdstelefon og en privat telefon, kan du samle dem i én. Du vælger, hvilket nummer der skal bruges, når du ringer, og telefonen viser, hvilket nummer der bliver ringet til. På iPhone kan du bruge Fokus-tilstande til at slå arbejdsnummeret fra efter fyraften. Læs mere på siden om <a href="/erhvervsabonnement/">erhvervsabonnement</a>.</p>
+<h3>Billig tale og stor data hos hver sit selskab</h3>
+<p>Du kan kombinere to abonnementer for at få det bedste fra begge. Har du fx brug for meget data, men vil beholde dit gamle nummer på et billigt taleabonnement, kan du have det billige abonnement til 19 kr. på det ene SIM og et dataabonnement på det andet.</p>
+<h3>To net som backup</h3>
+<p>Bor du et sted, hvor dækningen svinger, kan to abonnementer på forskellige net give en sikkerhed. Telefonen kan skifte data til det andet net, hvis signalet forsvinder. Se vores guide til <a href="/guides/bedste-mobilnet/">bedste mobilnet</a>.</p>
+
+<h2>eSIM i smartwatch og tablet</h2>
+<p>Et smartwatch med mobilnetværk har et indbygget eSIM, der deler nummer med din telefon. Så kan du ringe, modtage beskeder og streame musik fra uret, selvom telefonen ligger derhjemme – fx når du løber en tur. Det kræver, at dit teleselskab understøtter smartwatch-eSIM til den type ur, du har, og at du betaler for en ekstra tjeneste.</p>
+<p>Prisen varierer fra selskab til selskab, og det er typisk et månedligt tillæg oven i dit abonnement. Tjek altid den aktuelle pris og om dit ur er understøttet, før du bestiller. Det er langt fra alle lavprisselskaber, der tilbyder eSIM til ure, så har du et smartwatch, kan det være et argument for at vælge selskab efter netop det.</p>
+<p>Tablets med mobildata kan også bruge eSIM. Her kan du enten oprette et selvstændigt dataabonnement eller et datakort, der deler data med dit mobilabonnement. Se flere muligheder på siden om <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
+
+<h2>Rejse-eSIM: data uden for EU</h2>
+<p>I EU, Norge, Island og Liechtenstein kan du bruge dit danske abonnement som hjemme efter EU's roamingregler, der gælder til 30. juni 2032.<sup class="ref"><a href="#kilde-3">3</a></sup> Rejser du uden for EU – fx til USA, Thailand eller Storbritannien – kan roaming derimod blive dyrt. Uden for EU spærres data ved 50 €, medmindre du selv vælger andet.<sup class="ref"><a href="#kilde-4">4</a></sup></p>
+<p>Her er eSIM en stor fordel. Du kan købe et rejse-eSIM med data til det land, du skal til, og installere det før afrejse. Dit danske nummer kan stadig ligge aktivt på det andet SIM, så du kan modtage sms'er med koder fra banken, mens du bruger det lokale eSIM til data. Husk at slå dataroaming fra på dit danske nummer.</p>
+<p>Der findes også danske abonnementer med data uden for EU inkluderet. Duka har fx 30 GB + World for 139 kr./md. med data i 10 lande uden for EU, blandt andet USA, Canada, Thailand og Tyrkiet.<sup class="ref"><a href="#kilde-9">9</a></sup> Og 3LikeHome dækker ifølge 3 100 lande, herunder Storbritannien, Schweiz og USA.<sup class="ref"><a href="#kilde-6">6</a></sup> Læs mere på siden om <a href="/mobilabonnement-udlandet/">mobilabonnement i udlandet</a>.</p>
+[[simo:Installér rejse-eSIM'et hjemmefra, mens du har Wi-Fi, og vent med at aktivere det, til du lander. Så har du data, så snart flyet er landet.]]
+
+<h2>Hvad sker der, hvis telefonen går i stykker eller bliver stjålet?</h2>
+<p>Det er det spørgsmål, vi oftest får om eSIM. Med et fysisk SIM-kort kunne du tage kortet ud af en ødelagt telefon og sætte det i en ny. Med eSIM sidder profilen i telefonen, så du skal have en ny eSIM-profil fra selskabet.</p>
+<ol class="steps">
+<li><strong>Kontakt dit teleselskab.</strong> Brug selskabets app på en anden enhed, chat eller kundeservice. Har telefonen været stjålet, skal du først få spærret abonnementet.</li>
+<li><strong>Bestil en ny eSIM-profil.</strong> Du får en ny QR-kode, som du kan scanne i den nye telefon. Nogle selskaber kan i stedet sende et fysisk SIM-kort.</li>
+<li><strong>Aktivér i den nye telefon.</strong> Følg trinene ovenfor. Dit nummer og dit abonnement er det samme.</li>
+</ol>
+<p>Vores råd er at have adgang til dit teleselskabs app og login på en computer eller en anden enhed, så du kan bestille en ny profil, selvom telefonen er død. Skriv også dit kundenummer ned et sted. Bruger du MitID-appen, så sørg for, at du har en anden måde at logge ind på – fx kodeviser eller MitID-chip – så du ikke står uden både telefon og login.</p>
+<p>Til gengæld er eSIM mere sikkert ved tyveri. En tyv kan ikke tage SIM-kortet ud og bruge dit nummer i en anden telefon, og på iPhone kræver det din kode at slette eSIM'et.</p>
+
+<h2>Fordele og ulemper ved eSIM</h2>
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>Aktivering på minutter – ingen ventetid på posten</li><li>To numre i én telefon (dual SIM)</li><li>Kan ikke falde ud eller blive stjålet ud af telefonen</li><li>Nemt at bruge rejse-eSIM uden for EU</li><li>Tilbydes af alle otte udbydere på vores liste</li><li>Mindre plastik og ingen forsendelse</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Kræver ny profil fra selskabet, hvis telefonen går i stykker</li><li>Ikke alle telefoner – især billige og ældre – understøtter eSIM</li><li>Skift mellem iPhone og Android kræver ny profil</li><li>Quick Transfer understøttes ikke af alle selskaber</li><li>Smartwatch-eSIM koster ekstra og tilbydes ikke overalt</li></ul></div></div>
+
+<h2>Sådan vælger du eSIM-abonnement</h2>
+<p>Da alle udbydere tilbyder eSIM, handler valget om det samme som ved et almindeligt abonnement – med et par ekstra overvejelser:</p>
+<ol class="steps">
+<li><strong>Tjek, at telefonen understøtter eSIM.</strong> Tast *#06# og se efter EID-nummeret.</li>
+<li><strong>Find dit dataforbrug.</strong> Den gennemsnitlige danske abonnent brugte 26,9 GB om måneden i andet halvår af 2024.<sup class="ref"><a href="#kilde-2">2</a></sup> Brug vores guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</li>
+<li><strong>Vælg net efter din adresse.</strong> Oister og Flexii kører på 3, og Lebara, Greentel og Duka kører på TT-netværket, mens Lyca Mobile – ligesom Telmore og YouSee – kører på TDC NET.</li>
+<li><strong>Har du smartwatch?</strong> Tjek, at selskabet understøtter dit ur.</li>
+<li><strong>Har du iPhone?</strong> Quick Transfer gør det nemmere at skifte telefon – tjek Apples liste.</li>
+<li><strong>Vælg uden binding.</strong> Så kan du skifte, hvis et bedre tilbud dukker op. Se <a href="/mobilabonnement-uden-binding/">abonnementer uden binding</a>.</li>
+</ol>
+<p>Skifter du selskab, kan du tage dit nummer med. Nummerflytningen sker senest ved udgangen af den næstfølgende arbejdsdag uden særskilt betaling, og det gælder også, når du skifter til eSIM.<sup class="ref"><a href="#kilde-7">7</a></sup> Se trin for trin i guiden <a href="/guides/skift-mobilabonnement/">sådan skifter du mobilabonnement</a>.</p>
+<blockquote class="expert"><p>eSIM er ikke længere et argument for at vælge et bestemt selskab – alle har det. Vælg abonnement efter pris og net, og bed om eSIM. Det eneste, jeg vil anbefale, er at sikre sig adgang til selskabets app fra en anden enhed, så man hurtigt kan få en ny profil, hvis uheldet er ude.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+[[vaerktoej:quiz]]
+
+<h2>Sådan har vi sammenlignet</h2>
+<p>Alle priser er tjekket på udbydernes egne sider 7. oktober 2026. Oplysninger om eSIM Quick Transfer stammer fra Apples officielle liste over danske teleselskaber. Vi vurderer alle udbydere efter pris, net, fleksibilitet og service – læs mere om <a href="/metode/">vores metode</a>, eller <a href="/">sammenlign alle telefonabonnementer</a> på forsiden.</p>
+===FAQ===
+Q: Hvilke danske teleselskaber tilbyder eSIM?
+A: Alle otte udbydere, vi sammenligner, tilbyder eSIM: Telmore, Lebara, Lyca Mobile, Oister, YouSee, Flexii, Greentel og Duka. De store netejere som 3, Telenor og Norlys tilbyder også eSIM. Apple har en officiel liste over danske eSIM-selskaber.
+Q: Hvad er det billigste eSIM-abonnement?
+A: Lebara og Lyca Mobile har det billigste abonnement til 19 kr./md. med 5 GB og 5 timers tale. Begge fås som eSIM. Se flere på siden om <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.
+Q: Hvordan ved jeg, om min telefon understøtter eSIM?
+A: Tast *#06# på telefonen. Står der et EID-nummer, understøtter telefonen eSIM. iPhone XS/XR og nyere, Google Pixel 3 og nyere og de fleste nyere Samsung Galaxy-modeller understøtter eSIM.
+Q: Koster eSIM ekstra?
+A: Hos de fleste udbydere er eSIM gratis ved bestilling. Skal du have en ny eSIM-profil, fx fordi du skifter telefon, kan nogle selskaber tage et gebyr. Tjek prislisten hos dit selskab.
+Q: Kan jeg flytte mit eSIM til en ny telefon?
+A: Ja. Mellem to iPhones kan du bruge eSIM Quick Transfer, hvis dit selskab understøtter det – det kan du se på Apples liste over danske eSIM-selskaber. Ellers bestiller du en ny eSIM-profil hos selskabet og scanner en ny QR-kode.
+Q: Hvad gør jeg, hvis min telefon med eSIM går i stykker?
+A: Kontakt dit teleselskab via app, chat eller telefon og bestil en ny eSIM-profil. Du beholder dit nummer og abonnement. Har telefonen været stjålet, så få abonnementet spærret først.
+Q: Kan jeg have to numre i samme telefon med eSIM?
+A: Ja. De fleste nyere telefoner kan bruge et fysisk SIM og et eSIM eller to eSIM'er på samme tid. Det er populært til at samle arbejds- og privatnummer i én telefon.
+Q: Kan jeg få eSIM til mit smartwatch?
+A: Det afhænger af selskabet og uret, og det koster typisk et månedligt tillæg. Tjek, om dit ur er understøttet, før du bestiller.
+Q: Kan jeg bruge et rejse-eSIM uden for EU?
+A: Ja. Med en eSIM-telefon kan du installere et rejse-eSIM med data og beholde dit danske nummer aktivt til sms'er. Husk at slå dataroaming fra på dit danske nummer for at undgå regninger.
+===KILDER===
+Apple Support – Trådløse operatører, der understøtter eSIM (Danmark) | https://support.apple.com/da-dk/101569
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+EU-forordning 2022/612 om roaming | https://eur-lex.europa.eu/eli/reg/2022/612/oj
+Your Europe – Roamingafgifter i EU | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+3 – Udland og 3LikeHome | https://www.3.dk/udland/
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Oister – mobilabonnementer og eSIM | https://www.oister.dk/mobilabonnement
+Duka – mobilabonnementer | https://www.dukatale.dk/mobilabonnementer

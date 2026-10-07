@@ -1,0 +1,172 @@
+---
+slug: udbydere/oister
+provider: oister
+title: Oister mobilabonnement → Fra {fra:udbyder-oister} kr. + test ({mdkort})
+desc: Oister anmeldelse {maaned}: 5G på alt, fri tale + 100 GB for 79 kr. i 6 mdr. og fri data fra 139 kr. Se net, priser efter intro og ulemper, før du vælger.
+h1: Oister anmeldelse og priser
+kicker: Opdateret {maaned} · 5 Oister-abonnementer gennemgået
+answer: Oister får 8,8 ud af 10 i vores test. Du får 5G på alle abonnementer, fri tale + 100 GB for 79 kr./md. i 6 måneder (derefter 109 kr.) og fri data for 139 kr. i 6 måneder (derefter 199 kr.), uden binding og med gratis eSIM. Ulempen er 3's net, der har lavere dækningsscore (7,3/10) end de andre net. Oister passer bedst til dig, der bor i eller nær byer og vil have meget data og 5G billigt.
+lead: Vi har gennemgået alle Oisters abonnementer, 3's netværk, EU-data, eSIM, streamingpakker og vilkår og regnet på, hvad du betaler, når introprisen udløber.
+crumb: Oister
+section: udbydere
+related: udbydere/flexii, udbydere/telmore, mobilabonnement-fri-data, mobilabonnement-streaming, mobilabonnement-tilbud
+---
+[[udbyderkort:oister]]
+
+<div class="callout"><p><strong>Kort sagt:</strong> Oister er et af de bedste valg, hvis du vil have meget data og 5G til en lav pris. Introrabatten i 6 måneder er markant, men du skal regne med normalprisen bagefter. Bor du på landet, så tjek dækningen grundigt – 3's net scorer lavere på dækning end de andre net.</p></div>
+
+<h2>Alle Oister-abonnementer og priser</h2>
+<p>Oister har fem mobilabonnementer i {maaned}: et taleabonnement, tre med fri tale og et med streaming. Vi har tjekket alle priser på Oisters egen side den 7. oktober 2026<sup class="ref"><a href="#kilde-1">1</a></sup>. Tabellen kan sorteres efter pris, data og EU-data.</p>
+
+[[tabel:udbyder-oister]]
+
+<p>Oisters prismodel er bygget op omkring en introrabat i de første 6 måneder. Fri tale + 40 GB koster 69 kr. i 6 måneder og derefter 99 kr. Fri tale + 100 GB koster 79 kr. i 6 måneder og derefter 109 kr. Fri data koster 139 kr. i 6 måneder og derefter 199 kr. Taleabonnementet med 12 timer og 12 GB koster 69 kr., og 45 GB med en streamingtjeneste koster 169 kr. – de to har ingen introrabat.</p>
+<p>Læg mærke til, at 100 GB kun koster 10 kr. mere end 40 GB, både i introperioden og bagefter. For de fleste er 100 GB-abonnementet derfor den bedste værdi i Oisters sortiment.</p>
+
+<h3>Hvad koster Oister om året?</h3>
+<p>Det er vigtigt at regne på hele året – ikke kun introprisen. Her er det første og andet år for de tre abonnementer med introrabat:</p>
+<table>
+<thead><tr><th>Abonnement</th><th>År 1 (6 × intro + 6 × normal)</th><th>År 2 (12 × normal)</th></tr></thead>
+<tbody>
+<tr><td>Fri tale + 40 GB</td><td>6 × 69 + 6 × 99 = 1.008 kr.</td><td>1.188 kr.</td></tr>
+<tr><td>Fri tale + 100 GB</td><td>6 × 79 + 6 × 109 = 1.128 kr.</td><td>1.308 kr.</td></tr>
+<tr><td>Fri tale + fri data</td><td>6 × 139 + 6 × 199 = 2.028 kr.</td><td>2.388 kr.</td></tr>
+</tbody>
+</table>
+<p>Til sammenligning koster Telmores fri data 249 kr./md. (2.988 kr. om året), så Oister er 600 kr. billigere fra år to og 960 kr. billigere det første år. Søsterselskabet Flexii har dog fri data for 129 kr. det første år og 149 kr. derefter – det er endnu billigere. Se alle muligheder på vores side om <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
+
+[[vaerktoej:sparberegner]]
+
+[[simo:Sæt en påmindelse i kalenderen efter 5 måneder. Så kan du nå at vurdere, om Oister stadig er billigst, når introprisen udløber – du har ingen binding.]]
+
+<h2>Netværk og dækning: Hvilket net bruger Oister?</h2>
+<p>Oister kører på 3's net, som ejes af Hi3G Denmark – samme koncern som ejer Oister og Flexii<sup class="ref"><a href="#kilde-2">2</a></sup>. 3 er i dag Danmarks næststørste mobilselskab med 1,72 mio. kunder ifølge iNPUT (juli 2025), efter TDC/Nuuday med over 2,9 mio. og foran Telenor med 1,697 mio.<sup class="ref"><a href="#kilde-11">11</a></sup></p>
+<p>Her er Oisters vigtigste ulempe, og vi vil være ærlige om den. I Opensignals rapport fra februar 2026 (målinger fra oktober-december 2025) fik 3 7,3 ud af 10 for dækningsoplevelse. TDC fik 9,3, og Telenor og Norlys fik 9,2<sup class="ref"><a href="#kilde-3">3</a></sup>. Det er en markant forskel, og den mærkes typisk i landområder, sommerhusområder og langs mindre veje.</p>
+<p>Til gengæld er 3's net hurtigt, hvor der er dækning. Opensignal målte en gennemsnitlig download på 112,2 Mbit/s hos 3 – næsthurtigst efter Norlys (118,8 Mbit/s) og foran Telenor (107,4) og TDC (103,1). En måling fra Teknologisk Institut, som er bestilt af TDC NET, gav 3 en samlet kvalitet på 91 % mod TDC's 96 %<sup class="ref"><a href="#kilde-4">4</a></sup>.</p>
+
+<div class="stat-grid"><div class="stat"><b>7,3/10</b><span>Dækningsoplevelse for 3 (Opensignal) – lavest af de fire net</span></div><div class="stat"><b>112,2 Mbit/s</b><span>Gns. download på 3 – næsthurtigst i DK</span></div><div class="stat"><b>1,72 mio.</b><span>Kunder hos 3 (iNPUT, juli 2025)</span></div><div class="stat"><b>5G</b><span>På alle Oisters abonnementer</span></div></div>
+
+<p>Bor du i en by, mærker du sandsynligvis ikke forskellen. Bor du på landet, så tjek din adresse – og gerne dit sommerhus og din arbejdsplads – på <a href="https://tjekditnet.dk" rel="noopener">tjekditnet.dk</a><sup class="ref"><a href="#kilde-9">9</a></sup>, før du skifter. 3 lukkede sit 3G-net 1. december 2025, så telefoner, der kun kan 3G, virker ikke længere på nettet. Læs mere i vores guide til <a href="/guides/bedste-mobilnet/">det bedste mobilnet</a>.</p>
+
+<h2>Hastighed og 5G hos Oister</h2>
+<p>Oister har 5G på alle abonnementer – også det lille taleabonnement til 69 kr. Det er en fordel over for fx Telmore, hvor taleabonnementet er uden 5G, og Lebara, hvor vores prisdata ikke viser 5G på abonnementerne.</p>
+<p>5G-tilgængeligheden lå på 92,7-94,1 % hos alle fire net i Opensignals rapport, så du er på 5G det meste af tiden, når du har dækning. Med 112,2 Mbit/s i gennemsnit er 3's net mere end hurtigt nok til streaming i høj kvalitet, videoopkald og hotspot til en bærbar. Netflix i 4K bruger op til 7 GB i timen, svarende til omkring 16 Mbit/s.</p>
+<p>Ifølge Digitaliseringsstyrelsen havde 85,8 % af standardabonnementerne 5G i 2. halvår 2024, og 5G bar 41,2 % af al mobildata<sup class="ref"><a href="#kilde-5">5</a></sup>. Se flere 5G-abonnementer på vores side om <a href="/5g-mobilabonnement/">5G-mobilabonnement</a>.</p>
+
+<h2>Oister i EU og udlandet</h2>
+<p>Oister giver generøst med EU-data: 12 GB på taleabonnementet, 30 GB på 40 GB og 100 GB, 30 GB på streamingabonnementet og 40 GB på fri data. 30 GB i EU på et abonnement til 69-79 kr. i introperioden er meget – Lebara giver fx 6 GB i EU på sit 40 GB-abonnement.</p>
+<p>EU's "Roam like at home"-regler gælder til 30. juni 2032 i EU, Norge, Island og Liechtenstein og fra 1. januar 2026 også i Ukraine og Moldova<sup class="ref"><a href="#kilde-8">8</a></sup>. Opkald og SMS koster det samme som hjemme. UK og Schweiz er ikke omfattet af EU-reglerne. Bemærk, at 3's eget abonnement, 3LikeHome, dækker 100 lande inkl. UK, Schweiz og USA – men det gælder ikke automatisk Oister, så tjek Oisters udlandspriser, før du rejser uden for EU.</p>
+<p><strong>Regneeksempel for fri data:</strong> Fair use-loftet i EU skal være mindst 2 × (månedspris uden moms ÷ engrosloft). Med normalprisen 199 kr. er prisen uden moms 159,20 kr. Engrosloftet er 1,30 € pr. GB, ca. 9,70 kr. 159,20 / 9,70 × 2 ≈ 33 GB. Oister giver 40 GB – mere end minimumskravet.</p>
+
+[[vaerktoej:roaming]]
+
+<p>Rejser du ofte uden for EU, så læs vores guide til <a href="/mobilabonnement-udlandet/">mobilabonnement til udlandet</a>.</p>
+
+<h2>eSIM og opstart hos Oister</h2>
+<p>eSIM er gratis hos Oister, og der er ingen oprettelse. Det gør det let at komme i gang – du kan i princippet være oppe at køre samme dag, hvis du ikke flytter nummer.</p>
+<ol class="steps">
+<li><strong>Tjek telefonen.</strong> Se under Indstillinger, om din telefon understøtter eSIM. Apple har en oversigt over danske selskaber med eSIM<sup class="ref"><a href="#kilde-10">10</a></sup>.</li>
+<li><strong>Vælg abonnement.</strong> Vælg abonnement på Oisters side, og vælg eSIM.</li>
+<li><strong>Nummer.</strong> Angiv dit nuværende nummer, hvis du vil flytte det, eller vælg et nyt.</li>
+<li><strong>Aktivér.</strong> Følg vejledningen og scan QR-koden, mens du er på WiFi.</li>
+<li><strong>Test.</strong> Ring et opkald, og tjek at 5G-ikonet vises i statuslinjen, hvis din telefon understøtter 5G.</li>
+</ol>
+<p>Læs mere i vores <a href="/esim/">guide til eSIM</a>.</p>
+
+<h2>Kundeservice og vilkår: binding, oprettelse og betaling</h2>
+<p>Oister har ingen binding og ingen oprettelse. Du kan derfor tage introprisen og skifte væk igen, når den udløber, hvis du finder noget billigere. Som forbruger kan du højst bindes i 6 måneder, og prisændringer skal varsles mindst én måned før, så du kan opsige uden omkostninger<sup class="ref"><a href="#kilde-6">6</a></sup>. Overgangen fra intropris til normalpris er dog ikke en prisstigning i juridisk forstand – den står i aftalen fra start.</p>
+<p>Vi giver Oister 8,4 ud af 10 for service. Oister har en funktion, de kalder "Gi' en GiGA", hvor du kan dele data med andre Oister-kunder. Det er praktisk, hvis du har data i overskud, og fx dit barn er løbet tør.</p>
+
+<div class="callout warn"><p><strong>Vær opmærksom:</strong> Prisen stiger efter 6 måneder: 30 kr./md. på 40 GB og 100 GB, og 60 kr./md. på fri data. Regn med normalprisen, når du sammenligner.</p></div>
+
+<h3>Streaming hos Oister</h3>
+<p>Oisters streamingabonnement giver 45 GB, fri tale og en streamingtjeneste efter eget valg – Disney+, Viaplay, TV 2 Play, Podimo eller Deezer – for 169 kr./md. Det kan være en god løsning, hvis du alligevel betaler for en af tjenesterne. Men læg mærke til, at fri tale + 100 GB koster 109 kr. på normalpris, så streamingtjenesten koster dig reelt omkring 60 kr./md. ekstra, og du får 55 GB mindre data. Regn efter, hvad tjenesten koster alene. Se alle muligheder på vores side om <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
+
+[[cta:oister]]
+
+<h2>Ejerskab og historie: Hvem ejer Oister?</h2>
+<p>Oister blev grundlagt i 2010 og ejes af Hi3G Denmark, der også står bag 3 og Flexii ifølge Digitaliseringsstyrelsens udbyderliste<sup class="ref"><a href="#kilde-2">2</a></sup>. Oister er 3's lavprisbrand og kører derfor på 3's eget net. Oister er også kendt for mobilt bredbånd – se vores side om <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
+<p>Ejerskabet betyder, at Oister og Flexii konkurrerer om de samme kunder på det samme net. Flexii er typisk billigst på fri data, mens Oister har flere funktioner som streaming og data-deling.</p>
+
+<h2>Oister vs. alternativer</h2>
+<p>Vi har sammenlignet Oister med søsterselskabet Flexii (samme net) og to selskaber i samme prisklasse på andre net.</p>
+<table>
+<thead><tr><th>Selskab</th><th>Net</th><th>Fri tale + ca. 100 GB</th><th>Fri data</th><th>EU-data (fri data)</th><th>Dækningsscore (Opensignal)</th></tr></thead>
+<tbody>
+<tr><td>Oister</td><td>3</td><td>100 GB: 109 kr. (79 kr. i 6 mdr.)</td><td>199 kr. (139 kr. i 6 mdr.)</td><td>40 GB</td><td>7,3</td></tr>
+<tr><td>Flexii</td><td>3</td><td>150 GB: 109 kr. (94 kr. første år)</td><td>149 kr. (129 kr. første år)</td><td>40 GB</td><td>7,3</td></tr>
+<tr><td>Duka</td><td>TT-netværket</td><td>120 GB: 119 kr.</td><td>199 kr.</td><td>40 GB</td><td>9,2</td></tr>
+<tr><td>Telmore</td><td>TDC NET</td><td>80 GB: 159 kr.</td><td>249 kr.</td><td>49 GB</td><td>9,3</td></tr>
+</tbody>
+</table>
+<p>Tabellen viser, at Flexii slår Oister på ren pris – både på store datamængder og fri data. Oisters fordele er de 6 måneders intro, streamingpakken, data-deling og et taleabonnement til fx ældre eller børn. Vil du have bedre dækning, giver Duka på TT-netværket fri data til samme normalpris (199 kr.), mens Telmore på TDC NET koster 50 kr. mere. Læs vores anmeldelser af <a href="/udbydere/flexii/">Flexii</a>, <a href="/udbydere/duka/">Duka</a> og <a href="/udbydere/telmore/">Telmore</a>.</p>
+
+<blockquote class="expert"><p>Oister er et af de bedste valg i Danmark, hvis du bor i eller nær en by: 5G på alt, hurtigt net, generøs EU-data og en intropris, der er svær at slå. Men vær realistisk om dækningen – en score på 7,3 mod 9,2-9,3 hos de andre net er ikke en lille forskel, hvis du bor på landet. Og sammenlign med Flexii, som ofte er billigere på samme net.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+
+<h2>Hvem passer Oister til – og hvem bør vælge noget andet?</h2>
+<h3>Oister passer til dig, der</h3>
+<ul>
+<li>bor i en by eller et område med god 3-dækning</li>
+<li>vil have meget data og 5G til en lav pris</li>
+<li>rejser i EU og vil have meget data med – 30-40 GB</li>
+<li>vil have en streamingtjeneste med i abonnementet</li>
+<li>har en familie, hvor I kan dele data med "Gi' en GiGA" – se også <a href="/familieabonnement/">familieabonnement</a></li>
+</ul>
+<h3>Oister passer ikke til dig, der</h3>
+<ul>
+<li>bor på landet eller ofte færdes i områder med svag 3-dækning</li>
+<li>vil have den laveste pris på fri data – Flexii er billigere</li>
+<li>ikke vil holde øje med, hvornår introprisen udløber</li>
+<li>kun skal bruge et meget billigt taleabonnement – 69 kr. er dyrere end Lebara og Lyca</li>
+</ul>
+
+<div class="proscons"><div class="pros"><h4>Fordele</h4><ul><li>5G på alle abonnementer</li><li>100 GB fra 79 kr./md. de første 6 mdr.</li><li>Gratis eSIM og ingen oprettelse</li><li>Generøs EU-data (30-40 GB)</li><li>Streamingpakke med Disney+, Viaplay m.fl.</li><li>Data-deling via "Gi' en GiGA"</li></ul></div><div class="cons"><h4>Ulemper</h4><ul><li>Prisen stiger efter 6 måneder</li><li>3's net har lavere dækningsscore (7,3/10), især i landområder</li><li>Fri data koster 199 kr. efter intro – Flexii er billigere</li><li>Taleabonnementet er dyrt sammenlignet med discountselskaber</li></ul></div></div>
+
+<h2>Sådan vælger du det rigtige Oister-abonnement</h2>
+<p>Den gennemsnitlige dansker brugte 26,9 GB om måneden i 2. halvår 2024, og forbruget steg 20,8 % på et år<sup class="ref"><a href="#kilde-5">5</a></sup>. 40 GB er derfor nok for de fleste, men da 100 GB kun koster 10 kr. mere, er det svært at argumentere for 40 GB, medmindre hver tier tæller. Fri data giver mening, hvis du bruger telefonen som internet derhjemme eller deler hotspot til en computer. Brug beregneren, eller læs vores guide til <a href="/guides/hvor-meget-data/">hvor meget data du har brug for</a>.</p>
+
+[[vaerktoej:databeregner]]
+
+<p>Sådan har vi vurderet: Oister får 9,0 for pris, 8,4 for net, 9,2 for fleksibilitet og 8,4 for service – i alt 8,8. Netscoren tager højde for både den lave dækningsscore og den høje hastighed. Læs mere om vores <a href="/metode/">metode</a>.</p>
+
+<h2>Sådan skifter du til Oister</h2>
+<p>Du beholder dit nummer. Efter teleloven skal nummeret flyttes senest ved udgangen af næstfølgende arbejdsdag, uden særskilt betaling, og du skal ikke vente på opsigelse hos dit gamle selskab<sup class="ref"><a href="#kilde-7">7</a></sup>.</p>
+<ol class="steps">
+<li><strong>Tjek dækningen.</strong> Slå din adresse op på tjekditnet.dk, og se 3's dækning – også steder, hvor du ofte opholder dig.</li>
+<li><strong>Tjek din binding.</strong> Har du binding, kan du stadig flytte nummeret, men betaler resten af perioden.</li>
+<li><strong>Bestil hos Oister.</strong> Vælg abonnement og eSIM eller SIM-kort, og angiv at du vil beholde dit nummer.</li>
+<li><strong>Vent på flytningen.</strong> Oister står for nummerflytningen og opsigelsen hos dit gamle selskab.</li>
+<li><strong>Aktivér og sæt påmindelse.</strong> Aktivér SIM eller eSIM, og sæt en påmindelse, inden introprisen udløber efter 6 måneder.</li>
+</ol>
+<p>Du har 14 dages fortrydelsesret ved køb online. Læs mere i vores guide til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>.</p>
+
+[[cta:oister]]
+===FAQ===
+Q: Hvilket net bruger Oister?
+A: Oister kører på 3's net, der ejes af Hi3G Denmark ligesom Oister. 3 fik 7,3 ud af 10 for dækningsoplevelse hos Opensignal (feb. 2026) mod 9,2-9,3 hos de andre net, men har næsthøjeste gennemsnitlige downloadhastighed (112,2 Mbit/s).
+Q: Hvad koster Oister efter 6 måneder?
+A: Fri tale + 40 GB stiger fra 69 til 99 kr., fri tale + 100 GB fra 79 til 109 kr., og fri data fra 139 til 199 kr. pr. måned. Der er ingen binding, så du kan skifte, når introprisen udløber.
+Q: Har Oister 5G?
+A: Ja, alle Oisters abonnementer har 5G – også taleabonnementet med 12 timer og 12 GB.
+Q: Har Oister binding?
+A: Nej, Oister har ingen binding og ingen oprettelse, og eSIM er gratis.
+Q: Hvad er forskellen på Oister og Flexii?
+A: Begge ejes af Hi3G og kører på 3's net. Flexii er typisk billigst på fri data (129 kr. første år, derefter 149 kr.), mens Oister har streamingpakker og data-deling. Se vores anmeldelse af <a href="/udbydere/flexii/">Flexii</a>.
+Q: Hvad er "Gi' en GiGA"?
+A: Det er Oisters funktion til at dele data med andre Oister-kunder. Det er praktisk i familier, hvor nogle har data i overskud, mens andre løber tør.
+Q: Hvor meget EU-data får jeg hos Oister?
+A: 12 GB på taleabonnementet, 30 GB på 40 GB, 100 GB og streamingabonnementet og 40 GB på fri data.
+Q: Hvilke streamingtjenester kan jeg få hos Oister?
+A: Med streamingabonnementet til 169 kr./md. får du 45 GB og fri tale og vælger én tjeneste: Disney+, Viaplay, TV 2 Play, Podimo eller Deezer.
+===KILDER===
+Oister – mobilabonnementer og priser | https://www.oister.dk/mobilabonnement
+Udbyderliste og koncerner 2025, Digitaliseringsstyrelsen | https://digst.dk/media/f2lbwqjn/udbyderliste-og-koncerncer-2025.pdf
+Opensignal – Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Teknologisk Institut – Måling af mobilnetværksoplevelse (bestilt af TDC NET), april 2026 | https://tdcnet.dk/media/1geazoql/maaling-af-mobilnetvaerksoplevelse-rapport-30-04-2026.pdf
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Your Europe – Roamingafgifter i EU | https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_da.htm
+Tjek dit net – dækning på din adresse | https://tjekditnet.dk
+Apple – Danske udbydere med eSIM | https://support.apple.com/da-dk/101569
+iNPUT – Teleselskabet 3 er nu Danmarks andetstørste | https://www.inputmag.dk/teleselskabet-3-er-nu-danmarks-andetstoerste/

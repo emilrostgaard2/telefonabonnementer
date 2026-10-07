@@ -1,0 +1,74 @@
+---
+slug: redaktionel-politik
+title: Redaktionel politik → Kilder, rettelser og uafhængighed
+desc: Læs vores redaktionelle politik: hvilke kilder vi bruger, hvor ofte vi opdaterer priser, hvordan vi retter fejl, håndterer interessekonflikter og bruger AI.
+h1: Redaktionel politik
+kicker: Gælder alt indhold på telefonabonnementer.dk
+answer: Alt indhold på telefonabonnementer.dk bygger på udbydernes egne prissider og officielle kilder, gennemlæses og faktatjekkes af ansvarshavende redaktør Emil Rostgaard Clausen og opdateres løbende. Bekræftede fejl rettes hurtigst muligt, og provision fra udbydere påvirker aldrig vores vurderinger.
+lead: Her beskriver vi de regler, redaktionen arbejder efter – så du ved, hvad du kan forvente af det, du læser hos os.
+crumb: Redaktionel politik
+section: om
+related: metode, annoncoeroplysning, forfatter/emil-rostgaard-clausen, om-os
+---
+<h2>Formål</h2>
+<p>Telefonabonnementer.dk skal give danske forbrugere et retvisende grundlag for at vælge mobilabonnement. Det kræver korrekte priser, gennemskuelige vurderinger og ærlighed om, hvordan vi tjener penge. Denne politik gælder for alle sider på sitet – sammenligninger, udbydersider, guides og værktøjer.</p>
+<p>Ansvarshavende redaktør er <a href="/forfatter/emil-rostgaard-clausen/">Emil Rostgaard Clausen</a>, som står inde for, at politikken bliver overholdt.</p>
+
+<h2>Krav til kilder</h2>
+<p>Vi skriver kun tal, vi kan dokumentere. Kilderne vægtes i denne rækkefølge:</p>
+<ol>
+<li><strong>Love og myndigheder.</strong> Retsinformation, Digitaliseringsstyrelsen, Danmarks Statistik, Teleankenævnet og EU's officielle sider. Bruges til regler, statistik og markedstal.</li>
+<li><strong>Udbydernes egne prissider og vilkår.</strong> Den primære kilde til priser, datamængder og abonnementsvilkår.</li>
+<li><strong>Uafhængige målinger og forbrugerorganisationer.</strong> Fx Opensignal og Forbrugerrådet Tænk.</li>
+<li><strong>Bestilte målinger.</strong> Målinger, som er betalt af en part i markedet – fx Teknologisk Instituts måling af mobilnettene, som er bestilt af TDC NET – bruges kun med tydelig oplysning om, hvem der har bestilt dem.</li>
+</ol>
+<p>Udbydernes markedsføringspåstande bruges ikke som dokumentation. Skøn – fx hvor meget data en time på sociale medier bruger – markeres tydeligt som redaktionelle skøn. Kilder angives i en kildeliste nederst på siderne, og vi henviser til dem i teksten med nummererede noter.</p>
+
+<h2>Opdateringsfrekvens</h2>
+<p>Priserne på mobilmarkedet ændrer sig hurtigt, så vores sider skal følge med:</p>
+<ul>
+<li><strong>Priser</strong> opdateres løbende, når udbyderne ændrer dem. Alle abonnementer gennemgås samlet med jævne mellemrum – seneste fulde gennemgang var 7. oktober 2026.</li>
+<li><strong>Kampagner</strong> med en slutdato tjekkes igen, når datoen passerer, og fjernes, når de er udløbet.</li>
+<li><strong>Statistik og målinger</strong> opdateres, når der kommer nye tal fra kilden – fx når Digitaliseringsstyrelsen udgiver ny telestatistik, eller Opensignal udgiver en ny rapport.</li>
+<li><strong>Regler</strong> følges løbende, og sider opdateres, når lovgivningen ændres.</li>
+</ul>
+<p>Datoen for seneste opdatering står øverst på siderne. Hvordan vi indsamler og regner på priserne, kan du læse på siden om vores <a href="/metode/">metode</a>.</p>
+
+<h2>Rettelser</h2>
+<p>Vi tager fejl alvorligt. Hvis du finder en forkert pris, en forældet oplysning eller en upræcis formulering, så skriv til <a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a> med link til siden.</p>
+<ul>
+<li>Vi kontrollerer oplysningen i den oprindelige kilde – typisk udbyderens egen side.</li>
+<li>Bekræftede fejl rettes hurtigst muligt, som regel samme dag.</li>
+<li>Ændrer en rettelse en konklusion, en anbefaling eller en karakter, skriver vi det på siden med dato.</li>
+<li>Mindre rettelser – stavefejl, opdaterede priser og døde links – rettes uden særskilt markering.</li>
+</ul>
+
+<h2>Interessekonflikter</h2>
+<p>Telefonabonnementer.dk kan modtage provision, når du skifter abonnement via vores links. Det er en indbygget interessekonflikt, og vi håndterer den sådan:</p>
+<ul>
+<li>Karakterer beregnes ud fra faste kriterier: pris 40 %, net og dækning 25 %, fleksibilitet og vilkår 20 % og service 15 %. Provision indgår ikke.</li>
+<li>Vi sælger ikke placeringer, sponsorerede omtaler eller "bedst i test"-titler.</li>
+<li>Vi sammenligner også udbydere, vi ikke tjener penge på.</li>
+<li>Udbydere kan ikke læse eller godkende tekster før udgivelse.</li>
+<li>Redaktionen modtager ikke gaver eller gratis abonnementer fra udbydere, som kan påvirke vurderingen. Får vi et testabonnement stillet til rådighed, oplyser vi det.</li>
+</ul>
+<p>Emro Media ejer ikke aktier i og har ingen ejerskabsmæssig forbindelse til de teleselskaber, vi sammenligner. Læs mere i vores <a href="/annoncoeroplysning/">annoncøroplysning</a>.</p>
+
+<h2>Brug af AI</h2>
+<p>Vi bruger AI-assisterede værktøjer i dele af arbejdet – fx til at strukturere tekster, foreslå formuleringer og gennemgå store mængder prisdata for ændringer. AI er et redskab, ikke en forfatter. Derfor gælder følgende:</p>
+<ul>
+<li>Alt indhold er redaktionelt kontrolleret og gennemlæses af redaktøren, før det udgives.</li>
+<li>Alle tal, priser og påstande faktatjekkes manuelt mod den oprindelige kilde.</li>
+<li>AI bruges ikke til at finde på tal, anmeldelser, citater eller erfaringer.</li>
+<li>Vurderinger og karakterer fastsættes af redaktionen efter vores metode.</li>
+</ul>
+<p>Ansvaret for indholdet ligger altid hos den ansvarshavende redaktør – uanset hvilke værktøjer der er brugt.</p>
+
+<h2>Sprog og tone</h2>
+<p>Vi skriver på klart og almindeligt dansk. Vi forklarer fagudtryk som fair use, roaming og eSIM, når de bruges første gang, og vi undgår at overdrive. Hvis et abonnement har en svaghed, skriver vi det – også når vi har et samarbejde med udbyderen. Priser angives i danske kroner inklusive moms, og vi skriver tydeligt, om der er tale om en normalpris eller en kampagnepris.</p>
+
+<h2>Anmeldelser og erfaringer</h2>
+<p>Når vi beskriver erfaringer – fx hvordan det var at bestille et eSIM eller flytte et nummer – bygger de på redaktionens egne forløb. Vi bruger ikke opdigtede kundeanmeldelser og citerer ikke rigtige personer uden deres samtykke.</p>
+
+<h2>Spørgsmål til politikken</h2>
+<p>Har du spørgsmål til vores redaktionelle principper, er du velkommen til at <a href="/kontakt/">kontakte os</a>. Du kan også læse mere <a href="/om-os/">om telefonabonnementer.dk</a> og Emro Media.</p>

@@ -1,0 +1,80 @@
+---
+slug: guides
+title: Guides til mobilabonnementer → Skift, data og net ({aar})
+desc: Guides til mobilabonnementer: skift selskab og behold nummeret, find dit databehov, vælg det bedste mobilnet, opsig korrekt og se priserne i tal.
+h1: Guides til mobilabonnementer
+kicker: Opdateret {maaned} · 5 guides fra redaktionen
+answer: Vores guides forklarer det, du skal vide, før du vælger eller skifter mobilabonnement: hvordan du skifter og beholder dit nummer (gratis, senest næstfølgende arbejdsdag), hvor meget data du har brug for (danskerne bruger i gennemsnit 26,9 GB om måneden), hvilket mobilnet der er bedst, hvordan du opsiger, og hvad et abonnement koster i gennemsnit (median 109 kr./md.).
+lead: Praktiske guides skrevet af redaktionen på telefonabonnementer.dk – med lovregler, officielle tal og konkrete regneeksempler, så du kan træffe et bedre valg og betale mindre.
+crumb: Guides
+section: guides
+related: guides/skift-mobilabonnement, guides/hvor-meget-data, guides/bedste-mobilnet, guides/opsig-mobilabonnement, guides/mobilpriser-statistik
+---
+<h2>Guides der hjælper dig med at vælge og skifte</h2>
+<p>Et mobilabonnement er en af de faste udgifter, hvor det er nemmest at spare penge – men også en af dem, hvor det er sværest at gennemskue, hvad man egentlig får. Hvor meget data har du brug for? Hvilket net virker hjemme hos dig? Og hvad sker der med dit nummer, hvis du skifter? Vores guides giver dig svarene med udgangspunkt i lovgivningen, officielle tal og redaktionens egne erfaringer.</p>
+<p>Alle guides er skrevet og opdateret af redaktionen og bygger på kilder som Retsinformation, Digitaliseringsstyrelsen, Danmarks Statistik og uafhængige netmålinger. Priser er tjekket på selskabernes egne sider den 7. oktober 2026.</p>
+[[vaerktoej:quiz]]
+
+<h2>Skift mobilabonnement og behold dit nummer</h2>
+<p>Vi forklarer trin for trin, hvordan du skifter selskab uden at miste dit nummer – og hvorfor du <strong>ikke</strong> selv skal opsige det gamle abonnement. Du får reglerne fra teleloven § 26-28: nummeret skal flyttes senest ved udgangen af den næstfølgende arbejdsdag, flytningen må ikke koste noget særskilt, og du skal ikke vente på, at en binding udløber. Guiden dækker også eSIM, telefonlån, SIM-lås, MitID og de fejl, der oftest forsinker et skifte.</p>
+<p>Læs guiden: <a href="/guides/skift-mobilabonnement/">Sådan skifter du mobilabonnement</a></p>
+
+<h2>Hvor meget data har jeg brug for?</h2>
+<p>Mange betaler for langt mere data, end de bruger – og andre løber tør hver måned. I guiden finder du vores databeregner, en tabel over hvor meget data Netflix, YouTube, Spotify og Zoom bruger i timen, og fire brugerprofiler fra let (5-10 GB) til fri data. Du lærer også at tjekke dit faktiske forbrug på iPhone og Android og får konkrete tips til at bruge mindre data.</p>
+<p>Læs guiden: <a href="/guides/hvor-meget-data/">Hvor meget data har jeg brug for?</a></p>
+
+<h2>Bedste mobilnet i Danmark</h2>
+<p>Danmark har fire mobilnet – TDC NET, Telenor, Norlys og 3 – men kun tre radionet, fordi Telenor og Norlys deler TT-netværket. Guiden samler de nyeste uafhængige målinger fra Opensignal og Teknologisk Institut, viser hvilke selskaber der kører på hvilket net, og forklarer hvordan du tjekker dækningen på din adresse. Du får også råd om dårlig indendørs dækning og WiFi-opkald.</p>
+<p>Læs guiden: <a href="/guides/bedste-mobilnet/">Bedste mobilnet i Danmark</a></p>
+
+<h2>Opsig mobilabonnement</h2>
+<p>Skal du helt af med et nummer, gennemgår guiden reglerne for binding (højst 6 måneder), opsigelsesvarsel og din ret til at opsige gratis, hvis selskabet hæver prisen. Du får en skabelon til opsigelse, du kan kopiere, og svar på, hvad du gør ved et dødsfald, hvordan fortrydelsesretten virker, og hvordan du klager til Teleankenævnet.</p>
+<p>Læs guiden: <a href="/guides/opsig-mobilabonnement/">Sådan opsiger du dit mobilabonnement</a></p>
+
+<h2>Mobilpriser i tal: Statistik og prisindeks</h2>
+<p>Hvad koster et mobilabonnement i gennemsnit, og hvordan har priserne udviklet sig? Vi har beregnet vores eget prisindeks på 45 abonnementer og samlet Danmarks Statistiks prisudvikling siden 2015, telestatistikkens tal for abonnementer og dataforbrug samt kundetal for de største koncerner. Tallene må gerne citeres med kildeangivelse.</p>
+<p>Læs guiden: <a href="/guides/mobilpriser-statistik/">Mobilpriser i Danmark – statistik</a></p>
+<div class="stat-grid">
+<div class="stat"><b>109 kr.</b><span>medianpris for et mobilabonnement (okt. 2026)</span></div>
+<div class="stat"><b>26,9 GB</b><span>gennemsnitligt dataforbrug pr. måned</span></div>
+<div class="stat"><b>6 mdr.</b><span>maksimal binding for forbrugere</span></div>
+</div>
+
+<h2>Mest stillede spørgsmål</h2>
+<p>Her er de spørgsmål, vi oftest får fra læserne – med korte svar og henvisning til den guide, hvor du kan læse mere.</p>
+<h3>Mister jeg mit nummer, hvis jeg skifter selskab?</h3>
+<p>Nej. Du vælger blot at beholde nummeret, når du bestiller det nye abonnement. Det er en lovsikret ret, og det nye selskab klarer det hele. Se <a href="/guides/skift-mobilabonnement/">guiden til at skifte</a>.</p>
+<h3>Hvor meget data bruger en almindelig dansker?</h3>
+<p>I gennemsnit 26,9 GB om måneden ifølge Digitaliseringsstyrelsen (2. halvår 2024). De fleste klarer sig med 20-40 GB. Brug <a href="/guides/hvor-meget-data/">databeregneren</a> til at finde dit eget behov.</p>
+<h3>Hvilket net har den bedste dækning?</h3>
+<p>TDC NET scorer højest på dækning hos Opensignal (9,3 af 10), tæt fulgt af Telenor og Norlys (9,2). Men det vigtigste er dækningen på din egen adresse. Læs mere i <a href="/guides/bedste-mobilnet/">guiden til mobilnet</a>.</p>
+<h3>Kan jeg opsige, hvis prisen stiger?</h3>
+<p>Ja. Selskabet skal varsle en prisstigning mindst 1 måned før, og du kan opsige uden omkostninger – også i binding. Se <a href="/guides/opsig-mobilabonnement/">guiden til opsigelse</a>.</p>
+<h3>Hvad er det billigste mobilabonnement?</h3>
+<p>Det billigste koster 19 kr. om måneden for 5 GB og 5 timers tale hos Lebara og Lyca Mobile. Se den fulde liste over <a href="/billigste-mobilabonnement/">billigste mobilabonnementer</a>.</p>
+<h3>Er fri data pengene værd?</h3>
+<p>Kun hvis du bruger meget data. Fri data koster fra 149 kr. om måneden, mens 100 GB fås fra 99 kr. Se <a href="/mobilabonnement-fri-data/">mobilabonnement med fri data</a>.</p>
+<h3>Kan jeg få eSIM?</h3>
+<p>Ja, alle otte selskaber, vi sammenligner, tilbyder eSIM. Læs om fordele og ulemper på siden om <a href="/esim/">eSIM</a>.</p>
+
+<h2>Sådan arbejder vi med guiderne</h2>
+<p>Vores guides opdateres, når lovgivningen ændres, når der kommer nye officielle tal, og når priserne i markedet flytter sig. Vi skriver altid, hvor tallene kommer fra, og vi oplyser det, hvis en måling er bestilt af et af selskaberne. Læs mere om vores <a href="/metode/">metode</a> og <a href="/redaktionel-politik/">redaktionelle politik</a>, eller se hvem der står bag på siden <a href="/om-os/">om os</a>. Er du klar til at finde et nyt abonnement, så start med vores <a href="/">sammenligning af telefonabonnementer</a>.</p>
+===FAQ===
+Q: Hvem skriver guiderne på telefonabonnementer.dk?
+A: Guiderne skrives af redaktionen med redaktør Emil Rostgaard Clausen i spidsen. Vi bygger dem på lovgivning, officielle tal og uafhængige målinger og opdaterer dem løbende.
+Q: Hvor ofte bliver guiderne opdateret?
+A: Vi gennemgår guiderne, når der kommer nye regler, ny officiel statistik eller større prisændringer. Priserne i guiderne er senest tjekket den 7. oktober 2026.
+Q: Hvilken guide skal jeg starte med?
+A: Er du usikker på, hvad du har brug for, så start med <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>. Ved du, hvad du vil have, så gå direkte til <a href="/guides/skift-mobilabonnement/">guiden til at skifte</a>.
+Q: Er guiderne juridisk rådgivning?
+A: Nej. Guiderne forklarer de gældende regler i almindeligt sprog og henviser til kilderne, men de erstatter ikke individuel rådgivning. Er du uenig med dit teleselskab, kan du klage til Teleankenævnet.
+Q: Må jeg citere tallene fra guiderne?
+A: Ja, gerne med kildeangivelse og link. Se særligt <a href="/guides/mobilpriser-statistik/">mobilpriser-statistik</a>, hvor vi har samlet tallene.
+Q: Kan jeg foreslå en ny guide?
+A: Ja, skriv til os via <a href="/kontakt/">kontaktsiden</a>. Vi bruger læsernes spørgsmål aktivt, når vi planlægger nye guides.
+===KILDER===
+Lov om elektroniske kommunikationsnet og -tjenester, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Opensignal: Denmark Mobile Network Experience Report, februar 2026 | https://insights.opensignal.com/reports/2026/02/denmark/mobile-network-experience
+Danmarks Statistik, Statistikbanken PRIS01 | https://www.statistikbanken.dk/PRIS01

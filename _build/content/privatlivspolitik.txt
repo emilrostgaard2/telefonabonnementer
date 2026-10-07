@@ -1,0 +1,54 @@
+---
+slug: privatlivspolitik
+title: Privatlivspolitik → Sådan behandler vi dine data
+desc: Sådan behandler vi personoplysninger: logfiler hos Simply.com, klik via Adtraction, dine rettigheder efter GDPR og klage til Datatilsynet.
+h1: Privatlivspolitik
+kicker: Dataansvarlig: Emro Media
+answer: Emro Media (CVR 46727533) er dataansvarlig for telefonabonnementer.dk. Vi indsamler kun tekniske logfiler hos vores hostingudbyder Simply.com og sætter ingen egne trackingcookies; når du klikker videre til en udbyder, kan Adtraction eller udbyderen sætte cookies for at registrere klikket.
+lead: Her kan du læse, hvilke oplysninger vi behandler, hvorfor, hvor længe, og hvilke rettigheder du har.
+crumb: Privatlivspolitik
+section: om
+related: cookies, annoncoeroplysning, kontakt, om-os
+---
+<h2>Dataansvarlig</h2>
+<p>Den dataansvarlige for behandlingen af personoplysninger på telefonabonnementer.dk er:</p>
+<p>Emro Media<br>Lundbyesgade 13, 8000 Aarhus C<br>CVR: 46727533<br>E-mail: <a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a></p>
+<p>Behandlingen sker efter databeskyttelsesforordningen (GDPR) og databeskyttelsesloven.</p>
+
+<h2>Hvilke oplysninger behandler vi?</h2>
+<h3>Tekniske logfiler</h3>
+<p>Sitet hostes hos Simply.com. Når du besøger en side, registrerer webserveren automatisk tekniske oplysninger som IP-adresse, tidspunkt, den side du besøger, browsertype og henvisende side. Oplysningerne bruges til at drive sitet sikkert, fejlfinde og beskytte mod misbrug. Retsgrundlaget er vores legitime interesse i at drive et sikkert website (GDPR art. 6, stk. 1, litra f). Logfiler opbevares kun så længe, det er nødvendigt til disse formål, og slettes derefter efter hostingudbyderens faste rutiner. Simply.com behandler oplysningerne som databehandler på vores vegne.</p>
+<h3>Klik videre til udbydere</h3>
+<p>Når du klikker på et link til en udbyder, sendes du videre via et sporingslink, som typisk administreres af affiliatenetværket Adtraction eller af udbyderen selv. Her kan der blive sat en cookie i din browser, så salget kan registreres, hvis du bestiller et abonnement. Den behandling sker hos Adtraction og udbyderen, som selv er ansvarlige for den og for at indhente samtykke, hvor det kræves. Vi modtager ikke oplysninger om, hvem du er, eller hvad du har købt – kun samlede oplysninger om antal klik og salg. Læs mere i vores <a href="/annoncoeroplysning/">annoncøroplysning</a> og <a href="/cookies/">cookiepolitik</a>.</p>
+<h3>Henvendelser til os</h3>
+<p>Skriver du til os, behandler vi de oplysninger, du selv giver – typisk navn, e-mailadresse og indholdet af din besked – for at kunne svare dig. Retsgrundlaget er vores legitime interesse i at besvare henvendelser. Vi sletter korrespondancen, når den ikke længere er relevant, normalt senest 12 måneder efter sagen er afsluttet.</p>
+<h3>Analyse og statistik</h3>
+<p>Vi bruger i dag ikke egne trackingcookies eller analyseværktøjer, der kræver samtykke. Hvis vi senere tager et analyseværktøj i brug, opdaterer vi denne politik og beder om dit samtykke, før der sættes cookies, som ikke er nødvendige.</p>
+
+<h2>Hvad bruger vi ikke dine data til?</h2>
+<ul>
+<li>Vi sælger ikke personoplysninger.</li>
+<li>Vi bruger ikke oplysningerne til profilering eller automatiske afgørelser.</li>
+<li>Vi videregiver ikke oplysninger til tredjemand ud over vores databehandlere, medmindre loven kræver det.</li>
+</ul>
+
+<h2>Overførsel til lande uden for EU</h2>
+<p>Vi tilstræber, at oplysninger behandles inden for EU/EØS. Skulle en databehandler overføre oplysninger til et land uden for EU/EØS, sker det kun med et gyldigt overførselsgrundlag, fx EU-Kommissionens standardkontraktbestemmelser.</p>
+
+<h2>Dine rettigheder</h2>
+<p>Du har efter GDPR en række rettigheder i forhold til vores behandling af oplysninger om dig:</p>
+<ul>
+<li><strong>Ret til indsigt</strong> i de oplysninger, vi behandler om dig.</li>
+<li><strong>Ret til berigtigelse</strong> af urigtige oplysninger.</li>
+<li><strong>Ret til sletning</strong> i visse tilfælde.</li>
+<li><strong>Ret til begrænsning</strong> af behandlingen.</li>
+<li><strong>Ret til dataportabilitet</strong> i visse tilfælde.</li>
+<li><strong>Ret til indsigelse</strong> mod behandling, der sker på grundlag af vores legitime interesse.</li>
+</ul>
+<p>Vil du gøre brug af dine rettigheder, så skriv til <a href="mailto:kontakt@forsikringspakken.dk">kontakt@forsikringspakken.dk</a>. Vi svarer senest inden for en måned. Ønsker du at gøre brug af rettigheder over for Adtraction eller en udbyder, skal du kontakte dem direkte.</p>
+
+<h2>Klage til Datatilsynet</h2>
+<p>Er du utilfreds med vores behandling af dine personoplysninger, kan du klage til Datatilsynet, Carl Jacobsens Vej 35, 2500 Valby, <a href="https://www.datatilsynet.dk" rel="noopener">www.datatilsynet.dk</a>. Vi vil dog gerne have mulighed for at løse sagen først, så skriv gerne til os.</p>
+
+<h2>Ændringer</h2>
+<p>Vi kan opdatere denne privatlivspolitik, fx hvis vi tager nye værktøjer i brug. Den gældende version står altid på denne side. Har du spørgsmål, er du velkommen til at <a href="/kontakt/">kontakte os</a>.</p>
