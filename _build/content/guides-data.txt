@@ -133,6 +133,7 @@ related: mobilabonnement-fri-data, billigste-mobilabonnement, mobilabonnement-st
 <li><strong>Tjek EU-data, hvis du rejser.</strong> Det kan ændre, hvilken pakke der reelt er bedst.</li>
 </ol>
 <div class="proscons"><div class="pros"><h4>Fordele ved meget data</h4><ul><li>Du løber aldrig tør</li><li>Lav pris pr. GB</li><li>Kan erstatte bredbånd i perioder</li></ul></div><div class="cons"><h4>Ulemper ved meget data</h4><ul><li>Du betaler for data, du måske ikke bruger</li><li>Fair use begrænser EU-data</li><li>Fri data koster fra {fra:fri-data} kr./md.</li></ul></div></div>
+<p>Når du kender din datamængde, er næste skridt at finde den laveste pris på netop den størrelse. Telemobil har samlet de <a href="https://telemobil.dk/billigste-mobilabonnement/">billigste mobilabonnementer fordelt på datamængde</a> med pris pr. GB, så du hurtigt kan se, hvor springet til en større pakke kan betale sig.</p>
 <p>Skal du bruge data til en computer eller en router derhjemme, så kig også på <a href="/mobilt-bredbaand/">mobilt bredbånd</a>. Og streamer du meget, kan et abonnement med streamingtjenester inkluderet være billigere samlet – se <a href="/mobilabonnement-streaming/">mobilabonnement med streaming</a>.</p>
 
 <h2>Sådan har vi beregnet tallene</h2>

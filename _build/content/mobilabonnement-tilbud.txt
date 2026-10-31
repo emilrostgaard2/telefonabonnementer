@@ -116,7 +116,7 @@ related: billigste-mobilabonnement, mobilabonnement-uden-binding, guides/skift-m
 <h2>Sådan vælger du det rigtige tilbud</h2>
 <ol class="steps">
 <li><strong>Find dit behov.</strong> Hvor meget data bruger du, og har du brug for 5G og EU-data? Brug guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>.</li>
-<li><strong>Regn 12-måneders prisen.</strong> Brug formlen intropris × måneder + normalpris × resten.</li>
+<li><strong>Regn 12-måneders prisen.</strong> Brug formlen intropris × måneder + normalpris × resten. Vil du slippe for at regne selv, har vores søstersite <a href="https://telemobil.dk/">Telemobil</a> en sammenligning, hvor alle abonnementer er sorteret efter den samlede pris over 12 måneder inklusive intropris og oprettelse.</li>
 <li><strong>Tjek normalprisen.</strong> Er den høj, så planlæg at skifte, eller vælg et andet tilbud.</li>
 <li><strong>Tjek dækningen.</strong> Et billigt tilbud på et net, der ikke dækker hos dig, er ikke billigt. Brug tjekditnet.dk.</li>
 <li><strong>Læs vilkårene.</strong> Er tilbuddet kun for nye kunder, og er der gebyrer?</li>
