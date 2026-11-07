@@ -8,7 +8,7 @@ answer: Vores guides forklarer det, du skal vide, før du vælger eller skifter 
 lead: Praktiske guides skrevet af redaktionen på telefonabonnementer.dk – med lovregler, officielle tal og konkrete regneeksempler, så du kan træffe et bedre valg og betale mindre.
 crumb: Guides
 section: guides
-related: guides/skift-mobilabonnement, guides/hvor-meget-data, guides/bedste-mobilnet, guides/opsig-mobilabonnement, guides/mobilpriser-statistik
+related: guides/skift-mobilabonnement, guides/hvor-meget-data, guides/bedste-mobilnet, guides/opsig-mobilabonnement, guides/mobilpriser-statistik, guides/spar-paa-mobil-og-internet
 ---
 <h2>Guides der hjælper dig med at vælge og skifte</h2>
 <p>Et mobilabonnement er en af de faste udgifter, hvor det er nemmest at spare penge – men også en af dem, hvor det er sværest at gennemskue, hvad man egentlig får. Hvor meget data har du brug for? Hvilket net virker hjemme hos dig? Og hvad sker der med dit nummer, hvis du skifter? Vores guides giver dig svarene med udgangspunkt i lovgivningen, officielle tal og redaktionens egne erfaringer.</p>
@@ -34,6 +34,10 @@ related: guides/skift-mobilabonnement, guides/hvor-meget-data, guides/bedste-mob
 <h2>Mobilpriser i tal: Statistik og prisindeks</h2>
 <p>Hvad koster et mobilabonnement i gennemsnit, og hvordan har priserne udviklet sig? Vi har beregnet vores eget prisindeks på {antal} abonnementer og samlet Danmarks Statistiks prisudvikling siden 2015, telestatistikkens tal for abonnementer og dataforbrug samt kundetal for de største koncerner. Tallene må gerne citeres med kildeangivelse.</p>
 <p>Læs guiden: <a href="/guides/mobilpriser-statistik/">Mobilpriser i Danmark – statistik</a></p>
+
+<h2>Spar på mobil og internet</h2>
+<p>Mobil og bredbånd er en fast udgift, som de fleste aldrig får kigget efter. Guiden giver otte konkrete råd til at sænke regningen i hele husstanden – fra at skifte mobilabonnement og vælge den rigtige datamængde til at sammenligne bredbånd og undgå dyre pakkeløsninger. Med et regneeksempel for en familie på fire og en tjekliste.</p>
+<p>Læs guiden: <a href="/guides/spar-paa-mobil-og-internet/">Spar på mobil og internet</a></p>
 <div class="stat-grid">
 <div class="stat"><b>109 kr.</b><span>medianpris for et mobilabonnement (okt. 2026)</span></div>
 <div class="stat"><b>26,9 GB</b><span>gennemsnitligt dataforbrug pr. måned</span></div>

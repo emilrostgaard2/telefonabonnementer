@@ -1,0 +1,122 @@
+---
+slug: guides/spar-paa-mobil-og-internet
+title: Spar på mobil og internet → 8 konkrete råd ({mdkort})
+desc: Sådan sænker du regningen for mobilabonnement og bredbånd i husstanden: regneeksempler, fælder ved pakkeløsninger og en tjekliste. Mobil fra {fra:fri-tale} kr./md.
+h1: Spar på mobil og internet
+kicker: Opdateret {maaned} · Guide med regneeksempler
+answer: Den hurtigste besparelse er at skifte mobilabonnement til et lavprisselskab uden binding: fri tale og {gb:lb-70} koster {pris:lb-70} kr./md. hos Lebara, og nummerflytning er gratis. Derefter bør du sammenligne bredbåndet, tjekke om mobilen kan erstatte en ekstra internetforbindelse, og regne på hele årsprisen – ikke kun introtilbuddet.
+lead: Mobil og internet er en af de faste udgifter, de fleste aldrig får kigget efter. Her er de råd, der giver størst besparelse i en almindelig husstand – med regneeksempler og en tjekliste, du kan bruge i aften.
+crumb: Spar på mobil og internet
+section: guides
+related: billigste-mobilabonnement, mobilt-bredbaand, familieabonnement, guides/skift-mobilabonnement, mobilabonnement-tilbud
+---
+<h2>Hvor meget bruger en husstand på mobil og internet?</h2>
+<p>Telefoni og internet er blevet en fast post på linje med el og forsikring. En husstand med to voksne og to børn har typisk fire mobilabonnementer og én internetforbindelse – og ofte også streamingtjenester, der kører over den samme forbindelse. Det gør regningen let at overse, fordi den er spredt på mange små beløb, der trækkes automatisk hver måned.</p>
+<p>Samtidig er priserne på vej op. Danmarks Statistiks prisindeks for mobilkommunikationstjenester steg 8,6 % fra august 2025 til august 2026<sup class="ref"><a href="#kilde-1">1</a></sup>, efter at priserne i årene frem til 2022 næsten var blevet halveret. Prisstigningerne rammer især dem, der har haft samme abonnement i årevis. Nye kunder får introrabatter, mens trofaste kunder betaler fuld pris.</p>
+<p>Brugen stiger også. Danskerne brugte i gennemsnit 26,9 GB mobildata pr. abonnement om måneden i anden halvdel af 2024 – 20,8 % mere end året før<sup class="ref"><a href="#kilde-2">2</a></sup>. Når forbruget vokser, er det fristende at købe den største pakke "for en sikkerheds skyld". Det er netop her, mange betaler for meget.</p>
+<div class="stat-grid">
+<div class="stat"><b>+8,6 %</b><span>stigning i mobilpriser aug. 2025 – aug. 2026 (DST)</span></div>
+<div class="stat"><b>26,9 GB</b><span>gennemsnitligt dataforbrug pr. mobilabonnement pr. måned</span></div>
+<div class="stat"><b>{pris:lb-70} kr.</b><span>for fri tale og {gb:lb-70} hos Lebara – uden binding</span></div>
+<div class="stat"><b>0 kr.</b><span>koster det at flytte dit nummer til et nyt selskab</span></div>
+</div>
+
+<h2>1. Skift mobilabonnement – den hurtigste besparelse</h2>
+<p>Mobilabonnementet er det sted, hvor de fleste kan spare mest på kortest tid. Forskellen mellem premium- og lavprisselskaberne er stor, selv om mange af dem kører på præcis det samme mobilnet. YouSee tager {pris:ys-50} kr./md. for fri tale og {gb:ys-50}, mens Duka giver fri tale og {gb:dk-50} for {pris:dk-50} kr./md. Begge har 5G.</p>
+<div class="tbl"><table><thead><tr><th>Abonnement</th><th>Data</th><th>Pris/md.</th><th>Pris pr. år</th></tr></thead><tbody>
+<tr><td>{navn:ys-50}</td><td>{gb:ys-50}</td><td>{pris:ys-50} kr.</td><td>2.628 kr.</td></tr>
+<tr><td>{navn:tm-50}</td><td>{gb:tm-50}</td><td>{pris:tm-50} kr.</td><td>1.548 kr. første år ({introtekst:tm-50})</td></tr>
+<tr><td>{navn:dk-50}</td><td>{gb:dk-50}</td><td>{pris:dk-50} kr.</td><td>1.188 kr.</td></tr>
+<tr><td>{navn:fx-50}</td><td>{gb:fx-50}</td><td>{pris:fx-50} kr.</td><td>948 kr. første år ({introtekst:fx-50})</td></tr>
+<tr><td>{navn:lb-70}</td><td>{gb:lb-70}</td><td>{pris:lb-70} kr.</td><td>708 kr.</td></tr>
+</tbody></table></div>
+<p>Skifter én person fra YouSee 50 GB til Lebara 70 GB, sparer vedkommende 1.920 kr. om året og får samtidig mere data. Er I to voksne i husstanden, er besparelsen over 3.800 kr. Til gengæld kører Lebara på 4G, så har du en ny telefon og streamer meget, kan Flexii eller Duka med 5G være det bedre kompromis.</p>
+<p>Selve skiftet er nemt. Du bestiller det nye abonnement og vælger at beholde dit nummer, og ifølge teleloven skal nummeret flyttes senest ved udgangen af den næstfølgende arbejdsdag – uden betaling<sup class="ref"><a href="#kilde-3">3</a></sup>. Det nye selskab opsiger det gamle abonnement for dig. Se trin for trin i guiden til at <a href="/guides/skift-mobilabonnement/">skifte mobilabonnement</a>, eller find de laveste priser lige nu på <a href="/billigste-mobilabonnement/">billigste mobilabonnement</a>.</p>
+[[top3:fri-tale]]
+
+<h2>2. Betal kun for den data, du bruger</h2>
+<p>Den næststørste fejl er at købe for meget data. Kig i telefonens indstillinger under "Mobildata" (iPhone) eller "Dataforbrug" (Android) og find dit højeste forbrug de seneste tre måneder. Læg 20-30 % oveni, og rund op til nærmeste pakke. Bruger du 15 GB i en travl måned, er et abonnement med fri data spild af penge.</p>
+<p>Husk, at det meste af dit forbrug derhjemme sandsynligvis kører over wifi. Mobildata bruges især på farten: i bussen, på arbejdet og på ferie. Har du god wifi både hjemme og på arbejde, kan du ofte nøjes med en mindre pakke end du tror. Brug vores beregner til at regne dit behov ud:</p>
+[[vaerktoej:databeregner]]
+<p>Vil du dykke ned i tallene for Netflix, Spotify, YouTube og videoopkald, har vi samlet dem i guiden <a href="/guides/hvor-meget-data/">hvor meget data har jeg brug for</a>.</p>
+
+<h2>3. Sammenlign dit bredbånd hvert år</h2>
+<p>Bredbåndet er den anden store post. Ligesom med mobilen stiger prisen ofte stille og roligt, når en introrabat udløber, og mange har betalt samme pris for den samme forbindelse i flere år uden at tjekke, om der findes noget billigere eller hurtigere på adressen. Hvilke teknologier og selskaber du kan vælge imellem, afhænger helt af, hvor du bor: fiber, kabel-tv-net, DSL eller trådløst 5G-bredbånd.</p>
+<p>Tre ting er værd at holde øje med, når du sammenligner bredbånd:</p>
+<ul>
+<li><strong>Den reelle hastighed, du har brug for.</strong> En husstand, der streamer i HD på et par skærme ad gangen og arbejder hjemme, har sjældent brug for den allerhurtigste forbindelse. Betal ikke for 1.000 Mbit/s, hvis 300 Mbit/s rækker.</li>
+<li><strong>Prisen efter introperioden.</strong> Regn på 12 og 24 måneder. En lav pris de første måneder kan blive dyr, hvis normalprisen er høj.</li>
+<li><strong>Oprettelse, router og binding.</strong> Gebyrer for oprettelse og udstyr kan æde en stor del af besparelsen det første år. Tjek også, om der er binding.</li>
+</ul>
+<p>Hvis du vil spare penge, kan du <a
+href="https://mobiltbredbaand.dk/sammenlign-bredbaand/">sammenligne
+bredbånd her</a>.</p>
+<div class="callout"><p><strong>Tip:</strong> Tag et skærmbillede af din nuværende bredbåndsregning, inden du sammenligner. Så har du den præcise månedspris, hastighed og eventuelle tilvalg ved hånden, og kan se, om et nyt tilbud reelt er billigere.</p></div>
+
+<h2>4. Kan mobilen erstatte internetforbindelsen?</h2>
+<p>For nogle husstande kan et mobilabonnement med meget data erstatte en fast internetforbindelse helt – eller i hvert fald en ekstra forbindelse til et sommerhus eller en studielejlighed. Det gælder især, hvis du bor alene, ikke streamer på et stort tv hver aften, og har god 5G-dækning indendørs. Med en 5G-router og et datakort kan du få en forbindelse, der er hurtig nok til arbejde, video og streaming.</p>
+<p>Til sammenligning: Fri tale og {gb:dk-1000} koster {pris:dk-1000} kr./md. hos Duka, og fri data koster {pris:fx-fri} kr./md. hos Flexii ({introtekst:fx-fri}). Men vær opmærksom på, at nogle mobilabonnementer har vilkår, der begrænser brugen i en router, og at hastigheden afhænger af, hvor mange der bruger den samme mast. Tjek altid dækningen på din adresse på <a href="https://tjekditnet.dk">tjekditnet.dk</a><sup class="ref"><a href="#kilde-4">4</a></sup>, og læs vilkårene før du opsiger dit bredbånd. Læs mere i vores guide til <a href="/mobilt-bredbaand/">mobilt bredbånd</a>.</p>
+<div class="proscons"><div class="pros"><p class="pc-h">Fordele ved mobilt bredbånd</p><ul><li>Ingen installation og ingen tekniker</li><li>Kan tages med i sommerhus og på ferie</li><li>Ofte uden binding</li></ul></div><div class="cons"><p class="pc-h">Ulemper</p><ul><li>Hastigheden svinger med belastningen på nettet</li><li>Dårlig indendørs dækning kan give ustabil forbindelse</li><li>Ikke alle abonnementer må bruges i router</li></ul></div></div>
+
+<h2>5. Pas på pakkeløsninger og "samlerabatter"</h2>
+<p>Mange selskaber giver rabat, når du samler mobil, internet og tv hos dem. Det kan være en god aftale, men rabatten kan også gøre det sværere at se, hvad du betaler for hver del. Ofte er det billigere at vælge det billigste mobilabonnement og det billigste bredbånd hver for sig end at få en samlerabat på to dyrere produkter.</p>
+<p>Regn det sådan ud: Læg normalprisen for den samlede pakke sammen over 12 måneder, og sammenlign med summen af de billigste enkeltprodukter, der dækker dit behov. Et eksempel: Koster dit nuværende mobilabonnement {pris:ys-50} kr./md. med en samlerabat på 30 kr., betaler du stadig omkring 190 kr. om måneden for mobilen. Det er mere end dobbelt så meget som et lavprisabonnement med samme eller mere data.</p>
+<p>Samlerabatter giver mest mening, hvis du alligevel vil have premium-selskabets fordele, fx fysiske butikker, eller hvis rabatten er stor nok til, at den samlede pris faktisk er lavere. Se, hvordan selskaberne klarer sig på pris, net og service, i vores <a href="/udbydere/">sammenligning af mobiludbydere</a>.</p>
+
+<h2>6. Brug introtilbuddene – men planlæg exit</h2>
+<p>Introtilbud kan give en stor besparelse det første år, så længe du ved, hvornår prisen stiger. Lyca giver fri tale og {gb:ly-200} for {intro:ly-200} kr./md. i 6 måneder, og derefter koster abonnementet {pris:ly-200} kr. CBB giver {gb:cb-200} med fri tale for {intro:cb-200} kr./md. i 2 måneder, før prisen stiger til {pris:cb-200} kr.</p>
+<p>Fordi du som forbruger højst kan bindes i seks måneder<sup class="ref"><a href="#kilde-5">5</a></sup>, og alle selskaberne i vores sammenligning er uden binding, kan du skifte videre, når introperioden udløber. Sæt en påmindelse i kalenderen to uger før, og tjek vores side med <a href="/mobilabonnement-tilbud/">tilbud på mobilabonnement</a>. Det tager fem minutter, og det kan spare flere hundrede kroner om året.</p>
+[[simo:Sæt en påmindelse i kalenderen, samme dag som du bestiller et introtilbud. Så glemmer du ikke at tjekke prisen, før den stiger.]]
+
+<h2>7. Del data og vælg rigtigt til børnene</h2>
+<p>Har du børn, er det fristende at give dem det samme abonnement som dig selv. Men de fleste børn bruger mest wifi derhjemme og i skolen, og et lille abonnement er nok. Flexiis byg-selv-abonnement med fri tale og {gb:fx-k10} koster {pris:fx-k10} kr./md. ({introtekst:fx-k10}), og Greentel har et basisabonnement til {pris:gt-5} kr./md.</p>
+<p>For en familie på fire kan det samlet set betyde flere tusinde kroner om året at vælge det rigtige abonnement til hver person i stedet for et dyrt familieabonnement. Vi har regnet forskellige kombinationer igennem i guiden til <a href="/familieabonnement/">familieabonnement</a> og på siden om <a href="/mobilabonnement-boern/">mobilabonnement til børn</a>.</p>
+
+<h2>8. Tjek regningen for tilvalg, du ikke bruger</h2>
+<p>Til sidst: Kig regningerne igennem for småbeløb. Det kan være et gebyr for at betale via Betalingsservice, en forsikring på telefonen, et streamingtilvalg du har glemt, eller en ekstra SIM-kortpakke. Hver for sig er beløbene små, men tilsammen kan de løbe op i flere hundrede kroner om året.</p>
+<p>Husk også, at selskabet skal varsle prisstigninger mindst en måned før, og at du så kan opsige uden omkostninger<sup class="ref"><a href="#kilde-5">5</a></sup>. Får du en mail om, at prisen stiger, er det et oplagt tidspunkt at sammenligne igen. Udbyderne skal desuden mindst én gang om året oplyse dig om deres bedste tilbud til dig.</p>
+
+<h2>Regneeksempel: Så meget kan en familie spare</h2>
+<p>Lad os tage en husstand med to voksne og to børn, der i dag har fire abonnementer med fri tale og {gb:ys-50} hos YouSee til {pris:ys-50} kr./md. stykket. Det giver 876 kr. om måneden eller 10.512 kr. om året – kun til mobil.</p>
+<div class="tbl"><table><thead><tr><th>Person</th><th>Før</th><th>Efter</th><th>Ny pris/md.</th></tr></thead><tbody>
+<tr><td>Voksen 1 (meget data, 5G)</td><td>{navn:ys-50}</td><td>{navn:fx-150}</td><td>{pris:fx-150} kr.</td></tr>
+<tr><td>Voksen 2 (normal brug)</td><td>{navn:ys-50}</td><td>{navn:lb-70}</td><td>{pris:lb-70} kr.</td></tr>
+<tr><td>Barn 1 (teenager)</td><td>{navn:ys-50}</td><td>{navn:fx-20}</td><td>{pris:fx-20} kr.</td></tr>
+<tr><td>Barn 2 (første telefon)</td><td>{navn:ys-50}</td><td>{navn:fx-k10}</td><td>{pris:fx-k10} kr.</td></tr>
+<tr><td><strong>I alt pr. år</strong></td><td><strong>10.512 kr.</strong></td><td></td><td><strong>3.312 kr.</strong></td></tr>
+</tbody></table></div>
+<p>Familien sparer 7.200 kr. om året på mobilen alene – med normalpriser og uden at regne med introtilbud. Teenageren og den voksne med mest forbrug får oven i købet mere data end før. Lægger familien en sammenligning af bredbåndet oveni, kan den samlede besparelse blive endnu større.</p>
+[[vaerktoej:sparberegner]]
+
+<h2>Tjekliste: Sådan sparer du på mobil og internet</h2>
+<ol class="steps">
+<li><strong>Find dine regninger frem.</strong> Notér præcis, hvad du betaler for hver mobil, bredbånd og tilvalg.</li>
+<li><strong>Tjek dit dataforbrug.</strong> Se de seneste tre måneder i telefonens indstillinger.</li>
+<li><strong>Sammenlign mobilabonnementer.</strong> Vælg et selskab uden binding på et net med god dækning hos dig.</li>
+<li><strong>Sammenlign bredbånd.</strong> Regn på normalprisen over 12-24 måneder, inkl. oprettelse og router.</li>
+<li><strong>Overvej mobilt bredbånd.</strong> Især til sommerhus, studerende og singlehusstande med god 5G-dækning.</li>
+<li><strong>Sæt påmindelser.</strong> Skriv i kalenderen, hvornår introtilbud udløber.</li>
+<li><strong>Gentag én gang om året.</strong> Priserne ændrer sig hele tiden – det gør de bedste tilbud også.</li>
+</ol>
+<blockquote class="expert"><p>Det, jeg oftest ser, er familier, der har haft de samme abonnementer hos det samme selskab i fem-ti år. De betaler typisk dobbelt så meget som nødvendigt. En aften med regningerne foran sig er nok til at spare flere tusinde kroner – og nummerflytningen klarer selskaberne selv.</p><cite>Emil Rostgaard Clausen, redaktør</cite></blockquote>
+<p>Priserne i denne guide opdateres automatisk fra udbydernes egne prisdata. Læs, <a href="/metode/">hvordan vi sammenligner</a>.</p>
+===FAQ===
+Q: Hvordan sparer jeg mest på mobil og internet?
+A: Start med mobilabonnementet: skift til et lavprisselskab uden binding, og vælg kun den datamængde, du bruger. Sammenlign derefter bredbåndet på normalprisen over et helt år, inklusive oprettelse og router.
+Q: Er det billigere at have mobil og internet hos samme selskab?
+A: Ikke nødvendigvis. Samlerabatter kan være gode, men ofte er det billigste mobilabonnement og det billigste bredbånd hver for sig samlet billigere end en pakke. Regn summen over 12 måneder, før du vælger.
+Q: Kan jeg bruge mit mobilabonnement som internet derhjemme?
+A: Ja, med en 5G-router og et abonnement med meget data kan det fungere, især for enlige og i sommerhuse. Tjek dækningen på tjekditnet.dk og abonnementets vilkår, for ikke alle mobilabonnementer må bruges i en router.
+Q: Hvor ofte bør jeg sammenligne mit abonnement?
+A: Mindst én gang om året og altid, når et introtilbud udløber, eller når selskabet varsler en prisstigning. Ved prisstigninger kan du opsige uden omkostninger.
+Q: Koster det noget at skifte mobilselskab?
+A: Nej. Nummerflytning er gratis og sker senest ved udgangen af den næstfølgende arbejdsdag. Du betaler kun den løbende måned og det opsigelsesvarsel, der står i dine vilkår hos det gamle selskab.
+Q: Hvad er det billigste mobilabonnement med fri tale?
+A: Lebara giver fri tale og {gb:lb-70} for {pris:lb-70} kr./md. uden binding. Vil du have 5G, koster Flexii fri tale og {gb:fx-20} {pris:fx-20} kr./md. ({introtekst:fx-20}).
+===KILDER===
+Danmarks Statistik: Forbrugerprisindeks PRIS01 – mobilkommunikationstjenester | https://www.statistikbanken.dk/PRIS01
+Telestatistik – Hovedresultater 2. halvår 2024, Digitaliseringsstyrelsen | https://digst.dk/media/vt2epygl/hovedresultater-2h24.pdf
+Teleloven, LBK nr. 681 af 16/06/2025 | https://www.retsinformation.dk/eli/lta/2025/681
+Tjek dit net – Digitaliseringsstyrelsens dækningskort | https://tjekditnet.dk
+Slutbrugerbekendtgørelsen, BEK nr. 566 af 24/05/2023 | https://www.retsinformation.dk/eli/lta/2023/566
+Udbydernes egne prisdata og prissider, tjekket {tjekket} | https://telefonabonnementer.dk/metode/

@@ -308,7 +308,7 @@ MENU_TYPES = TYPES[:10]
 PSLUG = {"telmore": "telmore", "lebara": "lebara", "lyca": "lyca-mobile", "oister": "oister", "yousee": "yousee", "flexii": "flexii", "greentel": "greentel", "duka": "duka", "cbb": "cbb", "eesy": "eesy"}
 GUIDES = [("guides/skift-mobilabonnement", "Skift mobilabonnement"), ("guides/hvor-meget-data", "Hvor meget data skal jeg bruge?"),
           ("guides/bedste-mobilnet", "Bedste mobilnet i Danmark"), ("guides/opsig-mobilabonnement", "Opsig dit mobilabonnement"),
-          ("guides/mobilpriser-statistik", "Mobilpriser i tal (statistik)")]
+          ("guides/mobilpriser-statistik", "Mobilpriser i tal (statistik)"), ("guides/spar-paa-mobil-og-internet", "Spar på mobil og internet")]
 ABOUT = [("om-os", "Om os"), ("metode", "Sådan tester vi"), ("forfatter/emil-rostgaard-clausen", "Redaktør: Emil R. Clausen"),
          ("redaktionel-politik", "Redaktionel politik"), ("annoncoeroplysning", "Annoncøroplysning"), ("kontakt", "Kontakt")]
 
